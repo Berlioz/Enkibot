@@ -1,0 +1,4 @@
+Library:
+  Metadata:
+    next-node: ifrit
+    previous-nodes: ['bearaga']

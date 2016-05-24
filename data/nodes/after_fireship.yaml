@@ -1,0 +1,4 @@
+Sailing:
+  Metadata:
+    next-node: chocobo_forest
+    previous-nodes: ['byblos']

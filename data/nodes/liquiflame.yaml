@@ -1,0 +1,4 @@
+Liquiflame:
+  Metadata:
+    next-node: karnak_500
+    previous-nodes: ['fireship']

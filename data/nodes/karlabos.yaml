@@ -1,0 +1,4 @@
+karlabos:
+  Metadata:
+    next-node: ship_graveyard
+    previous-nodes: ["torna"]

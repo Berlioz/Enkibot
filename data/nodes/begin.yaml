@@ -1,0 +1,8 @@
+Wing Raptor:
+  Metadata:
+    next-node: torna
+    previous-nodes: ['']
+  Generic:
+    - '"Cloud, attack while its tail is up!"'
+  Blue-Mage:
+    - "Don't forget to learn Goblin Punch, Aero, Vampire, and Flash."

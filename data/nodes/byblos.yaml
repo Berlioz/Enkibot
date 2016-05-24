@@ -1,0 +1,4 @@
+Byblos:
+  Metadata:
+    next-node: after_fireship
+    previous-nodes: ['ifrit']

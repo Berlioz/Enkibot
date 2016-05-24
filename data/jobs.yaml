@@ -1,0 +1,78 @@
+# Classes and meta-tags
+# - Shield: class can equip aegis shield and also other things i guess
+# - Pierce-Def: class can penetrate high physical defense without relying on high-power weaponry
+# - Elemental: class has easy access to fire/ice/lightning, may consider istory rings if no healing
+# - Healing: class has easy access to things which are better than hi-potion spam
+# - Staff: class can equip Healing Staff/Power Staff
+# - Break-Rods: 750 blaze it
+# - Inflict-Confuse: class can confuse enemies; important to blue mages
+# - Inflict-Berserk: class can inflict berserk. Technically nice for omniscient????
+# - Heavyscammer: class has an easy way to abuse Death/Petrify before assassin knife
+# - Crown: class guarantees a triple crown regardless of party composition
+
+Jobs:
+  Knight:
+    - Shield
+  Monk:
+    - Pierce-Def
+  Thief:
+    - lol
+  Black-Mage:
+    - Break-Rods
+    - Elemental
+    - Heavyscammer
+  White-Mage:
+    - Healing
+    - Staff
+    - Inflict-Confuse
+    - Inflict-Berserk
+  Blue-Mage:
+    - Shield
+    - Break-Rods
+    - Heavyscammer
+    - Inflict-Berserk
+    - Healing
+  Mystic-Knight:
+    - Elemental
+    - Shield
+  Time-Mage:
+    - Staff
+    - Break-Rods
+  Summoner:
+    - Break-Rods
+    - Elemental
+    - Heavyscammer
+  Red-Mage:
+    - Break-Rods
+    - Staff
+    - Inflict-Confuse
+    - Healing
+  Berserker:
+    - Shield
+    - Heavyscammer
+    - Pierce-Def
+  Beastmaster:
+    - Crown
+    - Heavyscammer
+  Geomancer:
+    - lol
+  Ninja:
+    - Elemental
+  Bard:
+    - Crown
+  Ranger:
+    - Pierce-Def
+    - Elemental
+  Samurai:
+    - Shield
+    - Heavyscammer
+    - Pierce-Def
+  Dragoon:
+    - Shield
+  Dancer:
+    - Inflict-Confuse
+  Chemist:
+    - Healing
+    - Crown
+    - Staff
+    - Inflict-Berserk

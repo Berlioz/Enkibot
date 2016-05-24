@@ -1,0 +1,4 @@
+Garula:
+  Metadata:
+    next-node: tycoon_treasure
+    previous-nodes: ['walse_tower']

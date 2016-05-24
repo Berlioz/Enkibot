@@ -1,0 +1,4 @@
+Siren:
+  Metadata:
+    next-node: north_mountain
+    previous-nodes: ["ship_graveyard"]

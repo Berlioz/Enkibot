@@ -1,0 +1,4 @@
+Ifrit:
+  Metadata:
+    next-node: byblos
+    previous-nodes: ['library']

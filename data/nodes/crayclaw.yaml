@@ -1,0 +1,4 @@
+Crayclaw:
+  Metadata:
+    next-node: w1_after_flight
+    previous-nodes: ['chocobo_forest']

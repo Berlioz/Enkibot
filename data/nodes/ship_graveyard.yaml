@@ -1,0 +1,4 @@
+Ship Graveyard:
+  Metadata:
+    next-node: "siren"
+    previous-nodes: ['karlabos']

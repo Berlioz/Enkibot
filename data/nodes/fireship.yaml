@@ -1,0 +1,4 @@
+Fireship:
+  Metadata:
+    next-node: liquiflame
+    previous-nodes: ['tycoon_treasure']

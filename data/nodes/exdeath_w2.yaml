@@ -1,0 +1,35 @@
+W2 Exdeath:
+  Metadata:
+    next-node: end
+    previous-nodes: ["meatcastle"]
+  Generic:
+    - "32768 HP; phase transition at 16000 and 7000 HP remaining."
+    - "Classes without a strong way to cheese this fight should bring Reflect Rings, which...are no longer obtainable. Hmm. Hope you paid attention in the Barrier Tower!"
+    - "Do not go in with a level divisible by 3, unless you want to eat L3 Flares (they're non-elemental, so don't get cute with Flame Rings)."
+  White Mage:
+    - "Make sure you keep Protect/Armor up; Exdeath's Vaccum Wave physicals can be surprisingly nasty."
+    - "If you can't beat the last phase before Meteor wrecks your party, consider using Shell."
+    - "Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also Reflect Exdeath."
+  Blue Mage:
+    - "Level 2 Old totally works on this guy and totally neuters him, haha."
+    - "If you bothered getting Level 3 Flare, that's solid damage at this point. Otherwise just Aeroga spam."
+  Time Mage:
+    - "Do not use Slow. Exdeath will simply counter with Haste, which overwrites Slow instead of neutralizing it."
+    - "Do use Float on your party to avoid Earth Shaker; you can apply the status in a random encounter and still wear Reflect Rings."
+  Summoner:
+    - "Make sure you keep Golem up; Exdeath's Vaacum Wave physicals can be surprisingly nasty."
+  Beastmaster:
+    - "Releasing four Yellow Dragons (8192 damage each) will instantly kill Exdeath, if you're willing to go to the trouble."
+  Ninja:
+    - "Consider !Throwing your Excalipoor or Magishuriken to get past Exdeath's last 7000 HP, if Meteor is crushing you."
+  Bard:
+    - "Going Super Saiyan on Exdeath with bard songs is technically possible but tricky, unless you have a way around Condemn."
+  Chemist:
+    - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) blocks Condemn, allowing you to go Super Saiyan in peace if you feel like it."
+  Staff:
+    - "Staff-wielding parties can grind for Staff of Lights in Ghido's Cave; snapping them will allow you to do massive Holy damage to Exdeath."
+    - "If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring."
+  NOT Healing:
+    - "Players with weak healing options should consider reading Exdeath's AI script to understand when he will cast Zombie Breath, which can spell a wipe for parties at low HP when it's cast."
+  Shield:
+    - "Consider carefully what secondary loadout you give your Aegis Shield user; if things start going south they will likely be the one responsible for saving the fight with revives/healing."

@@ -1,0 +1,10 @@
+Post-Wind Shrine:
+  Metadata:
+    next-node: karlabos
+    previous-nodes: ['begin']
+  Generic:
+    - "Most classes will not need to purchase gear here to beat Karlabos, but it's cheap."
+  Beastmaster:
+    - "If you plan on using it against the Antlion, don't open the trapped chest in the Training House."
+  Bard:
+    - "There's a piano here."

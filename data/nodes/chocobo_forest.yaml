@@ -1,0 +1,4 @@
+Chocobo Forest:
+  Metadata:
+    next-node: crayclaw
+    previous-nodes: ['after_fireship']
