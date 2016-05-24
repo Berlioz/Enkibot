@@ -4,7 +4,20 @@ An adaptive walkthrough/checklist generator for a Four Job Fiesta, which only di
 ## Architecture
 The YAML files in /data/nodes define a very simple, mostly-linear state-machine. Each node contains hints for a certain part of FFV, some of which should be displayed only if the user has certain classes/combinations of classes. When building a walkthrough, the generator starts from the first node in the game (WingRaptor) and recursively expands nodes until it meets an 'end' node (NeoExdeath).
 
+## Use
+```
+load 'generator.rb'
+generator = Generator.new(['Knight', 'Red-Mage', 'Ranger', 'Chemist'])
+print generator.get_walkthrough
+```
+
+## Contributing
+Please help fill-out/fact-check the .yaml files which define the nodes. I don't actually know everything about FFV, so the more eyes the better.
+
 ## Node definitions
+```
+cat data/nodes/regole.yaml
+```
 ```yaml
 Regole Village:
   Metadata:
