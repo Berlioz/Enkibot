@@ -2,3 +2,25 @@ ArchaeoAvis:
   Metadata:
     next-node: purobolos
     previous-nodes: ['ronka']
+  Generic:
+    - "Has 5 forms with their own HP pool but shared MP pool."
+    - "F1: 1600 HP, weak to wind, high physical defense, inflicts Sap."
+    - "F2: 1600 HP, absorbs ice, not Heavy, inflicts poison."
+    - "F3: 1600 HP, absorbs fire, inflicts blind."
+    - "F4: 1600 HP, absorbs lightning, not Heavy, inflicts paralysis."
+    - "F5: 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm."
+    - "Magic-heavy teams may have to knife the last form to death painfully and slowly."
+  Time-Mage:
+    - "You can land Slows on problem forms, if you feel like it."
+  Blue-Mage:
+    - "Aerora the first form to death."
+    - "You can L5 Death the last form and the last form only, but that's the hard one anyway."
+    - "Hint: Death Claw will land on forms 2 and 4, so you only have to have an answer for F3."
+    - "God, blue mage is broken."
+  Geomancer:
+    - "The first form is, like, geomancer's one time to shine. Go for it!!!"
+  Summoner:
+    - "Chocobo, your time is now! (It does physical damage and therefore will work on form 5)."
+    - "Unless you're on iOS hahaha fuck you they 'fixed' that."
+  Beastmaster:
+    - "You can use Bearagas on the first and last form, which can otherwise give beastmaster parties trouble."

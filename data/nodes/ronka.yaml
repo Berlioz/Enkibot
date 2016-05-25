@@ -2,3 +2,16 @@ Ronka Ruins:
   Metadata:
     next-node: archaeoavis
     previous-nodes: ['soulcannon']
+  Generic:
+    - "Don't hit the speed trap!"
+  UNION Dancer Thief:
+    - "Dance + Thief parties should steal a Lamia's Tiara from Lamias here, which boosts Sword Dance's proc rate."
+  Blue-Mage:
+    - "If you missed it, the Enchanted Fan can teach you Aera."
+  UNION Beastmaster Blue-Mage:
+    - "A !Controlled enchanted fan will also teach you White Wind, which is KIND OF A BIG DEAL."
+    - "You can also learn 1000 Needles from !Controlled Lamias, which is pretty handy now or then."
+  UNION Beastmaster Inflict-Confuse:
+    - "You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad."
+  Blue-Mage`:
+    - "Frankly it's garbage and a pain in the ass to learn, but you can hunt down the Ghidra to learn Graviga at this point too."

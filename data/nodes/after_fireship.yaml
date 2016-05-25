@@ -2,3 +2,33 @@ Sailing:
   Metadata:
     next-node: chocobo_forest
     previous-nodes: ['byblos']
+  Generic:
+    - "There's a few useful things you can do now that you have the Fireship, before you progress the plot."
+    - "The random trash around Jachol is completely brutal, since you're not supposed to be there yet."
+    - "The stores in Jachol sell Mage Mashers, Coral Swords, katanas, bows, and the Ninja Suit."
+  Bard:
+    - "Bards can get the fourth Piano from Jachol, also."
+  Generic:
+    - "Black Mages, Summoners, and anyone with a use for the Istory rings can visit Istory at this point."
+    - "You can buy Angel Rings (block Old/Zombie) and elemental absorb rings for a cool 50K from Istory."
+  Black-Mage:
+    - "Black Mages can pick up the Toad spell from a NPC in the city."
+  Summoner:
+    - "Summoners can learn Ramuh from an encounter outside the city."
+  Thief:
+    - "Ramuh's common steal is a Hi-Potion and you won't get any other encounters outside Istory until you kill him."
+    - "You can steal Hi-Potions from him forever if you keep running from the fight."
+  Break-Rods:
+    - "Rod-having parties can also pull the legendary Dragondarch Manuever outside Istory, farming the tough Magic Dragons there for XP."
+  Berserker:
+    - "Berserker parties should swing by Crescent Island and farm up some Death Sickles from the Harvesters there."
+  INTERSECTION Summoner Ninja:
+    - "Parties with reliable AoE magic, like !Summon or thrown scrolls, can farm a small island north of Crescent for XP and AP."
+    - "The only encounter there is 3 or 5 black flames, which have high avoid but can be cleared instantly by any AoE magic."
+  Beastmaster:
+    - "If you're feeling up for it, !Control comedy will let you farm Prototypes on another island west of Crescent."
+    - "It's pretty good gil and xp/ap."
+  UNION Chemist Beastmaster:
+    - "...especially since you have a Chemist, who can find a real use for the Dark Matters that the Prototyles drop."
+  Bard`:
+    - "Bards should make sure they grab the fifth piano from Crescent, while we're at it."

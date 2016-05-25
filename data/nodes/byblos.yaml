@@ -2,3 +2,22 @@ Byblos:
   Metadata:
     next-node: after_fireship
     previous-nodes: ['ifrit']
+  Generic:
+    - "3600 HP, uses a variety of debilitating spells which make prolonged engagements almost unwinnable."
+    - "He also can cast Protect on himself and will counter attacks with Drain when low."
+    - "That combination makes the fight brutal on parties with only physical damage."
+  Break-Rods:
+    - "Happily, you can just snap a couple of Fire Rods over his head and call it a night."
+  Ninja:
+    - "I hope you got that Flame Scroll from LiquiFlame if you don't have a better strategy for doing this!"
+  Berserker:
+    - "Zerker-heavy teams can have trouble here, because they can trigger Byblos' counters at bad times."
+    - "If you have other powerful characters or a way to cheese the fight, consider coming in with your zerk blinded."
+  Summoner:
+    - "Cast your new Ifrit summon on him for some extra comedy."
+  Blue Mage:
+    - "Death Claw works on him, reducing him to single-digit HP immediately."
+    - "He's not Heavy ahahahahaha."
+    - "On the other hand, you probably want to learn Magic Hammer from him, which can be obnoxious as hell."
+  Beastmaster:
+    - "A released Page 32 from the library will cast Banish, which has a 33% chance of straight up killing Byblos."

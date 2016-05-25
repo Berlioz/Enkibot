@@ -2,3 +2,22 @@ Crayclaw:
   Metadata:
     next-node: w1_after_flight
     previous-nodes: ['chocobo_forest']
+  Generic:
+    - "2000 HP, uses various single-target attacks."
+    - "Signature combo is Tail Screwing someone who's under HP Leak, which will pretty much always kill them."
+    - "Basically any status effect will land on him, so it's easy to neuter his offense if you have to."
+    - "Low HP, but extremely high physical and magical defenses. Remember that elemental weaknesses (lightning) ignore MDEF."
+  Break-Rods:
+    - "Yes, this is another fight you can trivialize with a rod snap or two."
+  Elemental:
+    - "You can also simply blow him up with any other source of lightning damage."
+  INTERSECTION Knight Blue-Mage:
+    - "You have a class which can wield the Coral Swords from Jacole, if you're willing to make the detour."
+  Ninja:
+    - "You probably have some Thunder scrolls, since a common random encounter on the ocean drops them. Use 'em."
+  Ranger:
+    - "The Thunder Bow purchasable in Crescent Town will make quick work of him."
+  Pierce-Def:
+    - "Fists, katanas, x-fights, and other defense-piercing attacks will work if you have no other way through."
+  Thief:
+    - "You can steal a Coral Sword from him if one of your other characters can wield a sword."

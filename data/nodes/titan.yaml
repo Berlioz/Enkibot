@@ -2,3 +2,16 @@ Titan:
   Metadata:
     next-node: chimera
     previous-nodes: ['purobolos']
+  Generic:
+    - "2500 HP; main threat is the Earth Shakers he casts for powerful (480-540) all-target damage."
+    - "He casts Earth Shaker on death, so you need to have a way to not wipe to that."
+  INTERSECTION White-Mage Red-Mate:
+    - "WHM/RDM can cast Confuse on Gaelicats in the North Mountain to gain Float, which neatly evades Earth Shaker."
+  Chemist:
+    - "Here's your introduction to the brokenness of !Mix: Antidote + Maiden's Kiss = Levisalve."
+  Beastmaster:
+    - "Stopping Titan with !Calm right before you kill him will dodge the Earth Shaker, but the timing is tight."
+  Bard:
+    - "Stopping Titan with !Sing right before you kill him will dodge the Earth Shaker, but the timing is tight."
+  Generic`:
+    - "Failing any way to scam Earth Shaker, the only real alternative is to have enough HP to survive it."

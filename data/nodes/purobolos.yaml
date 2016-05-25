@@ -2,3 +2,20 @@ Purobolos:
   Metadata:
     next-node: titan
     previous-nodes: ['archaeoavis']
+  Generic:
+    - "1500 HP, cast Exploder when low, will cast Life2 to revive other puroboloses when killed."
+    - "Easiest way to handle this is brute force with powerful AOEs to kill them all at once."
+  Break-Rods:
+    - "Yup, that means rods."
+  NOT Break-Rods:
+    - "Otherwise, whittle them down one-by-one to make them Explode; they won't Life2 when they do this."
+  Samurai:
+    - "They're not heavy hahahaha you can just !Ianuki them repeatedly."
+  Beastmaster:
+    - "Beastmasters have it super-easy here: they can just !Control the bombs and have them Exploder each other."
+  White-Mage:
+    - "A Silenced Purobolos will not cast Life2 upon death."
+  Mystic-Knight:
+    - "A Silence Bladed Purobolos will not cast Life2 upon death."
+  Bard:
+    - "A Purobolos that's Stopped by !Sing will not cast Life2 upon death."

@@ -2,3 +2,8 @@ Chocobo Forest:
   Metadata:
     next-node: crayclaw
     previous-nodes: ['after_fireship']
+  Generic:
+    - "Pop by Rikks/Lix village now that you have black chocobo flight."
+    - "The item vendor there sells at half-price to you, making it a good place to stock up on ethers and phoenix downs."
+  Ninja:
+    - "Ninjas will also appreciate buyable elemental scrolls and shuriken."

@@ -2,3 +2,22 @@ Ifrit:
   Metadata:
     next-node: byblos
     previous-nodes: ['library']
+  Generic:
+    - "3000 HP, alternates between (Fira or Flame) and (Fight or Flame)"
+    - "20% chance to evade all physicals, which can make some runs annoying."
+  Break-Rods:
+    - "Snapping a couple of Frost Rods on him will put him down with minimal fuss."
+  INTERSECTION Black-Mage Red-Mage Summoner:
+    - "So will simply blasting away with Ice-elemental attacks, if you're feeling cheap."
+  Ninja:
+    - "Ifrit is weak to water in addition to ice, so here's a good place to use your water scroll."
+  Blue-Mage:
+    - "Aqua Rake is actually nonaspected damge, so it won't be super-effective here."
+    - "He is, however, vulnerable to Blind and Berserk, both of which you can inflict by now with !Blue."
+  White-Mage:
+    - "It's quite possible to land Silence on Ifrit, which cuts down on incoming damage significantly."
+    - "You can also berserk him, which could work out combined with back-row + protect spells."
+  Time-Mage:
+    - "Ifrit is vulnerable to Slow, which you can inflict at this point with your Time Mage."
+  Beastmaster:
+    - "Beastmasters can release Zus from the grassland outside Karnak, for a solid 750 damage each."

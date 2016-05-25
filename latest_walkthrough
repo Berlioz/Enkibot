@@ -1,4 +1,4 @@
-WARNING: unexpected node transition adamantoise => soulcannon## Wing Raptor
+## Wing Raptor
 * [Generic] "Cloud, attack while its tail is up!"
 * [Blue-Mage] Don't forget to learn Goblin Punch, Aero, Vampire, and Flash.
 
@@ -7,7 +7,7 @@ WARNING: unexpected node transition adamantoise => soulcannon## Wing Raptor
 * [Beastmaster] If you plan on releasing it against the Antlion, don't open the trapped chest in the Training House.
 * [Bard] There's a piano here, for parties with bards.
 
-## karlabos
+## Karlabos
 * [Generic] 650 HP; can inflict paralysis or lower a character to 1 HP. Basically the worst for solo games.
 * [Generic] Just Potion up after getting hit by Tail Screw and you'll be fine.
 * [Black-Mage] Black Mages can absolutely wreck him with Thunder, which he's weak to.
@@ -123,38 +123,172 @@ WARNING: unexpected node transition adamantoise => soulcannon## Wing Raptor
 * [Thief] If your offense is good, you can steal plenty of Elixirs from the Gigas enemies infesting this place.
 * [Generic] Try and get the Elven Mantle and Main Gauche; those are the best unconditional loot in here.
 * [Dancer] There's also a Ribbon! Get the Ribbon! You'll need it for your Dancer! It's rad!
-* [NOT Dancer] You could let the Ribbon burn _i guess_ if you're an idiot retard fucker who deserves nothing except endless geomancers and red mages...
+* [NOT Dancer] You could let the Ribbon burn _i guess_ if you're an idiot who deserves nothing except endless geomancers and red mages...
 * [Blue-Mage] You can learn Aerora from the Gigases here for your Blue Mage, though it won't be too long until you can get it again.
+* [White-Mage] White Mages should definitely not forget about the Esuna spell in a chest here; it'll be a while till you can rebuy it.
 * [Generic] You'll have to kill Iron Claw, a miniboss with 900 HP and some adds, before you exit the castle.
 * [Blue-Mage] He can teach you Death Claw, and you'd be well advised to try and get it here. It's lovely against anything that's not Heavy.
 * [Blue-Mage] Don't kill the sergeant before he transforms into Death Claw, if you do decide to do this.
 * [NOT Blue-Mage] Don't bother fighting it out. You can prevent him from spawning simply by killing the two dogs, then punching the sergeant until he runs.
 
 ## Library
+* [Generic] On the walk down, dodge the desert unless you want to fight the powerful Dhorme Chimera.
+* [Generic] Remember that you can heal for free in the Library by drinking from the pot on the second floor.
+* [Chemist] The turtles infesting the grasslands around here drop Turtle Shells; you're gonna want to farm 99 of them for your Chemist.
+* [Chemist] I know it sucks, but drain kiss is really really really good and you can basically run from everything else for the rest of the game.
+* [Blue-Mage] Your Blue Mage should learn Level 5 Death from Page 32s in the library; you'll obviously have to grind to 15 or 20 for this.
+* [Blue-Mage] You can also learn Moon Flute in here from Page 256s, but, uh, why?
+* [UNION Blue-Mage Beastmaster] !Control will also let you learn Off-Guard from the same Page 256; this spell is marginally more useful.
 
 ## Ifrit
+* [Generic] 3000 HP, alternates between (Fira or Flame) and (Fight or Flame)
+* [Generic] 20% chance to evade all physicals, which can make some runs annoying.
+* [Break-Rods] Snapping a couple of Frost Rods on him will put him down with minimal fuss.
+* [INTERSECTION Black-Mage Red-Mage Summoner] So will simply blasting away with Ice-elemental attacks, if you're feeling cheap.
+* [Ninja] Ifrit is weak to water in addition to ice, so here's a good place to use your water scroll.
+* [Blue-Mage] Aqua Rake is actually nonaspected damge, so it won't be super-effective here.
+* [Blue-Mage] He is, however, vulnerable to Blind and Berserk, both of which you can inflict by now with !Blue.
+* [White-Mage] It's quite possible to land Silence on Ifrit, which cuts down on incoming damage significantly.
+* [White-Mage] You can also berserk him, which could work out combined with back-row + protect spells.
+* [Time-Mage] Ifrit is vulnerable to Slow, which you can inflict at this point with your Time Mage.
+* [Beastmaster] Beastmasters can release Zus from the grassland outside Karnak, for a solid 750 damage each.
 
 ## Byblos
+* [Generic] 3600 HP, uses a variety of debilitating spells which make prolonged engagements almost unwinnable.
+* [Generic] He also can cast Protect on himself and will counter attacks with Drain when low.
+* [Generic] That combination makes the fight brutal on parties with only physical damage.
+* [Break-Rods] Happily, you can just snap a couple of Fire Rods over his head and call it a night.
+* [Ninja] I hope you got that Flame Scroll from LiquiFlame if you don't have a better strategy for doing this!
+* [Berserker] Zerker-heavy teams can have trouble here, because they can trigger Byblos' counters at bad times.
+* [Berserker] If you have other powerful characters or a way to cheese the fight, consider coming in with your zerk blinded.
+* [Summoner] Cast your new Ifrit summon on him for some extra comedy.
+* [Blue Mage] Death Claw works on him, reducing him to single-digit HP immediately.
+* [Blue Mage] He's not Heavy ahahahahaha.
+* [Blue Mage] On the other hand, you probably want to learn Magic Hammer from him, which can be obnoxious as hell.
+* [Beastmaster] A released Page 32 from the library will cast Banish, which has a 33% chance of straight up killing Byblos.
 
 ## Sailing
+* [Generic] Black Mages, Summoners, and anyone with a use for the Istory rings can visit Istory at this point.
+* [Generic] You can buy Angel Rings (block Old/Zombie) and elemental absorb rings for a cool 50K from Istory.
+* [Bard] Bards can get the fourth Piano from Jachol, also.
+* [Black-Mage] Black Mages can pick up the Toad spell from a NPC in the city.
+* [Summoner] Summoners can learn Ramuh from an encounter outside the city.
+* [Thief] Ramuh's common steal is a Hi-Potion and you won't get any other encounters outside Istory until you kill him.
+* [Thief] You can steal Hi-Potions from him forever if you keep running from the fight.
+* [Break-Rods] Rod-having parties can also pull the legendary Dragondarch Manuever outside Istory, farming the tough Magic Dragons there for XP.
+* [Berserker] Berserker parties should swing by Crescent Island and farm up some Death Sickles from the Harvesters there.
+* [INTERSECTION Summoner Ninja] Parties with reliable AoE magic, like !Summon or thrown scrolls, can farm a small island north of Crescent for XP and AP.
+* [INTERSECTION Summoner Ninja] The only encounter there is 3 or 5 black flames, which have high avoid but can be cleared instantly by any AoE magic.
+* [Beastmaster] If you're feeling up for it, !Control comedy will let you farm Prototypes on another island west of Crescent.
+* [Beastmaster] It's pretty good gil and xp/ap.
+* [UNION Chemist Beastmaster] ...especially since you have a Chemist, who can find a real use for the Dark Matters that the Prototyles drop.
+* [Bard] Bards should make sure they grab the fifth piano from Crescent, while we're at it.
 
 ## Chocobo Forest
+* [Generic] Pop by Rikks/Lix village now that you have black chocobo flight.
+* [Generic] The item vendor there sells at half-price to you, making it a good place to stock up on ethers and phoenix downs.
+* [Ninja] Ninjas will also appreciate buyable elemental scrolls and shuriken.
 
 ## Crayclaw
+* [Generic] 2000 HP, uses various single-target attacks.
+* [Generic] Signature combo is Tail Screwing someone who's under HP Leak, which will pretty much always kill them.
+* [Generic] Basically any status effect will land on him, so it's easy to neuter his offense if you have to.
+* [Generic] Low HP, but extremely high physical and magical defenses. Remember that elemental weaknesses (lightning) ignore MDEF.
+* [Break-Rods] Yes, this is another fight you can trivialize with a rod snap or two.
+* [Elemental] You can also simply blow him up with any other source of lightning damage.
+* [INTERSECTION Knight Blue-Mage] You have a class which can wield the Coral Swords from Jacole, if you're willing to make the detour.
+* [Ninja] You probably have some Thunder scrolls, since a common random encounter on the ocean drops them. Use 'em.
+* [Ranger] The Thunder Bow purchasable in Crescent Town will make quick work of him.
+* [Pierce-Def] Fists, katanas, x-fights, and other defense-piercing attacks will work if you have no other way through.
+* [Thief] You can steal a Coral Sword from him if one of your other characters can wield a sword.
 
 ## After Flight (world 1)
 
 ## Kyrosiris' Least Favorite Boss
+* [Generic] The Adamantoise has 2000 HP, good magic evade, and sky-high physical defenses.
+* [Generic] Has powerful physical attacks, which you'll want to scam with back-row + mitigation/status aliments.
+* [Generic] The hard part is simply managing to get damge on this guy.
+* [Break-Rods] Unless you can just snap a Frost Rod on him hahaha what's class balance?
+* [Generic] Any source of Ice damage will bypass his defenses.
+* [Ranger] Like, say, the Ice Bow you can buy in Crescent Town.
+* [Blue-Mage] You can one-shot him instantly with Level 5 Death from your Blue Mage.
+* [Beastmaster] He's not Heavy, so a Banish from a released Bandersnatch (near Walse) will have a 50/50 chance of killing him.
+* [Berserker] He's not Heavy, so a proc'd Death spell from a Death Sickle axe hit will eventually get him.
+* [Monk] Monk fist criticals will break through his physical defense. Eventually.
+* [White-Mage] Blind is a godsend in this fight if you have to plink him down.
+* [White-Mage] TECHNICALLY you can berserk or silence him too but...why?
+* [Generic] The Something Awful Forusm >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards
 
 ## Soulcannon
+* [Generic] 12500 HP; charges up and then casts Surge Beam (casts get faster over time)
+* [Generic] Surge beam deals 50% of the party's max HP and inflicts HP Leak.
+* [Generic] The real danger is the Launchers: 4 of 'em, 800 effective HP, can inflict Old.
+* [Generic] Try to kill the launchers fast with lightning damage to avoid having your whole party slowed into uselessness.
+* [Break-Rods] hahaha you have rods just snap a Thunder Rod and kill all the launchers instantly.
+* [Summoner] Or just cast Ramuh, whatever.
+* [Ninja] Thunder scrolls work especially well.
+* [White-Mage] Parties with !white can get through this slowly by Esunaing the Olds and healing through Surge Beams.
+* [NOT White-Mage] If your offense is slow, you may as a last resort buy Angel Rings from Istory at 50k each; they prevent Old.
+* [Time-Mage] Stop from a Time Mage will work on the Launchers, if for some reason you're allergic to rod abuse.
+* [Bard] This is a surprisngly funny fight for Bards, since they can Stop the Launchers all at once and Hide from the Surge Beams.
+* [Beastmaster] There are several AoE releases--the good 'ol Breath Wing from Zus near Karnak come to mind--that can be used to kill Launchers.
+* [Beastmaster] Alternatively, you may be able to rush the Soulcannon down with four Bearagas (~9k damage) plus some chip.
+* [Generic] All damage in this fight is % based, so armor does nothing. Consider unequipping it for speed.
 
 ## Ronka Ruins
+* [Generic] Don't hit the speed trap!
+* [UNION Dancer Thief] Dance + Thief parties should steal a Lamia's Tiara from Lamias here, which boosts Sword Dance's proc rate.
+* [Blue-Mage] If you missed it, the Enchanted Fan can teach you Aera.
+* [UNION Beastmaster Blue-Mage] A !Controlled enchanted fan will also teach you White Wind, which is KIND OF A BIG DEAL.
+* [UNION Beastmaster Blue-Mage] You can also learn 1000 Needles from !Controlled Lamias, which is pretty handy now or then.
+* [UNION Beastmaster Inflict-Confuse] You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad.
+* [Blue-Mage] Frankly it's garbage and a pain in the ass to learn, but you can hunt down the Ghidra to learn Graviga at this point too.
 
 ## ArchaeoAvis
+* [Generic] Has 5 forms with their own HP pool but shared MP pool.
+* [Generic] F1: 1600 HP, weak to wind, high physical defense, inflicts Sap.
+* [Generic] F2: 1600 HP, absorbs ice, not Heavy, inflicts poison.
+* [Generic] F3: 1600 HP, absorbs fire, inflicts blind.
+* [Generic] F4: 1600 HP, absorbs lightning, not Heavy, inflicts paralysis.
+* [Generic] F5: 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm.
+* [Generic] Magic-heavy teams may have to knife the last form to death painfully and slowly.
+* [Time-Mage] You can land Slows on problem forms, if you feel like it.
+* [Blue-Mage] Aerora the first form to death.
+* [Blue-Mage] You can L5 Death the last form and the last form only, but that's the hard one anyway.
+* [Blue-Mage] Hint: Death Claw will land on forms 2 and 4, so you only have to have an answer for F3.
+* [Blue-Mage] God, blue mage is broken.
+* [Geomancer] The first form is, like, geomancer's one time to shine. Go for it!!!
+* [Summoner] Chocobo, your time is now! (It does physical damage and therefore will work on form 5).
+* [Summoner] Unless you're on iOS hahaha fuck you they 'fixed' that.
+* [Beastmaster] You can use Bearagas on the first and last form, which can otherwise give beastmaster parties trouble.
 
 ## Purobolos
+* [Generic] 1500 HP, cast Exploder when low, will cast Life2 to revive other puroboloses when killed.
+* [Generic] Easiest way to handle this is brute force with powerful AOEs to kill them all at once.
+* [Break-Rods] Yup, that means rods.
+* [NOT Break-Rods] Otherwise, whittle them down one-by-one to make them Explode; they won't Life2 when they do this.
+* [Samurai] They're not heavy hahahaha you can just !Ianuki them repeatedly.
+* [Beastmaster] Beastmasters have it super-easy here: they can just !Control the bombs and have them Exploder each other.
+* [White-Mage] A Silenced Purobolos will not cast Life2 upon death.
+* [Mystic-Knight] A Silence Bladed Purobolos will not cast Life2 upon death.
+* [Bard] A Purobolos that's Stopped by !Sing will not cast Life2 upon death.
 
 ## Titan
+* [Generic] 2500 HP; main threat is the Earth Shakers he casts for powerful (480-540) all-target damage.
+* [Generic] He casts Earth Shaker on death, so you need to have a way to not wipe to that.
+* [INTERSECTION White-Mage Red-Mate] WHM/RDM can cast Confuse on Gaelicats in the North Mountain to gain Float, which neatly evades Earth Shaker.
+* [Chemist] Here's your introduction to the brokenness of !Mix: Antidote + Maiden's Kiss = Levisalve.
+* [Beastmaster] Stopping Titan with !Calm right before you kill him will dodge the Earth Shaker, but the timing is tight.
+* [Bard] Stopping Titan with !Sing right before you kill him will dodge the Earth Shaker, but the timing is tight.
+* [Generic] Failing any way to scam Earth Shaker, the only real alternative is to have enough HP to survive it.
 
 ## Chimera
+* [Generic] 3300 HP, not Heavy (laffo), alternates between (Fight or AquaRake) and (Blaze or AquaRake).
+* [Generic] Basically any dirty trick will work on him, between his 0% M-evd, lack of Heavy, and status vulnerabilities.
+* [Beastmaster] Bandersnatches from near Walse will cast Banish, which will 50/50 instant kill him.
+* [Berserker] Death Sickles' doom proc will work on him. Berserker's a good class, I swear!
+* [Blue-Mage] Blue Mages have so many ways to cheese this fight it's not even funny.
+* [Samurai] Ianuki technically works on this guy, but how the hell did you master Samurai already?
+* [Time-Mage] Time Mages can totally shut him down between Stop and Slow.
+* [Bard] Bards can stoplock him easily.
 
