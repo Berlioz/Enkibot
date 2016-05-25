@@ -1,7 +1,7 @@
 Sandworm (Zerkersbane):
   Metadata:
     next-node: bearaga
-    previous-nodes: ['karnak_500']
+    previous-nodes: ['chocobo_forest']
   Generic:
     - "3000 HP, can use Fight or Quicksand (~50 party damage and HP Sap)."
     - "Attacking the wrong hole triggers a counterattack."

@@ -1,4 +1,4 @@
-WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpected node transition bearaga => crayclawWARNING: unexpected node transition chimera => galuf_castle## Wing Raptor
+## Wing Raptor
 * [Generic] "Cloud, attack while its tail is up!"
 * [Blue-Mage] Don't forget to learn Goblin Punch, Aero, Vampire, and Flash.
 
@@ -117,6 +117,7 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 
 ## The Karnak 500
 * [Generic] You have 10:00 to get as much loot out of the Karnak 500 as possible.
+* [Generic] (Karnak 1000 just doesn't roll off the tongue as easily)
 * [Generic] Have your jobs and abilities set immediately after you kill liquiflame; the Karnak 500 continues ticking in menu.
 * [Generic] It's best to look up a map if this is your first time. There's a decent one on GameFAQs.
 * [Knight] RUN RUN RUN run. No, the Brave Blade ain't worth it. Never take the Brave Blade.
@@ -265,6 +266,7 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Generic] F4: 1600 HP, absorbs lightning, not Heavy, inflicts paralysis.
 * [Generic] F5: 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm.
 * [Generic] Magic-heavy teams may have to knife the last form to death painfully and slowly.
+* [Monk] If you can kill a form with Counter, it skips the trigger that causes the next form to spawn.
 * [Time-Mage] You can land Slows on problem forms, if you feel like it.
 * [Blue-Mage] Aerora the first form to death.
 * [Blue-Mage] You can L5 Death the last form and the last form only, but that's the hard one anyway.
@@ -314,7 +316,17 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Generic] foo
 
 ## bridgeamesh
-* [Generic] foo
+* [Generic] 6500 HP, goes super saiyan by casting haste+armor+shell at 2500 and starts spamming jump.
+* [Generic] This fight is much, much easier if you can prevent the buffs from being cast.
+* [White-Mage] You could also just Berserk him, though now you have a faster stronger Gilgamesh to deal with anyway.
+* [White-Mage] Protect will also make it possible to just slug it out against boosted Gilgamesh.
+* [Time-Mage] Silencing Gilgamesh before you push him below 2500 will work, only in the SNES version.
+* [Time-Mage] A better plan is probably just to get Slow to stick to him.
+* [Blue-Mage] Blue Mages can Magic Hammer their way through Gil's 1000 MP before phasing him, causing the buffs to fail.
+* [Chemist] Chemists can mix up Lamia's Kiss and Dark Ethers to effortlessly drain Gil's 1000 MP before phasing him, causing the buffs to fail.
+* [Beastmaster] Beastmasters can simply blast through him, if you thought to save some Bearagas from World 1.
+* [Generic] In the SNES version only, you can try getting lucky with a Mage Masher as you push Gil below 2500.
+* [Generic] Otherwise, most parties can simply win a DPS race against boosted Gil, if you're careful about when you push him.
 
 ## lugor
 * [Generic] foo
@@ -329,13 +341,34 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Generic] foo
 
 ## boatamesh
-* [Generic] foo
+* [Generic] 8888 HP, mixes up physicals with Missile and Death Claw. Summons Enkidu at 4000.
+* [Generic] Enkidu has 4000 HP and uses various blue magic, including the completely infuriating White Wind.
+* [Generic] Kill Enkidu first, but watch out for his ability to Vampire for obscene damage when you do.
+* [Blue-Mage] Gil's level 31 and not Heavy. Dark Shock + L5 Death ends this fight instantly.
+* [Chemist] MP draining Gil won't stop him from summoning Enkidu, but it will shut down his offensive casting.
+* [INTERSECTION Time-Mage White-Mage] Silence from a Time Mage or White Mage will shut down Gil's offense, but Blue Magic can't be silenced.
+* [Mystic-Knight] Mystic Knights can nail Gil with a Silence sword 
+* [White-Mage] If Berserked by a White Mage, Gil won't summon Enkidu.
+* [Thief] Make sure to steal a Genji Glove from Gil, if you have anyone who can equip heavy armor.
+* [Beastmaster] You can !Control Enkidu lol. WhiteWind the party or just have him Hurricane himself.
+* [Heavyscammer] Enkidu has no immunity to instant death, stuff like !Ianuki, Death Potions, Death Sickles will work on him.
 
 ## shield_generator
 * [Generic] foo
 
 ## atomos
-* [Generic] foo
+* [Generic] 19997 HP, spams comet until someone dies then starts sucking them in.
+* [Generic] Just come in with someone dead so you can at least choose who you have down.
+* [Generic] Revive them right before they get eaten and let Atomos kill someone else to buy more DPS uptime.
+* [INTERSECTION White-Mage Chemist] !White or !Mix are the two defensive abilities good enough to possibly let you just tank comets.
+* [INTERSECTION White-Mage Chemist] Wouldn't really try it though, unless you have no better plan.
+* [Blue-Mage] Dark Shock + Level 5 Death.
+* [Blue-Mage] Yup.
+* [INTERSECTION Black-Mage Mystic-Knight] Sleep (and Sleep Sword) inflict the only aliment that Atomos is weak to.
+* [INTERSECTION Black-Mage Mystic-Knight] Once you have him sleeping, you can just kill him without waking him up with magic or !Minezuchi or something.
+* [INTERSECTION Red-Mage Knight] You have a class that can equip swords, which means you can Slumber Sword Atomos if you have to.
+* [INTERSECTION Red-Mage Knight] Once you have him sleeping, you can just kill him without waking him up with magic or !Minezuchi or something.
+* [Generic] Most parties without access to a dirty trick can simply win a DPS race against Atomos.
 
 ## ghidos_cave
 * [Generic] foo
@@ -344,9 +377,22 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Generic] foo
 
 ## seal_crystals
-* [Generic] foo
+* [Generic] 7777 HP each, not Heavy, virtually immune to %M-EVD subject spells.
+* [Generic] Each crystal casts a spell at <3000 HP: top Fire3, left Aero3, bottom Earthshaker, right Aqua Rake.
+* [Generic] Each crystal also absorbs attacks of its element.
+* [Generic] In general, avoid all-target attacks unless you think you can end the fight in one cycle of casts (cough giltoss).
+* [Heavyscammer] None of these are immune to instant death. Your party can simply pick off one at a time that way.
+* [Generic] Parties with reasonable offenses can simply get a crystal close to 3000 HP and try to kill it quickly.
+* [White-Mage] Shelling the party gives you a lot more room to work with here, as a White Mage.
+* [Generic] Extremely low-offense parties can equip Flame Rings from Istory back in W1, if they planned ahead for it.
+* [Generic] Being able to absorb the top crystal's Fire3 allows you to pick off individual crystals without worrying about healing.
+* [Generic] You can also get fire absorb by letting the Aegis shield burn, if you forgot to get Fire Rings or are otherwise an idiot.
+* [Generic] Seriously, don't do it.
 
 ## meatcastle
+* [Generic] foo
+
+## scrubamesh
 * [Generic] foo
 
 ## W2 Exdeath
@@ -383,7 +429,22 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Generic] foo
 
 ## sealed_castle
-* [Generic] foo
+* [Generic] You'll have the choice of 3 legendary weapons at first in the Sealed Castle, plus 3 more per tablet.
+* [Generic] The Assassin's Dagger is the only really multiclass one, but it's real good (bring it to cheese twintania).
+* [Knight] Excalibur has the highest Power of any easily obtainable weapon and is Holy elemental. No-brainer for Knights.
+* [Ninja] The Hardened Dagger is really good, especially as a main-hand for Chicken Knife dualwielding.
+* [Dragoon] The Holy Lance is a solid option for your dragoon, though dragoon is kind of a falling-off class at this point.
+* [Berserker] The Rune Axe is kind of a mediocre choice for your Zerker...unless you have a magic-using seconary ability.
+* [Samurai] Masamune is dumb dumb dumb. Guaranteed initiative + use item for haste. Especially funny with !Flee or !Smoke. Get it.
+* [Ranger] Yoichi's Bow's selling point is the defense ignoring proc, but...aren't you using !x-fight?
+* [Ranger] In fact, aren't you just using the chicken knife with it?
+* [Bard] Apollo's harp is kind of niche, but it's not a bad choice for your third tablet if you have no better options.
+* [UNION Bard Chemist] Chemists have the ability to turn things into dragons so Apollo's Harp can wreck them, which is at least funny if not practical.
+* [Break-Rods] Any rod-using class can equip the Wizard Rog, but it's best on Black/Red Mages because of its omni-elemental boosts.
+* [Break-Rods] (Summoners prefer the Air Lancet to boost Syldra).
+* [Staff] Very few staff-using classes have a use for the Sage's Staff, frankly.
+* [Beastmaster] The Firebute is basically garbage.
+* [Geomancer] The Gaia Bell is actually garbage.
 
 ## airship_w3
 * [Generic] foo
@@ -449,8 +510,36 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Generic] foo
 
 ## tree_exdeath
-* [Generic] foo
+* [Generic] 49001 HP. Starts with regular attacks and White Hole (petrify+death).
+* [Generic] Adds Holy and Condemn below 30000, then Meteo below 10000. Rush that last 10K HP, Meteo hurts.
+* [Generic] Spawns Neo-Exdeath after going down.
+* [Bard] This fight continues into NED, so Bards can use the time to go capped-stats Super Saiyan now.
+* [Chemist] Yes, yes, on the SNES you can Kiss of Blessing to stop NED from spawning and thus skip the final boss. Gold star. Don't.
+* [Chemist] This fight continues into NED, so Chemists can use the time to go immune-to-everything-level-255 Super Saiyan now.
+* [Shield] Aegis Shield blocks White Hole completely, so have it on your most indispensible character.
+* [White-Mage] Have Shell and Protect on the party going into Exdeath.
+* [Blue-Mage] Mighty Guard. Mightguardmightyguardmightyguard. You can even facetank Meteos with it.
+* [Ninja] Now would probably be a good time to chuck all those legendary weapons, if you're having trouble burning the last 10K HP.
 
 ## ned
-* [Generic] foo
+* [Generic] Image guide: http://i.imgur.com/FphWf.gif
+* [Generic] High level strategy overview follows:
+* [Generic] Biggest threats are: Grand Cross (random aliments), Almagest (~1700 HP all-targets), enrage (last part spams super attacks 2x/turn)
+* [Generic] Grand Cross is mitigatable with Hermes Sandals/Ribbon and luck. Most parties will kill Grand Cross first to lower the number of dice rolls.
+* [Generic] Almagest is a HP check. Unless you have extreme damage output and rush it first, you will need the HP (or Shell) to survive it.
+* [Generic] You can skip enrage either by counting HP and killing the last 2 parts at the same time.
+* [Generic] ...or you can save the bottom, non-Heavy part for last and then gib it with a Magic Lamp Odin.
+* [Break-Rods] Even without !white, you get one free Shell casting from the Wonder Wand, if you have it.
+* [Mystic-Knight] Congratulations! Your Mystic Knight don't care about almagest.
+* [Mystic-Knight] Break Blade will knock out the part that casts it with 100% accuracy.
+* [Thief] Remember that weapons you steal off of NED's parts can be equipped mid-battle.
+* [UNION Thief Ninja] ...or thrown, with your Ninja.
+* [Beastmaster] Beastmasters can release a Dragon Aevis for a 9999-all-target Breath Wing. 4 of them will get NED's parts real low.
+* [Beastmaster] You can also release a Crystelle for Mighty Guard to trivialize Almagest, but catching one's a horrible pain.
+* [Blue-Mage] Mighty Guard and White Wind allow you to win stand-up brawls against NED with little fuss.
+* [Blue-Mage] Or you could abuse Dark Spark and L5 Death, but honestly I'd go with the first idea.
+* [Dragoon] The Dragon Lance is super-effective vs. the Grand Cross part, if you're burning that one first.
+* [Bard] Apollo's Harp will do massive damage vs. the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway.
+* [Summoner] An actual !summoned Odin will not work on the bottom part!
+* [Summoner] Hardcasted Odins will use Gungnir if any enemy on the field is Heavy.
 

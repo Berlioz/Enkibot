@@ -5,4 +5,32 @@ ned:
     previous-nodes:
     - tree_exdeath
   Generic:
-  - foo
+  - "Image guide: http://i.imgur.com/FphWf.gif"
+  - "High level strategy overview follows:"
+  - "Biggest threats are: Grand Cross (random aliments), Almagest (~1700 HP all-targets), enrage (last part spams super attacks 2x/turn)"
+  - "Grand Cross is mitigatable with Hermes Sandals/Ribbon and luck. Most parties will kill Grand Cross first to lower the number of dice rolls."
+  - "Almagest is a HP check. Unless you have extreme damage output and rush it first, you will need the HP (or Shell) to survive it."
+  - "You can skip enrage either by counting HP and killing the last 2 parts at the same time."
+  - "...or you can save the bottom, non-Heavy part for last and then gib it with a Magic Lamp Odin."
+  Break-Rods:
+  - "Even without !white, you get one free Shell casting from the Wonder Wand, if you have it."
+  Mystic-Knight:
+  - "Congratulations! Your Mystic Knight don't care about almagest."
+  - "Break Blade will knock out the part that casts it with 100% accuracy."
+  Thief:
+  - "Remember that weapons you steal off of NED's parts can be equipped mid-battle."
+  UNION Thief Ninja:
+  - "...or thrown, with your Ninja."
+  Beastmaster:
+  - "Beastmasters can release a Dragon Aevis for a 9999-all-target Breath Wing. 4 of them will get NED's parts real low."
+  - "You can also release a Crystelle for Mighty Guard to trivialize Almagest, but catching one's a horrible pain."
+  Blue-Mage:
+  - "Mighty Guard and White Wind allow you to win stand-up brawls against NED with little fuss."
+  - "Or you could abuse Dark Spark and L5 Death, but honestly I'd go with the first idea."
+  Dragoon:
+  - "The Dragon Lance is super-effective vs. the Grand Cross part, if you're burning that one first."
+  Bard:
+  - "Apollo's Harp will do massive damage vs. the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway."
+  Summoner:
+  - "An actual !summoned Odin will not work on the bottom part!"
+  - "Hardcasted Odins will use Gungnir if any enemy on the field is Heavy."

@@ -10,6 +10,8 @@ ArchaeoAvis:
     - "F4: 1600 HP, absorbs lightning, not Heavy, inflicts paralysis."
     - "F5: 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm."
     - "Magic-heavy teams may have to knife the last form to death painfully and slowly."
+  Monk:
+    - "If you can kill a form with Counter, it skips the trigger that causes the next form to spawn."
   Time-Mage:
     - "You can land Slows on problem forms, if you feel like it."
   Blue-Mage:

@@ -5,4 +5,22 @@ boatamesh:
     previous-nodes:
     - surgate
   Generic:
-  - foo
+  - "8888 HP, mixes up physicals with Missile and Death Claw. Summons Enkidu at 4000."
+  - "Enkidu has 4000 HP and uses various blue magic, including the completely infuriating White Wind."
+  - "Kill Enkidu first, but watch out for his ability to Vampire for obscene damage when you do."
+  Blue-Mage:
+  - "Gil's level 31 and not Heavy. Dark Shock + L5 Death ends this fight instantly."
+  Chemist:
+  - "MP draining Gil won't stop him from summoning Enkidu, but it will shut down his offensive casting."
+  INTERSECTION Time-Mage White-Mage:
+  - "Silence from a Time Mage or White Mage will shut down Gil's offense, but Blue Magic can't be silenced."
+  Mystic-Knight:
+  - "Mystic Knights can nail Gil with a Silence sword "
+  White-Mage:
+  - "If Berserked by a White Mage, Gil won't summon Enkidu."
+  Thief:
+  - "Make sure to steal a Genji Glove from Gil, if you have anyone who can equip heavy armor."
+  Beastmaster:
+  - "You can !Control Enkidu lol. WhiteWind the party or just have him Hurricane himself."
+  Heavyscammer:
+  - "Enkidu has no immunity to instant death, stuff like !Ianuki, Death Potions, Death Sickles will work on him."

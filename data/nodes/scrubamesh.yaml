@@ -1,8 +1,8 @@
 ---
-galuf_castle:
+scrubamesh:
   Metadata:
-    next-node: galufamesh
+    next-node: exdeath_w2
     previous-nodes:
-    - chimera
+    - meatcastle
   Generic:
   - foo

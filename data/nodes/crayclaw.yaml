@@ -1,7 +1,7 @@
 Crayclaw:
   Metadata:
     next-node: adamantoise
-    previous-nodes: ['chocobo_forest']
+    previous-nodes: ['bearaga']
   Generic:
     - "2000 HP, uses various single-target attacks."
     - "Signature combo is Tail Screwing someone who's under HP Leak, which will pretty much always kill them."

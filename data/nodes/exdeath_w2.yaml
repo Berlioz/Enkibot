@@ -1,7 +1,7 @@
 W2 Exdeath:
   Metadata:
     next-node: antlion
-    previous-nodes: ["meatcastle"]
+    previous-nodes: ["scrubamesh"]
   Generic:
     - "32768 HP; phase transition at 16000 and 7000 HP remaining."
     - "Classes without a strong way to cheese this fight should bring Reflect Rings, which...are no longer obtainable. Hmm. Hope you paid attention in the Barrier Tower!"

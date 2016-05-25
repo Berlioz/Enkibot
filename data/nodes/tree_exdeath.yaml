@@ -5,4 +5,19 @@ tree_exdeath:
     previous-nodes:
     - necrophobe
   Generic:
-  - foo
+  - "49001 HP. Starts with regular attacks and White Hole (petrify+death)."
+  - "Adds Holy and Condemn below 30000, then Meteo below 10000. Rush that last 10K HP, Meteo hurts."
+  - "Spawns Neo-Exdeath after going down."
+  Bard:
+  - "This fight continues into NED, so Bards can use the time to go capped-stats Super Saiyan now."
+  Chemist:
+  - "Yes, yes, on the SNES you can Kiss of Blessing to stop NED from spawning and thus skip the final boss. Gold star. Don't."
+  - "This fight continues into NED, so Chemists can use the time to go immune-to-everything-level-255 Super Saiyan now."
+  Shield:
+  - "Aegis Shield blocks White Hole completely, so have it on your most indispensible character."
+  White-Mage:
+  - "Have Shell and Protect on the party going into Exdeath."
+  Blue-Mage:
+  - "Mighty Guard. Mightguardmightyguardmightyguard. You can even facetank Meteos with it."
+  Ninja:
+  - "Now would probably be a good time to chuck all those legendary weapons, if you're having trouble burning the last 10K HP."

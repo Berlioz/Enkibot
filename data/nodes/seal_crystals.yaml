@@ -5,4 +5,18 @@ seal_crystals:
     previous-nodes:
     - moore
   Generic:
-  - foo
+  - "7777 HP each, not Heavy, virtually immune to %M-EVD subject spells."
+  - "Each crystal casts a spell at <3000 HP: top Fire3, left Aero3, bottom Earthshaker, right Aqua Rake."
+  - "Each crystal also absorbs attacks of its element."
+  - "In general, avoid all-target attacks unless you think you can end the fight in one cycle of casts (cough giltoss)."
+  Heavyscammer:
+  - "None of these are immune to instant death. Your party can simply pick off one at a time that way."
+  Generic`:
+  - "Parties with reasonable offenses can simply get a crystal close to 3000 HP and try to kill it quickly."
+  White-Mage:
+  - "Shelling the party gives you a lot more room to work with here, as a White Mage."
+  Generic``:
+  - "Extremely low-offense parties can equip Flame Rings from Istory back in W1, if they planned ahead for it."
+  - "Being able to absorb the top crystal's Fire3 allows you to pick off individual crystals without worrying about healing."
+  - "You can also get fire absorb by letting the Aegis shield burn, if you forgot to get Fire Rings or are otherwise an idiot."
+  - "Seriously, don't do it."

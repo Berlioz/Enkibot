@@ -5,4 +5,20 @@ atomos:
     previous-nodes:
     - shield_generator
   Generic:
-  - foo
+  - "19997 HP, spams comet until someone dies then starts sucking them in."
+  - "Just come in with someone dead so you can at least choose who you have down."
+  - "Revive them right before they get eaten and let Atomos kill someone else to buy more DPS uptime."
+  INTERSECTION White-Mage Chemist:
+  - "!White or !Mix are the two defensive abilities good enough to possibly let you just tank comets."
+  - "Wouldn't really try it though, unless you have no better plan."
+  Blue-Mage:
+  - "Dark Shock + Level 5 Death."
+  - "Yup."
+  INTERSECTION Black-Mage Mystic-Knight:
+  - "Sleep (and Sleep Sword) inflict the only aliment that Atomos is weak to."
+  - "Once you have him sleeping, you can just kill him without waking him up with magic or !Minezuchi or something."
+  INTERSECTION Red-Mage Knight:
+  - "You have a class that can equip swords, which means you can Slumber Sword Atomos if you have to."
+  - "Once you have him sleeping, you can just kill him without waking him up with magic or !Minezuchi or something."
+  Generic`:
+  - "Most parties without access to a dirty trick can simply win a DPS race against Atomos."
