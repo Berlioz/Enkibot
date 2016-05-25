@@ -1,6 +1,6 @@
 Chocobo Forest:
   Metadata:
-    next-node: crayclaw
+    next-node: sandworm
     previous-nodes: ['after_fireship']
   Generic:
     - "Pop by Rikks/Lix village now that you have black chocobo flight."
