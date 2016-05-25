@@ -1,4 +1,4 @@
-## Wing Raptor
+WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Generic] "Cloud, attack while its tail is up!"
 * [Blue-Mage] Don't forget to learn Goblin Punch, Aero, Vampire, and Flash.
 
@@ -450,25 +450,47 @@
 * [Generic] foo
 
 ## island_shrine
-* [Generic] foo
+* [Generic] Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not.
+* [Generic] The Island Shrine contains the Rising Sun, the best thief weapon in the game (oh boy!!).
+* [Generic] It is also required for Fork Tower and thus Istory Falls and the Deep Sea Trench.
 
 ## wendigo
 * [Generic] foo
 
 ## fork_tower
-* [Generic] foo
+* [Generic] Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not.
+* [Break-Rods] Many rod-using parties can take good advantage of the Wonder Rod in Fork Tower, especially if they lack !White.
+* [Mystic-Knight] The Defender in Fork Tower is the best sword available to Mystic Knights in the main game.
+* [White-Mage] Fork Tower is the only way to learn Holy, which gives White Mages (fantastic) offense if required.
+* [INTERSECTION Black-Mage Mystic-Knight] Fork Tower is the only way to learn Flare for Black Mages (eh) and Flare Blade for Mystic Knights (!!).
+* [Generic] Classes that need no special Fork Tower loot will often want to skip it, since frankly Istory Falls and the Deep Sea Trench suck.
 
 ## omniscient
 * [Generic] foo
 
 ## sea_trench
-* [Generic] foo
+* [Generic] It's pretty rare for any Fiesta party to care about the Deep Sea Trench. Consider skipping it.
+* [Bard] Bard parties might appreciate it solely for the novelty of vaporizing its 100% undead inhabitants with Requiem.
+* [Bard] Not a bad way to grind out XP/AP/gil, but you've got Bard. Why do you need to grind?
+* [Monk] Monks can get the Kaiser Knuckles here, which turn them from useless into marginally-less-useless.
+* [Monk] It also locks them out of the Hermes Sandals.
+* [Monk] hahaha
+* [Time-Mage] Meteor is locked behind the Deep Sea Trench for your Time Mage, which is probably the only time I'd do it personally.
 
 ## those_assholes
 * [Generic] foo
 
-## phoenix_tower
-* [Generic] foo
+## istory_falls
+* [Generic] Istory Falls isn't useless per-se: there's a lot of good loot in here, but it rarely makes or breaks a run.
+* [Summoner] Summoners learn Leviathan here which is...completely useless due to the lack of water-boosting weapons.
+* [Red Mage] Red Mages will, uh, 'appreciate' the Rune Blade here, which might make them better at killing things than, like, a geomancer.
+* [Red Mage] On second thought, nah.
+* [UNION Blue-Mage Red-Mage] There might be very weird cases where you'd equip the Enhancer, but I can't really think of any frankly.
+* [Ranger] Rangers can get the Artemis Bow here, which is a bow that's actually still worse than !x-fighting with the Chicken Knife.
+* [Ranger] If you've got a second !x-fighter who's using a chicken knife, it's a good consolation weapon though.
+* [Shields] The Aegis Shield here is the real reason to run Istory: having two Aegis Shields is huge.
+* [Shields] It may or may not be worth grabbing a second: you'd have to have two shield users or Equip Shields.
+* [Shields] And it might be a whole lot of extra work for not that much benefit.
 
 ## leviathan
 * [Generic] foo
