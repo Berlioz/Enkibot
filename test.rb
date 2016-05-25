@@ -1,4 +1,3 @@
 load 'generator.rb'
-require 'pry'
 
-binding.pry
+print Generator.new(["debug"]).get_walkthrough

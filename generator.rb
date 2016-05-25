@@ -35,10 +35,15 @@ class Generator
 
     emit_header(node_header)
     node_data.each do |condition, hints|
+      condition = condition.gsub('`', '')
       next if condition == "Metadata"
       if condition == "Generic" || condition_true?(condition, @tags)
         hints.each do |hint|
-          emit_list_element(hint)
+          if @tags.include?("debug")
+            emit_list_element("[#{condition}] #{hint}")
+          else
+            emit_list_element(hint)
+          end
         end
       end
     end
