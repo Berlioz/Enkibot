@@ -1,4 +1,27 @@
 The Karnak 500:
   Metadata:
-    next-node: sandworm
+    next-node: library
     previous-nodes: ['liquiflame']
+  Generic:
+    - "You have a 5:00 to get as much loot out of the Karnak 500 as possible."
+    - "Have your jobs and abilities set immediately after you kill liquiflame; the Karnak 500 continues ticking in menu."
+    - "It's best to look up a map if this is your first time. There's a decent one on GameFAQs."
+  Knight:
+    - "RUN RUN RUN run. No, the Brave Blade ain't worth it. Never take the Brave Blade."
+  Thief:
+    - "If your offense is good, you can steal plenty of Elixirs from the Gigas enemies infesting this place."
+  Generic`:
+    - "Try and get the Elven Mantle and Main Gauche; those are the best unconditional loot in here."
+  Dancer:
+    - "There's also a Ribbon! Get the Ribbon! You'll need it for your Dancer! It's rad!"
+  NOT Dancer:
+    - "You could let the Ribbon burn _i guess_ if you're an idiot retard fucker who deserves nothing except endless geomancers and red mages..."
+  Blue-Mage:
+    - "You can learn Aerora from the Gigases here for your Blue Mage, though it won't be too long until you can get it again."
+  Generic``:
+    - "You'll have to kill Iron Claw, a miniboss with 900 HP and some adds, before you exit the castle."
+  Blue-Mage`:
+    - "He can teach you Death Claw, and you'd be well advised to try and get it here. It's lovely against anything that's not Heavy."
+    - "Don't kill the sergeant before he transforms into Death Claw, if you do decide to do this."
+  NOT Blue-Mage:
+    - "Don't bother fighting it out. You can prevent him from spawning simply by killing the two dogs, then punching the sergeant until he runs."

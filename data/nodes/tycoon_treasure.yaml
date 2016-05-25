@@ -2,3 +2,15 @@ Tycoon (optional):
   Metadata:
     next-node: fireship
     previous-nodes: ['garula']
+  Generic:
+    - "Check a world map to see how you can get back to Tycoon Castle early with the ship."
+    - "Treasure includes valuable healing items, such as multiple Elixirs."
+  Staff:
+    - "You'll also get a Healing Staff, which casts Cura instead of attacking, and is totally amazing."
+  Samurai:
+    - "You'll also get an Ashura katana, which is the first possible katana for samurai-havers."
+  NOT Samurai:
+    - "You'll also get an Ashura katana, which may be useful if you're in Chaos and have a Freelancer."
+  Summoner:
+    - "This is also a good time to head to the tower behind the waterfall in Walse to get Shiva."
+    - "Worst case scenario, use a Fire Rod from Walse Tower (you did farm an extra, right?) or buy one in Karnak and come back."
