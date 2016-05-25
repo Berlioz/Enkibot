@@ -3,7 +3,7 @@ The Karnak 500:
     next-node: library
     previous-nodes: ['liquiflame']
   Generic:
-    - "You have a 5:00 to get as much loot out of the Karnak 500 as possible."
+    - "You have 10:00 to get as much loot out of the Karnak 500 as possible."
     - "Have your jobs and abilities set immediately after you kill liquiflame; the Karnak 500 continues ticking in menu."
     - "It's best to look up a map if this is your first time. There's a decent one on GameFAQs."
   Knight:
