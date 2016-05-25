@@ -5,4 +5,13 @@ sea_trench:
     previous-nodes:
     - omniscient
   Generic:
-  - foo
+  - "It's pretty rare for any Fiesta party to care about the Deep Sea Trench. Consider skipping it."
+  Bard:
+  - "Bard parties might appreciate it solely for the novelty of vaporizing its 100% undead inhabitants with Requiem."
+  - "Not a bad way to grind out XP/AP/gil, but you've got Bard. Why do you need to grind?"
+  Monk:
+  - "Monks can get the Kaiser Knuckles here, which turn them from useless into marginally-less-useless."
+  - "It also locks them out of the Hermes Sandals."
+  - "hahaha"
+  Time-Mage:
+  - "Meteor is locked behind the Deep Sea Trench for your Time Mage, which is probably the only time I'd do it personally."
