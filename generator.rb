@@ -7,8 +7,8 @@ class Generator
     @tags = Set.new()
   	@job_data = YAML.load(File.read('data/jobs.yaml'))
   	jobs.map{|j| j.gsub(" ", "-")}.each do |job|
-      next if job == "debug"
   	  @tags << job
+      next if job == "debug"
       @job_data['Jobs'][job].each do |tag|
         @tags << tag
       end
@@ -35,6 +35,7 @@ class Generator
 
     emit_header(node_header)
     node_data.each do |condition, hints|
+      next if condition == "Metadata"
       if condition == "Generic" || condition_true?(condition, @tags)
         hints.each do |hint|
           emit_list_element(hint)
