@@ -1,4 +1,4 @@
-WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpected node transition bearaga => crayclaw## Wing Raptor
+WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpected node transition bearaga => crayclawWARNING: unexpected node transition chimera => galuf_castle## Wing Raptor
 * [Generic] "Cloud, attack while its tail is up!"
 * [Blue-Mage] Don't forget to learn Goblin Punch, Aero, Vampire, and Flash.
 
@@ -179,6 +179,8 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Berserker] Berserker parties should swing by Crescent Island and farm up some Death Sickles from the Harvesters there.
 * [INTERSECTION Summoner Ninja] Parties with reliable AoE magic, like !Summon or thrown scrolls, can farm a small island north of Crescent for XP and AP.
 * [INTERSECTION Summoner Ninja] The only encounter there is 3 or 5 black flames, which have high avoid but can be cleared instantly by any AoE magic.
+* [Blue-Mage] The small island north of crescent is a pro visit for Blue Mages, who can learn Dark Spark from the enemies there.
+* [Blue-Mage] It halves the target's battle level, which trivializes large swaths of the game combined with L5 Death and L2 Old.
 * [Beastmaster] If you're feeling up for it, !Control comedy will let you farm Prototypes on another island west of Crescent.
 * [Beastmaster] It's pretty good gil and xp/ap.
 * [UNION Chemist Beastmaster] ...especially since you have a Chemist, who can find a real use for the Dark Matters that the Prototyles drop.
@@ -187,6 +189,7 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 ## Chocobo Forest
 * [Generic] Pop by Rikks/Lix village now that you have black chocobo flight.
 * [Generic] The item vendor there sells at half-price to you, making it a good place to stock up on ethers and phoenix downs.
+* [Chemist] Chemists should definitely spend their entire earthly fortune on ethers here. You'll miss them bitterly when you leave W1.
 * [Ninja] Ninjas will also appreciate buyable elemental scrolls and shuriken.
 
 ## Sandworm (Zerkersbane)
@@ -230,19 +233,19 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Generic] The Something Awful Forusm >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards
 
 ## Soulcannon
-* [Generic] 12500 HP; charges up and then casts Surge Beam (casts get faster over time)
+* [Generic] 12500 HP; charges up and then casts Surge Beam (casts get faster after the first)
 * [Generic] Surge beam deals 50% of the party's max HP and inflicts HP Leak.
-* [Generic] The real danger is the Launchers: 4 of 'em, 800 effective HP, can inflict Old.
+* [Generic] The real danger is the Launchers: 2 of 'em, 800 effective HP, can inflict Old.
 * [Generic] Try to kill the launchers fast with lightning damage to avoid having your whole party slowed into uselessness.
 * [Break-Rods] hahaha you have rods just snap a Thunder Rod and kill all the launchers instantly.
 * [Summoner] Or just cast Ramuh, whatever.
 * [Ninja] Thunder scrolls work especially well.
 * [White-Mage] Parties with !white can get through this slowly by Esunaing the Olds and healing through Surge Beams.
 * [NOT White-Mage] If your offense is slow, you may as a last resort buy Angel Rings from Istory at 50k each; they prevent Old.
+* [Geomancer] All you'll get in this fight is Wind Slash! Awesome! ...except Soul Cannon and the Launchers are immune to wind.
 * [Time-Mage] Stop from a Time Mage will work on the Launchers, if for some reason you're allergic to rod abuse.
 * [Bard] This is a surprisngly funny fight for Bards, since they can Stop the Launchers all at once and Hide from the Surge Beams.
-* [Beastmaster] There are several AoE releases--the good 'ol Breath Wing from Zus near Karnak come to mind--that can be used to kill Launchers.
-* [Beastmaster] Alternatively, you may be able to rush the Soulcannon down with four Bearagas (~9k damage) plus some chip.
+* [Beastmaster] You may be able to rush the Soulcannon down with four Bearagas (~9k damage) plus some chip.
 * [Generic] All damage in this fight is % based, so armor does nothing. Consider unequipping it for speed.
 
 ## Ronka Ruins
@@ -266,6 +269,7 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Blue-Mage] Aerora the first form to death.
 * [Blue-Mage] You can L5 Death the last form and the last form only, but that's the hard one anyway.
 * [Blue-Mage] Hint: Death Claw will land on forms 2 and 4, so you only have to have an answer for F3.
+* [Blue-Mage] (by the way, the answer is 2x dark spark + l5 death)
 * [Blue-Mage] God, blue mage is broken.
 * [Geomancer] The first form is, like, geomancer's one time to shine. Go for it!!!
 * [Summoner] Chocobo, your time is now! (It does physical damage and therefore will work on form 5).
@@ -277,6 +281,7 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Generic] Easiest way to handle this is brute force with powerful AOEs to kill them all at once.
 * [Break-Rods] Yup, that means rods.
 * [NOT Break-Rods] Otherwise, whittle them down one-by-one to make them Explode; they won't Life2 when they do this.
+* [Blue-Mage] If you don't want to just spam rods, Aqua Rake works pretty great here too.
 * [Samurai] They're not heavy hahahaha you can just !Ianuki them repeatedly.
 * [Beastmaster] Beastmasters have it super-easy here: they can just !Control the bombs and have them Exploder each other.
 * [White-Mage] A Silenced Purobolos will not cast Life2 upon death.
@@ -301,4 +306,151 @@ WARNING: unexpected node transition chocobo_forest => sandwormWARNING: unexpecte
 * [Samurai] Ianuki technically works on this guy, but how the hell did you master Samurai already?
 * [Time-Mage] Time Mages can totally shut him down between Stop and Slow.
 * [Bard] Bards can stoplock him easily.
+
+## galuf_castle
+* [Generic] foo
+
+## galufamesh
+* [Generic] foo
+
+## bridgeamesh
+* [Generic] foo
+
+## lugor
+* [Generic] foo
+
+## val
+* [Generic] foo
+
+## dragon_pod
+* [Generic] foo
+
+## surgate
+* [Generic] foo
+
+## boatamesh
+* [Generic] foo
+
+## shield_generator
+* [Generic] foo
+
+## atomos
+* [Generic] foo
+
+## ghidos_cave
+* [Generic] foo
+
+## moore
+* [Generic] foo
+
+## seal_crystals
+* [Generic] foo
+
+## meatcastle
+* [Generic] foo
+
+## W2 Exdeath
+* [Generic] 32768 HP; phase transition at 16000 and 7000 HP remaining.
+* [Generic] Classes without a strong way to cheese this fight should bring Reflect Rings, which...are no longer obtainable. Hmm. Hope you paid attention in the Barrier Tower!
+* [Generic] Do not go in with a level divisible by 3, unless you want to eat L3 Flares (they're non-elemental, so don't get cute with Flame Rings).
+* [White Mage] Make sure you keep Protect/Armor up; Exdeath's Vaccum Wave physicals can be surprisingly nasty.
+* [White Mage] If you can't beat the last phase before Meteor wrecks your party, consider using Shell.
+* [White Mage] Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also Reflect Exdeath.
+* [Blue Mage] Level 2 Old totally works on this guy and totally neuters him, haha.
+* [Blue Mage] If you bothered getting Level 3 Flare, that's solid damage at this point. Otherwise just Aeroga spam.
+* [Time Mage] Do not use Slow. Exdeath will simply counter with Haste, which overwrites Slow instead of neutralizing it.
+* [Time Mage] Do use Float on your party to avoid Earth Shaker; you can apply the status in a random encounter and still wear Reflect Rings.
+* [Summoner] Make sure you keep Golem up; Exdeath's Vaacum Wave physicals can be surprisingly nasty.
+* [Beastmaster] Releasing four Yellow Dragons (8192 damage each) will instantly kill Exdeath, if you're willing to go to the trouble.
+* [Ninja] Consider !Throwing your Excalipoor or Magishuriken to get past Exdeath's last 7000 HP, if Meteor is crushing you.
+* [Bard] Going Super Saiyan on Exdeath with bard songs is technically possible but tricky, unless you have a way around Condemn.
+* [Chemist] Dragon's Kiss (Dragon Fang + Maiden's Kiss) blocks Condemn, allowing you to go Super Saiyan in peace if you feel like it.
+* [Staff] Staff-wielding parties can grind for Staff of Lights in Ghido's Cave; snapping them will allow you to do massive Holy damage to Exdeath.
+* [Staff] If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring.
+* [NOT Healing] Players with weak healing options should consider reading Exdeath's AI script to understand when he will cast Zombie Breath, which can spell a wipe for parties at low HP when it's cast.
+* [Shield] Consider carefully what secondary loadout you give your Aegis Shield user; if things start going south they will likely be the one responsible for saving the fight with revives/healing.
+
+## antlion
+* [Generic] foo
+
+## chicken_knife
+* [Generic] foo
+
+## pyramid
+* [Generic] foo
+
+## melusine
+* [Generic] foo
+
+## sealed_castle
+* [Generic] foo
+
+## airship_w3
+* [Generic] foo
+
+## island_shrine
+* [Generic] foo
+
+## wendigo
+* [Generic] foo
+
+## fork_tower
+* [Generic] foo
+
+## omniscient
+* [Generic] foo
+
+## sea_trench
+* [Generic] foo
+
+## those_assholes
+* [Generic] foo
+
+## phoenix_tower
+* [Generic] foo
+
+## leviathan
+* [Generic] foo
+
+## xzone
+* [Generic] foo
+
+## calofisteri
+* [Generic] foo
+
+## omega
+* [Generic] foo
+
+## apanda
+* [Generic] foo
+
+## exdeaths_castle
+* [Generic] foo
+
+## azulmagia
+* [Generic] foo
+
+## catastrophe
+* [Generic] foo
+
+## halicarnassus
+* [Generic] foo
+
+## dragondarchesbane
+* [Generic] foo
+
+## voidamesh
+* [Generic] foo
+
+## shinryu
+* [Generic] foo
+
+## necrophobe
+* [Generic] foo
+
+## tree_exdeath
+* [Generic] foo
+
+## ned
+* [Generic] foo
 
