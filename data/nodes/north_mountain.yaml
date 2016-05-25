@@ -2,3 +2,16 @@ Kerwin/North Mountain:
   Metadata:
     next-node: magissa
     previous-nodes: ['siren']
+  Generic:
+    - "You don't care about it now, but unless you have Blue/Time, confused gaelicats on North Mountain are your only way to get Float."
+  Break-Rods:
+    - "The hidden Frost Rod in Kerwin lets you trivialize either Magissa or Garula, so get it."
+  White-Mage:
+    - "Pick up Armor/Protect in the Kerwin magic shop. Trust me on this one."
+  Bard:
+    - "There's a piano here in Kerwin, too."
+  Knight:
+    - "Optionally, get the heavy armor from the armor shop in Kewin; it's a nice upgrade."
+  Blue-Mage:
+    - "If you restore their MP with Ether, you can learn Flash from the tombstone enemies in North Mountain."
+    - "I'm not actually sure it's worth it, frankly."

@@ -2,3 +2,12 @@ karlabos:
   Metadata:
     next-node: ship_graveyard
     previous-nodes: ["torna"]
+  Generic:
+    - "650 HP; can inflict paralysis or lower a character to 1 HP. Basically the worst for solo games."
+    - "Just Potion up after getting hit by Tail Screw and you'll be fine."
+  Black-Mage:
+    - "Black Mages can absolutely wreck him with Thunder, which he's weak to."
+  White-Mage:
+    - "If you're stuck with four White Mages, you'll probably need to grind out another point of M at level 8."
+  Thief:
+    - "Thief gets more points of M at levels 5 and 11. You may need to grind it out, or spend an inordinate amount of potions."

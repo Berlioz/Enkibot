@@ -1,4 +1,14 @@
-Walse Tower:
+Walse/Walse Tower:
   Metadata:
     next-node: garula
     previous-nodes: ['magissa']
+  Knight:
+    - "You can buy Iron armor in Walse town, which isn't strictly necessary since you can cheese Garula easily with your Knight."
+  Thief:
+    - "Strongly consider the Kempo Gi armors from Walse town; you're gonna want every edge you can get for Garula."
+    - "Please, please, please steal four mythril daggers from the Y-Burns (sorry, wyverns) in Walse Tower."
+    - "Also, buy a fuckton of potions. Sorry, Garula just sucks for thieves."
+  Blue-Mage:
+    - "In the waterfall behind Walse Castle, you can learn Frog Song. Not only is it very good vs. Garula, it's a generally nice spell to have."
+  Break-Rods:
+    - "The RicardMages in here can drop Flame Rods, if you snapped the free Frost Wand on Magissa and want to trivialize Garula."

@@ -2,3 +2,18 @@ Siren:
   Metadata:
     next-node: north_mountain
     previous-nodes: ["ship_graveyard"]
+  Generic:
+    - "900 HP; switches between a high-MDEF human form and a high-PDEF undead form."
+    - "She has the heavy flag, so no getting cheeky with Phoenix Downs (which are expensive rn anyway)"
+  NOT White-Mage:
+    - "Even without !white, you can damage the undead form for 50 HP a shot with Potions."
+  White-Mage:
+    - "You can use Cure to deal big damage to her undead form."
+    - "The Flail ignores defense, which means you can actually also do some pretty nice damage to her human form."
+    - "Remember that the Flail can be used from the back row at 100% damage."
+  Black-Mage:
+    - "lol just nuke her with fire."
+  Blue-Mage:
+    - "Don't try to use Vampire on her Undead form; the results are as predictable as they are unfortunate."
+  Monk:
+    - "Fist criticals can penetrate Siren's hefty physical defense even in undead form."
