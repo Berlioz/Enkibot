@@ -1,6 +1,6 @@
 Crayclaw:
   Metadata:
-    next-node: w1_after_flight
+    next-node: adamantoise
     previous-nodes: ['chocobo_forest']
   Generic:
     - "2000 HP, uses various single-target attacks."
