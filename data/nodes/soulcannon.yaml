@@ -3,9 +3,9 @@ Soulcannon:
     next-node: ronka
     previous-nodes: ['adamantoise']
   Generic:
-    - "12500 HP; charges up and then casts Surge Beam (casts get faster over time)"
+    - "12500 HP; charges up and then casts Surge Beam (casts get faster after the first)"
     - "Surge beam deals 50% of the party's max HP and inflicts HP Leak."
-    - "The real danger is the Launchers: 4 of 'em, 800 effective HP, can inflict Old."
+    - "The real danger is the Launchers: 2 of 'em, 800 effective HP, can inflict Old."
     - "Try to kill the launchers fast with lightning damage to avoid having your whole party slowed into uselessness."
   Break-Rods:
     - "hahaha you have rods just snap a Thunder Rod and kill all the launchers instantly."
@@ -17,12 +17,13 @@ Soulcannon:
     - "Parties with !white can get through this slowly by Esunaing the Olds and healing through Surge Beams."
   NOT White-Mage:
     - "If your offense is slow, you may as a last resort buy Angel Rings from Istory at 50k each; they prevent Old."
+  Geomancer:
+    - "All you'll get in this fight is Wind Slash! Awesome! ...except Soul Cannon and the Launchers are immune to wind."
   Time-Mage:
     - "Stop from a Time Mage will work on the Launchers, if for some reason you're allergic to rod abuse."
   Bard:
     - "This is a surprisngly funny fight for Bards, since they can Stop the Launchers all at once and Hide from the Surge Beams."
   Beastmaster:
-    - "There are several AoE releases--the good 'ol Breath Wing from Zus near Karnak come to mind--that can be used to kill Launchers."
-    - "Alternatively, you may be able to rush the Soulcannon down with four Bearagas (~9k damage) plus some chip."
+    - "You may be able to rush the Soulcannon down with four Bearagas (~9k damage) plus some chip."
   Generic`:
     - "All damage in this fight is % based, so armor does nothing. Consider unequipping it for speed."
