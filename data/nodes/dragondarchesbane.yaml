@@ -1,0 +1,8 @@
+---
+dragondarchesbane:
+  Metadata:
+    next-node: voidamesh
+    previous-nodes:
+    - halicarnassus
+  Generic:
+  - foo

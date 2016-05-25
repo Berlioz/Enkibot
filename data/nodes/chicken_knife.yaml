@@ -1,0 +1,8 @@
+---
+chicken_knife:
+  Metadata:
+    next-node: pyramid
+    previous-nodes:
+    - antlion
+  Generic:
+  - foo

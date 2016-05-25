@@ -1,0 +1,8 @@
+---
+wendigo:
+  Metadata:
+    next-node: fork_tower
+    previous-nodes:
+    - island_shrine
+  Generic:
+  - foo

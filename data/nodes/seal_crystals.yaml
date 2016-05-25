@@ -1,0 +1,8 @@
+---
+seal_crystals:
+  Metadata:
+    next-node: meatcastle
+    previous-nodes:
+    - moore
+  Generic:
+  - foo

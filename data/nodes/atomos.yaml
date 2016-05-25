@@ -1,0 +1,8 @@
+---
+atomos:
+  Metadata:
+    next-node: ghidos_cave
+    previous-nodes:
+    - shield_generator
+  Generic:
+  - foo

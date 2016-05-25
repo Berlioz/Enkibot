@@ -1,0 +1,8 @@
+---
+catastrophe:
+  Metadata:
+    next-node: halicarnassus
+    previous-nodes:
+    - azulmagia
+  Generic:
+  - foo

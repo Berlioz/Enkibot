@@ -1,0 +1,8 @@
+---
+bridgeamesh:
+  Metadata:
+    next-node: lugor
+    previous-nodes:
+    - galufamesh
+  Generic:
+  - foo

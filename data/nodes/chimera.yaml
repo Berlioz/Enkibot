@@ -1,6 +1,6 @@
 Chimera:
   Metadata:
-    next-node: end
+    next-node: galuf_castle
     previous-nodes: ['titan']
   Generic:
     - "3300 HP, not Heavy (laffo), alternates between (Fight or AquaRake) and (Blaze or AquaRake)."

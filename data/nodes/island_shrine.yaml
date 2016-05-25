@@ -1,0 +1,8 @@
+---
+island_shrine:
+  Metadata:
+    next-node: wendigo
+    previous-nodes:
+    - airship_w3
+  Generic:
+  - foo

@@ -1,0 +1,8 @@
+---
+fork_tower:
+  Metadata:
+    next-node: omniscient
+    previous-nodes:
+    - wendigo
+  Generic:
+  - foo

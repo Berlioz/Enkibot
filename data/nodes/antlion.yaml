@@ -1,0 +1,8 @@
+---
+antlion:
+  Metadata:
+    next-node: chicken_knife
+    previous-nodes:
+    - exdeath_w2
+  Generic:
+  - foo

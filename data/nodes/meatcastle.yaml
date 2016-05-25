@@ -1,0 +1,8 @@
+---
+meatcastle:
+  Metadata:
+    next-node: exdeath_w2
+    previous-nodes:
+    - seal_crystals
+  Generic:
+  - foo

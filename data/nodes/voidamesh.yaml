@@ -1,0 +1,8 @@
+---
+voidamesh:
+  Metadata:
+    next-node: shinryu
+    previous-nodes:
+    - dragondarchesbane
+  Generic:
+  - foo

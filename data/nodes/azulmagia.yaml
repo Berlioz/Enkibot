@@ -1,0 +1,8 @@
+---
+azulmagia:
+  Metadata:
+    next-node: catastrophe
+    previous-nodes:
+    - exdeaths_castle
+  Generic:
+  - foo

@@ -1,0 +1,8 @@
+---
+shinryu:
+  Metadata:
+    next-node: necrophobe
+    previous-nodes:
+    - voidamesh
+  Generic:
+  - foo

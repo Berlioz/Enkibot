@@ -1,0 +1,8 @@
+---
+dragon_pod:
+  Metadata:
+    next-node: surgate
+    previous-nodes:
+    - val
+  Generic:
+  - foo

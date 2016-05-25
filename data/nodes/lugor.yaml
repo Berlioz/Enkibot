@@ -1,0 +1,8 @@
+---
+lugor:
+  Metadata:
+    next-node: val
+    previous-nodes:
+    - bridgeamesh
+  Generic:
+  - foo

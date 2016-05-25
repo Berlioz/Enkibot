@@ -1,0 +1,8 @@
+---
+exdeaths_castle:
+  Metadata:
+    next-node: azulmagia
+    previous-nodes:
+    - apanda
+  Generic:
+  - foo

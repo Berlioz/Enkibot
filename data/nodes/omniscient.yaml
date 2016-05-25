@@ -1,0 +1,8 @@
+---
+omniscient:
+  Metadata:
+    next-node: sea_trench
+    previous-nodes:
+    - fork_tower
+  Generic:
+  - foo

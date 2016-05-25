@@ -1,0 +1,8 @@
+---
+shield_generator:
+  Metadata:
+    next-node: atomos
+    previous-nodes:
+    - boatamesh
+  Generic:
+  - foo

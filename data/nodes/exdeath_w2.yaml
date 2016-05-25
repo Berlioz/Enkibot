@@ -1,6 +1,6 @@
 W2 Exdeath:
   Metadata:
-    next-node: end
+    next-node: antlion
     previous-nodes: ["meatcastle"]
   Generic:
     - "32768 HP; phase transition at 16000 and 7000 HP remaining."

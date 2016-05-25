@@ -1,0 +1,8 @@
+---
+necrophobe:
+  Metadata:
+    next-node: tree_exdeath
+    previous-nodes:
+    - shinryu
+  Generic:
+  - foo

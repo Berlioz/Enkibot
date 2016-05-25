@@ -1,0 +1,8 @@
+---
+boatamesh:
+  Metadata:
+    next-node: shield_generator
+    previous-nodes:
+    - surgate
+  Generic:
+  - foo

@@ -1,0 +1,8 @@
+---
+galufamesh:
+  Metadata:
+    next-node: bridgeamesh
+    previous-nodes:
+    - galuf_castle
+  Generic:
+  - foo

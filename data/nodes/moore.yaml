@@ -1,0 +1,8 @@
+---
+moore:
+  Metadata:
+    next-node: seal_crystals
+    previous-nodes:
+    - ghidos_cave
+  Generic:
+  - foo

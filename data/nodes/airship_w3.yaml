@@ -1,0 +1,8 @@
+---
+airship_w3:
+  Metadata:
+    next-node: island_shrine
+    previous-nodes:
+    - sealed_castle
+  Generic:
+  - foo

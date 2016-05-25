@@ -1,0 +1,8 @@
+---
+halicarnassus:
+  Metadata:
+    next-node: dragondarchesbane
+    previous-nodes:
+    - catastrophe
+  Generic:
+  - foo

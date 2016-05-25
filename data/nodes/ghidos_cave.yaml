@@ -1,0 +1,8 @@
+---
+ghidos_cave:
+  Metadata:
+    next-node: moore
+    previous-nodes:
+    - atomos
+  Generic:
+  - foo

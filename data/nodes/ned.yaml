@@ -1,0 +1,8 @@
+---
+ned:
+  Metadata:
+    next-node: end
+    previous-nodes:
+    - tree_exdeath
+  Generic:
+  - foo

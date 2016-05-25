@@ -1,0 +1,8 @@
+---
+sealed_castle:
+  Metadata:
+    next-node: airship_w3
+    previous-nodes:
+    - melusine
+  Generic:
+  - foo

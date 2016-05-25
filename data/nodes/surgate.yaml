@@ -1,0 +1,8 @@
+---
+surgate:
+  Metadata:
+    next-node: boatamesh
+    previous-nodes:
+    - dragon_pod
+  Generic:
+  - foo

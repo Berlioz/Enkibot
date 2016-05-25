@@ -1,0 +1,8 @@
+---
+melusine:
+  Metadata:
+    next-node: sealed_castle
+    previous-nodes:
+    - pyramid
+  Generic:
+  - foo

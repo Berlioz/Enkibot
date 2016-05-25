@@ -1,0 +1,8 @@
+---
+sea_trench:
+  Metadata:
+    next-node: those_assholes
+    previous-nodes:
+    - omniscient
+  Generic:
+  - foo

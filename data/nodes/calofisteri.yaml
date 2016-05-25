@@ -1,0 +1,8 @@
+---
+calofisteri:
+  Metadata:
+    next-node: omega
+    previous-nodes:
+    - xzone
+  Generic:
+  - foo

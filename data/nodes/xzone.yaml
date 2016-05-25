@@ -1,0 +1,8 @@
+---
+xzone:
+  Metadata:
+    next-node: calofisteri
+    previous-nodes:
+    - leviathan
+  Generic:
+  - foo

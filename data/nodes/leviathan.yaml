@@ -1,0 +1,8 @@
+---
+leviathan:
+  Metadata:
+    next-node: xzone
+    previous-nodes:
+    - phoenix_tower
+  Generic:
+  - foo

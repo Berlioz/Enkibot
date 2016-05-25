@@ -1,0 +1,8 @@
+---
+apanda:
+  Metadata:
+    next-node: exdeaths_castle
+    previous-nodes:
+    - omega
+  Generic:
+  - foo

@@ -1,0 +1,8 @@
+---
+tree_exdeath:
+  Metadata:
+    next-node: ned
+    previous-nodes:
+    - necrophobe
+  Generic:
+  - foo

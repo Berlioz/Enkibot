@@ -1,0 +1,8 @@
+---
+those_assholes:
+  Metadata:
+    next-node: phoenix_tower
+    previous-nodes:
+    - sea_trench
+  Generic:
+  - foo

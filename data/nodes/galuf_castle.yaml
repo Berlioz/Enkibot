@@ -1,0 +1,8 @@
+---
+galuf_castle:
+  Metadata:
+    next-node: galufamesh
+    previous-nodes:
+    - test
+  Generic:
+  - foo

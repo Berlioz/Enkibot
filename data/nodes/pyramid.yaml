@@ -1,0 +1,8 @@
+---
+pyramid:
+  Metadata:
+    next-node: melusine
+    previous-nodes:
+    - chicken_knife
+  Generic:
+  - foo

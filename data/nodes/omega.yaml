@@ -1,0 +1,8 @@
+---
+omega:
+  Metadata:
+    next-node: apanda
+    previous-nodes:
+    - calofisteri
+  Generic:
+  - foo

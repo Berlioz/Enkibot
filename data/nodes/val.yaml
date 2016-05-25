@@ -1,0 +1,8 @@
+---
+val:
+  Metadata:
+    next-node: dragon_pod
+    previous-nodes:
+    - lugor
+  Generic:
+  - foo
