@@ -6,13 +6,15 @@ fork_tower:
     - wendigo
   Generic:
   - "Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not."
+  - "The Defender in Fork Tower is a Knightsword that might be interesting if Excalibur didn't exist."
+  - "It can be used as an item to cast Protect, which may be useful for certain very squishy parties."
   Break-Rods:
   - "Many rod-using parties can take good advantage of the Wonder Rod in Fork Tower, especially if they lack !White."
-  Mystic-Knight:
-  - "The Defender in Fork Tower is the best sword available to Mystic Knights in the main game."
   White-Mage:
   - "Fork Tower is the only way to learn Holy, which gives White Mages (fantastic) offense if required."
   INTERSECTION Black-Mage Mystic-Knight:
   - "Fork Tower is the only way to learn Flare for Black Mages (eh) and Flare Blade for Mystic Knights (!!)."
+  Mystic-Knight:
+  - "Mystic Knights can also use Holy Blade, which is useful-ish like once (Twin Tania) but it's really funny."
   Generic`:
   - "Classes that need no special Fork Tower loot will often want to skip it, since frankly Istory Falls and the Deep Sea Trench suck."

@@ -4,5 +4,6 @@ meatcastle:
     next-node: scrubamesh
     previous-nodes:
     - seal_crystals
-  Generic:
-  - foo
+  Staff:
+  - "To save yourself time in world 3, farm a Power Staff from Black Warlocks."
+  - "It casts Berserk when wielded, which has a number of obscure but quite useful applications."

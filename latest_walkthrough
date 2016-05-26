@@ -100,6 +100,7 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Blue-Mage] Crew Dusts in the Fire Ship cast Flash, which you can pick up for your Blue Mage.
 * [INTERSECTION Thief Ninja] Thieves and Ninjas should make sure they get the Moonring Blade.
 * [Thief] Thieves should also pick up the Thief's Gloves, which boost steal rate.
+* [Thief] Once you have them, you can steal Hi-Potions from Poltergeists to your hearts' content.
 
 ## Liquiflame
 * [Generic] 3000 HP, transitions randomly between three forms when struck.
@@ -352,6 +353,7 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Thief] Make sure to steal a Genji Glove from Gil, if you have anyone who can equip heavy armor.
 * [Beastmaster] You can !Control Enkidu lol. WhiteWind the party or just have him Hurricane himself.
 * [Heavyscammer] Enkidu has no immunity to instant death, stuff like !Ianuki, Death Potions, Death Sickles will work on him.
+* [Heavyscammer] ...neither does Gilgamesh, now that I think about it. Poor guy.
 
 ## shield_generator
 * [Generic] foo
@@ -365,9 +367,11 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Blue-Mage] Dark Shock + Level 5 Death.
 * [Blue-Mage] Yup.
 * [INTERSECTION Black-Mage Mystic-Knight] Sleep (and Sleep Sword) inflict the only aliment that Atomos is weak to.
-* [INTERSECTION Black-Mage Mystic-Knight] Once you have him sleeping, you can just kill him without waking him up with magic or !Minezuchi or something.
+* [INTERSECTION Black-Mage Mystic-Knight] Once you have him sleeping, you can just kill him without waking him up with magic or !Mineuchi/!SwdSlap or something.
+* [INTERSECTION Black-Mage Mystic-Knight] !Mineuchi/!SwdSlap is 'fixed' on iOS and wakes sleeping enemies!
 * [INTERSECTION Red-Mage Knight] You have a class that can equip swords, which means you can Slumber Sword Atomos if you have to.
-* [INTERSECTION Red-Mage Knight] Once you have him sleeping, you can just kill him without waking him up with magic or !Minezuchi or something.
+* [INTERSECTION Red-Mage Knight] Once you have him sleeping, you can just kill him without waking him up with magic or !Mineuchi/!SwdSlap or something.
+* [INTERSECTION Red-Mage Knight] !Mineuchi/!SwdSlap is 'fixed' on iOS and wakes sleeping enemies!
 * [Generic] Most parties without access to a dirty trick can simply win a DPS race against Atomos.
 
 ## ghidos_cave
@@ -390,7 +394,8 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Generic] Seriously, don't do it.
 
 ## meatcastle
-* [Generic] foo
+* [Staff] To save yourself time in world 3, farm a Power Staff from Black Warlocks.
+* [Staff] It casts Berserk when wielded, which has a number of obscure but quite useful applications.
 
 ## scrubamesh
 * [Generic] foo
@@ -459,10 +464,12 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 
 ## fork_tower
 * [Generic] Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not.
+* [Generic] The Defender in Fork Tower is a Knightsword that might be interesting if Excalibur didn't exist.
+* [Generic] It can be used as an item to cast Protect, which may be useful for certain very squishy parties.
 * [Break-Rods] Many rod-using parties can take good advantage of the Wonder Rod in Fork Tower, especially if they lack !White.
-* [Mystic-Knight] The Defender in Fork Tower is the best sword available to Mystic Knights in the main game.
 * [White-Mage] Fork Tower is the only way to learn Holy, which gives White Mages (fantastic) offense if required.
 * [INTERSECTION Black-Mage Mystic-Knight] Fork Tower is the only way to learn Flare for Black Mages (eh) and Flare Blade for Mystic Knights (!!).
+* [Mystic-Knight] Mystic Knights can also use Holy Blade, which is useful-ish like once (Twin Tania) but it's really funny.
 * [Generic] Classes that need no special Fork Tower loot will often want to skip it, since frankly Istory Falls and the Deep Sea Trench suck.
 
 ## omniscient
@@ -519,8 +526,10 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 ## halicarnassus
 * [Generic] foo
 
-## dragondarchesbane
-* [Generic] foo
+## TwinTania
+* [Generic] Every Death Sentence can kill a tank! You *must* have the tank topped off + adlo'd before each one lands, or you'll wipe.
+* [Generic] AAAAHHHHH WHY'D YOU RUN THAT WAY FOR TWISTERS
+* [Generic] Uh, sorry, wrong game.
 
 ## voidamesh
 * [Generic] foo
@@ -562,6 +571,9 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Blue-Mage] Or you could abuse Dark Spark and L5 Death, but honestly I'd go with the first idea.
 * [Dragoon] The Dragon Lance is super-effective vs. the Grand Cross part, if you're burning that one first.
 * [Bard] Apollo's Harp will do massive damage vs. the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway.
+* [Ranger] Were you dumb enough to grind out a Dark Bow in Ronka? Congratulations!
+* [Ranger] The Melee piece (the one that chucks out 1800 damage Vacuum Waves) can be blinded!
+* [Ranger] That was still a dumb decision, by the way.
 * [Summoner] An actual !summoned Odin will not work on the bottom part!
 * [Summoner] Hardcasted Odins will use Gungnir if any enemy on the field is Heavy.
 
