@@ -28,3 +28,8 @@ post '/hints/' do
 
   return Generator.new(selected_jobs).get_walkthrough
 end
+
+post '/debug/' do
+  response["Content-Type"]="text/plain"
+  return Generator.new(["debug"]).get_walkthrough
+end
