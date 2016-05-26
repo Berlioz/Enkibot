@@ -1,4 +1,4 @@
-WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
+## Wing Raptor
 * [Generic] "Cloud, attack while its tail is up!"
 * [Blue-Mage] Don't forget to learn Goblin Punch, Aero, Vampire, and Flash.
 
@@ -24,7 +24,6 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 ## Siren
 * [Generic] 900 HP; switches between a high-MDEF human form and a high-PDEF undead form.
 * [Generic] She has the heavy flag, so no getting cheeky with Phoenix Downs (which are expensive rn anyway)
-* [NOT White-Mage] Even without !white, you can damage the undead form for 50 HP a shot with Potions.
 * [White-Mage] You can use Cure to deal big damage to her undead form.
 * [White-Mage] The Flail ignores defense, which means you can actually also do some pretty nice damage to her human form.
 * [White-Mage] Remember that the Flail can be used from the back row at 100% damage.
@@ -58,7 +57,6 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Thief] Also, buy a fuckton of potions. Sorry, Garula just sucks for thieves.
 * [Blue-Mage] In the waterfall behind Walse Castle, you can learn Frog Song. Not only is it very good vs. Garula, it's a generally nice spell to have.
 * [Thief] Thieves have a fairly easy time getting the Elven Mantle in the basement of Walse Castle. It's nice vs. Garula.
-* [NOT Thief] You probably don't want to bother with getting the Elven Mantle in the basement of Walse Castle, unless you're willing to abuse the Quicksave glitch in the GBA version.
 * [Break-Rods] The RicardMages in Walse Tower can drop Flame Rods, if you snapped the free Frost Wand on Magissa and want to trivialize Garula.
 
 ## Garula
@@ -83,7 +81,6 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Generic] Treasure includes valuable healing items, such as multiple Elixirs.
 * [Staff] You'll also get a Healing Staff, which casts Cura instead of attacking, and is totally amazing.
 * [Samurai] You'll also get an Ashura katana, which is the first possible katana for samurai-havers.
-* [NOT Samurai] You'll also get an Ashura katana, which may be useful if you're in Chaos and have a Freelancer.
 * [Summoner] This is also a good time to head to the tower behind the waterfall in Walse to get Shiva.
 * [Summoner] Worst case scenario, use a Fire Rod from Walse Tower (you did farm an extra, right?) or buy one in Karnak and come back.
 
@@ -108,7 +105,6 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Generic] Hand Form: single target attacks that can paralyze and counters with Fire 2. IMMUNE TO MAGIC.
 * [Generic] Tornado Form: casts Fire2 on self to heal.
 * [Ranger] Consider killing it in Tornado Form to get the Fire Bow.
-* [NOT Ranger] If you don't know whether you'll have ranger yet, consider killing it in Tornado Form to get the Fire Bow.
 * [Break-Rods] Frost Rods will, of course, completely trash this guy. Do not use them when it's in hand form!
 * [Monk] Fewer, bigger hits will do better against him, so !Focus ain't bad here.
 * [Knight] The fewer times you have to hit liquidflame the fewer counters you see; consider using Two-Handed.
@@ -125,13 +121,11 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Thief] If your offense is good, you can steal plenty of Elixirs from the Gigas enemies infesting this place.
 * [Generic] Try and get the Elven Mantle and Main Gauche; those are the best unconditional loot in here.
 * [Dancer] There's also a Ribbon! Get the Ribbon! You'll need it for your Dancer! It's rad!
-* [NOT Dancer] You could let the Ribbon burn _i guess_ if you're an idiot who deserves nothing except endless geomancers and red mages...
 * [Blue-Mage] You can learn Aerora from the Gigases here for your Blue Mage, though it won't be too long until you can get it again.
 * [White-Mage] White Mages should definitely not forget about the Esuna spell in a chest here; it'll be a while till you can rebuy it.
 * [Generic] You'll have to kill Iron Claw, a miniboss with 900 HP and some adds, before you exit the castle.
 * [Blue-Mage] He can teach you Death Claw, and you'd be well advised to try and get it here. It's lovely against anything that's not Heavy.
 * [Blue-Mage] Don't kill the sergeant before he transforms into Death Claw, if you do decide to do this.
-* [NOT Blue-Mage] Don't bother fighting it out. You can prevent him from spawning simply by killing the two dogs, then punching the sergeant until he runs.
 
 ## Library
 * [Generic] On the walk down, dodge the desert unless you want to fight the powerful Dhorme Chimera.
@@ -164,9 +158,9 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Berserker] Zerker-heavy teams can have trouble here, because they can trigger Byblos' counters at bad times.
 * [Berserker] If you have other powerful characters or a way to cheese the fight, consider coming in with your zerk blinded.
 * [Summoner] Cast your new Ifrit summon on him for some extra comedy.
-* [Blue Mage] Death Claw works on him, reducing him to single-digit HP immediately.
-* [Blue Mage] He's not Heavy ahahahahaha.
-* [Blue Mage] On the other hand, you probably want to learn Magic Hammer from him, which can be obnoxious as hell.
+* [Blue-Mage] Death Claw works on him, reducing him to single-digit HP immediately.
+* [Blue-Mage] He's not Heavy ahahahahaha.
+* [Blue-Mage] On the other hand, you probably want to learn Magic Hammer from him, which can be obnoxious as hell.
 * [Beastmaster] A released Page 32 from the library will cast Banish, which has a 33% chance of straight up killing Byblos.
 
 ## Sailing
@@ -243,7 +237,6 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Summoner] Or just cast Ramuh, whatever.
 * [Ninja] Thunder scrolls work especially well.
 * [White-Mage] Parties with !white can get through this slowly by Esunaing the Olds and healing through Surge Beams.
-* [NOT White-Mage] If your offense is slow, you may as a last resort buy Angel Rings from Istory at 50k each; they prevent Old.
 * [Geomancer] All you'll get in this fight is Wind Slash! Awesome! ...except Soul Cannon and the Launchers are immune to wind.
 * [Time-Mage] Stop from a Time Mage will work on the Launchers, if for some reason you're allergic to rod abuse.
 * [Bard] This is a surprisngly funny fight for Bards, since they can Stop the Launchers all at once and Hide from the Surge Beams.
@@ -283,7 +276,6 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Generic] 1500 HP, cast Exploder when low, will cast Life2 to revive other puroboloses when killed.
 * [Generic] Easiest way to handle this is brute force with powerful AOEs to kill them all at once.
 * [Break-Rods] Yup, that means rods.
-* [NOT Break-Rods] Otherwise, whittle them down one-by-one to make them Explode; they won't Life2 when they do this.
 * [Blue-Mage] If you don't want to just spam rods, Aqua Rake works pretty great here too.
 * [Samurai] They're not heavy hahahaha you can just !Ianuki them repeatedly.
 * [Beastmaster] Beastmasters have it super-easy here: they can just !Control the bombs and have them Exploder each other.
@@ -404,13 +396,13 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Generic] 32768 HP; phase transition at 16000 and 7000 HP remaining.
 * [Generic] Classes without a strong way to cheese this fight should bring Reflect Rings, which...are no longer obtainable. Hmm. Hope you paid attention in the Barrier Tower!
 * [Generic] Do not go in with a level divisible by 3, unless you want to eat L3 Flares (they're non-elemental, so don't get cute with Flame Rings).
-* [White Mage] Make sure you keep Protect/Armor up; Exdeath's Vaccum Wave physicals can be surprisingly nasty.
-* [White Mage] If you can't beat the last phase before Meteor wrecks your party, consider using Shell.
-* [White Mage] Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also Reflect Exdeath.
-* [Blue Mage] Level 2 Old totally works on this guy and totally neuters him, haha.
-* [Blue Mage] If you bothered getting Level 3 Flare, that's solid damage at this point. Otherwise just Aeroga spam.
-* [Time Mage] Do not use Slow. Exdeath will simply counter with Haste, which overwrites Slow instead of neutralizing it.
-* [Time Mage] Do use Float on your party to avoid Earth Shaker; you can apply the status in a random encounter and still wear Reflect Rings.
+* [White-Mage] Make sure you keep Protect/Armor up; Exdeath's Vaccum Wave physicals can be surprisingly nasty.
+* [White-Mage] If you can't beat the last phase before Meteor wrecks your party, consider using Shell.
+* [White-Mage] Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also Reflect Exdeath.
+* [Blue-Mage] Level 2 Old totally works on this guy and totally neuters him, haha.
+* [Blue-Mage] If you bothered getting Level 3 Flare, that's solid damage at this point. Otherwise just Aeroga spam.
+* [Time-Mage] Do not use Slow. Exdeath will simply counter with Haste, which overwrites Slow instead of neutralizing it.
+* [Time-Mage] Do use Float on your party to avoid Earth Shaker; you can apply the status in a random encounter and still wear Reflect Rings.
 * [Summoner] Make sure you keep Golem up; Exdeath's Vaacum Wave physicals can be surprisingly nasty.
 * [Beastmaster] Releasing four Yellow Dragons (8192 damage each) will instantly kill Exdeath, if you're willing to go to the trouble.
 * [Ninja] Consider !Throwing your Excalipoor or Magishuriken to get past Exdeath's last 7000 HP, if Meteor is crushing you.
@@ -418,7 +410,6 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Chemist] Dragon's Kiss (Dragon Fang + Maiden's Kiss) blocks Condemn, allowing you to go Super Saiyan in peace if you feel like it.
 * [Staff] Staff-wielding parties can grind for Staff of Lights in Ghido's Cave; snapping them will allow you to do massive Holy damage to Exdeath.
 * [Staff] If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring.
-* [NOT Healing] Players with weak healing options should consider reading Exdeath's AI script to understand when he will cast Zombie Breath, which can spell a wipe for parties at low HP when it's cast.
 * [Shield] Consider carefully what secondary loadout you give your Aegis Shield user; if things start going south they will likely be the one responsible for saving the fight with revives/healing.
 
 ## antlion
@@ -490,14 +481,14 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 ## istory_falls
 * [Generic] Istory Falls isn't useless per-se: there's a lot of good loot in here, but it rarely makes or breaks a run.
 * [Summoner] Summoners learn Leviathan here which is...completely useless due to the lack of water-boosting weapons.
-* [Red Mage] Red Mages will, uh, 'appreciate' the Rune Blade here, which might make them better at killing things than, like, a geomancer.
-* [Red Mage] On second thought, nah.
+* [Red-Mage] Red Mages will, uh, 'appreciate' the Rune Blade here, which might make them better at killing things than, like, a geomancer.
+* [Red-Mage] On second thought, nah.
 * [UNION Blue-Mage Red-Mage] There might be very weird cases where you'd equip the Enhancer, but I can't really think of any frankly.
 * [Ranger] Rangers can get the Artemis Bow here, which is a bow that's actually still worse than !x-fighting with the Chicken Knife.
 * [Ranger] If you've got a second !x-fighter who's using a chicken knife, it's a good consolation weapon though.
-* [Shields] The Aegis Shield here is the real reason to run Istory: having two Aegis Shields is huge.
-* [Shields] It may or may not be worth grabbing a second: you'd have to have two shield users or Equip Shields.
-* [Shields] And it might be a whole lot of extra work for not that much benefit.
+* [Shield] The Aegis Shield here is the real reason to run Istory: having two Aegis Shields is huge.
+* [Shield] It may or may not be worth grabbing a second: you'd have to have two shield users or Equip Shields.
+* [Shield] And it might be a whole lot of extra work for not that much benefit.
 
 ## leviathan
 * [Generic] foo
@@ -506,7 +497,8 @@ WARNING: unexpected node transition istory_falls => leviathan## Wing Raptor
 * [Generic] foo
 
 ## calofisteri
-* [Generic] foo
+* [Generic] Bonemail + Hermes Sandals literally make a character immune to her entire moveset.
+* [Generic] Just hold down the Fight button and make a sandwich.
 
 ## omega
 * [Generic] foo

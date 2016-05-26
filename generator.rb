@@ -7,12 +7,26 @@ class Generator
     @tags = Set.new()
   	@job_data = YAML.load(File.read('data/jobs.yaml'))
   	jobs.map{|j| j.gsub(" ", "-")}.each do |job|
+      if job == "debug"
+        add_all_tags
+        @tags << "debug"
+        break
+      end
   	  @tags << job
-      next if job == "debug"
+
       @job_data['Jobs'][job].each do |tag|
         @tags << tag
       end
   	end
+  end
+
+  def add_all_tags
+    @job_data['Jobs'].each do |job, subtags|
+      @tags << job
+      subtags.each do |tag|
+        @tags << tag
+      end
+    end
   end
 
   def get_walkthrough(beginning_node='begin')
@@ -30,7 +44,7 @@ class Generator
     node_data = node[node_header]
 
     if previous_node && !node_data['Metadata']['previous-nodes'].include?(previous_node)
-      print "WARNING: unexpected node transition #{previous_node} => #{nodename}"
+      print "WARNING: unexpected node transition #{previous_node} => #{nodename}\n"
     end
 
     emit_header(node_header)
@@ -45,6 +59,8 @@ class Generator
             emit_list_element(hint)
           end
         end
+      elsif @tags.include?("debug") && !condition_true?(condition, @tags)
+        print "WARNING: condition unreachable: #{condition} in node #{nodename}\n" unless condition.include?("NOT")
       end
     end
     emit_paragraph_break
@@ -55,15 +71,15 @@ class Generator
 
   # todo: support and, or with more than 2 elements
   def condition_true?(condition, tags)
-    return true if tags.include?("debug")
-
     token = condition.split.first
     if token == 'NOT'
       return !condition_true?(condition.split[1..-1].join(" "), tags)
     elsif token == 'UNION' || token == 'AND'
-      return condition_true?(condition.split[1], tags) && condition_true?(condition.split[2], tags)
+      subconditions = condition.split[1..-1]
+      return subconditions.all?{|c| condition_true?(c, tags)}
     elsif token == 'INTERSECTION' || token == 'OR'
-      return condition_true?(condition.split[1], tags) || condition_true?(condition.split[2], tags)
+      subconditions = condition.split[1..-1]
+      return subconditions.detect{|c| condition_true?(c, tags)}
     else
       return tags.include?(condition)
     end
