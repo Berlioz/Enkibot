@@ -1,0 +1,53 @@
+<html>
+  <head><title>Enkibot</title></head>
+
+  <body>
+  <form action="/hints/" method="POST">
+  	<select name="job1">
+  	  <option value="_Wind">UNKNOWN WIND</option>
+      <option value="_Water">UNKNOWN WATER</option>
+      <option value="_Fire">UNKNOWN FIRE</option>
+      <option value="_Earth">UNKNOWN EARTH</option>
+
+  	  <% @jobs.each do |job| %>
+        <option value="<%= job %>"> <%= job %> </option>
+  	  <% end %>
+    </select>
+
+    <select name="job2">
+  	  <option value="_Wind">UNKNOWN WIND</option>
+      <option value="_Water">UNKNOWN WATER</option>
+      <option value="_Fire">UNKNOWN FIRE</option>
+      <option value="_Earth">UNKNOWN EARTH</option>
+
+  	  <% @jobs.each do |job| %>
+        <option value="<%= job %>"> <%= job %> </option>
+  	  <% end %>
+    </select>
+
+    <select name="job3">
+  	  <option value="_Wind">UNKNOWN WIND</option>
+      <option value="_Water">UNKNOWN WATER</option>
+      <option value="_Fire">UNKNOWN FIRE</option>
+      <option value="_Earth">UNKNOWN EARTH</option>
+
+  	  <% @jobs.each do |job| %>
+        <option value="<%= job %>"> <%= job %> </option>
+  	  <% end %>
+    </select>
+
+  	<select name="job4">
+  	  <option value="_Wind">UNKNOWN WIND</option>
+      <option value="_Water">UNKNOWN WATER</option>
+      <option value="_Fire">UNKNOWN FIRE</option>
+      <option value="_Earth">UNKNOWN EARTH</option>
+
+  	  <% @jobs.each do |job| %>
+        <option value="<%= job %>"> <%= job %> </option>
+  	  <% end %>
+    </select>
+
+  	<input type="submit">
+  </form>
+  </body>
+</html>

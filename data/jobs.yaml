@@ -13,67 +13,87 @@
 Jobs:
   Knight:
     - Shield
+    - Wind
   Monk:
     - Pierce-Def
+    - Wind
   Thief:
     - lol
+    - Wind
   Black-Mage:
     - Break-Rods
     - Elemental
     - Heavyscammer
+    - Wind
   White-Mage:
     - Healing
     - Staff
     - Inflict-Confuse
     - Inflict-Berserk
+    - Wind
   Blue-Mage:
     - Shield
     - Break-Rods
     - Heavyscammer
     - Inflict-Berserk
     - Healing
+    - Wind
   Mystic-Knight:
     - Elemental
     - Shield
+    - Water
   Time-Mage:
     - Staff
     - Break-Rods
+    - Water
   Summoner:
     - Break-Rods
     - Elemental
     - Heavyscammer
+    - Water
   Red-Mage:
     - Break-Rods
     - Staff
     - Inflict-Confuse
     - Healing
+    - Water
   Berserker:
     - Shield
     - Heavyscammer
     - Pierce-Def
+    - Water
   Beastmaster:
     - Crown
     - Heavyscammer
+    - Fire
   Geomancer:
     - lol
+    - Fire
   Ninja:
     - Elemental
+    - Fire
   Bard:
     - Crown
+    - Fire
   Ranger:
     - Pierce-Def
     - Elemental
+    - Fire
   Samurai:
     - Shield
     - Heavyscammer
     - Pierce-Def
+    - Earth
   Dragoon:
     - Shield
+    - Earth
   Dancer:
     - Inflict-Confuse
+    - Earth
   Chemist:
     - Healing
     - Crown
     - Staff
     - Inflict-Berserk
     - Heavyscammer
+    - Earth
