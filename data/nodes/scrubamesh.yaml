@@ -5,4 +5,7 @@ scrubamesh:
     previous-nodes:
     - meatcastle
   Generic:
-  - foo
+  - "13000 effective HP, spams the same old Blue Magic + new status aliments."
+  - "Totally optional, if you don't need Excalipoor or the Genji Helmet."
+  Beastmaster:
+  - "Beastmasters can go downstairs and grab a Yellow Dragon, which will carve off 8192 HP from Gil."

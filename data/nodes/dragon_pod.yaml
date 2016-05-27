@@ -5,4 +5,27 @@ dragon_pod:
     previous-nodes:
     - val
   Generic:
-  - foo
+  - "12000 HP, summons 100 HP adds that inflict various status effects."
+  - "Most parties will either clear adds with heavy AoE, or abuse the plant's lack of Heavy."
+  - "Worst case scenario: the Bone Mail shuts down almost everything the plants and flowers have."
+  - "Only the second flower from the left inflicts an aliment (paralyze) that the Bone Mail doesn't nullify."
+  Monk:
+  - "This battle is probably the Monk's last gasp at viability: repeatedly clearing tiny adds is what they're best at."
+  INTERSECTION Black-Mage Summoner Ninja:
+  - "Any powerful target-all spells or scrolls will lock the plant into resummoning its adds."
+  Blue-Mage:
+  - "The plant isn't Heavy, so you can just end this fight with a Death Claw."
+  Berserker:
+  - "If you can clear out the adds, your Berserker will eventually kill the plant with a Death Sickle."
+  Beastmaster:
+  - "Aquathorns from the swamps around Val cast an instant death spell when !released, which will work."
+  - "It's only single-target, so kill the flowers manually first."
+  Mystic-Knight:
+  - "Drain Sword bypasses the no-healing property of Bone Mail, allowing for an effortless Mystic Knight solo."
+  Chemist:
+  - "You can hit the plant with a Death Potion (Dark Matter + Phoenix Down) for a 100% kill."
+  - "If the rest of your party is good, though, it's a waste of a dark matter."
+  Bard:
+  - "Bards can Stop all the flowers at once with !Sing."
+  INTERSECTION Red-Mage White-Mage:
+  - "Landing Berserk on the flower will cause it to stop resummoning its adds."
