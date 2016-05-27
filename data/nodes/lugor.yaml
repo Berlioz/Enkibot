@@ -5,4 +5,25 @@ lugor:
     previous-nodes:
     - bridgeamesh
   Generic:
-  - foo
+  - "Lugor can get kind of expensive, depending on your classes and whether you need to buy weapons."
+  White-Mage:
+  - "The magic store sells Blink and Shell, the latter of which is vital for several bosses."
+  INTERSECTION Black-Mage Mystic-Knight:
+  - "The magic store sells Drain, Break, and Bio, which are pretty fun on Black Mages and very fun on Mystic Knights."
+  Time-Mage:
+  - "The magic store sells Comet (your Time Mage's first non-rod offensive spell) and some other trash."
+  UNION Time-Mage Thief:
+  - "Since you have Time Mage and Thief, you can use the Return spell to keep trying for an annoying steal."
+  Chemist:
+  - "This is the first chance for Chemists to stock up on the disgustingly broken drink items."
+  Summoner:
+  - "Summoners can buy a Gaia Gear here, which boosts earth damage by 50%."
+  - "Boosted Titans are going to be your mainstay for a long time."
+  Beastmaster:
+  - "Beastmasters might want to consider making an early visit to the Sealed Castle."
+  - "They can !control the Shield Dragons in there for easy kills, and stupid amounts of AP and XP this early."
+  Generic`:
+  - "The undead dinosaur in the underground passage isn't even a boss. Just Phoenix Down him and move on."
+  - "In the Moogle Villiage, you can get the Dancing Dagger, which is primarily useful for letting anyone Confuse."
+  Blue-Mage:
+  - "Your Blue Mage can finally learn most !control-only spells, even if you don't have a Beastmaster."

@@ -1,8 +1,17 @@
 ---
-azulmagia:
+Azulmagia/Apocalypse:
   Metadata:
     next-node: catastrophe
     previous-nodes:
     - exdeaths_castle
   Generic:
-  - foo
+  - "27900 HP, casts only !Blue spells."
+  - "Go in with an odd level not divisible by 5 (he doesn't know L3 Flare) to neuter his Level X spells."
+  - "Technically optional; all you get from him is a save point."
+  Break-Rods:
+  - "He's weak to poison, so you can just snap a ton of Venom Rods over his head and be done with it."
+  - "The Wonder Rod will also let you Reflect him if you have it, which is super funny when he Mighty Guards."
+  Blue-Mage:
+  - "Your Blue Mage can actually 'teach' him a few spells, causing him to try it out on you."
+  - "You can teach him Exploder ahahahahahah i'm serious do it."
+  - "But first, check if there's any good !Blue spells he uses that you missed; you can learn them here."

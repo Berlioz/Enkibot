@@ -1,4 +1,13 @@
-The Desert of Shifting Beastmasters:
+The Desert of Shifting Sands:
   Metadata:
     next-node: crayclaw
     previous-nodes: ['sandworm']
+  UNION Thief Dragoon:
+    - "If you have both Thief and Dragoon, you should steal a Javelin from the Sand Bears here."
+  Beastmaster:
+    - "Get used to coming back here to !capture more Sand Bears before every hard boss fight for the rest of W1."
+    - "When !released, they cast Right Claw for ~2200 damage, which is kind of a lot in W1."
+  Generic:
+    - "To get the treasure chests in the airship hanger, answer no when you interact with the switch, THEN yes."
+  INTERSECTION White-Mage Red-Mage:
+    - "Make sure you don't miss the !white spell Mini in one of them."

@@ -5,4 +5,12 @@ antlion:
     previous-nodes:
     - exdeath_w2
   Generic:
-  - foo
+  - "8100 HP, Bartz and Krile only."
+  - "Pain in the ass if your offense is slow, since he spams Dischord (level half) which makes it slower."
+  INTERSECTION Red-Mage White-Mage:
+  - "Berserking him and dealing with the physical attacks is probably the easiest path with a White Mage."
+  - "Blinding him would also basically neuter his offense."
+  Geomancer:
+  - "If you didn't plan ahead, the only available !release is from the trapped chest in Tule's training house."
+  Blue-Mage:
+  - "1000 Needles at least isn't affected by your levels. 8 and spare change will kill Antlion."

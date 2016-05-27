@@ -3,7 +3,7 @@ bridgeamesh:
   Metadata:
     next-node: lugor
     previous-nodes:
-    - galufamesh
+    - galuf_castle
   Generic:
   - "6500 HP, goes super saiyan by casting haste+armor+shell at 2500 and starts spamming jump."
   - "This fight is much, much easier if you can prevent the buffs from being cast."

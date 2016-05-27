@@ -5,4 +5,22 @@ melusine:
     previous-nodes:
     - pyramid
   Generic:
-  - foo
+  - "20000 HP, swaps between thunder/ice/fire/physical weakness."
+  - "When in elemental-weak form, has stupid physical defense and spams the NON-WEAK elements at party."
+  - "When in physical-weak form, has 0 defense/evasion."
+  - "Always begins weak to fire."
+  - "Your Chicken Knife wielder will always be able to pierce her physical defenses."
+  - "Reflect Rings make it impossible to die, but be aware it'll let her heal herself occasionally with absorbs."
+  INTERSECTION Red-Mage White-Mage:
+  - "Congratulations, you've found the one time in the game the !White spell Libra is useful."
+  - "You can also neuter her offense with Shell, or stick Silence onto her."
+  Blue-Mage:
+  - "The Blue Mage !Scan ability will let you determine which form she changed to."
+  - "Aqua Rake is non-elemental, giving you a way to hit the magic-vulnerable forms."
+  Time-Mage:
+  - "Your Time Mage can Stop or Slow her once she's in a vulnerable form."
+  Mystic-Knight:
+  - "Silence Blade will always work on Melusine, which makes the fight easier to just bum rush."
+  Ranger:
+  - "!X-fight ignores enemy defense; spamming it with the Chicken Knife lets you ignore fight mechanics for this boss."
+  - "(also, most of the rest of the game)"

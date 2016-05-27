@@ -5,4 +5,15 @@ apanda:
     previous-nodes:
     - omega
   Generic:
-  - foo
+  - "22200 HP, Byblos 2.0, counterattack routines and all."
+  - "You have a few more options available to you than against Byblos, though..."
+  - "Keep a weak weapon on hand to break the Confuse status effects he inflicts."
+  Elemental:
+  - "Any source of Fire damage will let you put him down very quickly."
+  INTERSECTION White-Mage Red-Mage:
+  - "White (and Red) mages can Berserk and Blind him, which pretty much neuters him."
+  Summoner:
+  - "Casting Ifrit on him causes him to waste a few turns and disables his counterattacks."
+  Beastmaster:
+  - "You can blast through him (and basically everything else in the castle) by releasing a Great Dragon."
+  - "You can find them in the Caves in the X-Zone, and they !release for 9999 damage."
