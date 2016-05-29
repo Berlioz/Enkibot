@@ -13,16 +13,13 @@ Class Tips:
     - "Monks do amazing damage at first, but rapidly taper off after World 1."
     - "Barehanded attacks can crit, allowing you to penetrate high physical defense."
     - "HP+XX% abilities can allow your squishier classes to survive the final boss' Almagests."
-    - "The Deep Sea Trench has an item that can boost your monk's damage output, but not by enough."
-    - "Most parties will just use their monk as a very durable itembot later in the game."\
+    - "The Deep Sea Trench has the Kaiser Knuckles which can boost your monk's damage output, but not by enough."
+    - "Seriously, you can't wear them together with Hermes Sandals, so they're pretty much trash."
+    - "Most parties will just use their monk as a very durable itembot later in the game."
   Thief:
     - "Thieves have access to some very good stuff early on."
-    - "Poltergeists and Ramuh for World 1 High-Potions."
-    - "Objet D'Arts in Val for Twin Lance, a great early Thief weapon. Rare steal."
-    - "Red Dragons in trapped chests in Barrier Tower: Flame Ring. Run to reset encounter."
-    - "Halicarnassus, the X-Zone Castle boss: a second/third Aegis Shield."
-    - "Crystal Dragons in the last dungeon: Elixirs as a common steal (!!)"
-    - "Gilgamesh in most of his encounters: pieces of the Genji heavy armor set."
+    - "Unfortunately, bad stats and garbage gear options probably make Thief the worst of the Wind jobs overall."
+    - "I'll try to note particuarily juicy steals as the walkthrough goes on.""
     - "Lastly, remember that the Thief's !Mug ability is a safe way to use the Chicken Knife."
   Black-Mage:
     - "Black Mages should remember Rods also enhance the power of elemental spells by +50%."
@@ -48,17 +45,18 @@ Class Tips:
     - "Special shoutout to the Death Sickle you can farm in late World 1."
     - "It can cast Doom when it hits, and you can scam instant kills on a lot of bosses with it."
     - "Special comedy option: berzerkers with a mage command are brutal with a Rune Axe equipped."
+    - "That's 'comedy' as in 'it's comedic how fast the boss melts', by the way."
   Mystic-Knight:
-    - "Mystic Knight is completely broken.
+    - "Mystic Knight is completely broken."
     - "Status effect sword magic has a 100% chance to land for all non-immune enemies."
     - "Several bosses have status effect 'immunity' via high magic evade; you ignore that."
     - "Level-3 elemental swords instantly kill anything with a weakness to it, or do 9999 to Heavy."
     - "If you need to quickly disenchant a sword, just un/re-equip it from the item menu."
   Time-Mage:
-    - "Time Mages may not be able to heal, but they can use the Healing Staff from Tycoon.
+    - "Time Mages may not be able to heal, but they can use the Healing Staff from Tycoon."
     - "The Slow spell is available early and works on, like, everything."
     - "Comet and Meteor do damage independent of your stats/gear and cannot be reflected."
-    - "Time-based effects like regen continue during Quick, making regen a full heal.
+    - "Time-based effects like regen continue during Quick, making regen a full heal."
     - "You can kill anything in the game (very slowly) by casting Quick, snapping a Venom Rod, and fast forwarding."
   Summoner:
     - "Summoners are very strong, but will generally only have one 'good' element at a time."
@@ -90,6 +88,7 @@ Class Tips:
     - "Giving a Ninja a high magic ability like !Summoner or !White makes scrolls completely obscene."
   Bard:
     - "The Bard is secretly one of the best classes in the game."
+    - "Equip Harps transfers great agility and magic, which is nice for Rune Axe zerkers, ninjas, etc."
     - "Love Song and Charm Song are fantastically effective against random encounters."
     - "The stat-boosting songs allow you to steamroll any boss you can stay alive against."
     - "The final boss ain't got nothing on a level 255 party with 99 strength, magic, and speed."
@@ -106,12 +105,14 @@ Class Tips:
     - "A surprising number of bosses are not Heavy, and are therefore vulnerable to this."
   Dragoon:
     - "The dragoon is a beefcake with almsot no dirty tricks available. Vanilla but decent."
-    - "!Lancet is a very good way for any mages you have to restore their own MP mid-fight."
+    - "!Lancet is a last-resort method for any mages you have to restore their own MP mid-fight."
+    - "It's straight up unuseably bad off a Dragoon's innate magic score, though."
     - "Remember that !Jump does full damage when used from the back row."
     - "Careful timing and knowledge of boss patterns also allows you to dodge nasty attacks."
   Dancer:
     - "Dancers are an extremely squishy front-row class which is way too luck-dependent."
     - "But in the 1/4 chance that they roll Sword Dance on !Dance, they're amazing."
+    - "If you got Monk, Barehand is compatible with Sword Dance and really funny, since it can crit."
     - "Certain pieces of gear boost the rate of Sword Dances, amping their lategame offense."
     - "Sword Dance is also, at need, a safe way to wield the Chicken Knife."
     - "The real benefit of rolling Dancer is the ability to learn Equip Ribbon."
@@ -121,6 +122,7 @@ Class Tips:
     - "!Drink allows them to haste themselves and double HP, making survivability easy."
     - "But the real power of the class is in !Mix..."
     - "Their staple is Drain Kiss (Turtle Shell + Maiden's Kiss), which is a fucking power-255 Drain."
+    - "That's stronger than Meteor, Holy, and Flare, available in World 1, and heals the user too."
     - "Turtle Shell mixes can also haste, protect, shell, cure, revive, MP refresh."
     - "!Mix can also give elemental/status immunities and inflict aliments with 100% accuracy."
     - "There are also 'Super Saiyan' strategies wherein a Chemist becomes immune to literally everything using !Mix."
