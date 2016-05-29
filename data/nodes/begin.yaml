@@ -3,7 +3,7 @@ Class Tips:
     next-node: torna
     previous-nodes: []
   Generic:
-    - "Here are some basic general tips based on the classes you've selected.."
+    - "Here are some basic general tips based on the classes you've selected..."
   Knight:
     - "The Knight seems straightforward, but the combo of !Guard + Cover is amazing."
     - "If the party is in critical HP, you ignore all single-target physical attacks."
@@ -19,7 +19,7 @@ Class Tips:
   Thief:
     - "Thieves have access to some very good stuff early on."
     - "Unfortunately, bad stats and garbage gear options probably make Thief the worst of the Wind jobs overall."
-    - "I'll try to note particuarily juicy steals as the walkthrough goes on.""
+    - "I'll try to note particuarily juicy steals as the walkthrough goes on."
     - "Lastly, remember that the Thief's !Mug ability is a safe way to use the Chicken Knife."
   Black-Mage:
     - "Black Mages should remember Rods also enhance the power of elemental spells by +50%."
