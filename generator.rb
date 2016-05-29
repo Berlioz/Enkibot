@@ -2,22 +2,45 @@ require 'yaml'
 require 'set'
 
 class Generator
+  ABBREVIATIONS = {
+    "Knight" => "KGT",
+    "Monk" => "MNK",
+    "Thief" => "THF",
+    "Black-Mage" => "BLM",
+    "White-Mage" => "WHM",
+    "Blue-Mage" => "BLU",
+    "Mystic-Knight" => "MYS",
+    "Time-Mage" => "TIM",
+    "Summoner" => "SUM",
+    "Red-Mage" => "RDM",
+    "Berserker" => "BER",
+    "Beastmaster" => "BST",
+    "Geomancer" => "GEO",
+    "Ninja" => "NIN",
+    "Bard" => "BRD",
+    "Ranger" => "RAN",
+    "Samurai" => "SAM",
+    "Dragoon" => "DRG",
+    "Dancer" => "DNC",
+    "Chemist" => "CHM"
+  }
+
   def initialize(jobs)
     @output = ""
     @tags = Set.new()
-  	@job_data = YAML.load(File.read('data/jobs.yaml'))
-  	jobs.map{|j| j.gsub(" ", "-")}.each do |job|
+    @job_data = YAML.load(File.read('data/jobs.yaml'))
+    jobs.map{|j| j.gsub(" ", "-")}.each do |job|
       if job == "debug"
         add_all_tags
         @tags << "debug"
         break
       end
-  	  @tags << job
+      @tags << job
 
       @job_data['Jobs'][job].each do |tag|
         @tags << tag
       end
-  	end
+    end
   end
 
   def add_all_tags
@@ -30,7 +53,7 @@ class Generator
   end
 
   def get_walkthrough(beginning_node='begin')
-  	generate!(beginning_node) if @output == ""
+    generate!(beginning_node) if @output == ""
     @output
   end
 
@@ -51,15 +74,11 @@ class Generator
     node_data.each do |condition, hints|
       condition = condition.gsub('`', '')
       next if condition == "Metadata"
-      if condition == "Generic" || condition_true?(condition, @tags)
+      if condition == "Generic" || condition_true?(condition)
         hints.each do |hint|
-          if @tags.include?("debug")
-            emit_list_element("[#{condition}] #{hint}")
-          else
-            emit_list_element(hint)
-          end
+          emit_list_element(hint, condition)
         end
-      elsif @tags.include?("debug") && !condition_true?(condition, @tags)
+      elsif @tags.include?("debug") && !condition_true?(condition)
         print "WARNING: condition unreachable: #{condition} in node #{nodename}\n" unless condition.include?("NOT")
       end
     end
@@ -70,18 +89,18 @@ class Generator
   end
 
   # todo: support and, or with more than 2 elements
-  def condition_true?(condition, tags)
+  def condition_true?(condition)
     token = condition.split.first
     if token == 'NOT'
-      return !condition_true?(condition.split[1..-1].join(" "), tags)
-    elsif token == 'UNION' || token == 'AND'
+      return !condition_true?(condition.split[1..-1].join(" "))
+    elsif token == 'UNION'
       subconditions = condition.split[1..-1]
-      return subconditions.all?{|c| condition_true?(c, tags)}
-    elsif token == 'INTERSECTION' || token == 'OR'
+      return subconditions.all?{|c| condition_true?(c)}
+    elsif token == 'INTERSECTION'
       subconditions = condition.split[1..-1]
-      return subconditions.detect{|c| condition_true?(c, tags)}
+      return subconditions.detect{|c| condition_true?(c)}
     else
-      return tags.include?(condition)
+      return @tags.include?(condition)
     end
   end
 
@@ -89,11 +108,29 @@ class Generator
     @output << "## #{contents}\n"
   end
 
-  def emit_list_element(contents)
-    @output << "* #{contents}\n"
+  def emit_list_element(contents, condition)
+    @output << "* #{format_condition(condition)}#{contents}\n"
   end
 
   def emit_paragraph_break()
     @output << "\n"
+  end
+
+  def format_condition(condition)
+    tokens = condition.split(" ")
+    abbreviations = tokens.map{|tok| ABBREVIATIONS[tok]}.compact
+    if abbreviations.length == 0
+      ""
+    else
+      if tokens.first == 'UNION'
+        "[#{abbreviations.join('+')}] "
+      elsif tokens.first == 'INTERSECTION'
+        "[#{abbreviations.join('|')}] "
+      elsif tokens.first == 'NOT'
+        "[!#{abbreviations.join(',')}] "
+      else
+        "[#{abbreviations.join(' ')}] "
+      end
+    end
   end
 end

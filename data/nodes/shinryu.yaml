@@ -5,4 +5,40 @@ shinryu:
     previous-nodes:
     - voidamesh
   Generic:
-  - foo
+  - "Optional superboss; there is no reason other than bragging rights to try this."
+  Dragoon:
+  - "If you want his Dragon Whisker for your Dragoon, remember that you can flee Shinryu."
+  - "There's nothing stopping you from stealing (or Thief Knifing) and running repeatedly."
+  - "xcept basic common sense, i guess."
+  Generic`:
+  - "The vast majority of Shinryu kills are going to involve Berserking him."
+  Time-Mage:
+  - "Exception: quick + venom rod works just fine for Time Mages, if you have the patience."
+  INTERSECTION White-Mage Red-Mage:
+  - "Anyone with White Magic can simply cast Berserk on him, of course."
+  Blue-Mage:
+  - "Blue Mages can berserk him with the Moon Flute spell."
+  Break-Rods:
+  - "Anyone who can use a Rod can (eventually) land Berserk on him with the Wonder Rod."
+  Staff:
+  - "Staff-users can swing away with the Power Staff and hope for a Berserk proc."
+  Chemist:
+  - "Chemists can mix Holy Water + Turtle Shell for a guaranteed Berserk."
+  Generic``:
+  - "You also need some way of surviving incredibly fast one-shot physical attacks."
+  Shield:
+  - "The Aegis Shield + mini status will boost a character's evasion % into the stratosphere."
+  Knight:
+  - "Knights can coverscam Shinryu the same way they would vs. any other berserked enemy."
+  Summoner:
+  - "Summoners can just about keep up with Shinryu's offense using the Golem spell."
+  White-Mage:
+  - "White Mages can neuter berserked Shinryu's offense with the Blink spell."
+  Ninja:
+  - "If you give the Ninja's !Image command to everyone, that'll work just fine."
+  Chemist:
+  - "Chemists can mix a 100% blind with Holy Water + Eye Drops because of course they can."
+  Generic```:
+  - "In the worst case scenario, any class which can wear the Mirage Vest can abuse a bug."
+  - "Changing weapons with a Mirage Vest equipped refreshes the start-of-battle Blink."
+  
