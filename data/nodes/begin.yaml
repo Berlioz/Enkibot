@@ -1,8 +1,126 @@
-Wing Raptor:
+Class Tips:
   Metadata:
     next-node: torna
-    previous-nodes: ['']
+    previous-nodes: []
   Generic:
-    - '"Cloud, attack while its tail is up!"'
+    - "Here are some basic general tips based on the classes you've selected.."
+  Knight:
+    - "The Knight seems straightforward, but the combo of !Guard + Cover is amazing."
+    - "If the party is in critical HP, you ignore all single-target physical attacks."
+    - "This is especially brutal with a way to inflict Berserk."
+    - "(White, Red, and Blue Mages can do so easily; staff and rod-users can later on)."
+  Monk:
+    - "Monks do amazing damage at first, but rapidly taper off after World 1."
+    - "Barehanded attacks can crit, allowing you to penetrate high physical defense."
+    - "HP+XX% abilities can allow your squishier classes to survive the final boss' Almagests."
+    - "The Deep Sea Trench has an item that can boost your monk's damage output, but not by enough."
+    - "Most parties will just use their monk as a very durable itembot later in the game."\
+  Thief:
+    - "Thieves have access to some very good stuff early on."
+    - "Poltergeists and Ramuh for World 1 High-Potions."
+    - "Objet D'Arts in Val for Twin Lance, a great early Thief weapon. Rare steal."
+    - "Red Dragons in trapped chests in Barrier Tower: Flame Ring. Run to reset encounter."
+    - "Halicarnassus, the X-Zone Castle boss: a second/third Aegis Shield."
+    - "Crystal Dragons in the last dungeon: Elixirs as a common steal (!!)"
+    - "Gilgamesh in most of his encounters: pieces of the Genji heavy armor set."
+    - "Lastly, remember that the Thief's !Mug ability is a safe way to use the Chicken Knife."
+  Black-Mage:
+    - "Black Mages should remember Rods also enhance the power of elemental spells by +50%."
+    - "just blow up everything in the game, black magic's damage output is obscene."
+    - "Your currently equipped weapon can be changed from the Item Menu."
+    - "Flare kind of sucks. It's not worth doing Fork Tower for by itself."
+  White-Mage:
+    - "The White Mage's Protect and Shell you to sandbag almost any encounter endlessly."
+    - "Many bosses are vulnerable to the Confuse, Silence, and Berserk status effects."
+    - "Berserk is especially effective when combined with Blink/Image."
   Blue-Mage:
-    - "Don't forget to learn Goblin Punch, Aero, and Vampire for your Blue Mage."
+    - "Blue Mage is completely broken."
+    - "Highlights: one-shot 50+% of the bosses in the game with Dark Spark + L5 Death."
+    - "Goblin Punch is a safe way to wield the Chicken Knife and Excalipoor on a physical class."
+    - "White Wind is the best healing spell in the game, and works on Bonemail wearers."
+    - "L2 Old isn't as impressive as L5 Death, but trivializes several very hard fights."
+    - "Mighty Guard is basically farewell to being worried about straight damage, forever."
+    - "With the wind-boosting Air Lancet, the Aero/ra/ga line of spells is solid damage."
+  Berserker:
+    - "Berserker is, all joking aside, a surprisingly solid class."
+    - "It's when you're assigned multiples that you start having trouble."
+    - "They hit super hard, get plate armor, and can equip daggers if accuracy is a thing."
+    - "Special shoutout to the Death Sickle you can farm in late World 1."
+    - "It can cast Doom when it hits, and you can scam instant kills on a lot of bosses with it."
+    - "Special comedy option: berzerkers with a mage command are brutal with a Rune Axe equipped."
+  Mystic-Knight:
+    - "Mystic Knight is completely broken.
+    - "Status effect sword magic has a 100% chance to land for all non-immune enemies."
+    - "Several bosses have status effect 'immunity' via high magic evade; you ignore that."
+    - "Level-3 elemental swords instantly kill anything with a weakness to it, or do 9999 to Heavy."
+    - "If you need to quickly disenchant a sword, just un/re-equip it from the item menu."
+  Time-Mage:
+    - "Time Mages may not be able to heal, but they can use the Healing Staff from Tycoon.
+    - "The Slow spell is available early and works on, like, everything."
+    - "Comet and Meteor do damage independent of your stats/gear and cannot be reflected."
+    - "Time-based effects like regen continue during Quick, making regen a full heal.
+    - "You can kill anything in the game (very slowly) by casting Quick, snapping a Venom Rod, and fast forwarding."
+  Summoner:
+    - "Summoners are very strong, but will generally only have one 'good' element at a time."
+    - "Remember that you can always snap an elemental rod at need for fire/lightning/ice."
+    - "Air Lancet boosted Syldras are your best offensive option through the endgame."
+    - "This makes the side quests to get Bahamut and Leviathan kind of pointless."
+    - "Don't underestimate Golem: he can singlehandedly neuter physical-heavy bosses."
+    - "...or anyone you can land Berserk on, which Summoners can with the Wonder Rod..."
+  Red-Mage:
+    - "Sorry, Red mage blows, unless you have another mage and the patience for Doublecast."
+    - "By itself, Red Mage's only offense is rod snapping. Stock up."
+    - "There's a surprising amount of utility in low-level White Magic, especially with Doublecast."
+    - "Being able to protect/shell/raise 2 characters in one action is surprisingly good."
+  Beastmaster:
+    - "Beastmaster is completely broken, but it takes significant amounts of effort."
+    - "!Releasing the correct monster will trivialize any boss fight."
+    - "I've tried to note in the individual boss entries the best release I know of."
+  Geomancer:
+    - "hahaha you got Geomancer."
+    - "!gaia sucks"
+    - "bell weapons suck"
+    - "their base stats suck"
+    - "just job fair it"
+  Ninja:
+    - "The Ninja's Dual Wield is as good as ever, especially on other classes."
+    - "Having it on the off-hand is a safe way to wield the Chicken Knife."
+    - "Don't underestimate !Throw. The scrolls have a higher base power than level 3 magic!."
+    - "Remember that most abilities 'grant' a stat increase to go with it."
+    - "Giving a Ninja a high magic ability like !Summoner or !White makes scrolls completely obscene."
+  Bard:
+    - "The Bard is secretly one of the best classes in the game."
+    - "Love Song and Charm Song are fantastically effective against random encounters."
+    - "The stat-boosting songs allow you to steamroll any boss you can stay alive against."
+    - "The final boss ain't got nothing on a level 255 party with 99 strength, magic, and speed."
+  Ranger:
+    - "The Ranger's signature ability is !X-fight/!Rapidfire, which hits 4 times for half damage."
+    - "It also never misses, procs Magic Sword, ignores defense (!) and is Chicken Knife OK (!!)."
+    - "also they can use bows and summon animals like anime saint francis i guess"
+    - "If you're between level 10 and 19, you'll usually get a heal-all effect from !Animals."
+  Samurai:
+    - "The Samurai is basically a big beefcake with a few dirty tricks available at need."
+    - "Katanas can crit, ignoring physical defense."
+    - "!Giltoss/!Zeninage is expensive, but it's amazing all-target damage."
+    - "!Slash/!Ianuki is a fucking 85% chance of instant death to all enemies."
+    - "A surprising number of bosses are not Heavy, and are therefore vulnerable to this."
+  Dragoon:
+    - "The dragoon is a beefcake with almsot no dirty tricks available. Vanilla but decent."
+    - "!Lancet is a very good way for any mages you have to restore their own MP mid-fight."
+    - "Remember that !Jump does full damage when used from the back row."
+    - "Careful timing and knowledge of boss patterns also allows you to dodge nasty attacks."
+  Dancer:
+    - "Dancers are an extremely squishy front-row class which is way too luck-dependent."
+    - "But in the 1/4 chance that they roll Sword Dance on !Dance, they're amazing."
+    - "Certain pieces of gear boost the rate of Sword Dances, amping their lategame offense."
+    - "Sword Dance is also, at need, a safe way to wield the Chicken Knife."
+    - "The real benefit of rolling Dancer is the ability to learn Equip Ribbon."
+    - "Being able to ignore almost all status effects is exactly as dumb as it sounds."
+  Chemist:
+    - "Chemist can solo the game, effortlessly. It's obscene. It makes Blue Mage look bad."
+    - "!Drink allows them to haste themselves and double HP, making survivability easy."
+    - "But the real power of the class is in !Mix..."
+    - "Their staple is Drain Kiss (Turtle Shell + Maiden's Kiss), which is a fucking power-255 Drain."
+    - "Turtle Shell mixes can also haste, protect, shell, cure, revive, MP refresh."
+    - "!Mix can also give elemental/status immunities and inflict aliments with 100% accuracy."
+    - "There are also 'Super Saiyan' strategies wherein a Chemist becomes immune to literally everything using !Mix."
