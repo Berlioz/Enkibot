@@ -12,7 +12,10 @@ istory_falls:
   - "Red Mages will, uh, 'appreciate' the Rune Blade here, which might make them better at killing things than, like, a geomancer."
   - "On second thought, nah."
   UNION Blue-Mage Red-Mage:
-  - "There might be very weird cases where you'd equip the Enhancer, but I can't really think of any frankly."
+  - "The Enhancer available in Istory Falls boosts Magic for your Blue or Red Mages."
+  Mystic-Knight:
+  - "The Enhancer available in Istory Falls is the best Spellsword-compatible weapon that's not a chicken knife."
+  - "That said, A) you probably will be using the chicken knife, and B) you can get more in Exdeaths' Castle."
   Ranger:
   - "Rangers can get the Artemis Bow here, which is a bow that's actually still worse than !x-fighting with the Chicken Knife."
   - "If you've got a second !x-fighter who's using a chicken knife, it's a good consolation weapon though."

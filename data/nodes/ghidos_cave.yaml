@@ -1,8 +1,23 @@
 ---
-ghidos_cave:
+Post-Submarine Questing:
   Metadata:
     next-node: moore
     previous-nodes:
     - atomos
   Generic:
-  - foo
+  - "To advance the plot, take the submarine visit Ghido's Cave."
+  Blue-Mage:
+  - "While you're there, learn Aeroga from the Enchanted Fan metamorph."
+  - "It's by far the most reliable option for Blue Mages to do straight damage."
+  Staff:
+  - "Your staff users may appreciate the Staff of Light that sometimes drops from metamorphs."
+  - "Only the Wyvern-type metamorph will drop it."
+  - "Farming copies to snap may make W2 Exdeath much easier, but it's also completely mind-numbing."
+  Summoner:
+  - Summoners will want to stop by the Northern Island to fight Shoat/Catablopas.
+  - Shoat has only 5000 HP and attacks with weak physicals or Drain.
+  - However, he counterattacks with Petrify. Don't feel afraid to back off and cure.
+  - HP Sap like, say, what a Summoner can inflict by snapping a Venom Rod, gets around this.
+  Chemist:
+  - If you're running low on Turtle Shells for your Chemist, go to the Northern Island where Shoat is.
+  - The Land Turtles here drop more Turtle Shells to fuel your Drain Kiss habit.

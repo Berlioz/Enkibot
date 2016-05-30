@@ -481,7 +481,9 @@
 * [RDM|WHM] Landing Berserk on the flower will cause it to stop resummoning its adds.
 
 ## surgate
-* foo
+* You can visit Surgate Castle at this point, but most parties shouldn't bother.
+* [BRD] Bards, however, can learn the incredible Swift Song at Surgate now.
+* [TIM] Time Mages can find the Float spell at Surgate, just in time for W2 Exdeath.
 
 ## boatamesh
 * 8888 HP, mixes up physicals with Missile and Death Claw. Summons Enkidu at 4000.
@@ -491,14 +493,22 @@
 * [CHM] MP draining Gil won't stop him from summoning Enkidu, but it will shut down his offensive casting.
 * [TIM|WHM] Silence from a Time Mage or White Mage will shut down Gil's offense, but Blue Magic can't be silenced.
 * [MYS] Mystic Knights can nail Gil with a Silence sword 
-* [WHM] If Berserked by a White Mage, Gil won't summon Enkidu.
+* [WHM|RDM] If Berserked by a White or Red Mage, Gil won't summon Enkidu.
 * [THF] Make sure to steal a Genji Glove from Gil, if you have anyone who can equip heavy armor.
 * [BST] You can !Control Enkidu lol. WhiteWind the party or just have him Hurricane himself.
 * Enkidu has no immunity to instant death, stuff like !Ianuki, Death Potions, Death Sickles will work on him.
 * ...neither does Gilgamesh, now that I think about it. Poor guy.
 
 ## shield_generator
-* foo
+* The Barrier Tower is a fairly obnoxious dungeon with a lot of loot you want to grab.
+* [BLU] Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility.
+* [BLU] Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka.
+* [KGT] Knights can obtain the Blood Sword here, a weapon which drains HP from its target.
+* [THF] Thieves can get an invaluable Flame Ring from the Red Dragons in trapped chests.
+* [THF] You can flee from a monster-in-a-box to reset the encounter if your steal fails.
+* The first Gold Hairpin, a helm which halves MP consumption, is available here.
+* Most importantly, farm ReflectMages for their Reflect Ring drop here.
+* Unless you have a way to cheese him entirely, you'll need them for World 2 Exdeath.
 
 ## atomos
 * 19997 HP, spams comet until someone dies then starts sucking them in.
@@ -516,8 +526,19 @@
 * [RDM|KGT] !Mineuchi/!SwdSlap is 'fixed' on iOS and wakes sleeping enemies!
 * Most parties without access to a dirty trick can simply win a DPS race against Atomos.
 
-## ghidos_cave
-* foo
+## Post-Submarine Questing
+* To advance the plot, take the submarine visit Ghido's Cave.
+* [BLU] While you're there, learn Aeroga from the Enchanted Fan metamorph.
+* [BLU] It's by far the most reliable option for Blue Mages to do straight damage.
+* Your staff users may appreciate the Staff of Light that sometimes drops from metamorphs.
+* Only the Wyvern-type metamorph will drop it.
+* Farming copies to snap may make W2 Exdeath much easier, but it's also completely mind-numbing.
+* [SUM] Summoners will want to stop by the Northern Island to fight Shoat/Catablopas.
+* [SUM] Shoat has only 5000 HP and attacks with weak physicals or Drain.
+* [SUM] However, he counterattacks with Petrify. Don't feel afraid to back off and cure.
+* [SUM] HP Sap like, say, what a Summoner can inflict by snapping a Venom Rod, gets around this.
+* [CHM] If you're running low on Turtle Shells for your Chemist, go to the Northern Island where Shoat is.
+* [CHM] The Land Turtles here drop more Turtle Shells to fuel your Drain Kiss habit.
 
 ## moore
 * foo
@@ -645,15 +666,17 @@
 * [MNK] hahaha
 * [TIM] Meteor is locked behind the Deep Sea Trench for your Time Mage, which is probably the only time I'd do it personally.
 
-## those_assholes
-* foo
+## Three Stooges
+* The only real reason to fight these guys is if you have a Time Mage, for Meteor.
 
 ## istory_falls
 * Istory Falls isn't useless per-se: there's a lot of good loot in here, but it rarely makes or breaks a run.
 * [SUM] Summoners learn Leviathan here which is...completely useless due to the lack of water-boosting weapons.
 * [RDM] Red Mages will, uh, 'appreciate' the Rune Blade here, which might make them better at killing things than, like, a geomancer.
 * [RDM] On second thought, nah.
-* [BLU+RDM] There might be very weird cases where you'd equip the Enhancer, but I can't really think of any frankly.
+* [BLU+RDM] The Enhancer available in Istory Falls boosts Magic for your Blue or Red Mages.
+* [MYS] The Enhancer available in Istory Falls is the best Spellsword-compatible weapon that's not a chicken knife.
+* [MYS] That said, A) you probably will be using the chicken knife, and B) you can get more in Exdeaths' Castle.
 * [RAN] Rangers can get the Artemis Bow here, which is a bow that's actually still worse than !x-fighting with the Chicken Knife.
 * [RAN] If you've got a second !x-fighter who's using a chicken knife, it's a good consolation weapon though.
 * The Aegis Shield here is the real reason to run Istory: having two Aegis Shields is huge.
@@ -661,14 +684,22 @@
 * And it might be a whole lot of extra work for not that much benefit.
 
 ## leviathan
-* foo
+* Why are you here? The only thing he drops is the Leviathan summon.
+* It's not even better than Syldra, unless you have a Chemist to mix elemental power.
+* ...but then you'd have a Chemist, anyway.
 
-## xzone
-* foo
+## X-Zone/Interdimensional Rift
+* The various zones in the Interdimensional Rift are primarily just filler.
+* I'm trying to think of anything interesting to say about these zones or the trash in it.
+* Three things: get the Coral/Angel Rings in the Caves, get the Ribbon in the Forest, and, uh...
+* ...what's the third one there? uh, not the EPIA.
+* I can't. The third one, I can't. Sorry. Oops.
 
 ## calofisteri
-* Bonemail + Hermes Sandals literally make a character immune to her entire moveset.
+* Wait, it's the Department of Energy!
+* Bonemail + Hermes Sandals literally make a character immune to Calofisteri's entire moveset.
 * Just hold down the Fight button and make a sandwich.
+* Left to her own devices, she will spam Reflects and then start bouncing debuffs and buffs off them.
 
 ## omega
 * Optional superboss; there is no reason other than bragging rights to try this.
@@ -700,8 +731,15 @@
 * [BST] You can blast through him (and basically everything else in the castle) by releasing a Great Dragon.
 * [BST] You can find them in the Caves in the X-Zone, and they !release for 9999 damage.
 
-## exdeaths_castle
-* foo
+## Exdeath's Castle
+* If you have AoE, the 2x Sword Dancer + 2x Death Claw encounter in the lobby is fantastic experience/AP.
+* [MYS] You can rare steal/thief knife an Enhancer Sword from the Sword Dancers, but it's not usually useful.
+* [MYS] Spellsword + Chicken Knife is such a dumb, dumb combination.
+* Make sure you grab a Hermes Sandals from a treasure chest in the Castle; that's 50k gil saved.
+* [DNC] If you still need Red Shoes or Rainbow Dresses, there's one of each in the downstairs cells if you fight the Jura Avis.
+* There is a room in the castle that only has fights with Iron Giants.
+* They're worth 10K experience each but are relatively tough.
+* They only use physical attacks and are vulnerable to instant-kill magic like Odin and Break Blade.
 
 ## Azulmagia/Apocalypse
 * 27900 HP, casts only !Blue spells.
@@ -729,6 +767,8 @@
 * Starts by turning characters into frogs; if you come in with everyone frogged it cures you instead.
 * Casts Holy once every eight turns; having the party Reflected will let you scam an easy kill.
 * In general, only has single-target offense. Any party can sandbag with Phoenix Downs.
+* [SUM] For whatever reason, Halicarnassus counters all offensive summons viciously.
+* [SUM] You can still just spam Carbuncle until it impales itself with Holy, though.
 
 ## TwinTania
 * Enrage is at ~13 minutes; you're on the right track if you see 4 Conflagrations go out during P1.
@@ -745,8 +785,22 @@
 * [THF] Steals vary by form: normal form has a Flame shield and charging form has a Giant Axe.
 * [SAM] If for some reason you still need it, the charging form can rarely drop a Murasame when killed.
 
-## voidamesh
-* foo
+## The Void
+* Most groups will simply want to blast through the Void on the way to NED.
+* The last Gilgamesh fight is basically just a victory lap.
+* He has 7000 effective HP and simply uses unimpressive physical attacks.
+* He has a Genji Shield to steal/thief knfie, but Aegis Shields are better.
+* The vast majority of trash encounters in the Void are brutal; most groups should just flee.
+* EXP/AP/gil is generally easier to get back in the first room of the Castle.
+* [THF] Crystal Dragons in the Void have Elixirs as their common steal (!!). Stock up.
+* [THF] You likely have no more use for them, but more Bone Mails can be stolen from Necromancers.
+* Of note: the random encounter with 3 Moves is 199 AP per fight--but you have to win before they run.
+* They're Heavy, Undead, and vulnerable to Fire.
+* [SUM] If you actually bothered to get Phoenix for your Summoner, now's a good chance to just explode them all.
+* [BLM|MYS] Firaga/Firaga Sword will make quick work of them.
+* [BST] Beastmasters can !Control them and force them to suicide.
+* [TIM] Time Mages can land Slowga on them, or simply quick+venom rod them if you stocked up.
+* [BRD] Bards can vaporize the Movers easily with the Requiem song.
 
 ## shinryu
 * Optional superboss; there is no reason other than bragging rights to try this.
@@ -776,7 +830,10 @@
 * Reflect rings will let you cast on yourself to penetrate the barrier reflect status.
 * The barriers are vulnerable to instant death, which your party is capable of efficiently inflicting.
 * [SAM] Samurai can either use !Ianuki or just !Zeninage the barrier crystals down easily.
-* [SUM] Air Lancet boosted Syldras from your Summoner will let you just DPS race the crystals.
+* [SUM] Air Lancet boosted Syldras from your Summoner will let you just DPS race the barriers.
+* [SUM] If that sounds like too much work, you can also scum Shoat petrifies on the barriers.
+* [SUM] Golem will allow you to almost completely neuter the second phase's offense.
+* [TIM] Remember that the Time Mage's Comet and Meteor ignore reflect statuses.
 * [BST] Beastmasters can release Great Dragons from the X-Zone Caves for a 9999 hit, to quickly thin out the crystals.
 * [BST] Just pray the random target selection doesn't pick Necrophobe himself.
 

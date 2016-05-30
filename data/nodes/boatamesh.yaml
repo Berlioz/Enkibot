@@ -16,8 +16,8 @@ boatamesh:
   - "Silence from a Time Mage or White Mage will shut down Gil's offense, but Blue Magic can't be silenced."
   Mystic-Knight:
   - "Mystic Knights can nail Gil with a Silence sword "
-  White-Mage:
-  - "If Berserked by a White Mage, Gil won't summon Enkidu."
+  INTERSECTION White-Mage Red-Mage:
+  - "If Berserked by a White or Red Mage, Gil won't summon Enkidu."
   Thief:
   - "Make sure to steal a Genji Glove from Gil, if you have anyone who can equip heavy armor."
   Beastmaster:

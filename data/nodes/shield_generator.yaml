@@ -5,4 +5,16 @@ shield_generator:
     previous-nodes:
     - boatamesh
   Generic:
-  - foo
+  - "The Barrier Tower is a fairly obnoxious dungeon with a lot of loot you want to grab."
+  Blue-Mage:
+  - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility."
+  - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka."
+  Knight:
+  - "Knights can obtain the Blood Sword here, a weapon which drains HP from its target."
+  Thief:
+  - "Thieves can get an invaluable Flame Ring from the Red Dragons in trapped chests."
+  - "You can flee from a monster-in-a-box to reset the encounter if your steal fails."
+  Generic`:
+  - "The first Gold Hairpin, a helm which halves MP consumption, is available here."
+  - "Most importantly, farm ReflectMages for their Reflect Ring drop here."
+  - "Unless you have a way to cheese him entirely, you'll need them for World 2 Exdeath."

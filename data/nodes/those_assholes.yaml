@@ -1,8 +1,8 @@
 ---
-those_assholes:
+Three Stooges:
   Metadata:
     next-node: istory_falls
     previous-nodes:
     - sea_trench
   Generic:
-  - foo
+  - "The only real reason to fight these guys is if you have a Time Mage, for Meteor."

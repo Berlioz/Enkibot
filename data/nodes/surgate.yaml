@@ -5,4 +5,8 @@ surgate:
     previous-nodes:
     - dragon_pod
   Generic:
-  - foo
+  - "You can visit Surgate Castle at this point, but most parties shouldn't bother."
+  Bard:
+  - "Bards, however, can learn the incredible Swift Song at Surgate now."
+  Time-Mage:
+  - "Time Mages can find the Float spell at Surgate, just in time for W2 Exdeath."
