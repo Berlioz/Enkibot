@@ -4,6 +4,8 @@ Ronka Ruins:
     previous-nodes: ['soulcannon']
   Generic:
     - "Don't hit the speed trap!"
+  Knight:
+    - "The Ancient Sword in Ronka is both a great Knight weapon and a way to inflict Old."
   UNION Dancer Thief:
     - "Dance + Thief parties should steal a Lamia's Tiara from Lamias here, which boosts Sword Dance's proc rate."
   Blue-Mage:

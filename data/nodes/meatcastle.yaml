@@ -7,3 +7,24 @@ meatcastle:
   Staff:
   - "To save yourself time in world 3, farm a Power Staff from Black Warlocks."
   - "It casts Berserk when wielded, which has a number of obscure but quite useful applications."
+  UNION Staff Thief:
+  - "Your Thief can also steal a Judge Staff from the very same Black Warlocks."
+  - "It casts Dispel when wielded, which has a number of not-very-obscure applications."
+  Shield:
+  - "Shield-users will appreciate the Ice Shield in a chest here, or at least they would if not for the Aegis."
+  Blue-Mage:
+  - "Magic Dragons cast three Blue Magic spells you theoretically should have, but may have missed:"
+  - "Aeroga, Guard-off, and Level 2 Old all had slightly annoying conditions to obtain the first time around."
+  Ranger:
+  - "You'll have to walk in lava to get the Gale/Hayate bow here, but it's worth it."
+  Knight:
+  - "The Blizzard knightsword isn't very good, but in conjuction with an Ice Shield it lets your Knight heal themself."
+  INTERSECTION Ninja Thief:
+  - "Ninjas and Thieves will appreciate the Double Lance weapon in a chest near the end."
+  Summoner:
+  - "Summoners can get the Carbuncle summon by defeating it in a small boss fight after the final save point."
+  - "Carbuncle is almost impossible to kill, but transforms into a weaker healing form after casting 3 spells on you."
+  - "The healing form is not Heavy and is vulnerable to Stone. Just wait for it and cast Shoat."
+  NOT Summoner:
+  - "There's no real point to fighting Carbuncle if you don't have Summoner; it can be a pretty hard fight."
+  

@@ -1,5 +1,5 @@
 ---
-scrubamesh:
+Castlemesh:
   Metadata:
     next-node: exdeath_w2
     previous-nodes:
@@ -7,5 +7,6 @@ scrubamesh:
   Generic:
   - "13000 effective HP, spams the same old Blue Magic + new status aliments."
   - "Totally optional, if you don't need Excalipoor or the Genji Helmet."
+  - "He won't show up in the Void or to help you fight Necrophobia if you skip this, though."
   Beastmaster:
   - "Beastmasters can go downstairs and grab a Yellow Dragon, which will carve off 8192 HP from Gil."

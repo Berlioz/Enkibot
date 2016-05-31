@@ -1,5 +1,5 @@
 ---
-pyramid:
+The Great Pyramid:
   Metadata:
     next-node: melusine
     previous-nodes:
@@ -11,6 +11,8 @@ pyramid:
   - "White magic is particularily strong here."
   - "You can use Blind, Protect, and Blink to completely shut off their offense."
   - "Then simply Berserk them to stop them from reviving each other and go to town."
+  Blue-Mage:
+  - "Blue Mages can inflict Berserk on the Gargoyles to stop their revivals."
   Generic`:
   - "For subsequent rematches: you can always use a Magic Lamp Odin to kill them."
   INTERSECTION Thief Ninja:
@@ -24,7 +26,7 @@ pyramid:
   - "The Earth Hammer, an axe you can find here, is very powerful with a mage secondary."
   - "On the SNES, it's possible for a berzerker to underflow into 255 magic."
   Dancer:
-  - "Another Ribben can be found in a chest late in the Pyramid."
+  - "Another Ribbon can be found in a chest late in the Pyramid."
   Chemist:
   - "There are total of six Dark Matters in a chest here, which should be more than enough."
   - "If you need more, Prototype Island close to Crescent is still around."
