@@ -5,4 +5,39 @@ airship_w3:
     previous-nodes:
     - sealed_castle
   Generic:
-  - foo
+  - "There are a lot of interesting things to do now that you have a working Airship."
+  - "In a forest on an island to the south of the world, you can visit the Phantom Village."
+  - "The stores there sell stupendously valuable gear, with a price tag to match."
+  - "The Weapon shop is disappointing, since you just got done raiding a cache of legendary weapons."
+  - "The Magic Shop sells some fantastic spells, if you have White/Black/Time Mages."
+  White-Mage:
+  - "Arise and Dispel will both come in handy in upcoming boss fights."
+  Black-Mage:
+  - "Black Mages kind of get the short end of the stick with Doom and Aspir."
+  Time-Mage:
+  - "Quick is fucking obscene, even without Venom Rod abuse. Just bring a Gold Hairpin."
+  Generic``:
+  - "The Accessory Shop sells WingedShoes/Hermes Sandals for 50K each."
+  - "They grant Haste and Stop immunity and are a steal at 50K. Buy 3; there's a free one later."
+  Bard:
+  - "The last Piano also happens to be in the Phantom Village, hidden carefully. Sneaky."
+  Generic```:
+  - "Lastly, don't forget the Thief's Knife at the bar, which lets anyone steal from enemies."
+  - "You can grab Boko back from where you parked him near Ghido's Cave."
+  - "You can ride him all the way to the top of Istory Falls, to find the Magic Lamp."
+  - "The Magic Lamp allows non-Summoners to use summons, with some conditions. It's vital."
+  Summoner:
+  - "Summoners get a pretty damn good prize too: in Faris' old hideout, you can get the Syldra summon."
+  - "When boosted with the Air Lancet, it's the strongest summon in the game. Better than Bahamut or Leviathan."
+  - "You can also visit Val Castle's basement to get the Odin summon, but you could also just Magic Lamp it."
+  Blue-Mage:
+  - "Blue Mages can and should learn Mighty Guard from Stingrays, a rare encounter in the water south of the huge desert."
+  - "It's a Control-only spell, so the easiest way to pick it up is with a Beastmaster."
+  - "Otherwise, you'll have to Confuse it with White Magic/!mix, or use a Dancing Dagger."
+  Beastmaster:
+  - "The Stingray, a rare encounter in the water south of the huge desert, has the strongest whip in the game as a drop."
+  - "Of course, it's a rare encounter and a rare drop, so you may want to skip it."
+  Bard`:
+  - "The Minstrel in Crescent Island will teach you the PowerSong if you've hit all seven pianos."
+  Dancer:
+  - "Your Dancers (and Equip Ribbon-havers) will appreciate the Ribbon a girl in Regole will give you."

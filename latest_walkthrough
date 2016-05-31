@@ -541,7 +541,18 @@
 * [CHM] The Land Turtles here drop more Turtle Shells to fuel your Drain Kiss habit.
 
 ## moore
-* foo
+* Moore town, in general, has some pretty good buys for your casters.
+* [BLU+SUM] Air Lancets boost wind damage by 50%, making them immediately useful for Blue Mages.
+* [BLU+SUM] Summoners will be able to abuse this too, but not until the last world.
+* [WHM] Curaga, Berserk, and Reflect all allow you to cheese fights in various hilarious ways.
+* [BLM] YUP. FINALLY YOU GET THE -AGA BLACK MAGE SPELLS.
+* [TIM] The various spells Time Mages can learn here are nice, but the real winner is Hastega.
+* Every single goddamn encounter in Moore Forest is fucking infuriating and you should run from them all.
+* [BRD] Exception: bards can spam Love Songs to inflict Stop; every random encounter is vulnerable to it.
+* You'll have to make a choice here between the Aegis Shield and the Flame Shield.
+* Any party which can actually equip them will want to pick the Aegis Shield, which is much much better.
+* Exception: your party has literally no other way to beat the upcoming Seal Crystals fight...
+* ...and you forgot to buy the Flame Ring in World 1. A certain famous streamer pulled that one...
 
 ## seal_crystals
 * 7777 HP each, not Heavy, virtually immune to %M-EVD subject spells.
@@ -593,11 +604,30 @@
 * [GEO] If you didn't plan ahead, the only available !release is from the trapped chest in Tule's training house.
 * [BLU] 1000 Needles at least isn't affected by your levels. 8 and spare change will kill Antlion.
 
-## chicken_knife
-* foo
+## Did You Get The Chicken Knife?????
+* I've put an entire entry in here to remind you to get the Chicken Knife.
+* It's in a hidden passage behind the shed next to the Pub in Moore.
+* If you play like I do, the Chicken Knife is probably at 127 power already.
+* Otherwise just run away from random encounters under fast-forward until it is.
+* [THF|NIN] You can also find a trapped chest and repeatedly !Flee or !Smoke out.
+* [THF|NIN] There's a conviniently trapped chest that you can pull this on in the next dungeon.
 
 ## pyramid
-* foo
+* To get in, you'll have to beat 2 5000 HP Gargoyles which use physical attacks.
+* They revive each other, so you need to kill simultaneously or use debilitating effects.
+* [WHM|RDM] White magic is particularily strong here.
+* [WHM|RDM] You can use Blind, Protect, and Blink to completely shut off their offense.
+* [WHM|RDM] Then simply Berserk them to stop them from reviving each other and go to town.
+* For subsequent rematches: you can always use a Magic Lamp Odin to kill them.
+* [THF|NIN] Because of the Lemures and knockoff-Omegas in here, !Flee and !Smoke are really good.
+* [BRD] Many of the random encounters in here are Undead, making Requiem very handy.
+* The White Robe you can find in here is probably the best caster armor in the game.
+* You can also get a Black Robe, which trades in some survivability for more magic.
+* [BER] The Earth Hammer, an axe you can find here, is very powerful with a mage secondary.
+* [BER] On the SNES, it's possible for a berzerker to underflow into 255 magic.
+* [DNC] Another Ribben can be found in a chest late in the Pyramid.
+* [CHM] There are total of six Dark Matters in a chest here, which should be more than enough.
+* [CHM] If you need more, Prototype Island close to Crescent is still around.
 
 ## melusine
 * 20000 HP, swaps between thunder/ice/fire/physical weakness.
@@ -634,7 +664,31 @@
 * [GEO] The Gaia Bell is actually garbage.
 
 ## airship_w3
-* foo
+* There are a lot of interesting things to do now that you have a working Airship.
+* In a forest on an island to the south of the world, you can visit the Phantom Village.
+* The stores there sell stupendously valuable gear, with a price tag to match.
+* The Weapon shop is disappointing, since you just got done raiding a cache of legendary weapons.
+* The Magic Shop sells some fantastic spells, if you have White/Black/Time Mages.
+* [WHM] Arise and Dispel will both come in handy in upcoming boss fights.
+* [BLM] Black Mages kind of get the short end of the stick with Doom and Aspir.
+* [TIM] Quick is fucking obscene, even without Venom Rod abuse. Just bring a Gold Hairpin.
+* The Accessory Shop sells WingedShoes/Hermes Sandals for 50K each.
+* They grant Haste and Stop immunity and are a steal at 50K. Buy 3; there's a free one later.
+* [BRD] The last Piano also happens to be in the Phantom Village, hidden carefully. Sneaky.
+* Lastly, don't forget the Thief's Knife at the bar, which lets anyone steal from enemies.
+* You can grab Boko back from where you parked him near Ghido's Cave.
+* You can ride him all the way to the top of Istory Falls, to find the Magic Lamp.
+* The Magic Lamp allows non-Summoners to use summons, with some conditions. It's vital.
+* [SUM] Summoners get a pretty damn good prize too: in Faris' old hideout, you can get the Syldra summon.
+* [SUM] When boosted with the Air Lancet, it's the strongest summon in the game. Better than Bahamut or Leviathan.
+* [SUM] You can also visit Val Castle's basement to get the Odin summon, but you could also just Magic Lamp it.
+* [BLU] Blue Mages can and should learn Mighty Guard from Stingrays, a rare encounter in the water south of the huge desert.
+* [BLU] It's a Control-only spell, so the easiest way to pick it up is with a Beastmaster.
+* [BLU] Otherwise, you'll have to Confuse it with White Magic/!mix, or use a Dancing Dagger.
+* [BST] The Stingray, a rare encounter in the water south of the huge desert, has the strongest whip in the game as a drop.
+* [BST] Of course, it's a rare encounter and a rare drop, so you may want to skip it.
+* [BRD] The Minstrel in Crescent Island will teach you the PowerSong if you've hit all seven pianos.
+* [DNC] Your Dancers (and Equip Ribbon-havers) will appreciate the Ribbon a girl in Regole will give you.
 
 ## island_shrine
 * Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not.
@@ -642,7 +696,15 @@
 * It is also required for Fork Tower and thus Istory Falls and the Deep Sea Trench.
 
 ## wendigo
-* foo
+* 20000 HP, uses physical attacks and Hurricane/Mind Blast/Confuse.
+* Attacking the wrong one does no damage.
+* They respond to multi-target attacks with an Ice-element counter.
+* If you have Fire Rings or Ice Shields, you can just blast away to your heart's content.
+* [THF] Thieves can steal an Ice Shield from Slownin enemies in this dungeon.
+* [WHM] Your White Mage can simply Shell up and heal through the counterattacks.
+* [BLU] With Mighty Guard and White Wind, you kind of don't care about the counterattacks.
+* [BLU] See if you can learn Mind Blast from the Wendigo while you're here.
+* Otherwise, just use trial and error with powerful single target blows.
 
 ## fork_tower
 * Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not.
@@ -654,8 +716,23 @@
 * [MYS] Mystic Knights can also use Holy Blade, which is useful-ish like once (Twin Tania) but it's really funny.
 * Classes that need no special Fork Tower loot will often want to skip it, since frankly Istory Falls and the Deep Sea Trench suck.
 
-## omniscient
-* foo
+## Minotauros + Omniscient
+* Dual boss; you have to split up your parties for this.
+* {"Minotaur is easy even for mages"=>"just whittle him down with Chicken Knfie and potions."}
+* Just don't be afraid to back off on dps, since he counters with more physical attacks.
+* Omniscient Resets if a physical command is used on him, unless silenced or berserked.
+* His entire offense is neutralized by Reflect Rings, but you still need a way to kill him.
+* [WHM] White Mages can simply land Berserk on him and then spam Blink.
+* [WHM] The latter bit is important, he hits like a freight train loaded with bricks.
+* [GEO] http://i.imgur.com/JkwTg5O.png
+* [CHM] Offensive mixes will cause Omniscient to reset the battle.
+* [CHM] That said, you can just blind + berserk him trivially.
+* SNAPPING RODS COUNTS AS A PHYSICAL ATTACK (somehow)
+* Failing any other way to do this, there are three general strategies.
+* 1) With Reflect Ring+Mage Masher reflect Silence onto Omniscient by attacking yourself.
+* 2) With a Reflect Ring+Bone Mail, just wait for him to impale himself on yourself.
+* 3) With a Reflect Ring, wait out his 30,000 MP. This may happen before (2) does.
+* All of these options are Super Bullshit 64 and you should seriously consider if you need to do Fork Tower at all.
 
 ## sea_trench
 * It's pretty rare for any Fiesta party to care about the Deep Sea Trench. Consider skipping it.
@@ -667,7 +744,16 @@
 * [TIM] Meteor is locked behind the Deep Sea Trench for your Time Mage, which is probably the only time I'd do it personally.
 
 ## Three Stooges
+* 13333 HP each, primarily attack with not super dangerous black magic.
 * The only real reason to fight these guys is if you have a Time Mage, for Meteor.
+* They're Undead and not Heavy, so you can one-shot them with Phoenix Downs...
+* ...but they'll revive each other, so you need to either stun then or use target-all.
+* The easiest way to do this is to summon Odin from the Magic Lamp for a triple kill.
+* [BRD] The Bard's Requiem song is, as you might expect, completely disgusting here.
+* [WHM] Don't forget that White Mages can spam target-all Curagas on them.
+* [BER] If you're going to fight it out, for the love of god kill/blind your berserker.
+* [BLM] Be careful with group-cast black magic: each stooge absorbs the element he uses.
+* [MYS] If you can volley three off at once, you can kill them instantly with Break Blade.
 
 ## istory_falls
 * Istory Falls isn't useless per-se: there's a lot of good loot in here, but it rarely makes or breaks a run.
@@ -687,12 +773,13 @@
 * Why are you here? The only thing he drops is the Leviathan summon.
 * It's not even better than Syldra, unless you have a Chemist to mix elemental power.
 * ...but then you'd have a Chemist, anyway.
+* If you insist on fighting this out, bring Coral Rings.
 
 ## X-Zone/Interdimensional Rift
 * The various zones in the Interdimensional Rift are primarily just filler.
 * I'm trying to think of anything interesting to say about these zones or the trash in it.
 * Three things: get the Coral/Angel Rings in the Caves, get the Ribbon in the Forest, and, uh...
-* ...what's the third one there? uh, not the EPIA.
+* ...what's the third one there? uh, not the EPA.
 * I can't. The third one, I can't. Sorry. Oops.
 
 ## calofisteri

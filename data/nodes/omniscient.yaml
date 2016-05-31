@@ -1,8 +1,29 @@
 ---
-omniscient:
+Minotauros + Omniscient:
   Metadata:
     next-node: sea_trench
     previous-nodes:
     - fork_tower
   Generic:
-  - foo
+  - Dual boss; you have to split up your parties for this.
+  - Minotaur is easy even for mages: just whittle him down with Chicken Knfie and potions.
+  - Just don't be afraid to back off on dps, since he counters with more physical attacks.
+  - Omniscient Resets if a physical command is used on him, unless silenced or berserked.
+  - His entire offense is neutralized by Reflect Rings, but you still need a way to kill him.
+  White-Mage:
+  - White Mages can simply land Berserk on him and then spam Blink.
+  - The latter bit is important, he hits like a freight train loaded with bricks.
+  Geomancer:
+  - http://i.imgur.com/JkwTg5O.png
+  Chemist:
+  - Offensive mixes will cause Omniscient to reset the battle.
+  - That said, you can just blind + berserk him trivially.
+  Break-Rods:
+  - SNAPPING RODS COUNTS AS A PHYSICAL ATTACK (somehow)
+  Generic`:
+  - Failing any other way to do this, there are three general strategies.
+  - 1) With Reflect Ring+Mage Masher reflect Silence onto Omniscient by attacking yourself.
+  - 2) With a Reflect Ring+Bone Mail, just wait for him to impale himself on yourself.
+  - 3) With a Reflect Ring, wait out his 30,000 MP. This may happen before (2) does.
+  - All of these options are Super Bullshit 64 and you should seriously consider if you need to do Fork Tower at all.
+

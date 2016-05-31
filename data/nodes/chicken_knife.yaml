@@ -1,8 +1,14 @@
 ---
-chicken_knife:
+Did You Get The Chicken Knife?????:
   Metadata:
     next-node: pyramid
     previous-nodes:
     - antlion
   Generic:
-  - foo
+  - "I've put an entire entry in here to remind you to get the Chicken Knife."
+  - "It's in a hidden passage behind the shed next to the Pub in Moore."
+  - "If you play like I do, the Chicken Knife is probably at 127 power already."
+  - "Otherwise just run away from random encounters under fast-forward until it is."
+  INTERSECTION Thief Ninja:
+  - "You can also find a trapped chest and repeatedly !Flee or !Smoke out."
+  - "There's a conviniently trapped chest that you can pull this on in the next dungeon."

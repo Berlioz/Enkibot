@@ -5,4 +5,25 @@ moore:
     previous-nodes:
     - ghidos_cave
   Generic:
-  - foo
+  - "Moore town, in general, has some pretty good buys for your casters."
+  UNION Blue-Mage Summoner:
+  - "Air Lancets boost wind damage by 50%, making them immediately useful for Blue Mages."
+  - "Summoners will be able to abuse this too, but not until the last world."
+  White-Mage:
+  - "Curaga, Berserk, and Reflect all allow you to cheese fights in various hilarious ways."
+  Black-Mage:
+  - "YUP. FINALLY YOU GET THE -AGA BLACK MAGE SPELLS."
+  Time-Mage:
+  - "The various spells Time Mages can learn here are nice, but the real winner is Hastega."
+  Generic`:
+  - "Every single goddamn encounter in Moore Forest is fucking infuriating and you should run from them all."
+  Bard:
+  - "Exception: bards can spam Love Songs to inflict Stop; every random encounter is vulnerable to it."
+  Generic``:
+  - "You'll have to make a choice here between the Aegis Shield and the Flame Shield."
+  Shield:
+  - "Any party which can actually equip them will want to pick the Aegis Shield, which is much much better."
+  - "Exception: your party has literally no other way to beat the upcoming Seal Crystals fight..."
+  - "...and you forgot to buy the Flame Ring in World 1. A certain famous streamer pulled that one..."
+  NOT Shield:
+  - "If nobody in your party can equip shields, you may as well pick the Flame Shield because it sells for more."

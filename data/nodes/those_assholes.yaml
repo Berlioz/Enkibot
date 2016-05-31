@@ -5,4 +5,18 @@ Three Stooges:
     previous-nodes:
     - sea_trench
   Generic:
+  - "13333 HP each, primarily attack with not super dangerous black magic."
   - "The only real reason to fight these guys is if you have a Time Mage, for Meteor."
+  - "They're Undead and not Heavy, so you can one-shot them with Phoenix Downs..."
+  - "...but they'll revive each other, so you need to either stun then or use target-all."
+  - "The easiest way to do this is to summon Odin from the Magic Lamp for a triple kill."
+  Bard:
+  - "The Bard's Requiem song is, as you might expect, completely disgusting here."
+  White-Mage:
+  - "Don't forget that White Mages can spam target-all Curagas on them."
+  Berserker:
+  - "If you're going to fight it out, for the love of god kill/blind your berserker."
+  Black-Mage:
+  - "Be careful with group-cast black magic: each stooge absorbs the element he uses."
+  Mystic-Knight:
+  - "If you can volley three off at once, you can kill them instantly with Break Blade."
