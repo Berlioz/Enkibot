@@ -10,6 +10,10 @@ ArchaeoAvis:
     - "F4: 1600 HP, absorbs lightning, not Heavy, inflicts paralysis."
     - "F5: 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm."
     - "Magic-heavy teams may have to knife the last form to death painfully and slowly."
+  Berserker:
+    - "Since berserker axes mostly ignore defense, they can reliably damage all five forms."
+  Ninja:
+    - "Water Scrolls are solid offense against the first four forms; he'll never absorb Water."
   Monk:
     - "If you can kill a form with a Monk's Counter, it skips the trigger that causes the next form to spawn."
   Time-Mage:
@@ -27,3 +31,4 @@ ArchaeoAvis:
     - "Unless you're on iOS hahaha fuck you they 'fixed' that."
   Beastmaster:
     - "You can use Bearagas on the first and last form, which can otherwise give beastmaster parties trouble."
+    - "If you don't have Sand Bears stocked, the Ronka Knights in here still !release for ~1500."

@@ -13,11 +13,18 @@ Purobolos:
     - "If you don't want to just spam rods, Aqua Rake works pretty great here too."
   Samurai:
     - "They're not heavy hahahaha you can just !Ianuki them repeatedly."
+    - "Or just kill them all with one or two gil tosses, though that's expensive."
+  Ninja:
+    - "Spamming a few scrolls on them, especially with a mage subability, will make quick work this fight."
   Beastmaster:
     - "Beastmasters have it super-easy here: they can just !Control the bombs and have them Exploder each other."
   White-Mage:
     - "A Silenced Purobolos will not cast Life2 upon death."
   Mystic-Knight:
     - "A Silence Bladed Purobolos will not cast Life2 upon death."
+  Time-Mage:
+    - "For whatever reason, the Time Mage's Mute spell will not stop Life2 from going off."
   Bard:
     - "A Purobolos that's Stopped by !Sing will not cast Life2 upon death."
+  Berserker:
+    - "This is another fight you might want to come in with a dead/blinded berserker for."

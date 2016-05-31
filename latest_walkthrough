@@ -110,13 +110,15 @@
 * [CHM] There are also 'Super Saiyan' strategies wherein a Chemist becomes immune to literally everything using !Mix.
 
 ## Post-Wind Shrine
-* Most classes will not need to purchase gear here to beat Karlabos, but it's cheap.
+* Most classes will not need to purchase gear in Torna to beat Karlabos, but it's cheap.
 * [BST] If you plan on releasing it against the Antlion, don't open the trapped chest in the Training House.
-* [BRD] There's a piano here, for parties with bards.
+* [BRD] There's a piano in Torna, for parties with bards.
+* [BLU] You can revisit Faris' hideout now, to learn Vampire from the bats there.
 
 ## Karlabos
 * 650 HP; can inflict paralysis or lower a character to 1 HP. Basically the worst for solo games.
 * Just Potion up after getting hit by Tail Screw and you'll be fine.
+* [KGT|MNK] You'd kind of have to be trying to lose with Monk or Knight.
 * [BLU] Blue Mages should make sure they learn Vampire and Goblin Punch first.
 * [BLM] Black Mages can absolutely wreck him with Thunder, which he's weak to.
 * [WHM] If you're stuck with four White Mages, you'll probably need to grind out another point of M at level 8.
@@ -128,6 +130,8 @@
 * [WHM] The enemies here are Undead, which makes this a great place to gain levels with your White Mages.
 * [WHM] Make sure you pick up the hidden Flail; White Mage parties will rely on it for damage for a while.
 * [THF] The Daggers dropped by skeleton enemies here are a nice upgrade from Knives; get four before fighting Siren.
+* [KGT] Because they factor AGI in, the Daggers dropped by skeleton enemies here are an upgrade from your Broadswords.
+* [NIN] If you expect to have trouble vs. Byblos, you can farm Fire Scrolls off the Psycho Heads here.
 
 ## Siren
 * 900 HP; switches between a high-MDEF human form and a high-PDEF undead form.
@@ -145,6 +149,9 @@
 * [WHM] Pick up Armor/Protect in the Kerwin magic shop. Trust me on this one.
 * [BRD] There's a piano here in Kerwin, too.
 * [KGT] Optionally, get the heavy armor from the armor shop in Kewin; it's a nice upgrade.
+* [KGT] More importantly, definitely buy LongSwords. They're much better than dagger or broadsword.
+* [THF] You can steal Softs from the Cockatrices on North Mountain, which is nice.
+* [THF] You can steal SilverGlasses from the tombstones; they'll be pretty handy in the Fire Ship coming up.
 * [BLU] If you restore their MP with Ether, you can learn Flash from the tombstone enemies in North Mountain.
 * [BLU] I'm not actually sure it's worth it, frankly.
 
@@ -154,11 +161,13 @@
 * [WHM] It's technically quite easy to sandbag your way through Magissa's 200 MP before she summons Forza, if you have !White.
 * [THF] Just bring a lot of potions if you have 4 thieves. There's no real way to finesse this fight.
 * [THF] If you're really in trouble, grind to level 16. With 4 Daggers, you can bring Magissa from 320 to dead in one set of !Fights.
-* You can snap the Frost Rod from Kerwin here for dumb amounts of damage; pushing Magissa from 300-0 like that skips Forza.
-* [BLU] Okay, this is like the one time in the game where Flash actually is really good: you can blind Forza easily.
+* [BLM|BLU] You can snap the Frost Rod from Kerwin here for dumb amounts of damage; pushing Magissa from 300-0 like that skips Forza.
+* [BLU] If you're not going to abuse rod snapping, your Blue Mage can blind Forza easily.
 * [BLM] If you're not going to abuse rod snapping, you can also just Sleep Forza and unload on Magissa.
 
 ## Walse/Walse Tower
+* The waterfall behind Walse Castle has the Shiva fight, which is critical for Summoners.
+* ...but you won't have Summoner until after the next dungeon.
 * [KGT] You can buy Iron armor in Walse town, which isn't strictly necessary since you can cheese Garula easily with your Knight.
 * [THF] Strongly consider the Kempo Gi armors from Walse town; you're gonna want every edge you can get for Garula.
 * [THF] Please, please, please steal four mythril daggers from the Y-Burns (sorry, wyverns) in Walse Tower.
@@ -170,7 +179,7 @@
 ## Garula
 * 1200 HP, begins countering every attack with Rush at 800 HP.
 * A definite trainwreck waiting to happen for unlucky and unprepared players.
-* Of course, you could pretty much just toast him with one snapped rod farmed from a RicardMage downstairs.
+* [BLU|BLM] Of course, you could pretty much just toast him with one snapped rod farmed from a RicardMage downstairs.
 * [KGT] Knights can cheese this fight hilariously with three critical-HP characters and one spamming Cover.
 * [KGT] Garula can't do anything to you, it's hysterical.
 * [KGT] Well, OK, he can still inflict HP Sap. Bring a few potions or something.
@@ -197,12 +206,14 @@
 * This is especially nice since Karnak is the only source of rods in the world.
 * Consider stocking up before going to the Fireship; rods make the Karnak 500 so much easier.
 * [BRD] The third piano is also in Karnak, so make sure you get that for your bard.
-* [BLM] The magic store here sells level 3 black magic.
+* [BLM] The magic store here sells level 2 black magic.
 * [WHM] The magic store here sells Cura and Raise.
 * [TIM] The magic store here sells Stop and Gravity.
 * After some plot business, you'll be sent off to the next dungeon: the Fire Ship.
+* [BLU] Wild Nakks will also teach your Blue Mage the ???? spell, which is Vampire w/o the drain.
 * [BLU] Crew Dusts in the Fire Ship cast Flash, which you can pick up for your Blue Mage.
 * [THF|NIN] Thieves and Ninjas should make sure they get the Moonring Blade.
+* [THF] This dungeon is lousy with enemies that blind, so here's what you stole SilverGlasses for.
 * [THF] Thieves should also pick up the Thief's Gloves, which boost steal rate.
 * [THF] Once you have them, you can steal Hi-Potions from Poltergeists to your hearts' content.
 
@@ -213,6 +224,8 @@
 * Tornado Form: casts Fire2 on self to heal.
 * [RAN] Consider killing it in Tornado Form to get the Fire Bow.
 * Frost Rods will, of course, completely trash this guy. Do not use them when it's in hand form!
+* [TIM] The Time Mage's demi spell will work on the human and tornado forms only.
+* [TIM] One 
 * [MNK] Fewer, bigger hits will do better against him, so !Focus ain't bad here.
 * [KGT] The fewer times you have to hit liquidflame the fewer counters you see; consider using Two-Handed.
 * [MYS] Blizzara Sword up and just wreck this dude. Make sure you have a way to transform hand form, though.
@@ -244,19 +257,27 @@
 * [CHM] I know it sucks, but drain kiss is really really really good and you can basically run from everything else for the rest of the game.
 * [BLU] Your Blue Mage should learn Level 5 Death from Page 32s in the library; you'll obviously have to grind to 15 or 20 for this.
 * [BLU] You can also learn Moon Flute in here from Page 256s, which is an early way to inflict Berserk.
-* [BLU+BST] !Control will also let you learn Off-Guard from the same Page 256, for all the good it does anyone.
+* [THF] Page 256es are carrying a Ninja Suit as a steal, a pretty respectable piece of cloth armor.
+* [THF] That said, you'll be able to just buy them not too long from now.
+* [GEO] Geomancers will often get the Will-o-Wisp spell here, so they're actually good.
+* [GEO] You'd only have them on Chaos, though.
+* [BLU+BST] !Control will also let you learn Off-Guard from the same Page 256.
+* [BLU+BST] The same for the (extremely questionably useful) Transfusion spell from Mythril Dragons outside.
 
 ## Ifrit
 * 3000 HP, alternates between (Fira or Flame) and (Fight or Flame)
 * 20% chance to evade all physicals, which can make some runs annoying.
 * Snapping a couple of Frost Rods on him will put him down with minimal fuss.
 * [BLM|RDM|SUM] So will simply blasting away with Ice-elemental attacks, if you're feeling cheap.
+* [MYS] Mystic Knights should set Silence with a Spellsword before going to town with Blizzara Sword.
 * [NIN] Ifrit is weak to water in addition to ice, so here's a good place to use your water scroll.
 * [BLU] Aqua Rake is actually nonaspected damge, so it won't be super-effective here.
 * [BLU] He is, however, vulnerable to Blind and Berserk, both of which you can inflict by now with !Blue.
 * [WHM] It's quite possible to land Silence on Ifrit, which cuts down on incoming damage significantly.
 * [WHM] You can also berserk him, which could work out combined with back-row + protect spells.
+* [WHM] He's also vulnerable to confuse...which will mostly cause him to Fira himself and heal.
 * [TIM] Ifrit is vulnerable to Slow, which you can inflict at this point with your Time Mage.
+* [GEO] Chaos Geomancers should note that Will-o-Wisp is fire damage, so...don't use that.
 * [BST] Beastmasters can release Zus from the grassland outside Karnak, for a solid 750 damage each.
 
 ## Byblos
@@ -264,13 +285,20 @@
 * He also can cast Protect on himself and will counter attacks with Drain when low.
 * That combination makes the fight brutal on parties with only physical damage.
 * Happily, you can just snap a couple of Fire Rods over his head and call it a night.
+* [BLM|RDM] Or you could just Fira him into the ground if you're feeling cheap.
+* [KGT] Knights should be relying on Two-Handed in this fight and any other fight where counterattacks are an issue.
 * [NIN] I hope you got that Flame Scroll from LiquiFlame if you don't have a better strategy for doing this!
+* [NIN] You could also have farmed them in the Ship Graveyard all the way back.
+* [NIN] Teeeeechnically you could walk all the way back to get more, but why?
 * [BER] Zerker-heavy teams can have trouble here, because they can trigger Byblos' counters at bad times.
 * [BER] If you have other powerful characters or a way to cheese the fight, consider coming in with your zerk blinded.
 * [SUM] Cast your new Ifrit summon on him for some extra comedy.
+* [GEO] Chaos Geomancers rejoyce! !gaia here gets you Will-o-Wisp, which is Fire damage.
+* [TIM] Time Mages with an aversion to rod abuse can still land Slow on him, making the fight much easier.
 * [BLU] Death Claw works on him, reducing him to single-digit HP immediately.
 * [BLU] He's not Heavy ahahahahaha.
 * [BLU] On the other hand, you probably want to learn Magic Hammer from him, which can be obnoxious as hell.
+* [BST] The vanilla Whip weapon Magissa dropped all that time ago will paralyze-lock Byblos.
 * [BST] A released Page 32 from the library will cast Banish, which has a 33% chance of straight up killing Byblos.
 
 ## Sailing
@@ -297,6 +325,7 @@
 * The item vendor there sells at half-price to you, making it a good place to stock up on ethers and phoenix downs.
 * [CHM] Chemists should definitely spend their entire earthly fortune on ethers here. You'll miss them bitterly when you leave W1.
 * [NIN] Ninjas will also appreciate buyable elemental scrolls and shuriken.
+* [BRD] When you do visit Crescent Island, make sure you hit up the piano in the pub there.
 
 ## Sandworm (Zerkersbane)
 * 3000 HP, can use Fight or Quicksand (~50 party damage and HP Sap).
@@ -366,7 +395,7 @@
 * [BST+BLU] A !Controlled enchanted fan will also teach you White Wind, which is KIND OF A BIG DEAL.
 * [BST+BLU] You can also learn 1000 Needles from !Controlled Lamias, which is pretty handy now or then.
 * [BST] You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad.
-* [BLU] Frankly it's garbage and a pain in the ass to learn, but you can hunt down the Ghidra to learn Graviga at this point too.
+* [BLU] Frankly it's a pain in the ass, but you can hunt down the Ghidra to learn L4 Graviga at this point too.
 
 ## ArchaeoAvis
 * Has 5 forms with their own HP pool but shared MP pool.
@@ -376,6 +405,8 @@
 * F4: 1600 HP, absorbs lightning, not Heavy, inflicts paralysis.
 * F5: 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm.
 * Magic-heavy teams may have to knife the last form to death painfully and slowly.
+* [BER] Since berserker axes mostly ignore defense, they can reliably damage all five forms.
+* [NIN] Water Scrolls are solid offense against the first four forms; he'll never absorb Water.
 * [MNK] If you can kill a form with a Monk's Counter, it skips the trigger that causes the next form to spawn.
 * [TIM] You can land Slows on problem forms, if you feel like it.
 * [BLU] Aerora the first form to death.
@@ -387,6 +418,7 @@
 * [SUM] Chocobo, your time is now! (It does physical damage and therefore will work on form 5).
 * [SUM] Unless you're on iOS hahaha fuck you they 'fixed' that.
 * [BST] You can use Bearagas on the first and last form, which can otherwise give beastmaster parties trouble.
+* [BST] If you don't have Sand Bears stocked, the Ronka Knights in here still !release for ~1500.
 
 ## Purobolos
 * 1500 HP, cast Exploder when low, will cast Life2 to revive other puroboloses when killed.
@@ -394,18 +426,29 @@
 * Yup, that means rods.
 * [BLU] If you don't want to just spam rods, Aqua Rake works pretty great here too.
 * [SAM] They're not heavy hahahaha you can just !Ianuki them repeatedly.
+* [SAM] Or just kill them all with one or two gil tosses, though that's expensive.
+* [NIN] Spamming a few scrolls on them, especially with a mage subability, will make quick work this fight.
 * [BST] Beastmasters have it super-easy here: they can just !Control the bombs and have them Exploder each other.
 * [WHM] A Silenced Purobolos will not cast Life2 upon death.
 * [MYS] A Silence Bladed Purobolos will not cast Life2 upon death.
+* [TIM] For whatever reason, the Time Mage's Mute spell will not stop Life2 from going off.
 * [BRD] A Purobolos that's Stopped by !Sing will not cast Life2 upon death.
+* [BER] This is another fight you might want to come in with a dead/blinded berserker for.
 
 ## Titan
 * 2500 HP; main threat is the Earth Shakers he casts for powerful (480-540) all-target damage.
 * He casts Earth Shaker on death, so you need to have a way to not wipe to that.
 * [WHM] WHM/RDM can cast Confuse on Gaelicats in the North Mountain to gain Float, which neatly evades Earth Shaker.
+* [DNC] Dancers can roll Tempting Tango on Gaelicats in the North Mountain to gain Float, to nullify Earth Shaker.
+* [THF+BER] If you have a thief, a berserk, and a death wish, you can rarely steal a Earth Hammer from Titan.
+* [THF+BER] That's literally an endgame weapon, especially if you can back up its Quake procs with a mage subability.
 * [CHM] Here's your introduction to the brokenness of !Mix: Antidote + Maiden's Kiss = Levisalve.
 * [BST] Stopping Titan with !Calm right before you kill him will dodge the Earth Shaker, but the timing is tight.
 * [BRD] Stopping Titan with !Sing right before you kill him will dodge the Earth Shaker, but the timing is tight.
+* [TIM] Your Time Mage can set Slow on Titan, which helps with wearing him down before he gets too many shakers off.
+* [TIM] If you have no alternative, you can Stop Titan right before you kill him, but the timing is tight.
+* [SUM] Titan is vulnerable to the Stop set by the Remora summon, probably the only time in the game it's useful.
+* [SUM] With very, very good timing, you may be able to avoid the last Earth Shaker using it.
 * Failing any way to scam Earth Shaker, the only real alternative is to have enough HP to survive it.
 
 ## Chimera

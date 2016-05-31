@@ -2,6 +2,9 @@ Walse/Walse Tower:
   Metadata:
     next-node: garula
     previous-nodes: ['magissa']
+  Generic:
+    - "The waterfall behind Walse Castle has the Shiva fight, which is critical for Summoners."
+    - "...but you won't have Summoner until after the next dungeon."
   Knight:
     - "You can buy Iron armor in Walse town, which isn't strictly necessary since you can cheese Garula easily with your Knight."
   Thief:
