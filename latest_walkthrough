@@ -18,7 +18,7 @@
 * [BLM] just blow up everything in the game, black magic's damage output is obscene.
 * [BLM] Your currently equipped weapon can be changed from the Item Menu.
 * [BLM] Flare kind of sucks. It's not worth doing Fork Tower for by itself.
-* [WHM] The White Mage's Protect and Shell you to sandbag almost any encounter endlessly.
+* [WHM] The White Mage's Protect and Shell allow you to sandbag almost any encounter endlessly.
 * [WHM] Many bosses are vulnerable to the Confuse, Silence, and Berserk status effects.
 * [WHM] Berserk is especially effective when combined with Blink/Image.
 * [WHM] Once you have it, Holy is a fantastic single target damage option, on par with other power classes.
@@ -55,10 +55,12 @@
 * [RDM] Sorry, Red mage blows, unless you have another mage and the patience for Doublecast.
 * [RDM] By itself, Red Mage's only offense is rod snapping. Stock up.
 * [RDM] There's a surprising amount of utility in low-level White Magic, especially with Doublecast.
-* [RDM] Being able to protect/shell/raise 2 characters in one action is surprisingly good.
+* [RDM] Being able to heal/protect/raise 2 twice in one action is surprisingly good.
+* [RDM] If the rest of your party is strong, I wouldn't advise grinding out Doublecast, though.
 * [BST] Beastmaster is completely broken, but it takes significant amounts of effort.
 * [BST] !Releasing the correct monster will trivialize any boss fight.
 * [BST] I've tried to note in the individual boss entries the best release I know of.
+* [BST] Remember that Beastmasters aren't the worst physically, and can attack from the back row.
 * [GEO] hahaha you got Geomancer.
 * [GEO] !gaia sucks
 * [GEO] bell weapons suck
@@ -80,7 +82,7 @@
 * [RAN] The Ranger's signature ability is !X-fight/!Rapidfire, which hits 4 times for half damage.
 * [RAN] It also never misses, procs Magic Sword, ignores defense (!) and is Chicken Knife OK (!!).
 * [RAN] also they can use bows and summon animals like jrpg saint francis i guess
-* [RAN] If you're between level 10 and 19, you'll usually get a heal-all effect from !Animals.
+* [RAN] If you're between level 10 and 19, you'll usually get a powerful heal-all effect from !Animals.
 * [SAM] The Samurai is basically a big beefcake with a few dirty tricks available at need.
 * [SAM] Katanas can crit, ignoring physical defense.
 * [SAM] !Giltoss/!Zeninage is expensive, but it's amazing all-target damage.
@@ -100,7 +102,7 @@
 * [DNC] Being able to ignore almost all status effects is exactly as dumb as it sounds.
 * [CHM] Chemist can solo the game, effortlessly. It's obscene. It makes Blue Mage look bad.
 * [CHM] !Drink allows them to haste themselves and double HP, making survivability easy.
-* [CHM] But the real power of the class is in !Mix...
+* [CHM] But the real power of the class is in !Mix... (http://i.imgur.com/MBJBNvG.gif)
 * [CHM] Their staple is Drain Kiss (Turtle Shell + Maiden's Kiss), which is a fucking power-255 Drain.
 * [CHM] That's stronger than Meteor, Holy, and Flare, available in World 1, and heals the user too.
 * [CHM] Turtle Shell mixes can also haste, protect, shell, cure, revive, MP refresh.
@@ -179,7 +181,6 @@
 * [THF] Seriously expect to burn through 50-60+ potions if you're at a reasonable level and haven't been grinding.
 * [MNK] The Monk's !Focus, which lets you hit twice as hard half as often, completely trivializes the counterattack mechanic.
 * [BLU] You can get Frog Song to apply to Garula. He can cure himself, but he'll keep wasting turns.
-* [BLU] Garula can't counterattack while frogged, either.
 * [BLU] Blind will also stick to him, if for some reason frog abuse isn't enough.
 
 ## Tycoon (optional)
@@ -228,6 +229,8 @@
 * Try and get the Elven Mantle and Main Gauche; those are the best unconditional loot in here.
 * [DNC] There's also a Ribbon! Get the Ribbon! You'll need it for your Dancer! It's rad!
 * [BLU] You can learn Aerora from the Gigases here for your Blue Mage, though it won't be too long until you can get it again.
+* [BLU] Since the Gigases are immune to Aero, Blue Mages can have serious damage problems here.
+* [BLU] It may be worth it to run straight to the exit for Death Claw, then run back to the trapped chests.
 * [WHM] White Mages should definitely not forget about the Esuna spell in a chest here; it'll be a while till you can rebuy it.
 * You'll have to kill Iron Claw, a miniboss with 900 HP and some adds, before you exit the castle.
 * [BLU] He can teach you Death Claw, and you'd be well advised to try and get it here. It's lovely against anything that's not Heavy.
@@ -239,8 +242,8 @@
 * [CHM] The turtles infesting the grasslands around here drop Turtle Shells; you're gonna want to farm 99 of them for your Chemist.
 * [CHM] I know it sucks, but drain kiss is really really really good and you can basically run from everything else for the rest of the game.
 * [BLU] Your Blue Mage should learn Level 5 Death from Page 32s in the library; you'll obviously have to grind to 15 or 20 for this.
-* [BLU] You can also learn Moon Flute in here from Page 256s, but, uh, why?
-* [BLU+BST] !Control will also let you learn Off-Guard from the same Page 256; this spell is marginally more useful.
+* [BLU] You can also learn Moon Flute in here from Page 256s, which is an early way to inflict Berserk.
+* [BLU+BST] !Control will also let you learn Off-Guard from the same Page 256, for all the good it does anyone.
 
 ## Ifrit
 * 3000 HP, alternates between (Fira or Flame) and (Fight or Flame)
@@ -273,8 +276,8 @@
 * Black Mages, Summoners, and anyone with a use for the Istory rings can visit Istory at this point.
 * You can buy Angel Rings (block Old/Zombie) and elemental absorb rings for a cool 50K from Istory.
 * [BRD] Bards can get the fourth Piano from Jachol, also.
-* [BLM] Black Mages can pick up the Toad spell from a NPC in the city.
-* [SUM] Summoners can learn Ramuh from an encounter outside the city.
+* [BLM] Black Mages can pick up the Toad spell from a NPC in Istory.
+* [SUM] Summoners can learn Ramuh from an encounter outside Istory.
 * [THF] Ramuh's common steal is a Hi-Potion and you won't get any other encounters outside Istory until you kill him.
 * [THF] You can steal Hi-Potions from him forever if you keep running from the fight.
 * Rod-having parties can also pull the legendary Dragondarch Manuever outside Istory, farming the tough Magic Dragons there for XP.
@@ -337,7 +340,7 @@
 * [MNK] Monk fist criticals will break through his physical defense. Eventually.
 * [WHM] White Mage blind is a godsend in this fight if you have to plink him down.
 * [WHM] TECHNICALLY you can berserk or silence him too but...why?
-* The Something Awful Forusm >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards
+* The Something Awful Forums >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards
 
 ## Soulcannon
 * 12500 HP; charges up and then casts Surge Beam (casts get faster after the first)
