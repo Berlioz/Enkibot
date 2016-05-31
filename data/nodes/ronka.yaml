@@ -13,7 +13,9 @@ Ronka Ruins:
   UNION Beastmaster Blue-Mage:
     - "A !Controlled enchanted fan will also teach you White Wind, which is KIND OF A BIG DEAL."
     - "You can also learn 1000 Needles from !Controlled Lamias, which is pretty handy now or then."
-  UNION Beastmaster Inflict-Confuse:
+  UNION Blue-Mage White-Mage:
+    - "You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad."
+  UNION Blue-Mage Red-Mage:
     - "You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad."
   Blue-Mage`:
     - "Frankly it's a pain in the ass, but you can hunt down the Ghidra to learn L4 Graviga at this point too."

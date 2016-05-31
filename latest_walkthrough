@@ -61,7 +61,7 @@
 * [BST] !Releasing the correct monster will trivialize any boss fight.
 * [BST] I've tried to note in the individual boss entries the best release I know of.
 * [BST] Remember that Beastmasters aren't the worst physically, and can attack from the back row.
-* [GEO] hahaha you got Geomancer.
+* [GEO] hahaha you got geomancer
 * [GEO] !gaia sucks
 * [GEO] bell weapons suck
 * [GEO] their base stats suck
@@ -88,7 +88,7 @@
 * [SAM] !Giltoss/!Zeninage is expensive, but it's amazing all-target damage.
 * [SAM] !Slash/!Ianuki is a fucking 85% chance of instant death to all enemies.
 * [SAM] A surprising number of bosses are not Heavy, and are therefore vulnerable to this.
-* [DRG] The dragoon is a beefcake with almsot no dirty tricks available. Vanilla but decent.
+* [DRG] The dragoon is a beefcake with almost no dirty tricks available. Vanilla but decent.
 * [DRG] !Lancet is a last-resort method for any mages you have to restore their own MP mid-fight.
 * [DRG] It's straight up unuseably bad off a Dragoon's innate magic score, though.
 * [DRG] Remember that !Jump does full damage when used from the back row.
@@ -394,7 +394,8 @@
 * [BLU] If you missed it, the Enchanted Fan can teach you Aera.
 * [BST+BLU] A !Controlled enchanted fan will also teach you White Wind, which is KIND OF A BIG DEAL.
 * [BST+BLU] You can also learn 1000 Needles from !Controlled Lamias, which is pretty handy now or then.
-* [BST] You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad.
+* [BLU+WHM] You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad.
+* [BLU+RDM] You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad.
 * [BLU] Frankly it's a pain in the ass, but you can hunt down the Ghidra to learn L4 Graviga at this point too.
 
 ## ArchaeoAvis
@@ -509,7 +510,7 @@
 * [TIM] Time Mages should get the Teleport spell in Val Castle; it's the only source of it in the game.
 * [BRD] Bards can get a Lamia Harp in Val Castle, which gives you a rather more reliable confusion source than the Dancing Dagger.
 * [KGT+MYS] The Great Sword in the moat of Val Castle is the best sword you're gonna get for quite a while.
-* Drakenvalue itself has some fantastic loot.
+* Drakenvale itself has some fantastic loot.
 * The Dragon Zombies here are tough, but can be easily defeated by Phoenix Downs or other anti-undead measures.
 * They commonly drop Dragon Fangs, which sell for 2500 gil each!
 * [CHM] Dragon Fangs are also invaluable for endgame Chemist shenanigans; you'll want to grind a few of them.
@@ -1015,13 +1016,28 @@
 * Image guide: http://i.imgur.com/FphWf.gif
 * High level strategy overview follows:
 * Biggest threats are: Grand Cross (random aliments), Almagest (~1700 HP all-targets), enrage (last part spams super attacks 2x/turn)
-* Grand Cross is mitigatable with Hermes Sandals/Ribbon and luck. Most parties will kill Grand Cross first to lower the number of dice rolls.
+* Grand Cross is mitigatable with Hermes Sandals and luck. Most parties will kill Grand Cross first to lower the number of dice rolls.
 * Almagest is a HP check. Unless you have extreme damage output and rush it first, you will need the HP (or Shell) to survive it.
 * You can skip enrage either by counting HP and killing the last 2 parts at the same time.
 * ...or you can save the bottom, non-Heavy part for last and then gib it with a Magic Lamp Odin.
 * Even without !white, you get one free Shell casting from the Wonder Wand, if you have it.
+* [BER] In the SNES version, there are 'dummy' targets in the fight that will cause your zerker to miss a lot.
+* [BER] You will probably be better served equipping the Earth Hammer and any magic-boosting abilities you have.
+* [BER] In the GBA/iOS version the dummies are gone, making the Rune Axe much more reliable.
 * [MYS] Congratulations! Your Mystic Knight don't care about almagest.
 * [MYS] Break Blade will knock out the part that casts it with 100% accuracy.
+* [TIM] If things go seriously south, the Time Mage's Quick is a good recovery tool.
+* [TIM] Quick will allow you to throw out multiple Phoenix Downs/Remedies/Elixirs in a single action.
+* [TIM] Meteor will be weaker than expected, due to the presence of two 'decoy' targets in the SNES version.
+* [DRG] Almagest is telegraphed by 'The Laws of the Universe Mean Nothing!'
+* [DRG] Your dragoon can dodge that (and Grand Cross) by being in the air at that time.
+* [DNC] You'll probably have to look elsewhere for damage, but Equip Ribbons make Grand Cross a nonissue.
+* [CHM] Chemists can do excellent AoE by spamming Holy Breath (Dragon Fang + Holy Water).
+* [CHM] It does damage equal to your HP, which is affected by the doubling from Giant's Drink
+* [CHM] Between Giant's Drinks and the ability to Shell allies, Chemists can neuter Almagest.
+* [CHM] The Dragon's Kiss (Dragon Fang + Maiden's Kiss) also grants immunity from most but not all Grand Cross outcomes.
+* [SAM] You will need an obscene amount of cash to kill NED with just !GilToss but it's conceptually simple.
+* [SAM] If you have a way to kill them, the Movers in the last room of the void drop huge piles of gil.
 * [THF] Remember that weapons you steal off of NED's parts can be equipped mid-battle.
 * [THF+NIN] ...or thrown, with your Ninja.
 * [BST] Beastmasters can release a Dragon Aevis for a 9999-all-target Breath Wing. 4 of them will get NED's parts real low.
@@ -1032,7 +1048,7 @@
 * [BRD] Apollo's Harp will do massive damage vs. the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway.
 * [RAN] Were you dumb enough to grind out a Dark Bow in Ronka? Congratulations!
 * [RAN] The Melee piece (the one that chucks out 1800 damage Vacuum Waves) can be blinded!
-* [RAN] That was still a dumb decision, by the way.
+* [RAN] NED's phantom targets will make !X-Fight less powerful on the SNES version, though.
 * [SUM] An actual !summoned Odin will not work on the bottom part!
 * [SUM] Hardcasted Odins will use Gungnir if any enemy on the field is Heavy.
 

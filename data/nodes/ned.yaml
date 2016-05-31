@@ -8,15 +8,36 @@ ned:
   - "Image guide: http://i.imgur.com/FphWf.gif"
   - "High level strategy overview follows:"
   - "Biggest threats are: Grand Cross (random aliments), Almagest (~1700 HP all-targets), enrage (last part spams super attacks 2x/turn)"
-  - "Grand Cross is mitigatable with Hermes Sandals/Ribbon and luck. Most parties will kill Grand Cross first to lower the number of dice rolls."
+  - "Grand Cross is mitigatable with Hermes Sandals and luck. Most parties will kill Grand Cross first to lower the number of dice rolls."
   - "Almagest is a HP check. Unless you have extreme damage output and rush it first, you will need the HP (or Shell) to survive it."
   - "You can skip enrage either by counting HP and killing the last 2 parts at the same time."
   - "...or you can save the bottom, non-Heavy part for last and then gib it with a Magic Lamp Odin."
   Break-Rods:
   - "Even without !white, you get one free Shell casting from the Wonder Wand, if you have it."
+  Berserker:
+  - "In the SNES version, there are 'dummy' targets in the fight that will cause your zerker to miss a lot."
+  - "You will probably be better served equipping the Earth Hammer and any magic-boosting abilities you have."
+  - "In the GBA/iOS version the dummies are gone, making the Rune Axe much more reliable."
   Mystic-Knight:
   - "Congratulations! Your Mystic Knight don't care about almagest."
   - "Break Blade will knock out the part that casts it with 100% accuracy."
+  Time-Mage:
+  - "If things go seriously south, the Time Mage's Quick is a good recovery tool."
+  - "Quick will allow you to throw out multiple Phoenix Downs/Remedies/Elixirs in a single action."
+  - "Meteor will be weaker than expected, due to the presence of two 'decoy' targets in the SNES version."
+  Dragoon:
+  - "Almagest is telegraphed by 'The Laws of the Universe Mean Nothing!'"
+  - "Your dragoon can dodge that (and Grand Cross) by being in the air at that time."
+  Dancer:
+  - "You'll probably have to look elsewhere for damage, but Equip Ribbons make Grand Cross a nonissue."
+  Chemist:
+  - "Chemists can do excellent AoE by spamming Holy Breath (Dragon Fang + Holy Water)."
+  - "It does damage equal to your HP, which is affected by the doubling from Giant's Drink"
+  - "Between Giant's Drinks and the ability to Shell allies, Chemists can neuter Almagest."
+  - "The Dragon's Kiss (Dragon Fang + Maiden's Kiss) also grants immunity from most but not all Grand Cross outcomes." 
+  Samurai:
+  - "You will need an obscene amount of cash to kill NED with just !GilToss but it's conceptually simple."
+  - "If you have a way to kill them, the Movers in the last room of the void drop huge piles of gil."
   Thief:
   - "Remember that weapons you steal off of NED's parts can be equipped mid-battle."
   UNION Thief Ninja:
@@ -27,14 +48,14 @@ ned:
   Blue-Mage:
   - "Mighty Guard and White Wind allow you to win stand-up brawls against NED with little fuss."
   - "Or you could abuse Dark Spark and L5 Death, but honestly I'd go with the first idea."
-  Dragoon:
+  Dragoon`:
   - "The Dragon Lance is super-effective vs. the Grand Cross part, if you're burning that one first."
   Bard:
   - "Apollo's Harp will do massive damage vs. the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway."
   Ranger:
   - "Were you dumb enough to grind out a Dark Bow in Ronka? Congratulations!"
   - "The Melee piece (the one that chucks out 1800 damage Vacuum Waves) can be blinded!"
-  - "That was still a dumb decision, by the way."
+  - "NED's phantom targets will make !X-Fight less powerful on the SNES version, though."
   Summoner:
   - "An actual !summoned Odin will not work on the bottom part!"
   - "Hardcasted Odins will use Gungnir if any enemy on the field is Heavy."
