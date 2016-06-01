@@ -4,6 +4,7 @@ Fireship:
     previous-nodes: ['tycoon_treasure']
   Generic:
     - "You'll only get one discounted item at a Karnak store, so pick a pricey one."
+    - "In the SNES and iOS versions, you can buy 99 of the 75% off item, and then resell to double your cash."
     - "Wild Nakks outside of Karnak are probably the easiest way to farm cash in world 1."
   Break-Rods:
     - "This is especially nice since Karnak is the only source of rods in the world."
