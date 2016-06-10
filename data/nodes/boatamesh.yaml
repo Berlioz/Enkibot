@@ -1,5 +1,5 @@
 ---
-boatamesh:
+Boatamesh & Enkidu:
   Metadata:
     next-node: shield_generator
     previous-nodes:
@@ -15,7 +15,7 @@ boatamesh:
   INTERSECTION Time-Mage White-Mage:
   - "Silence from a Time Mage or White Mage will shut down Gil's offense, but Blue Magic can't be silenced."
   Mystic-Knight:
-  - "Mystic Knights can nail Gil with a Silence sword "
+  - "Mystic Knights can nail Gil with a Silence sword."
   INTERSECTION White-Mage Red-Mage:
   - "If Berserked by a White or Red Mage, Gil won't summon Enkidu."
   Thief:

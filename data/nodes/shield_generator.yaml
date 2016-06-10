@@ -1,11 +1,12 @@
 ---
-shield_generator:
+Shield Generator/Barrier Tower:
   Metadata:
     next-node: atomos
     previous-nodes:
     - boatamesh
   Generic:
   - "The Barrier Tower is a fairly obnoxious dungeon with a lot of loot you want to grab."
+  - "Anyone with a caster should make sure to get the Gold Hairpin, which halves MP consumption."
   Blue-Mage:
   - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility."
   - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka."
@@ -14,6 +15,7 @@ shield_generator:
   Thief:
   - "Thieves can get an invaluable Flame Ring from the Red Dragons in trapped chests."
   - "You can flee from a monster-in-a-box to reset the encounter if your steal fails."
+  - "...or if you're a nutter and want 4 of them."
   Generic`:
   - "The first Gold Hairpin, a helm which halves MP consumption, is available here."
   - "Most importantly, farm ReflectMages for their Reflect Ring drop here."

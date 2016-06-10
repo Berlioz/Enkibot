@@ -1,5 +1,5 @@
 ---
-dragon_pod:
+Dragon Pod/Hiryuu Plant:
   Metadata:
     next-node: surgate
     previous-nodes:
@@ -20,6 +20,7 @@ dragon_pod:
   Beastmaster:
   - "Aquathorns from the swamps around Val cast an instant death spell when !released, which will work."
   - "It's only single-target, so kill the flowers manually first."
+  - "If you don't want to walk out, you can catch a Skelesaur right here in Drakenvale."
   Mystic-Knight:
   - "Drain Sword bypasses the no-healing property of Bone Mail, allowing for an effortless Mystic Knight solo."
   Chemist:

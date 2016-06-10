@@ -5,10 +5,12 @@ Post-Submarine Questing:
     previous-nodes:
     - atomos
   Generic:
-  - "To advance the plot, take the submarine visit Ghido's Cave."
+  - "To advance the plot, take the submarine to visit Ghido's Cave."
   Blue-Mage:
   - "While you're there, learn Aeroga from the Enchanted Fan metamorph."
   - "It's by far the most reliable option for Blue Mages to do straight damage."
+  - "If you didn't have a way to confuse for White Wind in Ronka, you can get it now."
+  - "The Enchanted Fan ALSO teaches White Wind when confused by the Dancing Dagger."
   Staff:
   - "Your staff users may appreciate the Staff of Light that sometimes drops from metamorphs."
   - "Only the Wyvern-type metamorph will drop it."

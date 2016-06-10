@@ -1,5 +1,5 @@
 ---
-atomos:
+Atomos:
   Metadata:
     next-node: ghidos_cave
     previous-nodes:
@@ -13,7 +13,7 @@ atomos:
   - "Wouldn't really try it though, unless you have no better plan."
   Blue-Mage:
   - "Dark Shock + Level 5 Death."
-  - "Yup."
+  - "Yup. Could take a while to actually get Dark Shock to stick, though."
   INTERSECTION Black-Mage Mystic-Knight:
   - "Sleep (and Sleep Sword) inflict the only aliment that Atomos is weak to."
   - "Once you have him sleeping, you can just kill him without waking him up with magic or !Mineuchi/!SwdSlap or something."

@@ -1,5 +1,5 @@
 ---
-bridgeamesh:
+Bridgamesh:
   Metadata:
     next-node: lugor
     previous-nodes:
@@ -15,6 +15,7 @@ bridgeamesh:
   - "A better plan is probably just to get Slow to stick to him."
   Blue-Mage:
   - "Blue Mages can Magic Hammer their way through Gil's 1000 MP before phasing him, causing the buffs to fail."
+  - "Alternatively, 1000 Needles will simply let you blast through his 2500 HP phase in 3 hits."
   Chemist:
   - "Chemists can mix up Lamia's Kiss and Dark Ethers to effortlessly drain Gil's 1000 MP before phasing him, causing the buffs to fail."
   Beastmaster:

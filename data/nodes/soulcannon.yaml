@@ -2,6 +2,9 @@ Soulcannon:
   Metadata:
     next-node: ronka
     previous-nodes: ['adamantoise']
+  Blue-Mage:
+    - "The turrets you fight before SoulCannon can teach you Missile and Flamethrower/Burn Ray."
+    - "The latter is a very solid damage option with a Flame Rod equipped."
   Generic:
     - "12500 HP; charges up and then casts Surge Beam (casts get faster after the first)"
     - "Surge beam deals 50% of the party's max HP and inflicts HP Leak."
@@ -15,6 +18,7 @@ Soulcannon:
     - "Thunder scrolls work especially well."
   White-Mage:
     - "Parties with !white can get through this slowly by Esunaing the Olds and healing through Surge Beams."
+    - "Esuna will not heal the stat downs incurred while Old'd! Purge the status effect IMMEDIATELY."
   NOT White-Mage:
     - "If your offense is slow, you may as a last resort buy Angel Rings from Istory at 50k each; they prevent Old."
   Geomancer:
@@ -25,5 +29,7 @@ Soulcannon:
     - "This is a surprisngly funny fight for Bards, since they can Stop the Launchers all at once and Hide from the Surge Beams."
   Beastmaster:
     - "You may be able to rush the Soulcannon down with four Bearagas (~9k damage) plus some chip."
+    - "Alternate plan: you can Capture a Prototype and release it for ~1k all-target damage."
+    - "Prototype is vulnerable to !Control, but actually reducing it to 1/8 hp is an exercise for the reader."
   Generic`:
     - "All damage in this fight is % based, so armor does nothing. Consider unequipping it for speed."

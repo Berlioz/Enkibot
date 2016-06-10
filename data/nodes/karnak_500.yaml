@@ -12,12 +12,13 @@ The Karnak 500:
     - "RUN RUN RUN run. No, the Brave Blade ain't worth it. Never take the Brave Blade."
   Thief:
     - "If your offense is good, you can steal plenty of Elixirs from the Gigas enemies infesting this place."
+    - "You should common-steal some Mage Mashers from the Sorceror enemy in here."
   Generic`:
     - "Try and get the Elven Mantle and Main Gauche; those are the best unconditional loot in here."
   Dancer:
     - "There's also a Ribbon! Get the Ribbon! You'll need it for your Dancer! It's rad!"
   NOT Dancer:
-    - "You could let the Ribbon burn _i guess_ if you're an idiot who deserves nothing except endless geomancers and red mages..."
+    - "You could let the Ribbon burn since you don't have a Dancer, but it's kind of bad form."
   Blue-Mage:
     - "You can learn Aerora from the Gigases here for your Blue Mage, though it won't be too long until you can get it again."
     - "Since the Gigases are immune to Aero, Blue Mages can have serious damage problems here."

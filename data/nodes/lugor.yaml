@@ -1,5 +1,5 @@
 ---
-lugor:
+Lugor/Regole:
   Metadata:
     next-node: val
     previous-nodes:
@@ -19,9 +19,12 @@ lugor:
   Summoner:
   - "Summoners can buy a Gaia Gear here, which boosts earth damage by 50%."
   - "Boosted Titans are going to be your mainstay for a long time."
+  Bard:
+  - "Make sure you hit another Piano while you're in Lugor."
   Beastmaster:
   - "Beastmasters might want to consider making an early visit to the Sealed Castle."
   - "They can !control the Shield Dragons in there for easy kills, and stupid amounts of AP and XP this early."
+  - "They can also be easily captured for Almagest (~750 damage), which is fine if you're out of bears."
   Generic`:
   - "The undead dinosaur in the underground passage isn't even a boss. Just Phoenix Down him and move on."
   - "In the Moogle Villiage, you can get the Dancing Dagger, which is primarily useful for letting anyone Confuse."

@@ -1,5 +1,5 @@
 ---
-moore:
+Moore:
   Metadata:
     next-node: seal_crystals
     previous-nodes:
@@ -15,9 +15,11 @@ moore:
   - "YUP. FINALLY YOU GET THE -AGA BLACK MAGE SPELLS."
   Time-Mage:
   - "The various spells Time Mages can learn here are nice, but the real winner is Hastega."
+  Bard:
+  - "Bards will be happy to find yet another piano in Moore."
   Generic`:
   - "Every single goddamn encounter in Moore Forest is fucking infuriating and you should run from them all."
-  Bard:
+  Bard`:
   - "Exception: bards can spam Love Songs to inflict Stop; every random encounter is vulnerable to it."
   Generic``:
   - "You'll have to make a choice here between the Aegis Shield and the Flame Shield."

@@ -1,6 +1,6 @@
 Walse/Walse Tower:
   Metadata:
-    next-node: garula
+    next-node: tycoon_treasure
     previous-nodes: ['magissa']
   Generic:
     - "The waterfall behind Walse Castle has the Shiva fight, which is critical for Summoners."

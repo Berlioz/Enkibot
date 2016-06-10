@@ -1,5 +1,5 @@
 ---
-meatcastle:
+Meatcastle:
   Metadata:
     next-node: scrubamesh
     previous-nodes:
@@ -27,4 +27,3 @@ meatcastle:
   - "The healing form is not Heavy and is vulnerable to Stone. Just wait for it and cast Shoat."
   NOT Summoner:
   - "There's no real point to fighting Carbuncle if you don't have Summoner; it can be a pretty hard fight."
-  

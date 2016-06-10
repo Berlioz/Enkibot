@@ -1,3 +1,5 @@
+WARNING: unexpected node transition walse_tower => tycoon_treasure
+WARNING: unexpected node transition garula => fireship
 ## Class Tips
 * Here are some basic general tips based on the classes you've selected...
 * [KGT] The Knight seems straightforward, but the combo of !Guard + Cover is amazing.
@@ -13,18 +15,24 @@
 * [THF] Thieves have access to some very good stuff early on.
 * [THF] Unfortunately, bad stats and garbage gear options probably make Thief the worst of the Wind jobs overall.
 * [THF] I'll try to note particuarily juicy steals as the walkthrough goes on.
+* [THF] The capstone Thief ability, Footwork, grants +16 agility which is actually a lot.
 * [THF] Lastly, remember that the Thief's !Mug ability is a safe way to use the Chicken Knife.
+* [BLM] Black Mage is pretty broken.
 * [BLM] Black Mages should remember Rods also enhance the power of elemental spells by +50%.
 * [BLM] just blow up everything in the game, black magic's damage output is obscene.
 * [BLM] Your currently equipped weapon can be changed from the Item Menu.
 * [BLM] Flare kind of sucks. It's not worth doing Fork Tower for by itself.
+* [BLM] If your party is Reflected, you can bounce a groupcast spell off for 2x damage.
+* [WHM] White Mage is pretty broken.
 * [WHM] The White Mage's Protect and Shell allow you to sandbag almost any encounter endlessly.
 * [WHM] Many bosses are vulnerable to the Confuse, Silence, and Berserk status effects.
 * [WHM] Berserk is especially effective when combined with Blink/Image.
+* [WHM] Casting Mini on the party raises their evasion into the stratosphere if they have a shield.
 * [WHM] Once you have it, Holy is a fantastic single target damage option, on par with other power classes.
 * [BLU] Blue Mage is completely broken.
 * [BLU] Highlights: one-shot 50+% of the bosses in the game with Dark Spark + L5 Death.
 * [BLU] Goblin Punch is a safe way to wield the Chicken Knife and Excalipoor on a physical class.
+* [BLU] Goblin Punch also does 8x (wtf) damage to enemies of the same level, which may be abusable.
 * [BLU] White Wind is the best healing spell in the game, and works on Bonemail wearers.
 * [BLU] L2 Old isn't as impressive as L5 Death, but trivializes several very hard fights.
 * [BLU] Mighty Guard is basically farewell to being worried about straight damage, forever.
@@ -40,33 +48,41 @@
 * [MYS] Status effect sword magic has a 100% chance to land for all non-immune enemies.
 * [MYS] Several bosses have status effect 'immunity' via high magic evade; you ignore that.
 * [MYS] Level-3 elemental swords instantly kill anything with a weakness to it, or do 9999 to Heavy.
+* [MYS] Use Drain or status swords in random encounters; elemental swords do nothing vs. neutral.
 * [MYS] If you need to quickly disenchant a sword, just un/re-equip it from the item menu.
+* [TIM] Time mage is on the precipice of completely broken.
 * [TIM] Time Mages may not be able to heal, but they can use the Healing Staff from Tycoon.
+* [TIM] They can also break rods if they need insane damage before they get Comet.
 * [TIM] The Slow spell is available early and works on, like, everything.
 * [TIM] Comet and Meteor do damage independent of your stats/gear and cannot be reflected.
 * [TIM] Time-based effects like regen continue during Quick, making regen a full heal.
 * [TIM] You can kill anything in the game (very slowly) by casting Quick, snapping a Venom Rod, and fast forwarding.
-* [SUM] Summoners are very strong, but will generally only have one 'good' element at a time.
+* [SUM] Summoner is pretty broken.
+* [SUM] They have incredible damage output, but will generally only have one 'good' element at a time.
 * [SUM] Remember that you can always snap an elemental rod at need for fire/lightning/ice.
+* [SUM] Don't bother not learning optional summons to boost !Call; it's just not very good.
 * [SUM] Air Lancet boosted Syldras are your best offensive option through the endgame.
 * [SUM] This makes the side quests to get Bahamut and Leviathan kind of pointless.
 * [SUM] Don't underestimate Golem: he can singlehandedly neuter physical-heavy bosses.
 * [SUM] ...or anyone you can land Berserk on, which Summoners can with the Wonder Rod...
 * [RDM] Sorry, Red mage blows, unless you have another mage and the patience for Doublecast.
 * [RDM] By itself, Red Mage's only offense is rod snapping. Stock up.
+* [RDM] Yes, they can equip swords. Yes, they have absolutely no strength and less survivability.
 * [RDM] There's a surprising amount of utility in low-level White Magic, especially with Doublecast.
 * [RDM] Being able to heal/protect/raise 2 twice in one action is surprisingly good.
+* [RDM] You can also stick Confuse/Silence/Sleep onto enemies much more reliably.
 * [RDM] If the rest of your party is strong, I wouldn't advise grinding out Doublecast, though.
 * [BST] Beastmaster is completely broken, but it takes significant amounts of effort.
 * [BST] !Releasing the correct monster will trivialize any boss fight.
 * [BST] I've tried to note in the individual boss entries the best release I know of.
 * [BST] Remember that Beastmasters aren't the worst physically, and can attack from the back row.
+* [BST] Whips are actually really solid weapons; there are a few edge case uses for Equip Whips.
 * [GEO] hahaha you got geomancer
 * [GEO] !gaia sucks
 * [GEO] bell weapons suck
 * [GEO] their base stats suck
 * [GEO] just job fair it
-* [GEO] secretly amazing in the iOS version since they changed how !gaia works, it's super bullshit 64 now.
+* [GEO] secretly amazing in iOS since they changed how !gaia works, it's super bullshit 64 now
 * [NIN] The Ninja's Dual Wield is as good as ever, especially on other classes.
 * [NIN] Having it on the off-hand is a safe way to wield the Chicken Knife.
 * [NIN] But the real power ability is often !Throw. The scrolls have a higher base power than level 3 magic!.
@@ -79,6 +95,7 @@
 * [BRD] Love Song and Charm Song are fantastically effective against random encounters.
 * [BRD] The stat-boosting songs allow you to steamroll any boss you can stay alive against.
 * [BRD] The final boss ain't got nothing on a level 255 party with 99 strength, magic, and speed.
+* [RAN] Ranger is pretty broken, but not until you pony up 600 AP.
 * [RAN] The Ranger's signature ability is !X-fight/!Rapidfire, which hits 4 times for half damage.
 * [RAN] It also never misses, procs Magic Sword, ignores defense (!) and is Chicken Knife OK (!!).
 * [RAN] also they can use bows and summon animals like jrpg saint francis i guess
@@ -176,6 +193,14 @@
 * [THF] Thieves have a fairly easy time getting the Elven Mantle in the basement of Walse Castle. It's nice vs. Garula.
 * The RicardMages in Walse Tower can drop Flame Rods, if you snapped the free Frost Wand on Magissa and want to trivialize Garula.
 
+## Tycoon (optional)
+* Check a world map to see how you can get back to Tycoon Castle early with the ship.
+* Treasure includes valuable healing items, such as multiple Elixirs.
+* You'll also get a Healing Staff, which casts Cura instead of attacking, and is totally amazing.
+* [SAM] You'll also get an Ashura katana, which is the first possible katana for samurai-havers.
+* [SUM] This is also a good time to head to the tower behind the waterfall in Walse to get Shiva.
+* [SUM] Worst case scenario, use a Fire Rod from Walse Tower (you did farm an extra, right?) or buy one in Karnak and come back.
+
 ## Garula
 * 1200 HP, begins countering every attack with Rush at 800 HP.
 * A definite trainwreck waiting to happen for unlucky and unprepared players.
@@ -192,16 +217,9 @@
 * [BLU] You can get Frog Song to apply to Garula. He can cure himself, but he'll keep wasting turns.
 * [BLU] Blind will also stick to him, if for some reason frog abuse isn't enough.
 
-## Tycoon (optional)
-* Check a world map to see how you can get back to Tycoon Castle early with the ship.
-* Treasure includes valuable healing items, such as multiple Elixirs.
-* You'll also get a Healing Staff, which casts Cura instead of attacking, and is totally amazing.
-* [SAM] You'll also get an Ashura katana, which is the first possible katana for samurai-havers.
-* [SUM] This is also a good time to head to the tower behind the waterfall in Walse to get Shiva.
-* [SUM] Worst case scenario, use a Fire Rod from Walse Tower (you did farm an extra, right?) or buy one in Karnak and come back.
-
 ## Fireship
 * You'll only get one discounted item at a Karnak store, so pick a pricey one.
+* In the iOS version, you can buy 99 of the 75% off item, and then resell to double your cash.
 * Wild Nakks outside of Karnak are probably the easiest way to farm cash in world 1.
 * This is especially nice since Karnak is the only source of rods in the world.
 * Consider stocking up before going to the Fireship; rods make the Karnak 500 so much easier.
@@ -225,7 +243,7 @@
 * [RAN] Consider killing it in Tornado Form to get the Fire Bow.
 * Frost Rods will, of course, completely trash this guy. Do not use them when it's in hand form!
 * [TIM] The Time Mage's demi spell will work on the human and tornado forms only.
-* [TIM] One 
+* [TIM] One cast of Demi followed up by a Frost Rod snap will kill Liquiflame.
 * [MNK] Fewer, bigger hits will do better against him, so !Focus ain't bad here.
 * [KGT] The fewer times you have to hit liquidflame the fewer counters you see; consider using Two-Handed.
 * [MYS] Blizzara Sword up and just wreck this dude. Make sure you have a way to transform hand form, though.
@@ -240,6 +258,7 @@
 * If you're having trouble with the Sergeant + Kar Nakk encounter, kill the Sergeant to make the dogs run away.
 * [KGT] RUN RUN RUN run. No, the Brave Blade ain't worth it. Never take the Brave Blade.
 * [THF] If your offense is good, you can steal plenty of Elixirs from the Gigas enemies infesting this place.
+* [THF] You should common-steal some Mage Mashers from the Sorceror enemy in here.
 * Try and get the Elven Mantle and Main Gauche; those are the best unconditional loot in here.
 * [DNC] There's also a Ribbon! Get the Ribbon! You'll need it for your Dancer! It's rad!
 * [BLU] You can learn Aerora from the Gigases here for your Blue Mage, though it won't be too long until you can get it again.
@@ -255,7 +274,7 @@
 * Remember that you can heal for free in the Library by drinking from the pot on the second floor.
 * [CHM] The turtles infesting the grasslands around here drop Turtle Shells; you're gonna want to farm 99 of them for your Chemist.
 * [CHM] I know it sucks, but drain kiss is really really really good and you can basically run from everything else for the rest of the game.
-* [BLU] Your Blue Mage should learn Level 5 Death from Page 32s in the library; you'll obviously have to grind to 15 or 20 for this.
+* [BLU] Your Blue Mage should learn Level 5 Death from Page 64s in the library; you'll obviously have to grind to 15 or 20 for this.
 * [BLU] You can also learn Moon Flute in here from Page 256s, which is an early way to inflict Berserk.
 * [THF] Page 256es are carrying a Ninja Suit as a steal, a pretty respectable piece of cloth armor.
 * [THF] That said, you'll be able to just buy them not too long from now.
@@ -278,6 +297,7 @@
 * [WHM] He's also vulnerable to confuse...which will mostly cause him to Fira himself and heal.
 * [TIM] Ifrit is vulnerable to Slow, which you can inflict at this point with your Time Mage.
 * [GEO] Chaos Geomancers should note that Will-o-Wisp is fire damage, so...don't use that.
+* [THF] The Mage Masher you stole from the Karnak 500 can be used to Silence Ifrit here.
 * [BST] Beastmasters can release Zus from the grassland outside Karnak, for a solid 750 damage each.
 
 ## Byblos
@@ -304,12 +324,21 @@
 ## Sailing
 * Black Mages, Summoners, and anyone with a use for the Istory rings can visit Istory at this point.
 * You can buy Angel Rings (block Old/Zombie) and elemental absorb rings for a cool 50K from Istory.
+* Parties with weak single target offense and no White Mage may want to consider a Flame Ring.
 * [BRD] Bards can get the fourth Piano from Jachol, also.
+* [BLU] Blue Mages can learn the almost-useless Exploder from Bombs near Jachol.
+* [BLU] It is very, very useful (also: funny) in one particular boss fight, so get it.
+* [GEO] The cave outside Jachol has SkullEater encounters, for 5 ABP and a common Elixir drop.
+* [GEO] They are extremely difficult, but !Gaia will dispatch them with little fuss.
+* [GEO] This is your sole recompense for rolling GEO: this is a very, very good grind spot.
+* [GEO] (of course, if you're not Chaos you don't have it yet; feel free to come back.)
 * [BLM] Black Mages can pick up the Toad spell from a NPC in Istory.
 * [SUM] Summoners can learn Ramuh from an encounter outside Istory.
 * [THF] Ramuh's common steal is a Hi-Potion and you won't get any other encounters outside Istory until you kill him.
 * [THF] You can steal Hi-Potions from him forever if you keep running from the fight.
+* [BRD] Bards should make sure they grab the fifth piano from Crescent, while we're at it.
 * Rod-having parties can also pull the legendary Dragondarch Manuever outside Istory, farming the tough Magic Dragons there for XP.
+* [NIN] Ninja Scrolls can farm the tough Magic Dragons outside of Istory with thrown scrolls.
 * [BER] Berserker parties should swing by Crescent Island and farm up some Death Sickles from the Harvesters there.
 * [SUM|NIN] Parties with reliable AoE magic, like !Summon or thrown scrolls, can farm a small island north of Crescent for XP and AP.
 * [SUM|NIN] The only encounter there is 3 or 5 black flames, which have high avoid but can be cleared instantly by any AoE magic.
@@ -318,14 +347,14 @@
 * [BST] If you're feeling up for it, !Control comedy will let you farm Prototypes on another island west of Crescent.
 * [BST] It's pretty good gil and xp/ap.
 * [CHM+BST] ...especially since you have a Chemist, who can find a real use for the Dark Matters that the Prototypes drop.
-* [BRD] Bards should make sure they grab the fifth piano from Crescent, while we're at it.
 
 ## Chocobo Forest
+* Comedy note: if you land the black chocobo in its home forest you have to catch it again.
 * Pop by Rikks/Lix village now that you have black chocobo flight.
 * The item vendor there sells at half-price to you, making it a good place to stock up on ethers and phoenix downs.
 * [CHM] Chemists should definitely spend their entire earthly fortune on ethers here. You'll miss them bitterly when you leave W1.
 * [NIN] Ninjas will also appreciate buyable elemental scrolls and shuriken.
-* [BRD] When you do visit Crescent Island, make sure you hit up the piano in the pub there.
+* [BRD] When you do visit Crescent Island, make sure you hit up the sixth piano in the pub there.
 
 ## Sandworm (Zerkersbane)
 * 3000 HP, can use Fight or Quicksand (~50 party damage and HP Sap).
@@ -334,10 +363,12 @@
 * Most non-Berserker parties can simply DPS race the sandworm with healing items.
 * [BER] Yes, berserkers will repeatedly wipe your party here by being stupid. Kill or blind yours.
 * [BER] If you're on zerker risk and have only berserkers, my condolences. Grind grind grind.
+* [NIN] Thrown Water Scrolls will do a number on the Sandworm.
 * [BLU] The Dhorme Chimera in the desert south of Karnak can teach you Aqua Rake, which will damn near one-shot the sandworm.
 * [BST] The Dhorme Chimera in the desert south of Karnak casts Aqua Rake on release, which will damn near one-shot the sandworm.
 
 ## The Desert of Shifting Sands
+* [NIN] Water Scrolls (you could've bought them in Lix) basically much everything in here.
 * [THF+DRG] If you have both Thief and Dragoon, you should steal a Javelin from the Sand Bears here.
 * [BST] Get used to coming back here to !capture more Sand Bears before every hard boss fight for the rest of W1.
 * [BST] When !released, they cast Right Claw for ~2200 damage, which is kind of a lot in W1.
@@ -351,6 +382,8 @@
 * Low HP, but extremely high physical and magical defenses. Remember that elemental weaknesses (lightning) ignore MDEF.
 * Yes, this is another fight you can trivialize with a rod snap or two.
 * You can also simply blow him up with any other source of lightning damage.
+* [BST] like bearaga, probably
+* [BST] (beastmasters can also paralyze-lock him with the Whip that Magissa dropped)
 * [KGT|BLU] You have a class which can wield the Coral Swords from Jacole, if you're willing to make the detour.
 * [NIN] You probably have some Thunder scrolls, since a common random encounter on the ocean drops them. Use 'em.
 * [RAN] The Thunder Bow purchasable in Crescent Town will make quick work of him.
@@ -373,6 +406,8 @@
 * The Something Awful Forums >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards
 
 ## Soulcannon
+* [BLU] The turrets you fight before SoulCannon can teach you Missile and Flamethrower/Burn Ray.
+* [BLU] The latter is a very solid damage option with a Flame Rod equipped.
 * 12500 HP; charges up and then casts Surge Beam (casts get faster after the first)
 * Surge beam deals 50% of the party's max HP and inflicts HP Leak.
 * The real danger is the Launchers: 2 of 'em, 800 effective HP, can inflict Old.
@@ -381,10 +416,13 @@
 * [SUM] Or just cast Ramuh, whatever.
 * [NIN] Thunder scrolls work especially well.
 * [WHM] Parties with !white can get through this slowly by Esunaing the Olds and healing through Surge Beams.
+* [WHM] Esuna will not heal the stat downs incurred while Old'd! Purge the status effect IMMEDIATELY.
 * [GEO] All you'll get in this fight is Wind Slash! Awesome! ...except Soul Cannon and the Launchers are immune to wind.
 * [TIM] Stop from a Time Mage will work on the Launchers, if for some reason you're allergic to rod abuse.
 * [BRD] This is a surprisngly funny fight for Bards, since they can Stop the Launchers all at once and Hide from the Surge Beams.
 * [BST] You may be able to rush the Soulcannon down with four Bearagas (~9k damage) plus some chip.
+* [BST] Alternate plan: you can Capture a Prototype and release it for ~1k all-target damage.
+* [BST] Prototype is vulnerable to !Control, but actually reducing it to 1/8 hp is an exercise for the reader.
 * All damage in this fight is % based, so armor does nothing. Consider unequipping it for speed.
 
 ## Ronka Ruins
@@ -459,8 +497,10 @@
 * [BST] Before moving onto W2, you may wish to catch a few more Sand Bears, if you're worried about Bridgamesh.
 * [BER] Death Sickles' doom proc will work on him. Berserker's a good class, I swear!
 * [BLU] Blue Mages have so many ways to cheese this fight it's not even funny.
+* [BLU] Try Death Claw, for starters.
 * [SAM] Ianuki technically works on this guy, but how the hell did you master Samurai already?
 * [TIM] Time Mages can totally shut him down between Stop and Slow.
+* [WHM] White Mages can just land Blind and Berserk for an eay kill.
 * [BRD] Bards can stoplock him easily.
 
 ## World 2 Intro
@@ -474,7 +514,7 @@
 * [BLU] If you missed Death Claw for your Blue Mage in W1, you can get it from Treants outside Exdeath's castle.
 * [BLU] If you missed Dark Spark for your Blue Mage in W1, you can get it from Strapparers outside Exdeath's castle.
 
-## bridgeamesh
+## Bridgamesh
 * 6500 HP, goes super saiyan by casting haste+armor+shell at 2500 and starts spamming jump.
 * This fight is much, much easier if you can prevent the buffs from being cast.
 * [WHM] You could also just Berserk him, though now you have a faster stronger Gilgamesh to deal with anyway.
@@ -482,12 +522,13 @@
 * [TIM] Silencing Gilgamesh before you push him below 2500 will work, only in the SNES version.
 * [TIM] A better plan is probably just to get Slow to stick to him.
 * [BLU] Blue Mages can Magic Hammer their way through Gil's 1000 MP before phasing him, causing the buffs to fail.
+* [BLU] Alternatively, 1000 Needles will simply let you blast through his 2500 HP phase in 3 hits.
 * [CHM] Chemists can mix up Lamia's Kiss and Dark Ethers to effortlessly drain Gil's 1000 MP before phasing him, causing the buffs to fail.
 * [BST] Beastmasters can simply blast through him, if you thought to save some Bearagas from World 1.
 * In the SNES version only, you can try getting lucky with a Mage Masher as you push Gil below 2500.
 * Otherwise, most parties can simply win a DPS race against boosted Gil, if you're careful about when you push him.
 
-## lugor
+## Lugor/Regole
 * Lugor can get kind of expensive, depending on your classes and whether you need to buy weapons.
 * [WHM] The magic store sells Blink and Shell, the latter of which is vital for several bosses.
 * [BLM|MYS] The magic store sells Drain, Break, and Bio, which are pretty fun on Black Mages and very fun on Mystic Knights.
@@ -496,8 +537,10 @@
 * [CHM] This is the first chance for Chemists to stock up on the disgustingly broken drink items.
 * [SUM] Summoners can buy a Gaia Gear here, which boosts earth damage by 50%.
 * [SUM] Boosted Titans are going to be your mainstay for a long time.
+* [BRD] Make sure you hit another Piano while you're in Lugor.
 * [BST] Beastmasters might want to consider making an early visit to the Sealed Castle.
 * [BST] They can !control the Shield Dragons in there for easy kills, and stupid amounts of AP and XP this early.
+* [BST] They can also be easily captured for Almagest (~750 damage), which is fine if you're out of bears.
 * The undead dinosaur in the underground passage isn't even a boss. Just Phoenix Down him and move on.
 * In the Moogle Villiage, you can get the Dancing Dagger, which is primarily useful for letting anyone Confuse.
 * [BLU] Your Blue Mage can finally learn most !control-only spells, even if you don't have a Beastmaster.
@@ -508,7 +551,6 @@
 * [BLU] Blue Mages can simply vaporize them with Level 5 Death, which makes grinding much less tedious.
 * [CHM] Chemists are the only class that can equip the hidden Angel Robe in Val Castle.
 * [TIM] Time Mages should get the Teleport spell in Val Castle; it's the only source of it in the game.
-* [BRD] Bards can get a Lamia Harp in Val Castle, which gives you a rather more reliable confusion source than the Dancing Dagger.
 * [KGT+MYS] The Great Sword in the moat of Val Castle is the best sword you're gonna get for quite a while.
 * Drakenvale itself has some fantastic loot.
 * The Dragon Zombies here are tough, but can be easily defeated by Phoenix Downs or other anti-undead measures.
@@ -524,7 +566,7 @@
 * [MYS] Bonemail is particularily disgusting on a Mystic Knight with Drain Sword, which still works.
 * Bonemail is otherwise best against random encounters, bosses that mostly attack physically, or bosses that mostly use status spells.
 
-## dragon_pod
+## Dragon Pod/Hiryuu Plant
 * 12000 HP, summons 100 HP adds that inflict various status effects.
 * Most parties will either clear adds with heavy AoE, or abuse the plant's lack of Heavy.
 * Worst case scenario: the Bone Mail shuts down almost everything the plants and flowers have.
@@ -535,50 +577,53 @@
 * [BER] If you can clear out the adds, your Berserker will eventually kill the plant with a Death Sickle.
 * [BST] Aquathorns from the swamps around Val cast an instant death spell when !released, which will work.
 * [BST] It's only single-target, so kill the flowers manually first.
+* [BST] If you don't want to walk out, you can catch a Skelesaur right here in Drakenvale.
 * [MYS] Drain Sword bypasses the no-healing property of Bone Mail, allowing for an effortless Mystic Knight solo.
 * [CHM] You can hit the plant with a Death Potion (Dark Matter + Phoenix Down) for a 100% kill.
 * [CHM] If the rest of your party is good, though, it's a waste of a dark matter.
 * [BRD] Bards can Stop all the flowers at once with !Sing.
 * [RDM|WHM] Landing Berserk on the flower will cause it to stop resummoning its adds.
 
-## surgate
+## Surgate
 * You can visit Surgate Castle at this point, but most parties shouldn't bother.
 * [BRD] Bards, however, can learn the incredible Swift Song at Surgate now.
 * [TIM] Time Mages can find the Float spell at Surgate, just in time for W2 Exdeath.
 
-## boatamesh
+## Boatamesh & Enkidu
 * 8888 HP, mixes up physicals with Missile and Death Claw. Summons Enkidu at 4000.
 * Enkidu has 4000 HP and uses various blue magic, including the completely infuriating White Wind.
 * Kill Enkidu first, but watch out for his ability to Vampire for obscene damage when you do.
 * [BLU] Gil's level 31 and not Heavy. Dark Shock + L5 Death ends this fight instantly.
 * [CHM] MP draining Gil won't stop him from summoning Enkidu, but it will shut down his offensive casting.
 * [TIM|WHM] Silence from a Time Mage or White Mage will shut down Gil's offense, but Blue Magic can't be silenced.
-* [MYS] Mystic Knights can nail Gil with a Silence sword 
+* [MYS] Mystic Knights can nail Gil with a Silence sword.
 * [WHM|RDM] If Berserked by a White or Red Mage, Gil won't summon Enkidu.
 * [THF] Make sure to steal a Genji Glove from Gil, if you have anyone who can equip heavy armor.
 * [BST] You can !Control Enkidu lol. WhiteWind the party or just have him Hurricane himself.
 * Enkidu has no immunity to instant death, stuff like !Ianuki, Death Potions, Death Sickles will work on him.
 * ...neither does Gilgamesh, now that I think about it. Poor guy.
 
-## shield_generator
+## Shield Generator/Barrier Tower
 * The Barrier Tower is a fairly obnoxious dungeon with a lot of loot you want to grab.
+* Anyone with a caster should make sure to get the Gold Hairpin, which halves MP consumption.
 * [BLU] Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility.
 * [BLU] Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka.
 * [KGT] Knights can obtain the Blood Sword here, a weapon which drains HP from its target.
 * [THF] Thieves can get an invaluable Flame Ring from the Red Dragons in trapped chests.
 * [THF] You can flee from a monster-in-a-box to reset the encounter if your steal fails.
+* [THF] ...or if you're a nutter and want 4 of them.
 * The first Gold Hairpin, a helm which halves MP consumption, is available here.
 * Most importantly, farm ReflectMages for their Reflect Ring drop here.
 * Unless you have a way to cheese him entirely, you'll need them for World 2 Exdeath.
 
-## atomos
+## Atomos
 * 19997 HP, spams comet until someone dies then starts sucking them in.
 * Just come in with someone dead so you can at least choose who you have down.
 * Revive them right before they get eaten and let Atomos kill someone else to buy more DPS uptime.
 * [WHM|CHM] !White or !Mix are the two defensive abilities good enough to possibly let you just tank comets.
 * [WHM|CHM] Wouldn't really try it though, unless you have no better plan.
 * [BLU] Dark Shock + Level 5 Death.
-* [BLU] Yup.
+* [BLU] Yup. Could take a while to actually get Dark Shock to stick, though.
 * [BLM|MYS] Sleep (and Sleep Sword) inflict the only aliment that Atomos is weak to.
 * [BLM|MYS] Once you have him sleeping, you can just kill him without waking him up with magic or !Mineuchi/!SwdSlap or something.
 * [BLM|MYS] !Mineuchi/!SwdSlap is 'fixed' on iOS and wakes sleeping enemies!
@@ -588,9 +633,11 @@
 * Most parties without access to a dirty trick can simply win a DPS race against Atomos.
 
 ## Post-Submarine Questing
-* To advance the plot, take the submarine visit Ghido's Cave.
+* To advance the plot, take the submarine to visit Ghido's Cave.
 * [BLU] While you're there, learn Aeroga from the Enchanted Fan metamorph.
 * [BLU] It's by far the most reliable option for Blue Mages to do straight damage.
+* [BLU] If you didn't have a way to confuse for White Wind in Ronka, you can get it now.
+* [BLU] The Enchanted Fan ALSO teaches White Wind when confused by the Dancing Dagger.
 * Your staff users may appreciate the Staff of Light that sometimes drops from metamorphs.
 * Only the Wyvern-type metamorph will drop it.
 * Farming copies to snap may make W2 Exdeath much easier, but it's also completely mind-numbing.
@@ -601,13 +648,14 @@
 * [CHM] If you're running low on Turtle Shells for your Chemist, go to the Northern Island where Shoat is.
 * [CHM] The Land Turtles here drop more Turtle Shells to fuel your Drain Kiss habit.
 
-## moore
+## Moore
 * Moore town, in general, has some pretty good buys for your casters.
 * [BLU+SUM] Air Lancets boost wind damage by 50%, making them immediately useful for Blue Mages.
 * [BLU+SUM] Summoners will be able to abuse this too, but not until the last world.
 * [WHM] Curaga, Berserk, and Reflect all allow you to cheese fights in various hilarious ways.
 * [BLM] YUP. FINALLY YOU GET THE -AGA BLACK MAGE SPELLS.
 * [TIM] The various spells Time Mages can learn here are nice, but the real winner is Hastega.
+* [BRD] Bards will be happy to find yet another piano in Moore.
 * Every single goddamn encounter in Moore Forest is fucking infuriating and you should run from them all.
 * [BRD] Exception: bards can spam Love Songs to inflict Stop; every random encounter is vulnerable to it.
 * You'll have to make a choice here between the Aegis Shield and the Flame Shield.
@@ -615,7 +663,7 @@
 * Exception: your party has literally no other way to beat the upcoming Seal Crystals fight...
 * ...and you forgot to buy the Flame Ring in World 1. A certain famous streamer pulled that one...
 
-## seal_crystals
+## Seal Crystals
 * 7777 HP each, not Heavy, virtually immune to %M-EVD subject spells.
 * Each crystal casts a spell at <3000 HP: top Fire3, left Aero3, bottom Earthshaker, right Aqua Rake.
 * Each crystal also absorbs attacks of its element.
@@ -628,7 +676,7 @@
 * You can also get fire absorb by letting the Aegis shield burn, if you forgot to get Fire Rings or are otherwise an idiot.
 * Seriously, don't do it.
 
-## meatcastle
+## Meatcastle
 * To save yourself time in world 3, farm a Power Staff from Black Warlocks.
 * It casts Berserk when wielded, which has a number of obscure but quite useful applications.
 * [THF] Your Thief can also steal a Judge Staff from the very same Black Warlocks.
@@ -656,27 +704,31 @@
 * If you *are* bringing reflect rings, going in with a level divisible by 3 will cause Exdeath to blow himself up.
 * [WHM] Make sure you keep Protect/Armor up; Exdeath's Vaccum Wave physicals can be surprisingly nasty.
 * [WHM] Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also Reflect Exdeath.
+* [WHM] Setting Berserk on your own characters may help with the mad rush to take his last 7000 HP.
 * [BLU] Level 2 Old totally works on this guy and totally neuters him, haha.
 * [BLU] If you bothered getting Level 3 Flare, that's solid damage at this point. Otherwise just Aeroga spam.
 * [TIM] Do not use Slow. Exdeath will simply counter with Haste, which overwrites Slow instead of neutralizing it.
 * [TIM] If you can Reflect Exdeath and bounce a Slow off your own party, his Haste counter will bounce off too!
-* [TIM] Do use Float on your party to avoid Earth Shaker; you can apply the status in a random encounter and still wear Reflect Rings.
+* [TIM] Do use Float on your party to avoid Earth Shaker; even if he uses 100Gs it wastes a turn.
 * [SUM] Make sure you keep Golem up; Exdeath's Vaacum Wave physicals can be surprisingly nasty.
 * [BST] Releasing four Yellow Dragons (8192 damage each) will instantly kill Exdeath, if you're willing to go to the trouble.
 * [NIN] Consider !Throwing your Excalipoor or Magishuriken to get past Exdeath's last 7000 HP, if Meteor is crushing you.
+* [MYS] Mystic Knights may have luck with applying Drain Sword and just trying to DPS race Exdeath.
 * [BRD] Going Super Saiyan on Exdeath with bard songs is technically possible but tricky, unless you have a way around Condemn.
 * [CHM] Dragon's Kiss (Dragon Fang + Maiden's Kiss) blocks Condemn, allowing you to go Super Saiyan in peace if you feel like it.
+* [CHM] Exdeath is weak to Holy; chugging a Giant's Drink and then spamming Holy Breath (Dragon Fang + Holy Water) works.
+* [CHM] So does good old Drain Kiss spam, if you're still good on Turtle Shells.
 * Staff-wielding parties can grind for Staff of Lights in Ghido's Cave; snapping them will allow you to do massive Holy damage to Exdeath.
 * This also takes forever and should very much be treated as a last resort.
 * If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring.
 * Consider carefully what secondary loadout you give your Aegis Shield user; if things start going south they will likely be the one responsible for saving the fight with revives/healing.
 
-## antlion
+## Antlion
 * 8100 HP, Bartz and Krile only.
 * Pain in the ass if your offense is slow, since he spams Dischord (level half) which makes it slower.
 * [RDM|WHM] Berserking him and dealing with the physical attacks is probably the easiest path with a White Mage.
 * [RDM|WHM] Blinding him would also basically neuter his offense.
-* [GEO] If you didn't plan ahead, the only available !release is from the trapped chest in Tule's training house.
+* [BST] If you didn't plan ahead, the only available !release is from the trapped chest in Tule's training house.
 * [BLU] 1000 Needles at least isn't affected by your levels. 8 and spare change will kill Antlion.
 
 ## Did You Get The Chicken Knife?????

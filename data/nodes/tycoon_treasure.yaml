@@ -1,7 +1,7 @@
 Tycoon (optional):
   Metadata:
-    next-node: fireship
-    previous-nodes: ['garula']
+    next-node: garula
+    previous-nodes: ['walse']
   Generic:
     - "Check a world map to see how you can get back to Tycoon Castle early with the ship."
     - "Treasure includes valuable healing items, such as multiple Elixirs."
