@@ -1,9 +1,9 @@
 Tycoon (optional):
   Metadata:
     next-node: garula
-    previous-nodes: ['walse']
+    previous-nodes: ['walse_tower']
   Generic:
-    - "Check a world map to see how you can get back to Tycoon Castle early with the ship."
+    - "Check a world map to see how you can get back to Tycoon Castle early with the dragon."
     - "Treasure includes valuable healing items, such as multiple Elixirs."
   Staff:
     - "You'll also get a Healing Staff, which casts Cura instead of attacking, and is totally amazing."

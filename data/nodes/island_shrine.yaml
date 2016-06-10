@@ -1,10 +1,14 @@
 ---
-island_shrine:
+Island Shrine:
   Metadata:
     next-node: wendigo
     previous-nodes:
     - airship_w3
   Generic:
   - "Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not."
-  - "The Island Shrine contains the Rising Sun, the best thief weapon in the game (oh boy!!)."
   - "It is also required for Fork Tower and thus Istory Falls and the Deep Sea Trench."
+  Thief:
+  - "The Island Shrine contains the Rising Sun, the best thief weapon in the game (oh boy!!)."
+  - "Mirage Vests, which grant natural Blink, can be rarely stolen from RedHarpy/Oisearare."
+  Beastmaster:
+  - "If you're coming, the Beastkiller whip is situational but decent for your Beastmaster."

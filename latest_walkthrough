@@ -1,5 +1,12 @@
-WARNING: unexpected node transition walse_tower => tycoon_treasure
-WARNING: unexpected node transition garula => fireship
+## Intro
+* Enkibot is a hints file generator built by the Something Awful fiesta community.
+* Questions, corrections, suggestions? Come hang out on irc.synirc.org #ffvfiesta.
+* Other resources that I'd reccomend:
+* - http://ffvspirit.com/ has the best general-purpose walkthrough I know of.
+* - http://www.cavesofnarshe.com/ff5/ is slicker but assumes you have all classes...
+* - http://tinyurl.com/jzn5kzs is the GFAQs mechanics guide; has all boss AI scripts
+* - http://tinyurl.com/ovua3zd is @GarlyleWild's Fiesta Handbook
+
 ## Class Tips
 * Here are some basic general tips based on the classes you've selected...
 * [KGT] The Knight seems straightforward, but the combo of !Guard + Cover is amazing.
@@ -31,6 +38,7 @@ WARNING: unexpected node transition garula => fireship
 * [WHM] Once you have it, Holy is a fantastic single target damage option, on par with other power classes.
 * [BLU] Blue Mage is completely broken.
 * [BLU] Highlights: one-shot 50+% of the bosses in the game with Dark Spark + L5 Death.
+* [BLU] http://gfycat.com/TerrificKeyEmperorshrimp
 * [BLU] Goblin Punch is a safe way to wield the Chicken Knife and Excalipoor on a physical class.
 * [BLU] Goblin Punch also does 8x (wtf) damage to enemies of the same level, which may be abusable.
 * [BLU] White Wind is the best healing spell in the game, and works on Bonemail wearers.
@@ -194,7 +202,7 @@ WARNING: unexpected node transition garula => fireship
 * The RicardMages in Walse Tower can drop Flame Rods, if you snapped the free Frost Wand on Magissa and want to trivialize Garula.
 
 ## Tycoon (optional)
-* Check a world map to see how you can get back to Tycoon Castle early with the ship.
+* Check a world map to see how you can get back to Tycoon Castle early with the dragon.
 * Treasure includes valuable healing items, such as multiple Elixirs.
 * You'll also get a Healing Staff, which casts Cura instead of attacking, and is totally amazing.
 * [SAM] You'll also get an Ashura katana, which is the first possible katana for samurai-havers.
@@ -219,7 +227,7 @@ WARNING: unexpected node transition garula => fireship
 
 ## Fireship
 * You'll only get one discounted item at a Karnak store, so pick a pricey one.
-* In the iOS version, you can buy 99 of the 75% off item, and then resell to double your cash.
+* In the iOS version, you can buy 99 of a 75% off item, and then resell to double your cash.
 * Wild Nakks outside of Karnak are probably the easiest way to farm cash in world 1.
 * This is especially nice since Karnak is the only source of rods in the world.
 * Consider stocking up before going to the Fireship; rods make the Karnak 500 so much easier.
@@ -757,7 +765,7 @@ WARNING: unexpected node transition garula => fireship
 * [CHM] There are total of six Dark Matters in a chest here, which should be more than enough.
 * [CHM] If you need more, Prototype Island close to Crescent is still around.
 
-## melusine
+## Melusine
 * 20000 HP, swaps between thunder/ice/fire/physical weakness.
 * When in elemental-weak form, has stupid physical defense and spams the NON-WEAK elements at party.
 * When in physical-weak form, has 0 defense/evasion.
@@ -772,8 +780,9 @@ WARNING: unexpected node transition garula => fireship
 * [MYS] Silence Blade will always work on Melusine, which makes the fight easier to just bum rush.
 * [RAN] !X-fight ignores enemy defense; spamming it with the Chicken Knife lets you ignore fight mechanics for this boss.
 * [RAN] (also, most of the rest of the game)
+* Defense-piercing fist/katana criticals will work well against her.
 
-## sealed_castle
+## Sealed Castle
 * You'll have the choice of 3 legendary weapons at first in the Sealed Castle, plus 3 more per tablet.
 * The Assassin's Dagger is the only really multiclass one, but it's real good (bring it to cheese twintania).
 * [KGT] Excalibur has the highest Power of any easily obtainable weapon and is Holy elemental. No-brainer for Knights.
@@ -791,7 +800,7 @@ WARNING: unexpected node transition garula => fireship
 * [BST] The Firebute is basically garbage.
 * [GEO] The Gaia Bell is actually garbage.
 
-## airship_w3
+## Aviation
 * There are a lot of interesting things to do now that you have a working Airship.
 * In a forest on an island to the south of the world, you can visit the Phantom Village.
 * The stores there sell stupendously valuable gear, with a price tag to match.
@@ -818,12 +827,14 @@ WARNING: unexpected node transition garula => fireship
 * [BRD] The Minstrel in Crescent Island will teach you the PowerSong if you've hit all seven pianos.
 * [DNC] Your Dancers (and Equip Ribbon-havers) will appreciate the Ribbon a girl in Regole will give you.
 
-## island_shrine
+## Island Shrine
 * Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not.
-* The Island Shrine contains the Rising Sun, the best thief weapon in the game (oh boy!!).
 * It is also required for Fork Tower and thus Istory Falls and the Deep Sea Trench.
+* [THF] The Island Shrine contains the Rising Sun, the best thief weapon in the game (oh boy!!).
+* [THF] Mirage Vests, which grant natural Blink, can be rarely stolen from RedHarpy/Oisearare.
+* [BST] If you're coming, the Beastkiller whip is situational but decent for your Beastmaster.
 
-## wendigo
+## Stoker/Wendigo
 * 20000 HP, uses physical attacks and Hurricane/Mind Blast/Confuse.
 * Attacking the wrong one does no damage.
 * They respond to multi-target attacks with an Ice-element counter.
@@ -834,7 +845,7 @@ WARNING: unexpected node transition garula => fireship
 * [BLU] See if you can learn Mind Blast from the Wendigo while you're here.
 * Otherwise, just use trial and error with powerful single target blows.
 
-## fork_tower
+## Fork Tower
 * Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not.
 * The Defender in Fork Tower is a Knightsword that might be interesting if Excalibur didn't exist.
 * It can be used as an item to cast Protect, which may be useful for certain very squishy parties.
@@ -849,12 +860,13 @@ WARNING: unexpected node transition garula => fireship
 * {"Minotaur is easy even for mages"=>"just whittle him down with Chicken Knfie and potions."}
 * Just don't be afraid to back off on dps, since he counters with more physical attacks.
 * Omniscient Resets if a physical command is used on him, unless silenced or berserked.
+* SILENCE AND BERSERK DO NOT WORK IN THE IOS VERSION
 * His entire offense is neutralized by Reflect Rings, but you still need a way to kill him.
 * [WHM] White Mages can simply land Berserk on him and then spam Blink.
 * [WHM] The latter bit is important, he hits like a freight train loaded with bricks.
 * [GEO] http://i.imgur.com/JkwTg5O.png
 * [CHM] Offensive mixes will cause Omniscient to reset the battle.
-* [CHM] That said, you can just blind + berserk him trivially.
+* [CHM] That said, you can just berserk + blind him trivially.
 * SNAPPING RODS COUNTS AS A PHYSICAL ATTACK (somehow)
 * Failing any other way to do this, there are three general strategies.
 * 1) With Reflect Ring+Mage Masher reflect Silence onto Omniscient by attacking yourself.
@@ -862,11 +874,11 @@ WARNING: unexpected node transition garula => fireship
 * 3) With a Reflect Ring, wait out his 30,000 MP. This may happen before (2) does.
 * All of these options are Super Bullshit 64 and you should seriously consider if you need to do Fork Tower at all.
 
-## sea_trench
+## Deep Sea Trench
 * It's pretty rare for any Fiesta party to care about the Deep Sea Trench. Consider skipping it.
 * [BRD] Bard parties might appreciate it solely for the novelty of vaporizing its 100% undead inhabitants with Requiem.
 * [BRD] Not a bad way to grind out XP/AP/gil, but you've got Bard. Why do you need to grind?
-* [MNK] Monks can get the Kaiser Knuckles here, which turn them from useless into marginally-less-useless.
+* [MNK] Monks can get the Kaiser Knuckles here, which turns their damage from pathetic to pretty bad.
 * [MNK] It also locks them out of the Hermes Sandals.
 * [MNK] hahaha
 * [TIM] Meteor is locked behind the Deep Sea Trench for your Time Mage, which is probably the only time I'd do it personally.
@@ -883,7 +895,7 @@ WARNING: unexpected node transition garula => fireship
 * [BLM] Be careful with group-cast black magic: each stooge absorbs the element he uses.
 * [MYS] If you can volley three off at once, you can kill them instantly with Break Blade.
 
-## istory_falls
+## Istory Falls
 * Istory Falls isn't useless per-se: there's a lot of good loot in here, but it rarely makes or breaks a run.
 * [SUM] Summoners learn Leviathan here which is...completely useless due to the lack of water-boosting weapons.
 * [RDM] Red Mages will, uh, 'appreciate' the Rune Blade here, which might make them better at killing things than, like, a geomancer.
@@ -897,7 +909,7 @@ WARNING: unexpected node transition garula => fireship
 * It may or may not be worth grabbing a second: you'd have to have two shield users or Equip Shields.
 * And it might be a whole lot of extra work for not that much benefit.
 
-## leviathan
+## Leviathan
 * Why are you here? The only thing he drops is the Leviathan summon.
 * It's not even better than Syldra, unless you have a Chemist to mix elemental power.
 * ...but then you'd have a Chemist, anyway.
@@ -910,13 +922,13 @@ WARNING: unexpected node transition garula => fireship
 * ...what's the third one there? uh, not the EPA.
 * I can't. The third one, I can't. Sorry. Oops.
 
-## calofisteri
+## Calofisteri
 * Wait, it's the Department of Energy!
 * Bonemail + Hermes Sandals literally make a character immune to Calofisteri's entire moveset.
 * Just hold down the Fight button and make a sandwich.
 * Left to her own devices, she will spam Reflects and then start bouncing debuffs and buffs off them.
 
-## omega
+## Omega
 * Optional superboss; there is no reason other than bragging rights to try this.
 * To pull this off at a sane level, you need both a way to neuter his offense.
 * [BRD] Omega is vulnerable to being stopped by the Bard's Love Song.
@@ -936,7 +948,7 @@ WARNING: unexpected node transition garula => fireship
 * [SUM] Summoners can penetrate Omega's defenses with either Ramuh or Odin.
 * [KGT|RDM] Anyone who can use a sword can...technically damage Omega with the Coral Sword.
 
-## apanda
+## Apanda
 * 22200 HP, Byblos 2.0, counterattack routines and all.
 * You have a few more options available to you than against Byblos, though...
 * Keep a weak weapon on hand to break the Confuse status effects he inflicts.
@@ -966,7 +978,7 @@ WARNING: unexpected node transition garula => fireship
 * [BLU] You can teach him Exploder ahahahahahah i'm serious do it.
 * [BLU] But first, check if there's any good !Blue spells he uses that you missed; you can learn them here.
 
-## catastrophe
+## Catastrophe
 * 19997 HP, casts Gravity 100 to dispell Float, then spams Earth Shakers.
 * GRAVITY 100 CAN BE REFLECTED. Get a floating character, put a wall ring on them. He'll never attack.
 * Dancing Dagger to confuse a Gaelicat (North Mountain) or Poison Eagle (Drakenvale) for Float.
@@ -977,7 +989,7 @@ WARNING: unexpected node transition garula => fireship
 * Of course, some parties have the HP/healing/offense to just eat Earth Shakers and kill Catastrophe normally.
 * Try it out before running out to do the float cheese, to save a lot of time.
 
-## halicarnassus
+## Halicarnassus
 * 33333 HP, sky-high level (affects aliment spell accuracy).
 * Starts by turning characters into frogs; if you come in with everyone frogged it cures you instead.
 * Casts Holy once every eight turns; having the party Reflected will let you scam an easy kill.
@@ -1017,7 +1029,7 @@ WARNING: unexpected node transition garula => fireship
 * [TIM] Time Mages can land Slowga on them, or simply quick+venom rod them if you stocked up.
 * [BRD] Bards can vaporize the Movers easily with the Requiem song.
 
-## shinryu
+## Shinryu
 * Optional superboss; there is no reason other than bragging rights to try this.
 * [DRG] If you want his Dragon Whisker for your Dragoon, remember that you can flee Shinryu.
 * [DRG] There's nothing stopping you from stealing (or Thief Knifing) and running repeatedly.
@@ -1038,7 +1050,7 @@ WARNING: unexpected node transition garula => fireship
 * In the worst case scenario, any class which can wear the Mirage Vest can abuse a bug.
 * Changing weapons with a Mirage Vest equipped refreshes the start-of-battle Blink.
 
-## necrophobe
+## Necrophobe
 * Necrophobe is an optional fight! You need to kill him for the last save point before NED, though.
 * First phase: four 8800 HP auto-reflect Barriers, which alternate between level 3 black magic and holy/flare.
 * Second phase: 34044 effective HP, weak to all elements, spams double physical attacks/vacuum waves.
@@ -1052,7 +1064,7 @@ WARNING: unexpected node transition garula => fireship
 * [BST] Beastmasters can release Great Dragons from the X-Zone Caves for a 9999 hit, to quickly thin out the crystals.
 * [BST] Just pray the random target selection doesn't pick Necrophobe himself.
 
-## tree_exdeath
+## Tree Exdeath
 * 49001 HP. Starts with regular attacks and White Hole (petrify+death).
 * Adds Holy and Condemn below 30000, then Meteo below 10000. Rush that last 10K HP, Meteo hurts.
 * Spawns Neo-Exdeath after going down.
@@ -1064,7 +1076,7 @@ WARNING: unexpected node transition garula => fireship
 * [BLU] Mighty Guard. Mightguardmightyguardmightyguard. You can even facetank Meteos with it.
 * [NIN] Now would probably be a good time to chuck all those legendary weapons, if you're having trouble burning the last 10K HP.
 
-## ned
+## Neo Ex Cactuar
 * Image guide: http://i.imgur.com/FphWf.gif
 * High level strategy overview follows:
 * Biggest threats are: Grand Cross (random aliments), Almagest (~1700 HP all-targets), enrage (last part spams super attacks 2x/turn)

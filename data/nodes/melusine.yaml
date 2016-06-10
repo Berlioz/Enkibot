@@ -1,5 +1,5 @@
 ---
-melusine:
+Melusine:
   Metadata:
     next-node: sealed_castle
     previous-nodes:
@@ -24,3 +24,5 @@ melusine:
   Ranger:
   - "!X-fight ignores enemy defense; spamming it with the Chicken Knife lets you ignore fight mechanics for this boss."
   - "(also, most of the rest of the game)"
+  Pierce-Def:
+  - "Defense-piercing fist/katana criticals will work well against her."

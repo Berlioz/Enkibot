@@ -1,5 +1,5 @@
 ---
-wendigo:
+Stoker/Wendigo:
   Metadata:
     next-node: fork_tower
     previous-nodes:
