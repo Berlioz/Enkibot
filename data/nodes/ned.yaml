@@ -25,8 +25,9 @@ Neo Ex Cactuar:
   - "If things go seriously south, the Time Mage's Quick is a good recovery tool."
   - "Quick will allow you to throw out multiple Phoenix Downs/Remedies/Elixirs in a single action."
   - "Meteor will be weaker than expected, due to the presence of two 'decoy' targets in the SNES version."
+  - "If you're a gambling sort, you can try to land Old on the Almagest part at *extremely* low odds. It'll completely defang that piece, though."
   Dragoon:
-  - "Almagest is telegraphed by 'The Laws of the Universe Mean Nothing!'"
+  - "Almagest is telegraphed by Neo Exdeath beginning to shake, and Grand Cross is telegraphed by the warning 'The laws of the universe mean nothing!'."
   - "Your dragoon can dodge that (and Grand Cross) by being in the air at that time."
   Dancer:
   - "You'll probably have to look elsewhere for damage, but Equip Ribbons make Grand Cross a nonissue."
@@ -45,15 +46,18 @@ Neo Ex Cactuar:
   Beastmaster:
   - "Beastmasters can release a Dragon Aevis for a 9999-all-target Breath Wing. 4 of them will get NED's parts real low."
   - "You can also release a Crystelle for Mighty Guard to trivialize Almagest, but catching one's a horrible pain."
+  - "As long as you're under level 45, using the Dancing Dagger in the back row against a Crystelle that you !Control to use Protect does 1-3 or 2-6 damage (if you don't !Dance)."
   Blue-Mage:
   - "Mighty Guard and White Wind allow you to win stand-up brawls against NED with little fuss."
   - "Or you could abuse Dark Spark and L5 Death, but honestly I'd go with the first idea."
+  UNION Blue-Mage Chemist:
+  - "Unless you have mix AND math at your side, which lets you set up the hilarious QUAD SKULL."
   Dragoon`:
   - "The Dragon Lance is super-effective vs. the Grand Cross part, if you're burning that one first."
   Bard:
   - "Apollo's Harp will do massive damage vs. the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway."
   Ranger:
-  - "Were you dumb enough to grind out a Dark Bow in Ronka? Congratulations!"
+  - "Were you dumb enough to grind out a Dark Bow in Ronka, or bought one in Bal? Congratulations!"
   - "The Melee piece (the one that chucks out 1800 damage Vacuum Waves) can be blinded!"
   - "NED's phantom targets will make !X-Fight less powerful on the SNES version, though."
   Summoner:
