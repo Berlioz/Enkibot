@@ -21,7 +21,7 @@ Omega:
   - "see: http://www.sullla.com/FF/omegashinryuu.html"
   Generic`:
   - "Without cheese but with good sandbagging classes like WHM or BLU, you can try to fight it out normally."
-  - "That said, many parties won't even have a way to damage him through 190 defense and elemental absorbs."
+  - "That said, many parties won't even have a way to damage him through 190 defense and elemental absorbs (or his 95% physical evasion)."
   INTERSECTION Monk Samurai:
   - "Barehand and katana criticals ignore physical defense."
   Berserker:
@@ -32,17 +32,20 @@ Omega:
   - "Blue Mages can chip Omega down with Thousand Needles. 1000 HP at a time."
   Time-Mage:
   - "Meteor and Comet deal unaspected damage and ignore reflects."
+  - "Unless they roll fantastically high, however, they'll get completely nullified by his sky-high MDefense."
   Mystic-Knight:
   - "Thundaga Sword will do 9999 damage to Omega."
   Chemist:
   - "Chemists can mix a Split Shell/Turtle Soup to decrease Omega's defense and magic defense."
   Ranger:
-  - "The Ranger's X-Fight/Rapidfire ability ignores physical defense."
+  - "The Ranger's X-Fight/Rapidfire ability ignores physical defense and is guaranteed to hit."
+  - "It'll provoke two sets of counter-attacks, though!"
   Dragoon:
   - "Dragoons can chip away with the Trident, a spear that does lightning damage."
   Summoner:
   - "Summoners can penetrate Omega's defenses with either Ramuh or Odin."
+  - "Ramuh will deal superior damage unless you don't have a Thunder Rod."
   Beastmaster:
-  - "Beastmasters can release Yellow Dragons for 9999 each, then chip away with a Bolt Whip."
+  - "Beastmasters can release Yellow Dragons for 9999 each."
   INTERSECTION Knight Red-Mage:
   - "Anyone who can use a sword can...technically damage Omega with the Coral Sword."
