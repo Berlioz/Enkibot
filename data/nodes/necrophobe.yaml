@@ -11,10 +11,12 @@ Necrophobe:
   - "Reflect rings will let you cast on yourself to penetrate the barrier reflect status."
   Heavyscammer:
   - "The barriers are vulnerable to instant death, which your party is capable of efficiently inflicting."
+  - "Make sure that your preferred method of ID is NOT reflectable, though!"
   NOT Heavyscammer:
   - "It might be tempting to try and Assassin's Dagger the barriers. Just be aware that Doom can be reflected..."
   Samurai:
-  - "Samurai can either use !Ianuki or just !Zeninage the barrier crystals down easily."
+  - "Samurai can just !Zeninage the barrier crystals down easily."
+  - "You might want to use !Iainuki, but the Barriers are heavy, so it won't work."
   Summoner:
   - "Air Lancet boosted Syldras from your Summoner will let you just DPS race the barriers."
   - "If that sounds like too much work, you can also scum Shoat petrifies on the barriers."
