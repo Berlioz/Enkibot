@@ -6,7 +6,7 @@ Omega:
     - calofisteri
   Generic:
   - "Optional superboss; there is no reason other than bragging rights to try this."
-  - "To pull this off at a sane level, you need both a way to neuter his offense."
+  - "To pull this off at a sane level, you need both a way to neuter his offense and a way to actually hurt him."
   Bard:
   - "Omega is vulnerable to being stopped by the Bard's Love Song."
   - "Two hasted bards can keep him locked while a third sings your speed up to 99."
@@ -28,6 +28,7 @@ Omega:
   - "Axes quarter enemy defense, making it possible to hurt Omega with any strong axe."
   Black-Mage:
   - "Black Mages can reflect a Thundaga off friendlies to beat Omega's innate reflect."
+  - "This doesn't trigger Omega's brutal counter script, making Black Mage one of the only choices for winning a straight up fight."
   Blue-Mage:
   - "Blue Mages can chip Omega down with Thousand Needles. 1000 HP at a time."
   Time-Mage:
