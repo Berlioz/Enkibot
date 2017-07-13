@@ -7,13 +7,15 @@ The Great Pyramid:
   Generic:
   - "To get in, you'll have to beat 2 5000 HP Gargoyles which use physical attacks."
   - "They revive each other, so you need to kill simultaneously or use debilitating effects."
-  INTERSECTION White-Mage Red-Mage:
+  White-Mage:
   - "White magic is particularily strong here."
-  - "You can use Blind, Protect, and Blink to completely shut off their offense."
+  - "You can use Protect and Blink to completely shut off their offense."
   - "Then simply Berserk them to stop them from reviving each other and go to town."
+  Blue-Mage:
+  - "Blue Mages can use Level 3 Flare if they have it to kill them both."
   Generic`:
   - "For subsequent rematches: you can always use a Magic Lamp Odin to kill them."
-  INTERSECTION Thief Ninja:
+  INTERSECTION Zephyruses Ninja:
   - "Because of the Lemures and knockoff-Omegas in here, !Flee and !Smoke are really good."
   Bard:
   - "Many of the random encounters in here are Undead, making Requiem very handy."

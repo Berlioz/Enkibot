@@ -12,7 +12,8 @@
 * [KGT] The Knight seems straightforward, but the combo of !Guard + Cover is amazing.
 * [KGT] If the party is in critical HP, you ignore all single-target physical attacks.
 * [KGT] This is especially brutal with a way to inflict Berserk.
-* [KGT] (White, Red, and Blue Mages can do so easily; staff and rod-users can later on).
+* [KGT] (White Mages can do so easily with a spell; staff and rod-users can later on).
+* [KGT] So can chemists, though if you have Chemist you probably don't need to coverscam to win.
 * [KGT] Bear in mind that even if you have Two Handed equipped, you CAN equip a Shield mid-combat through the item menu!
 * [KGT] This is super useful with elemental absorption shields or the blessed Aegis.
 * [MNK] Monks do amazing damage at first, but rapidly taper off after World 1.
@@ -54,6 +55,9 @@
 * [BER] It can cast Doom when it hits, and you can scam instant kills on a lot of bosses with it.
 * [BER] Special comedy option: berzerkers with a mage command are brutal with a Rune Axe equipped.
 * [BER] That's 'comedy' as in 'it's comedic how fast the boss melts', by the way.
+* [BER] On the SNES version only, a Berserker (3 magic) with a Thornlet (-5 magic) underflows to 253 magic.
+* [BER] The Gaia Hammer, which casts Quake when attacking, deals stupid amounts of damage with those stats.
+* [BER] If you've got a 3 berserker fiesta, I strongly encourage you to start on SNES.
 * [MYS] Mystic Knight is completely broken.
 * [MYS] Status effect sword magic has a 100% chance to land for all non-immune enemies.
 * [MYS] Several bosses have status effect 'immunity' via high magic evade; you ignore that.
@@ -75,29 +79,32 @@
 * [SUM] This makes the side quests to get Bahamut and Leviathan kind of pointless.
 * [SUM] Don't underestimate Golem: he can singlehandedly neuter physical-heavy bosses.
 * [SUM] ...or anyone you can land Berserk on, which Summoners can with the Wonder Rod...
-* [RDM] Sorry, Red mage blows, unless you have another mage and the patience for Doublecast.
+* [RDM] Sorry, Red mage kind of blows, unless you have another mage and the patience for Doublecast.
 * [RDM] By itself, Red Mage's only offense is rod snapping. Stock up.
 * [RDM] Yes, they can equip swords. Yes, they have absolutely no strength and less survivability.
+* [RDM] More importantly, they can equip staves, granting early access to Cura (Healing Staff) and Berserk (Power Staff).
 * [RDM] There's a surprising amount of utility in low-level White Magic, especially with Doublecast.
 * [RDM] Being able to heal/protect/raise 2 twice in one action is surprisingly good.
 * [RDM] You can also stick Confuse/Silence/Sleep onto enemies much more reliably.
 * [RDM] If the rest of your party is strong, I wouldn't advise grinding out Doublecast, though.
 * [BST] Beastmaster is completely broken, but it takes significant amounts of effort.
+* [BST] You're looking at the best value in the Job Fair by far here--you're getting broken-class power for dumpster-class prices.
 * [BST] !Releasing the correct monster will trivialize any boss fight.
 * [BST] I've tried to note in the individual boss entries the best release I know of.
 * [BST] Remember that Beastmasters aren't the worst physically, and can attack from the back row.
 * [BST] Whips are actually really solid weapons; there are a few edge case uses for Equip Whips.
+* [BST] !Calm also works on a surprisingly large amount of things, and can be used to stunlock several annoying bosses.
 * [GEO] hahaha you got geomancer
 * [GEO] !gaia sucks
 * [GEO] bell weapons suck
 * [GEO] their base stats suck
 * [GEO] just job fair it
-* [GEO] secretly amazing in iOS since they changed how !gaia works, it's super bullshit 64 now
+* [GEO] secretly kind of amazing in steam/mobile since they changed how !gaia works, it's super bullshit 64 now
 * [NIN] The Ninja's Dual Wield is as good as ever, especially on other classes.
 * [NIN] Having it on the off-hand is a safe way to wield the Chicken Knife.
 * [NIN] But the real power ability is often !Throw. The scrolls have a higher base power than level 3 magic!.
 * [NIN] Remember that most abilities 'grant' a stat increase to go with it.
-* [NIN] Giving a Ninja a high magic ability like !Summoner or !White makes scrolls completely obscene.
+* [NIN] Giving a Ninja a high magic ability like !Summon or !White makes scrolls completely obscene.
 * [NIN] Also: did you know that the elemental rods boost the elemental scrolls by 50%?
 * [NIN] You can just bury everything in the game, including the final boss, in a hail of anime wallscrolls.
 * [BRD] The Bard is secretly one of the best classes in the game.
@@ -108,6 +115,7 @@
 * [RAN] Ranger is pretty broken, but not until you pony up 600 AP.
 * [RAN] The Ranger's signature ability is !X-fight/!Rapidfire, which hits 4 times for half damage.
 * [RAN] It also never misses, procs Magic Sword, ignores defense (!) and is Chicken Knife OK (!!).
+* [RAN] This rarely comes up in a fiesta, but savor the combination of Ranger+Spellsword if you get it.
 * [RAN] also they can use bows and summon animals like jrpg saint francis i guess
 * [RAN] If you're between level 10 and 19, you'll usually get a powerful heal-all effect from !Animals.
 * [SAM] The Samurai is basically a big beefcake with a few dirty tricks available at need.
@@ -154,6 +162,7 @@
 
 ## Ship Graveyard
 * If you're feeling the pain w.r.t healing, the Calcruthls in here rarely drop Elixirs.
+* The room with the three treasure chests after the save point is the best place to grind those if you need.
 * Don't forget, if you need to grind for any reason, you can sleep below decks on Faris' ship(wreck).
 * [WHM] The enemies here are Undead, which makes this a great place to gain levels with your White Mages.
 * [WHM] Make sure you pick up the hidden Flail; White Mage parties will rely on it for damage for a while.
@@ -292,7 +301,6 @@
 * [THF] Page 256es are carrying a Ninja Suit as a steal, a pretty respectable piece of cloth armor.
 * [THF] That said, you'll be able to just buy them not too long from now.
 * [GEO] Geomancers will often get the Will-o-Wisp spell here, so they're actually good.
-* [GEO] You'd only have them on Chaos, though.
 * [BLU+BST] !Control will also let you learn Off-Guard from the same Page 256.
 * [BLU+BST] The same for the (extremely questionably useful) Transfusion spell from Mythril Dragons outside.
 
@@ -306,8 +314,8 @@
 * [BLU] Aqua Rake is actually nonaspected damge, so it won't be super-effective here.
 * [BLU] He is, however, vulnerable to Blind and Berserk, both of which you can inflict by now with !Blue.
 * [WHM] It's quite possible to land Silence on Ifrit, which cuts down on incoming damage significantly.
-* [WHM] You can also berserk him, which could work out combined with back-row + protect spells.
 * [WHM] He's also vulnerable to confuse...which will mostly cause him to Fira himself and heal.
+* [WHM] Worst case scenario, you can easily run him out of MP this way.
 * [TIM] Ifrit is vulnerable to Slow, which you can inflict at this point with your Time Mage.
 * [GEO] Chaos Geomancers should note that Will-o-Wisp is fire damage, so...don't use that.
 * [THF] The Mage Masher you stole from the Karnak 500 can be used to Silence Ifrit here.
@@ -368,7 +376,6 @@
 * The item vendor there sells at half-price to you, making it a good place to stock up on ethers and phoenix downs.
 * [CHM] Chemists should definitely spend their entire earthly fortune on ethers here. You'll miss them bitterly when you leave W1.
 * [NIN] Ninjas will also appreciate buyable elemental scrolls and shuriken.
-* [BRD] When you do visit Crescent Island, make sure you hit up the sixth piano in the pub there.
 
 ## Sandworm (Zerkersbane)
 * 3000 HP, can use Fight or Quicksand (~50 party damage and HP Sap).
@@ -384,7 +391,7 @@
 ## The Desert of Shifting Sands
 * [NIN] Water Scrolls (you could've bought them in Lix) basically much everything in here.
 * [THF+DRG] If you have both Thief and Dragoon, you should steal a Javelin from the Sand Bears here.
-* [THF+DRG] The Javelin is literally the third-best spear in the game, and won't be replaced until the very end of Meatfort.
+* [THF+DRG] The Javelin is literally the third-best spear in the game, and won't be replaced until the very end of World 2.
 * [BST] Get used to coming back here to !capture more Sand Bears before every hard boss fight for the rest of W1.
 * [BST] When !released, they cast Right Claw for ~2200 damage, which is kind of a lot in W1.
 * To get the treasure chests in the airship hanger, answer no when you interact with the switch, THEN yes.
@@ -397,7 +404,7 @@
 * Low HP, but extremely high physical and magical defenses. Remember that elemental weaknesses (lightning) ignore MDEF.
 * Yes, this is another fight you can trivialize with a rod snap or two.
 * You can also simply blow him up with any other source of lightning damage.
-* [BST] like bearaga, probably
+* [BST] or just Bearaga him to death
 * [BST] (beastmasters can also paralyze-lock him with the Whip that Magissa dropped)
 * [KGT|BLU] You have a class which can wield the Coral Swords from Jacole, if you're willing to make the detour.
 * [THF|KGT|BLU] ...or just steal the one that Crayclaw has! Ah, hubris.
@@ -418,7 +425,7 @@
 * [BER] He's not Heavy, so a proc'd Death spell from a Death Sickle axe hit will eventually get him.
 * [MNK] Monk fist criticals will break through his physical defense. Eventually.
 * [WHM] White Mage blind is a godsend in this fight if you have to plink him down.
-* [WHM] TECHNICALLY you can berserk or silence him too but...why?
+* [WHM] In general, he can't do much to you if you just Armor/Protect up and leave people in the back row.
 * The Something Awful Forums >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards
 
 ## Soulcannon
@@ -516,7 +523,7 @@
 * [BLU] Try Death Claw, for starters.
 * [SAM] Ianuki technically works on this guy, but how the hell did you master Samurai already?
 * [TIM] Time Mages can totally shut him down between Stop and Slow.
-* [WHM] White Mages can just land Blind and Berserk for an eay kill.
+* [WHM] White Mages can just land Blind and outheal the Aquarakes for an easy kill.
 * [BRD] Bards can stoplock him easily.
 
 ## World 2 Intro
@@ -533,12 +540,12 @@
 ## Bridgamesh
 * 6500 HP, goes super saiyan by casting haste+armor+shell at 2500 and starts spamming jump.
 * This fight is much, much easier if you can prevent the buffs from being cast.
-* [WHM] You could also just Berserk him, though now you have a faster stronger Gilgamesh to deal with anyway.
 * [WHM] Protect will also make it possible to just slug it out against boosted Gilgamesh.
 * [TIM] Silencing Gilgamesh before you push him below 2500 will work, only in the SNES version.
 * [TIM] A better plan is probably just to get Slow to stick to him.
 * [BLU] Blue Mages can Magic Hammer their way through Gil's 1000 MP before phasing him, causing the buffs to fail.
 * [BLU] Alternatively, 1000 Needles will simply let you blast through his 2500 HP phase in 3 hits.
+* [DRG] It'll take forever, but in the worst case scenario !Lancet can be used to drain Gil's 1000 MP before phasing him, causing the buffs to fail.
 * [CHM] Chemists can mix up Lamia's Kiss and Dark Ethers to effortlessly drain Gil's 1000 MP before phasing him, causing the buffs to fail.
 * [BST] Beastmasters can simply blast through him, if you thought to save some Bearagas from World 1.
 * In the SNES version only, you can try getting lucky with a Mage Masher as you push Gil below 2500.
@@ -587,6 +594,7 @@
 * Most parties will either clear adds with heavy AoE, or abuse the plant's lack of Heavy.
 * Worst case scenario: the Bone Mail shuts down almost everything the plants and flowers have.
 * Only the second flower from the left inflicts an aliment (paralyze) that the Bone Mail doesn't nullify.
+* The flowers themselves have no status immunities, which is nice to know if you have to reply on the Bone Mail.
 * [MNK] This battle is probably the Monk's last gasp at viability: repeatedly clearing tiny adds is what they're best at.
 * [BLM|SUM|NIN] Any powerful target-all spells or scrolls will lock the plant into resummoning its adds.
 * [BLU] The plant isn't Heavy, so you can just end this fight with a Death Claw.
@@ -598,7 +606,7 @@
 * [CHM] You can hit the plant with a Death Potion (Dark Matter + Phoenix Down) for a 100% kill.
 * [CHM] If the rest of your party is good, though, it's a waste of a dark matter.
 * [BRD] Bards can Stop all the flowers at once with !Sing.
-* [RDM|WHM] Landing Berserk on the flower will cause it to stop resummoning its adds.
+* [RDM|WHM] In extremis, you can neuter the paralyze flower by Confusing it.
 
 ## Surgate
 * You can visit Surgate Castle at this point, but most parties shouldn't bother.
@@ -612,8 +620,7 @@
 * [BLU] Gil's level 31 and not Heavy. Dark Shock + L5 Death ends this fight instantly.
 * [CHM] MP draining Gil won't stop him from summoning Enkidu, but it will shut down his offensive casting.
 * [TIM|WHM] Silence from a Time Mage or White Mage will shut down Gil's offense, but Blue Magic can't be silenced.
-* [MYS] Mystic Knights can nail Gil with a Silence sword.
-* [WHM|RDM] If Berserked by a White or Red Mage, Gil won't summon Enkidu.
+* [MYS] Mystic Knights can nail Gil with a Silence sword. He can still cast Blue Magic.
 * [THF] Make sure to steal a Genji Glove from Gil, if you have anyone who can equip heavy armor.
 * [BST] You can !Control Enkidu lol. WhiteWind the party or just have him Hurricane himself.
 * Enkidu has no immunity to instant death, stuff like !Ianuki, Death Potions, Death Sickles will work on him.
@@ -685,6 +692,8 @@
 * Each crystal also absorbs attacks of its element.
 * In general, avoid all-target attacks unless you think you can end the fight in one cycle of casts (cough giltoss).
 * None of these are immune to instant death. Your party can simply pick off one at a time that way.
+* [BER] If you Mini your own berserkers using the trash encounter in Moore that casts it, they won't do any damage.
+* [BER] That way, you can fish for instant death procs without worrying about a crystal's HP being pushed under 3000.
 * Parties with reasonable offenses can simply get a crystal close to 3000 HP and try to kill it quickly.
 * [WHM] Shelling the party gives you a lot more room to work with here, as a White Mage.
 * [TIM] While they're high level and have some amount of Magic Evade, they ARE Graviga-able.
@@ -746,9 +755,10 @@
 ## Antlion
 * 8100 HP, Bartz and Krile only.
 * Pain in the ass if your offense is slow, since he spams Dischord (level half) which makes it slower.
-* Unless you had the foresight to farm a Power Staff in Meatfort. Zap the Antlion with it and enjoy a Dischord-free life.
+* Unless you had the foresight to farm a Power Staff in Meatfort. It casts Berserk when wielded.
 * [RDM|WHM] Berserking him and dealing with the physical attacks is probably the easiest path with a White Mage.
 * [RDM|WHM] Blinding him would also basically neuter his offense.
+* [RDM] Red mages will have to get Berserk from the Power Staff.
 * [BST] If you didn't plan ahead, the only available !release is from the trapped chest in Tule's training house.
 * [BLU] 1000 Needles at least isn't affected by your levels. 8 and spare change will kill Antlion.
 
@@ -767,7 +777,6 @@
 * [WHM|RDM] White magic is particularily strong here.
 * [WHM|RDM] You can use Blind, Protect, and Blink to completely shut off their offense.
 * [WHM|RDM] Then simply Berserk them to stop them from reviving each other and go to town.
-* [BLU] Blue Mages can inflict Berserk on the Gargoyles to stop their revivals.
 * For subsequent rematches: you can always use a Magic Lamp Odin to kill them.
 * [THF|NIN] Because of the Lemures and knockoff-Omegas in here, !Flee and !Smoke are really good.
 * [BRD] Many of the random encounters in here are Undead, making Requiem very handy.
@@ -807,6 +816,7 @@
 * [RAN] In fact, aren't you just using the chicken knife with it?
 * [BRD] Apollo's harp is kind of niche, but it's not a bad choice for your third tablet if you have no better options.
 * [BRD+CHM] Chemists have the ability to turn things into dragons so Apollo's Harp can wreck them, which is at least funny if not practical.
+* [BRD+CHM] EDIT: i got this combo last year and it's actually incredibly practical
 * Any rod-using class can equip the Wizard Rod, but it's best on Black/Red Mages because of its omni-elemental boosts.
 * (Summoners prefer the Air Lancet to boost Syldra).
 * Very few staff-using classes have a use for the Sage's Staff, frankly.
@@ -949,7 +959,7 @@
 
 ## Omega
 * Optional superboss; there is no reason other than bragging rights to try this.
-* To pull this off at a sane level, you need both a way to neuter his offense.
+* To pull this off at a sane level, you need both a way to neuter his offense and a way to actually hurt him.
 * [BRD] Omega is vulnerable to being stopped by the Bard's Love Song.
 * [BRD] Two hasted bards can keep him locked while a third sings your speed up to 99.
 * [BST] Beastmasters can release Yellow Dragons for 9999 each.
@@ -961,6 +971,7 @@
 * [MNK|SAM] Barehand and katana criticals ignore physical defense.
 * [BER] Axes quarter enemy defense, making it possible to hurt Omega with any strong axe.
 * [BLM] Black Mages can reflect a Thundaga off friendlies to beat Omega's innate reflect.
+* [BLM] This doesn't trigger Omega's brutal counter script, making Black Mage one of the only choices for winning a straight up fight.
 * [BLU] Blue Mages can chip Omega down with Thousand Needles. 1000 HP at a time.
 * [MYS] Thundaga Sword will do 9999 damage to Omega.
 * [RAN] The Ranger's X-Fight/Rapidfire ability ignores physical defense and is guaranteed to hit.

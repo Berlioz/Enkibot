@@ -13,7 +13,7 @@ Istory Falls:
   Red-Mage:
   - "Red Mages will, uh, 'appreciate' the Rune Blade here, which might make them better at killing things than, like, a geomancer."
   - "On second thought, nah."
-  UNION Blue-Mage Red-Mage:
+  INTERSECTION Blue-Mage Red-Mage:
   - "The Enhancer available in Istory Falls boosts Magic for your Blue or Red Mages."
   Mystic-Knight:
   - "The Enhancer available in Istory Falls is the best Spellsword-compatible weapon that's not a chicken knife."

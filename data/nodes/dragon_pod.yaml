@@ -28,6 +28,14 @@ Dragon Pod/Hiryuu Plant:
   - "You can hit the plant with a Death Potion (Dark Matter + Phoenix Down) for a 100% kill."
   - "If the rest of your party is good, though, it's a waste of a dark matter."
   Bard:
-  - "Bards can Stop all the flowers at once with !Sing."
+  - "Bards can Stop all the flowers (and the central pod!) at once with !Sing."
+  Ranger:
+  - "The Killer bow works on the Dragon Pod, if you're willing to wait for its 8% death rate."
+  - "!Rapid-fire/!X-fight helps, if you have it."
+  Samurai:
+  - "!Iainuiki will cut the Dragon Pod right in half, if you have it."
+  - "If not, the Wind Slash katana from Drakenvale will clear the flowers every time Wind Slash triggers."
+  Geomancer:
+  - "!Gaia is quite likely to use Earthquiake here, which will get rid of the flowers instantly."
   INTERSECTION Red-Mage White-Mage:
   - "In extremis, you can neuter the paralyze flower by Confusing it."

@@ -8,14 +8,16 @@ Bridgamesh:
   - "6500 HP, goes super saiyan by casting haste+armor+shell at 2500 and starts spamming jump."
   - "This fight is much, much easier if you can prevent the buffs from being cast."
   White-Mage:
-  - "You could also just Berserk him, though now you have a faster stronger Gilgamesh to deal with anyway."
   - "Protect will also make it possible to just slug it out against boosted Gilgamesh."
   Time-Mage:
-  - "Silencing Gilgamesh before you push him below 2500 will work, only in the SNES version."
+  - "Muting the battle before you push him below 2500 will work."
   - "A better plan is probably just to get Slow to stick to him."
   Blue-Mage:
   - "Blue Mages can Magic Hammer their way through Gil's 1000 MP before phasing him, causing the buffs to fail."
+  UNION Blue-Mage Beastmaster:
   - "Alternatively, 1000 Needles will simply let you blast through his 2500 HP phase in 3 hits."
+  Dragoon:
+  - "It'll take forever, but in the worst case scenario !Lancet can be used to drain Gil's 1000 MP before phasing him, causing the buffs to fail."
   Chemist:
   - "Chemists can mix up Lamia's Kiss and Dark Ethers to effortlessly drain Gil's 1000 MP before phasing him, causing the buffs to fail."
   Beastmaster:

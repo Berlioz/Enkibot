@@ -5,8 +5,7 @@ TwinTania:
     previous-nodes:
     - halicarnassus
   Generic:
-  - "Enrage is at ~13 minutes; you're on the right track if you see 4 Conflagrations go out during P1."
-  - "Oops, sorry, wrong game."
+  - "There was an extended FF14 joke here, but then Stormblood got an entire FFV themed raid tier and it started to feel dated."
   - "It's not Heavy and has no death resistance when charging Giga Flare. All parties can have the Assassin's Dagger here."
   - "Just turtle to avoid its counterattacks and kill it instantly when it changes form."
   - "If you're having trouble surviving, you can equip a Coral Ring and attack him to heal for free."
@@ -28,3 +27,5 @@ TwinTania:
   - "Steals vary by form: normal form has a Flame shield and charging form has a Giant Axe."
   Samurai:
   - "If for some reason you still need it, the charging form can rarely drop a Murasame when killed."
+  Red-Mage:
+  - "You can put Reflect Rings on everyone, then Dualcast any offensive spell to bait out Mega Flare counters."

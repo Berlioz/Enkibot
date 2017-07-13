@@ -15,7 +15,7 @@ Ifrit:
     - "Ifrit is weak to water in addition to ice, so here's a good place to use your water scroll."
   Blue-Mage:
     - "Aqua Rake is actually nonaspected damge, so it won't be super-effective here."
-    - "He is, however, vulnerable to Blind and Berserk, both of which you can inflict by now with !Blue."
+    - "He is, however, vulnerable to Blind, which will help lower incoming damage when he physically attacks."
   White-Mage:
     - "It's quite possible to land Silence on Ifrit, which cuts down on incoming damage significantly."
     - "He's also vulnerable to confuse...which will mostly cause him to Fira himself and heal."
@@ -28,3 +28,4 @@ Ifrit:
     - "The Mage Masher you stole from the Karnak 500 can be used to Silence Ifrit here."
   Beastmaster:
     - "Beastmasters can release Zus from the grassland outside Karnak, for a solid 750 damage each."
+    - "Or a Bandersnatch from near Walse for a 50/50 change of instant death. Bit of a walk, though."

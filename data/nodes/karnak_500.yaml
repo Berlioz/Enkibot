@@ -8,6 +8,8 @@ The Karnak 500:
     - "Have your jobs and abilities set immediately after you kill liquiflame; the Karnak 500 continues ticking in menu."
     - "It's best to look up a map if this is your first time. There's a decent one on GameFAQs."
     - "If you're having trouble with the Sergeant + Kar Nakk encounter, kill the Sergeant to make the dogs run away."
+  INTERSECTION White-Mage Red-Mage:
+    - "Or you can Confuse the Sergeant before he transforms; this has the added benefit of stopping him from telling the dogs to attack."
   Knight:
     - "RUN RUN RUN run. No, the Brave Blade ain't worth it. Never take the Brave Blade."
   Thief:
@@ -23,6 +25,9 @@ The Karnak 500:
     - "You can learn Aerora from the Gigases here for your Blue Mage, though it won't be too long until you can get it again."
     - "Since the Gigases are immune to Aero, Blue Mages can have serious damage problems here."
     - "It may be worth it to run straight to the exit for Death Claw, then run back to the trapped chests."
+  INTERSECTION Black-Mage Red-Mage:
+    - "You have the firepower (literally) to grab every chest with time to spare, if you want them."
+    - "I like to farm up gil for a few rods off Wild Nakks before coming here, to extra-trivialize things."
   White-Mage:
     - "White Mages should definitely not forget about the Esuna spell in a chest here; it'll be a while till you can rebuy it."
   Generic``:

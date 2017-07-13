@@ -7,18 +7,23 @@ W2 Exdeath:
     - "Classes without a strong way to cheese this fight should bring Reflect Rings, which...are no longer obtainable. Hmm. Hope you paid attention in the Barrier Tower!"
     - "If you're foregoing reflect rings, don't have a level divisible by 3, unless you want to eat L3 Flares (they're non-elemental, so don't get cute with Flame Rings)."
     - "If you *are* bringing reflect rings, going in with a level divisible by 3 will cause Exdeath to blow himself up."
+  Thief:
+    - "Thieves get a chance at redemption here if you forgot Reflect Rings in the Barrier Tower; Reflect Mages have them in Meatfort."
   White-Mage:
     - "Make sure you keep Protect/Armor up; Exdeath's Vaccum Wave physicals can be surprisingly nasty."
     - "Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also Reflect Exdeath."
     - "Setting Berserk on your own characters may help with the mad rush to take his last 7000 HP."
   Blue-Mage:
     - "Level 2 Old totally works on this guy and totally neuters him, haha."
-    - "If you bothered getting Level 3 Flare, that's solid damage at this point. Otherwise just Aeroga spam."
-    - "Alternatively, if you know the timing well (or are watching his level in memory), once Old ages him to a multiple of 5, just give him the SKULL (with Level 5 Death)."
+    - "If you know the timing well (or are watching his level in memory), once Old ages him to a multiple of 5, just give him the SKULL (with Level 5 Death)."
+    - "It may be worth stalling his first form long enough to learn Level 3 Flare."
+  UNION Beastmaster Blue-Mage:
+    - "If you bothered getting Level 3 Flare before now, that's solid damage at this point. Otherwise just Aeroga spam."
   Time-Mage:
     - "Do not use Slow. Exdeath will simply counter with Haste, which overwrites Slow instead of neutralizing it."
-    - "If you can Reflect Exdeath and bounce a Slow off your own party, his Haste counter will bounce off too!"
     - "Do use Float on your party to avoid Earth Shaker; even if he uses 100Gs it wastes a turn."
+  UNION Time-Mage White-Mage:
+    - "If you can Reflect Exdeath and bounce a Slow off your own party, his Haste counter will bounce off too!"
   Summoner:
     - "Make sure you keep Golem up; Exdeath's Vaacum Wave physicals can be surprisingly nasty."
   Beastmaster:
@@ -28,13 +33,12 @@ W2 Exdeath:
   Mystic-Knight:
     - "Mystic Knights may have luck with applying Drain Sword and just trying to DPS race Exdeath."
   Bard:
-    - "Going Super Saiyan on Exdeath with bard songs is technically possible but tricky, unless you have a way around Condemn."
+    - "Going Super Saiyan on Exdeath with Swift Song is technically possible but tricky, unless you have a way around Condemn."
   Chemist:
     - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) blocks Condemn, allowing you to go Super Saiyan in peace if you feel like it."
     - "Exdeath is weak to Holy; chugging a Giant's Drink and then spamming Holy Breath (Dragon Fang + Holy Water) works."
-    - "So does good old Drain Kiss spam, if you're still good on Turtle Shells."
   Staff:
-    - "Staff-wielding parties can grind for Staff of Lights in Ghido's Cave; snapping them will allow you to do massive Holy damage to Exdeath."
+    - "Staff-wielding parties can grind for Staves of Light in Ghido's Cave; snapping them will allow you to do massive Holy damage to Exdeath."
     - "This also takes forever and should very much be treated as a last resort."
     - "If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring."
   NOT Healing:

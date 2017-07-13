@@ -9,6 +9,8 @@ Liquiflame:
     - "Tornado Form: casts Fire2 on self to heal."
   Ranger:
     - "Consider killing it in Tornado Form to get the Fire Bow."
+  INTERSECTION White-Mage Red-Mage:
+    - "It can be confused, which will have it do nothing except attack itself. Useful for choosing which drop you get!"
   NOT Ranger:
     - "If you might get ranger for your Fire job, consider killing it in Tornado Form to get the Fire Bow."
   Break-Rods:
@@ -27,3 +29,5 @@ Liquiflame:
     - "Since the forms' MP is tracked seperately and the tornado cannot actually hurt you, consider just sitting there until it's out. It won't take long."
   Berserker:
     - "Consider just having your Berserker blinded/dead as you enter the fight, until you run Tornado out of MP."
+  Blue-Mage:
+    - "Human/Tornado forms absorb Aero, so...don't use that."

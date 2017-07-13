@@ -10,6 +10,9 @@ Tree Exdeath:
   - "Spawns Neo-Exdeath after going down."
   Bard:
   - "This fight continues into NED, so Bards can use the time to go capped-stats Super Saiyan now."
+  - "White Hole can put a wrench in that plan--if you have the time to kill, you can !Hide until Exdeath runs out of mana."
+  UNION Bard Blue-Mage:
+  - "If you have Blue Mage in addition to Bard, Magic Hammers will drain Exdeath's MP a hell of a lot faster."
   Chemist:
   - "Yes, yes, on the SNES you can Kiss of Blessing to stop NED from spawning and thus skip the final boss. Gold star. Don't."
   - "This fight continues into NED, so Chemists can use the time to go immune-to-everything-level-255 Super Saiyan now."
@@ -19,5 +22,6 @@ Tree Exdeath:
   - "Have Shell and Protect on the party going into Exdeath."
   Blue-Mage:
   - "Mighty Guard. Mightguardmightyguardmightyguard. You can even facetank Meteos with it."
+  - "Especially after you Dark Spark him once and land a Level 2 Old."
   Ninja:
   - "Now would probably be a good time to chuck all those legendary weapons, if you're having trouble burning the last 10K HP."

@@ -10,10 +10,11 @@ Melusine:
   - "When in physical-weak form, has 0 defense/evasion."
   - "Always begins weak to fire."
   - "Your Chicken Knife wielder will always be able to pierce her physical defenses."
-  - "Reflect Rings make it impossible to die, but be aware it'll let her heal herself occasionally with absorbs."
+  - "Reflect Rings make it nearly impossible to die, but be aware it'll let her heal herself occasionally with absorbs."
   INTERSECTION Red-Mage White-Mage:
   - "Congratulations, you've found the one time in the game the !White spell Libra is useful."
   - "You can also neuter her offense with Shell, or stick Silence onto her."
+  - "Confuse also works, hilariously."
   Blue-Mage:
   - "The Blue Mage !Scan ability will let you determine which form she changed to."
   - "Aqua Rake is non-elemental, giving you a way to hit the magic-vulnerable forms."
@@ -24,5 +25,7 @@ Melusine:
   Ranger:
   - "!X-fight ignores enemy defense; spamming it with the Chicken Knife lets you ignore fight mechanics for this boss."
   - "(also, most of the rest of the game)"
+  Bard:
+  - "Alluring Air can confuse her, to hilarious effect."
   Pierce-Def:
   - "Defense-piercing fist/katana criticals will work well against her."

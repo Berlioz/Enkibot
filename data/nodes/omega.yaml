@@ -31,7 +31,7 @@ Omega:
   - "This doesn't trigger Omega's brutal counter script, making Black Mage one of the only choices for winning a straight up fight."
   Blue-Mage:
   - "Blue Mages can chip Omega down with Thousand Needles. 1000 HP at a time."
-  Time-Mage:
+  Time-Mage`:
   - "Meteor and Comet deal unaspected damage and ignore reflects."
   - "Unless they roll fantastically high, however, they'll get completely nullified by his sky-high MDefense."
   Mystic-Knight:
@@ -45,8 +45,10 @@ Omega:
   - "Dragoons can chip away with the Trident, a spear that does lightning damage."
   Summoner:
   - "Summoners can penetrate Omega's defenses with either Ramuh or Odin."
-  - "Ramuh will deal superior damage unless you don't have a Thunder Rod."
+  - "Odin will deal superior damage unless you can Dispel the auto-shell on Omega."
   Beastmaster:
   - "Beastmasters can release Yellow Dragons for 9999 each."
   INTERSECTION Knight Red-Mage:
   - "Anyone who can use a sword can...technically damage Omega with the Coral Sword."
+  Generic``:
+  - "You could, in theory, Berserk someone with the Chicken Knife to just *barely* deal damage, but you'll die of old age before Omega kicks the bucket, even if you could deal with the counters."

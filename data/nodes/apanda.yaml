@@ -10,8 +10,8 @@ Apanda:
   - "Keep a weak weapon on hand to break the Confuse status effects he inflicts."
   Elemental:
   - "Any source of Fire damage will let you put him down very quickly."
-  INTERSECTION White-Mage Red-Mage:
-  - "White (and Red) mages can Berserk and Blind him, which pretty much neuters him."
+  White-Mage:
+  - "White mages can Berserk him, which pretty much neuters him after you put up Blinks (or just Arise whoever he kills)."
   Summoner:
   - "Casting Ifrit on him causes him to waste a few turns and disables his counterattacks."
   Beastmaster:

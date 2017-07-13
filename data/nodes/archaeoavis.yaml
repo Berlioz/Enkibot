@@ -18,6 +18,7 @@ ArchaeoAvis:
     - "If you can kill a form with a Monk's Counter, it skips the trigger that causes the next form to spawn."
   Time-Mage:
     - "You can land Slows on problem forms, if you feel like it."
+    - "Gravity will work on forms 2 and 4."
   Blue-Mage:
     - "Aerora the first form to death."
     - "You can L5 Death the last form and the last form only, but that's the hard one anyway."
@@ -32,3 +33,5 @@ ArchaeoAvis:
   Beastmaster:
     - "You can use Bearagas on the first and last form, which can otherwise give beastmaster parties trouble."
     - "If you don't have Sand Bears stocked, the Ronka Knights in here still !release for ~1500."
+  UNION Beastmaster Monk:
+    - "...which brings a form just low enough for Monks to easily counter-kill."

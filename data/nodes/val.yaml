@@ -5,15 +5,19 @@ Val/Drakenvale:
     previous-nodes:
     - lugor
   Generic:
-  - "Let's get this out of the way. Objets d'Art in the basement of Val Castle drop 0 XP, but lots of gil and AP."
-  - "They can be instantly killed by soft needles (or any other petrifaction cure)."
+  - "Let's get this out of the way. Objets d'Art in the basement of Val Castle drop very little XP, but lots of gil and AP."
+  - "They can be instantly killed by the gold needle item."
   Blue-Mage:
   - "Blue Mages can simply vaporize them with Level 5 Death, which makes grinding much less tedious."
+  Ninja:
+  - "Thunder Scrolls are quite effective."
+  Thief:
+  - "Thieves can rarely steal Twin Lances from them, which is the best weapon they'll get for a long time."
   Chemist:
   - "Chemists are the only class that can equip the hidden Angel Robe in Val Castle."
   Time-Mage:
   - "Time Mages should get the Teleport spell in Val Castle; it's the only source of it in the game."
-  UNION Knight Mystic-Knight:
+  INTERSECTION Knight Mystic-Knight:
   - "The Great Sword in the moat of Val Castle is the best sword you're gonna get for quite a while."
   Generic`:
   - "Drakenvale itself has some fantastic loot."

@@ -16,7 +16,7 @@ Sailing:
     - "They are extremely difficult, but !Gaia will dispatch them with little fuss."
     - "This is your sole recompense for rolling GEO: this is a very, very good grind spot."
     - "(of course, if you're not Chaos you don't have it yet; feel free to come back.)"
-  Generic:
+  Generic`:
     - "Black Mages, Summoners, and anyone with a use for the Istory rings can visit Istory at this point."
     - "You can buy Angel Rings (block Old/Zombie) and elemental absorb rings for a cool 50K from Istory."
     - "Parties with weak single target offense and no White Mage may want to consider a Flame Ring."
@@ -28,8 +28,9 @@ Sailing:
     - "Ramuh's common steal is a Hi-Potion and you won't get any other encounters outside Istory until you kill him."
     - "You can steal Hi-Potions from him forever if you keep running from the fight."
   Bard`:
-    - "Bards can learn Love Song in Istory, which lets them stop all enemies."
-    - "In addition to being situationally useful against bosses, it's an incredible trash-clearing tool."
+    - "Bards can learn Love Song/Romeo's Ballad in Istory, which confuses all enemies at surprisingly good odds..."
+    - "In addition to being situationally useful against bosses, it's an incredible trash-clearing tool all the way to the Rift."
+    - "They can also get the fifth piano in Crescent, together with Mighty March (mostly for a complete song list; Regen is rarely useful)."
   Break-Rods:
     - "Rod-having parties can also pull the legendary Dragondarch Manuever outside Istory, farming the tough Magic Dragons there for XP."
   Ninja:
@@ -38,14 +39,12 @@ Sailing:
     - "Berserker parties should swing by Crescent Island and farm up some Death Sickles from the Harvesters there."
   INTERSECTION Summoner Ninja:
     - "Parties with reliable AoE magic, like !Summon or thrown scrolls, can farm a small island north of Crescent for XP and AP."
-    - "The only encounter there is 3 or 5 black flames, which have high avoid but can be cleared instantly by any AoE magic."
+    - "The only encounter there is 5 black flames, which have high avoid but can be cleared instantly by any AoE magic."
   Blue-Mage`:
     - "The small island north of crescent is a pro visit for Blue Mages, who can learn Dark Spark from the enemies there."
     - "It halves the target's battle level, which trivializes large swaths of the game combined with L5 Death and L2 Old."
   Beastmaster:
     - "If you're feeling up for it, !Control comedy will let you farm Prototypes on another island west of Crescent."
-    - "It's pretty good gil and xp/ap."
+    - "It's pretty good xp/ap."
   UNION Chemist Beastmaster:
     - "...especially since you have a Chemist, who can find a real use for the Dark Matters that the Prototypes drop."
-  Bard`:
-    - "Bards should make sure they grab the fifth piano from Crescent, while we're at it."

@@ -10,11 +10,12 @@ Stoker/Wendigo:
   - "They respond to multi-target attacks with an Ice-element counter."
   - "If you have Fire Rings or Ice Shields, you can just blast away to your heart's content."
   Thief:
-  - "Thieves can steal an Ice Shield from Slownin enemies in this dungeon."
+  - "Thieves can steal an Ice Shield from Slownin enemies in this dungeon...not that they can use it themselves."
   White-Mage:
   - "Your White Mage can simply Shell up and heal through the counterattacks."
   Blue-Mage:
   - "With Mighty Guard and White Wind, you kind of don't care about the counterattacks."
   - "See if you can learn Mind Blast from the Wendigo while you're here."
   Generic`:
-  - "Otherwise, just use trial and error with powerful single target blows."
+  - "Attacking the right Wendigo with a weak weapon (the Knife, or just fists) will display 0 damage, and importantly, will not move the Wendigo."
+  - "You can then unleash your strongest attack on that one, then repeat until victory."

@@ -7,21 +7,25 @@ Seal Crystals:
   Generic:
   - "7777 HP each, not Heavy, virtually immune to %M-EVD subject spells."
   - "Each crystal casts a spell at <3000 HP: top Fire3, left Aero3, bottom Earthshaker, right Aqua Rake."
-  - "Each crystal also absorbs attacks of its element."
+  - "Each crystal also absorbs attacks of its element, and nulls attacks that are of the four elements not mentioned here"
   - "In general, avoid all-target attacks unless you think you can end the fight in one cycle of casts (cough giltoss)."
   Heavyscammer:
   - "None of these are immune to instant death. Your party can simply pick off one at a time that way."
-  Berserker:
-  - "If you Mini your own berserkers using the trash encounter in Moore that casts it, they won't do any damage."
-  - "That way, you can fish for instant death procs without worrying about a crystal's HP being pushed under 3000."
   Generic`:
   - "Parties with reasonable offenses can simply get a crystal close to 3000 HP and try to kill it quickly."
+  Blue-Mage:
+  - "Death Claw, while not very likely to land, can essentially kill a Crystal as long as you poke it right after."
+  Berserker:
+  - "Death Sickles will eventually work, though watch out for the berserker failing to kill enough times that the crystal rampages."
+  - "Consider using the Tiny Mages outside to Mini your Berserker; the Death effect can still work."
   White-Mage:
   - "Shelling the party gives you a lot more room to work with here, as a White Mage."
   Time-Mage:
   - "While they're high level and have some amount of Magic Evade, they ARE Graviga-able."
   - "Get !Time on everyone, have one person attempt Graviga, and if it connects, everyone else spams Comet. If not, they just defend."
   - "You need to be fast on the hop after Graviga connects, though, because it sends them right into the panic zone."
+  Ranger:
+  - "Their level and M-Ev% doesn't do anything to protect them from Killer Bows."
   Generic``:
   - "Extremely low-offense parties can equip Flame Rings from Istory back in W1, if they planned ahead for it."
   - "Being able to absorb the top crystal's Fire3 allows you to pick off individual crystals without worrying about healing."
