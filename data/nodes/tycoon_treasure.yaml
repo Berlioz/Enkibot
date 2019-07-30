@@ -3,14 +3,15 @@ Tycoon (optional):
     next-node: garula
     previous-nodes: ['walse_tower']
   Generic:
-    - "Check a world map to see how you can get back to Tycoon Castle early with the dragon."
-    - "Treasure includes valuable healing items, such as multiple Elixirs."
+    - "Check a world map to see how you can get back to Tycoon Castle early with the wind drake."
+    - "The treasures are mostly healing items, including two Elixirs and three Cottages."
+    - "Two of those Cottages are hidden - walk into the castle courtyard, but before going in head over to the right wall and walk through a passage behind a tower."
   Staff:
-    - "You'll also get a Healing Staff, which casts Cura instead of attacking, and is totally amazing."
+    - "You'll also get a Healing Staff, which casts Cura instead of attacking, and is great for most of the game."
   Samurai:
     - "You'll also get an Ashura katana, which is the first possible katana for samurai-havers."
   NOT Samurai:
     - "You'll also get an Ashura katana, which may be useful if you're in Chaos and have a Freelancer."
   Summoner:
     - "This is also a good time to head to the tower behind the waterfall in Walse to get Shiva."
-    - "Worst case scenario, use a Fire Rod from Walse Tower (you did farm an extra, right?) or buy one in Karnak and come back."
+    - "Most easily, crack a Fire Rod dropped in Walse Tower (you did farm an extra, right?) or buy one in Karnak and come back."
