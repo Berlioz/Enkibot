@@ -18,8 +18,8 @@ Boatamesh & Enkidu:
   - "Gilgamesh isn't immune to instant death. Death Potion him before Enkidu shows up."
   Samurai:
   - "Enkidu is neither heavy nor immune to instant death. !Iainuki him, if you have it. Sorry you can't get Gilgamesh too."  
-  INTERSECTION Time-Mage White-Mage:
-  - "Silence from a Time Mage or White Mage shuts down Gilgamesh's offense, but Blue Magic can't be silenced."
+  UNION Time-Mage White-Mage:
+  - "Silence shuts down Gilgamesh's offense, but Blue Magic can't be silenced."
   Time-Mage:
   - "Both Gilgamesh and Enkidu are vulnerable to Slow."
   Mystic-Knight:
