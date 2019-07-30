@@ -5,24 +5,25 @@ Crayclaw:
   Generic:
     - "2000 HP, uses various single-target attacks."
     - "Signature combo is Tail Screwing someone who's under HP Leak, which will pretty much always kill them."
-    - "Basically any status effect will land on him, so it's easy to neuter his offense if you have to."
-    - "Low HP, but extremely high physical and magical defenses. Remember that elemental weaknesses (lightning) ignore MDEF."
+    - "High physical and magical defenses, but weak to many statuses. Remember that elemental weaknesses (lightning) ignore MDEF."
   Break-Rods:
-    - "Yes, this is another fight you can trivialize with a rod snap or two."
+    - "Yes, this is another fight you can trivialize with two rods."
   Elemental:
-    - "You can also simply blow him up with any other source of lightning damage."
+    - "You can also use any other source of lightning damage."
   Beastmaster:
-    - "or just Bearaga him to death"
-    - "(beastmasters can also paralyze-lock him with the Whip that Magissa dropped)"
-  INTERSECTION Knight Blue-Mage:
-    - "You have a class which can wield the Coral Swords from Jacole, if you're willing to make the detour."
-  UNION Thief Blue-Mage:
-    - "...or just steal the one that Crayclaw has! Ah, hubris."
-  UNION Thief Knight:
-    - "...or just steal the one that Crayclaw has! Ah, hubris."
+    - "...or just Bearaga"
+    - "Crayclaw is vulnerable to Paralyze, so the Whip from Magissa can lock it down."
+  UNION Mystic-Knight Black-Mage:
+    - "Crayclaw is also vulnerable to Sleep, if you'd like to before you get your Thundara on."
+  UNION Knight Blue-Mage:
+    - "You have a class which can wield the Coral Swords from Jachol, if you're willing to make the detour."
   Ninja:
-    - "You probably have some Thunder scrolls, since a common random encounter on the ocean drops them. Use 'em."
-  Ranger:
+    - "You probably have some Thunder scrolls, and if not, a common random encounter on the ocean drops them."
+  Time-Mage:
+    - "Crayclaw is vulnerable to Stop and Slow, so you can lock it down."
+  UNION Ranger Freelancer:
     - "The Thunder Bow purchasable in Crescent Town will make quick work of him."
+  Bard:
+    - "Crayclaw is vulnerable to Confuse, so Alluring Air will lock it down."
   Pierce-Def:
-    - "Fists, katanas, x-fights, and other defense-piercing attacks will work if you have no other way through."
+    - "Critical hits and axes work if you have no other way through."
