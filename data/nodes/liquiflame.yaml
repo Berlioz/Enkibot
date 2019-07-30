@@ -5,29 +5,27 @@ Liquiflame:
   Generic:
     - "3000 HP, transitions randomly between three forms when struck."
     - "Human Form: single and multi target attacks and counters with target-all fire magic."
-    - "Hand Form: single target attacks that can paralyze and counters with Fire 2. IMMUNE TO MAGIC."
+    - "Hand Form: single target attacks that can paralyze and counters with Fire 2. Absorbs fire, nullifies ALL other elements."
     - "Tornado Form: casts Fire2 on self to heal."
   Ranger:
-    - "Consider killing it in Tornado Form to get the Fire Bow."
+    - "Killing Liquid Flame in Tornado Form makes it drop a Fire Bow, useful in the next dungon and not buyable until later.
   INTERSECTION White-Mage Red-Mage:
     - "It can be confused, which will have it do nothing except attack itself. Useful for choosing which drop you get!"
-  NOT Ranger:
-    - "If you might get ranger for your Fire job, consider killing it in Tornado Form to get the Fire Bow."
   Break-Rods:
-    - "Frost Rods will, of course, completely trash this guy. Do not use them when it's in hand form!"
+    - "Frost Rods will kill in two breaks. Don't use them when it's in hand form!"
   Time-Mage:
-    - "The Time Mage's demi spell will work on the human and tornado forms only."
-    - "One cast of Demi followed up by a Frost Rod snap will kill Liquiflame."
+    - "The Time Mage's Demi spell works on the human and tornado forms."
+    - "One cast of Demi followed up by a Frost Rod snap on the human or tornado form will kill."
   Monk:
     - "Fewer, bigger hits will do better against him, so !Focus ain't bad here."
   Knight:
-    - "The fewer times you have to hit liquidflame the fewer counters you see; consider using Two-Handed."
+    - "The fewer times you have to hit Liquid Flame the fewer counters you'll see, so Two-Handed makes your life easier."
   Mystic-Knight:
-    - "Blizzara Sword up and just wreck this dude. Make sure you have a way to transform hand form, though."
+    - "Blizzara Sword will inflict massive damage. Make sure you have a way to damage hand form to turn it back to a form weak to ice."
     - "You can unequip your weapon and re-equip it through the Item menu to strip your spellblade effect. It also doesn't use your turn."
   Generic`:
-    - "Since the forms' MP is tracked seperately and the tornado cannot actually hurt you, consider just sitting there until it's out. It won't take long."
+    - "Since the forms' MP are tracked separately and the tornado form doesn't attack you, consider just sitting there until it runs out from 5 Fire 2 casts."
   Berserker:
-    - "Consider just having your Berserker blinded/dead as you enter the fight, until you run Tornado out of MP."
+    - "Consider going into the fight with your Berserker dead to control phase changes, at least until you run Tornado out of MP so it can't heal."
   Blue-Mage:
-    - "Human/Tornado forms absorb Aero, so...don't use that."
+    - "All three forms absorb wind element, so don't use Aero. Just break rods."
