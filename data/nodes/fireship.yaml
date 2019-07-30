@@ -4,7 +4,7 @@ Fireship:
     previous-nodes: ['garula']
   Generic:
     - "You'll only get one discounted item at a Karnak store, so pick a pricey one."
-    - "In the iOS version, you can buy 99 of a 75% off item, and then resell to double your cash."
+    - "In the Matrix version, you can buy 99 of a 75% off item, and then resell to double your cash."
     - "Wild Nakks outside of Karnak are probably the easiest way to farm cash in world 1."
   Break-Rods:
     - "This is especially nice since Karnak is the only source of rods in the world."
@@ -25,6 +25,7 @@ Fireship:
   INTERSECTION Thief Ninja:
     - "Thieves and Ninjas should make sure they get the Moonring Blade."
   Thief:
-    - "This dungeon is lousy with enemies that blind, so here's what you stole SilverGlasses for."
+    - "This dungeon is lousy with enemies that blind, so here's what you stole Silver Specs for."
     - "Thieves should also pick up the Thief's Gloves, which boost steal rate."
     - "Once you have them, you can steal Hi-Potions from Poltergeists to your hearts' content."
+    - "You can also steal Ethers from Motor Traps, which only show up after you kill a Defeater when it's alone."
