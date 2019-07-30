@@ -13,15 +13,15 @@ Crayclaw:
   Beastmaster:
     - "...or just Bearaga"
     - "Crayclaw is vulnerable to Paralyze, so the Whip from Magissa can lock it down."
-  UNION Mystic-Knight Black-Mage:
+  INTERSECTION Mystic-Knight Black-Mage:
     - "Crayclaw is also vulnerable to Sleep, if you'd like to before you get your Thundara on."
-  UNION Knight Blue-Mage:
-    - "You have a class which can wield the Coral Swords from Jachol, if you're willing to make the detour."
+  INTERSECTION Knight Blue-Mage:
+    - "You have a class which can wield the lightning-elemental Coral Swords from Jachol, if you're willing to make the detour."
   Ninja:
     - "You probably have some Thunder scrolls, and if not, a common random encounter on the ocean drops them."
   Time-Mage:
     - "Crayclaw is vulnerable to Stop and Slow, so you can lock it down."
-  UNION Ranger Freelancer:
+  INTERSECTION Ranger Freelancer:
     - "The Thunder Bow purchasable in Crescent Town will make quick work of him."
   Bard:
     - "Crayclaw is vulnerable to Confuse, so Alluring Air will lock it down."
