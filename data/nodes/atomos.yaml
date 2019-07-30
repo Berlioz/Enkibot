@@ -8,16 +8,15 @@ Atomos:
   - "19997 HP, spams Comet until someone dies, then starts sucking them in."
   - "You can just come in with someone dead to skip the Comets."
   - "Revive them right before they get eaten and let Atomos kill someone else to buy more time."
-  UNION White-Mage Chemist:
-  - "!White and !Mix are the two defensive abilities good enough to possibly let you just tank Comets."
-  - "Wouldn't really try it though, unless you have no better plan."
   Blue-Mage:
   - "Dark Shock -> Level 5 Death ends the fight."
-  UNION Black-Mage Mystic-Knight:
-  - "Atomos is weak to Sleep, and then you can kill him without waking him up."
+  INTERSECTION Black-Mage Mystic-Knight:
+  - "Atomos is weak to Sleep, and then you can kill it without waking it up."
   Red-Mage:
-  - "You can use the Sleep Blade to put Atomos to sleep, then kill him with magic without waking him up."
-  UNION Knight Freelancer:
+  - "You can use the Sleep Blade to put Atomos to sleep, then kill it with magic without waking it up."
+  Knight:
   - "You can use the Sleep Blade to put Atomos to sleep, then kill it if you have any magical damage. Otherwise, it doesn't matter much."
+  Freelancer:
+  - "You can use the Sleep Blade to put Atomos to sleep, then kill it by snapping rods without waking it up."
   Generic`:
-  - "Most parties without access to Sleep or !Blue can simply win a DPS race against Atomos."
+  - "Most parties without access to Sleep or !Blue can simply win a DPS race here."
