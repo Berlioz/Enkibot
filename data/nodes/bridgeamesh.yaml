@@ -16,14 +16,14 @@ Bridgamesh:
   - "Blue Mages can Magic Hammer their way through Gilgamesh's 1000 MP before phasing him, causing his buffs to fail."
   Beastmaster:
   - "Beastmasters can deploy Bearagas saved from World 1, if you have any."
-  INTERSECTION Blue-Mage Beastmaster:
+  UNION Blue-Mage Beastmaster:
   - "Alternatively, 1000 Needles still does its fixed damage even after his buffs."
   Dragoon:
   - "It'll take forever, but in the worst case scenario !Lance can be used to drain Gilgamesh's 1000 MP, causing his buffs to fail."
   - "It's likely better to just kill him through them, for your own sanity."
   Chemist:
   - "Chemists can mix Lamia's Kiss and Dark Ether to effortlessly drain Gilgamesh's 1000 MP, causing his buffs to fail."
-  UNION Knight Mystic-Knight Blue-Mage Red-Mage Freelancer:
+  INTERSECTION Knight Mystic-Knight Blue-Mage Red-Mage Freelancer:
   - "Gilgamesh is vulnerable to Old, which you can inflict via the Ancient Sword. It's not vital, but cuts his Jump damage in half."
   Generic`:
   - "In the SNES version only, you can try getting lucky with a Mage Masher proc right as you push Gilgamesh below 2500."
