@@ -13,7 +13,7 @@ Antlion:
   - "Berserk and Blink make this fight trivial."
   Red-Mage:
   - "Power Staff access lets you Berserk, so at least your levels will remain intact."
-  UNION Black-Mage Mystic-Knight:
+  INTERSECTION Black-Mage Mystic-Knight:
   - "Antlion is vulnerable to Sleep. Problem solved."
   Ranger:
   - "Antlion is vulnerable to Blind from the Dark Bow."
