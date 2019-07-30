@@ -11,12 +11,13 @@ Fork Tower:
   - "It can be used as an item to cast Protect, which may be useful for certain very squishy parties."
   Break-Rods:
   - "Many rod-using parties can take good advantage of the Wonder Rod in Fork Tower, especially if they lack !White."
-  - "It cycles through almost every spell in the game in a particular order."
+  - "It cycles through all the !White and !Black spells in a particular order."
+  - "This gives rod-users guaranteed access to Berserk, as well as Death, Reflect, Protect, Shell, and others."
   White-Mage:
-  - "Fork Tower is the only way to learn Holy, which gives White Mages (fantastic) offense if required."
-  INTERSECTION Black-Mage Mystic-Knight:
-  - "Fork Tower is the only way to learn Flare for Black Mages (eh) and Flare Blade for Mystic Knights (!!)."
+  - "Fork Tower is the only way to learn Holy, which gives White Mages (fantastic) offense."
+  Black-Mage:
+  - "Fork Tower is the only way to learn Flare for Black Mages (meh) and get the Wonder Rod, which is honestly more important."
   Mystic-Knight:
-  - "Mystic Knights can also use Holy Blade, which is useful-ish like once (Twin Tania) but it's really funny."
+  - "Fork Tower is the only way to learn Flare for Flare !Spellblade, which is far better than the spell itself. You should do it."
   Generic`:
-  - "Classes that need no special Fork Tower loot will often want to skip it, since frankly Istory Falls and the Deep Sea Trench suck."
+  - "Classes that don't need specific loot from Fork Tower, the Deep Sea Trench, or Istory Falls should just go to the Rift now."
