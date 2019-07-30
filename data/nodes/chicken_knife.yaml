@@ -5,15 +5,11 @@ Did You Get The Chicken Knife?????:
     previous-nodes:
     - antlion
   Generic:
-  - "I've put an entire entry in here to remind you to get the Chicken Knife."
+  - "I've put an entire section here to remind you to get the Chicken Knife."
   - "It's in a hidden passage behind the shed next to the Pub in Moore."
   - "If you play like I do, the Chicken Knife is probably at 127 power already."
-  - "Otherwise just run away from random encounters under fast-forward until it is."
-  INTERSECTION Thief Ninja:
-  - "You can also find a trapped chest and repeatedly !Flee or !Smoke out."
-  - "There's a conveniently trapped chest that you can pull this on in the next dungeon."
-  - "Also, if you were smart, you can use the trapped chest in the Beginner House in Tule."
-  Time-Mage:
-  - "You can Teleport to escape trapped chests easily and repeatedly. Just watch your MP."
+  - "Otherwise, just run away from fights until it is. If you left the Goblin chest in the Tule beginner's house alone, that's ideal."
   Bard:
-  - "Also at this time, don't forget to pick up Mana's Paean at the library. It's very easy to miss this one."
+  - "Also at this time, don't forget to pick up Mana's Paean on the top floor of the Library. It's very easy to miss this one forever."
+  UNION Knight Freelancer:
+  - "You could, theoretically, get the Brave Blade and use it. But don't."
