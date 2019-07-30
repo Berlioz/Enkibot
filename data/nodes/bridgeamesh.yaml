@@ -23,7 +23,11 @@ Bridgamesh:
   - "It's likely better to just kill him through them, for your own sanity."
   Chemist:
   - "Chemists can mix Lamia's Kiss and Dark Ether to effortlessly drain Gilgamesh's 1000 MP, causing his buffs to fail."
-  UNION Knight Mystic-Knight Blue-Mage Red-Mage Freelancer
+  UNION Knight Mystic-Knight
+  - "Gilgamesh is vulnerable to Old, which you can inflict via the Ancient Sword. It's not vital, but cuts his Jump damage in half."
+  UNION  Blue-Mage Red-Mage
+  - "Gilgamesh is vulnerable to Old, which you can inflict via the Ancient Sword. It's not vital, but cuts his Jump damage in half."
+  Freelancer
   - "Gilgamesh is vulnerable to Old, which you can inflict via the Ancient Sword. It's not vital, but cuts his Jump damage in half."
   Generic`:
   - "In the SNES version only, you can try getting lucky with a Mage Masher proc right as you push Gilgamesh below 2500."
