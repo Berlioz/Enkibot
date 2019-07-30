@@ -6,14 +6,16 @@ Apanda:
     - omega
   Generic:
   - "22200 HP, Byblos 2.0, counterattack routines and all."
-  - "You have a few more options available to you than against Byblos, though..."
-  - "Keep a weak weapon on hand to break the Confuse status effects he inflicts."
+  - "You have a few more options available to you now, though..."
   Elemental:
-  - "Any source of Fire damage will let you put him down very quickly."
+  - "Apanda's fire weakness makes this fight easy."
+  Staff:
+  - "Apanda's vulnerable to Berserk from the Power Staff."
   White-Mage:
-  - "White mages can Berserk him, which pretty much neuters him after you put up Blinks (or just Arise whoever he kills)."
+  - "...so White Mages can use the old Berserk plus Blink combo."
   Summoner:
-  - "Casting Ifrit on him causes him to waste a few turns and disables his counterattacks."
+  - "Casting specifically Ifrit makes Apanda waste two turns and disables its counterattacks."
+  - "And yes, this is repeatable. This fight is free for you."
   Beastmaster:
-  - "You can blast through him (and basically everything else in the castle) by releasing a Great Dragon."
-  - "You can find them in the Caves in the X-Zone, and they !release for 9999 damage."
+  - "!Releasing a Great Dragon from the Caves just before this fight will do 9999 to all targets."
+  - "This tip is valid for the rest of the game!"
