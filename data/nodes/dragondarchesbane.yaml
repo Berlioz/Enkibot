@@ -28,7 +28,7 @@ TwinTania:
   Samurai:
   - "If for some reason you still need it, the charging form can rarely drop a Murasame when killed."
   - "!Iainuki works on the charging form."
-  UNION Ranger Freelancer:
+  INTERSECTION Ranger Freelancer:
   - "Killer Bow works on the charging form."
   Red-Mage:
   - "You can put Reflect Rings on everyone, then Dualcast any offensive spell to bait out Mega Flare counters to bounce."
