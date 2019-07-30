@@ -6,9 +6,7 @@ Garula:
     - "1200 HP, begins countering every attack with Rush at 800 HP."
     - "A definite trainwreck waiting to happen for unlucky and unprepared players."
   INTERSECTION Blue-Mage Black-Mage:
-    - "Of course, you could pretty much just toast him with one snapped rod farmed from a RicardMage downstairs."
-  Black-Mage:
-    - "You can also just Poison him and sit back."
+    - "Of course, you could pretty much just toast him with one snapped rod farmed from a Ricard Mage downstairs."
   Knight:
     - "Knights can cheese this fight hilariously with three critical-HP characters and one spamming Cover."
     - "Garula can't do anything to you, it's hysterical."
@@ -23,5 +21,5 @@ Garula:
   Monk:
     - "The Monk's !Focus, which lets you hit twice as hard half as often, completely trivializes the counterattack mechanic."
   Blue-Mage:
-    - "You can get Frog Song to apply to Garula. He can cure himself, but he'll keep wasting turns."
+    - "You can get Pond's Chorus to apply to Garula. He can cure himself, but he'll keep wasting turns."
     - "Blind will also stick to him, if for some reason frog abuse isn't enough."
