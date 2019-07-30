@@ -4,28 +4,29 @@ Ifrit:
     previous-nodes: ['library']
   Generic:
     - "3000 HP, alternates between (Fira or Flame) and (Fight or Flame)"
-    - "20% chance to evade all physicals, which can make some runs annoying."
+    - "20% physical evasion, which can be annoying."
   Break-Rods:
-    - "Snapping a couple of Frost Rods on him will put him down with minimal fuss."
+    - "Snapping a couple of Frost Rods will work with with minimal fuss."
   INTERSECTION Black-Mage Red-Mage Summoner:
-    - "So will simply blasting away with Ice-elemental attacks, if you're feeling cheap."
+    - "So will simply blasting away with Ice-elemental attacks, if you're low on money."
   Mystic-Knight:
     - "Mystic Knights should set Silence with a Spellblade before going to town with Blizzara Sword."
   Ninja:
-    - "Ifrit is weak to water in addition to ice, so here's a good place to use your water scroll."
+    - "Ifrit is weak to water in addition to ice, so here's a good place to !Throw your Water Scroll."
   Blue-Mage:
-    - "Aqua Rake is actually nonaspected damge, so it won't be super-effective here."
-    - "He is, however, vulnerable to Blind, which will help lower incoming damage when he physically attacks."
+    - "Aqua Rake is actually nonelemental damge, so it won't be super-effective here."
+    - "Ifrit is, however, vulnerable to Blind, which will help lower incoming damage when he physically attacks."
   White-Mage:
     - "It's quite possible to land Silence on Ifrit, which cuts down on incoming damage significantly."
-    - "He's also vulnerable to confuse...which will mostly cause him to Fira himself and heal."
-    - "Worst case scenario, you can easily run him out of MP this way."
+    - "Ifrit's also vulnerable to Confuse, which will mostly lead to self-targeted Firas for lots of healing."
+    - "Worst case scenario, you can stall out Ifrit's MP this way."
   Time-Mage:
-    - "Ifrit is vulnerable to Slow, which you can inflict at this point with your Time Mage."
+    - "Ifrit is vulnerable to Slow."
   Geomancer:
-    - "Geomancers should note that Will-o-Wisp is fire damage, so...don't use that."
+    - "Geomancers should note that Will-o-Wisp is fire damage, so don't use !Gaia here."
   Thief:
     - "The Mage Masher you stole from the Karnak 500 can be used to Silence Ifrit here."
   Beastmaster:
-    - "Beastmasters can release Zus from the grassland outside Karnak, for a solid 750 damage each."
-    - "Or a Bandersnatch from near Walse for a 50/50 change of instant death. Bit of a walk, though."
+    - "Beastmasters can release one or more Zu from the grassland outside Karnak for a solid 750 damage each."
+    - "Even better, a Bandersnatch from near Walse has a 50/50 chance of inflicting instant death. Bit of a walk, though."
+    - "Ifrit is also vulnerable to Paralyze from the Whip, although 20% physical evasion makes it not a total lock singlehandedly."
