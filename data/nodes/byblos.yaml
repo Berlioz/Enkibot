@@ -4,31 +4,34 @@ Byblos:
     previous-nodes: ['ifrit']
   Generic:
     - "3600 HP, uses a variety of debilitating spells which make prolonged engagements almost unwinnable."
-    - "He also can cast Protect on himself and will counter attacks with Drain when low."
-    - "That combination makes the fight brutal on parties with only physical damage."
+    - "Also features 'fun' Drain counterattacks and self-Protect."
+    - "That combination can make this fight brutal for parties with only physical damage."
   Break-Rods:
-    - "Happily, you can just snap a couple of Fire Rods over his head and call it a night."
-  INTERSECTION Black-Mage Red-Mage:
-    - "Or you could just Fira him into the ground if you're feeling cheap."
+    - "Happily, you can just snap a couple of Fire Rods and call it a day."
+  UNION Black-Mage Red-Mage:
+    - "Or you can just Fira him if money is tight."
   Knight:
     - "Knights should be relying on Two-Handed in this fight and any other fight where counterattacks are an issue."
   Ninja:
-    - "I hope you got that Flame Scroll from Liquid Flame if you don't have a better strategy for doing this!"
+    - "I hope you got that Flame Scroll from Liquid Flame if you don't have a better strategy for doing this."
     - "You could also have farmed them in the Ship Graveyard all the way back."
     - "If you want to walk all that way back, they drop from Mindflushers in the room where the World Map was."
   Berserker:
-    - "Zerker-heavy teams can have trouble here, because they can trigger Byblos' counters at bad times."
-    - "If you have other powerful characters or a way to cheese the fight, consider coming in with your zerk blinded."
+    - "Berserker-heavy teams can have trouble here, because they can trigger Byblos' counters at bad times."
+    - "If you have other powerful characters or a way to cheese the fight, consider coming in with your Berserker(s) dead."
   Summoner:
-    - "Cast your new Ifrit summon on him for some extra comedy."
+    - "Summon Ifrit for some extra comedy and large damage."
+  Mystic-Knight:
+    - "Byblos is weak to fire, so Fira !Spellblade is great."
   Geomancer:
     - "Geomancers rejoice! !Gaia here gets you Will-o-Wisp, which is Fire damage."
   Time-Mage:
-    - "Time Mages with an aversion to rod abuse can still land Slow on him, making the fight much easier."
+    - "Time Mages with an aversion to rod abuse can still land Slow, making the fight much easier."
+    - "Byblos isn't heavy, so Gravity also works if you want to spare a rod by spoiling a child."
   Blue-Mage:
-    - "Death Claw works on him, reducing him to single-digit HP immediately."
-    - "He's not Heavy ahahahahaha."
-    - "On the other hand, you probably want to learn Magic Hammer from him, which can be obnoxious as hell."
+    - "Byblos isn't heavy or immune to paralysis, so Death Claw works to end this fight immediately."
+    - "On the other hand, you probably want to learn Magic Hammer here, which can be obnoxious as hell."
+  UNION Beastmaster Freelancer:
+    - "The Whip Magissa dropped all that time ago will paralyze-lock Byblos."
   Beastmaster:
-    - "The vanilla Whip weapon Magissa dropped all that time ago will paralyze-lock Byblos."
-    - "A released Page 32 from the library will cast Banish, which has a 33% chance of straight up killing Byblos."
+    - "A released Page 32 will cast Banish for a 33% chance of killing Byblos."
