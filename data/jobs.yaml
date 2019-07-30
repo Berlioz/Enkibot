@@ -6,7 +6,7 @@
 # - Staff: class can equip Healing Staff/Power Staff
 # - Break-Rods: 750 blaze it
 # - Inflict-Confuse: class can confuse enemies; important to blue mages
-# - Inflict-Berserk: class can inflict berserk. Technically nice for omniscient????
+# - Inflict-Berserk: Deprecated (redundant with Staff), but we don't know if removing it altogether will break things.
 # - Heavyscammer: class has an easy way to abuse Death/Petrify before assassin knife
 # - Crown: class guarantees a triple crown regardless of party composition
 
@@ -29,13 +29,11 @@ Jobs:
     - Healing
     - Staff
     - Inflict-Confuse
-    - Inflict-Berserk
     - Wind
   Blue-Mage:
     - Shield
     - Break-Rods
     - Heavyscammer
-    - Inflict-Berserk
     - Healing
     - Wind
   Mystic-Knight:
@@ -94,7 +92,6 @@ Jobs:
     - Healing
     - Crown
     - Staff
-    - Inflict-Berserk
     - Heavyscammer
     - Earth
   Freelancer:
