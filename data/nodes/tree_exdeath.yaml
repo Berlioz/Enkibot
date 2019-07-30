@@ -5,23 +5,23 @@ Tree Exdeath:
     previous-nodes:
     - necrophobe
   Generic:
-  - "49001 HP. Starts with regular attacks and White Hole (petrify+death)."
+  - "49001 HP. Starts with regular attacks and White Hole (inflicts both petrify and death, blocked by immunity to either)."
   - "Adds Holy and Condemn below 30000, then Meteo below 10000. Rush that last 10K HP, Meteo hurts."
-  - "Spawns Neo-Exdeath after going down."
+  - "Spawns Neo-Exdeath on death."
   Bard:
   - "This fight continues into NED, so Bards can use the time to go capped-stats Super Saiyan now."
-  - "White Hole can put a wrench in that plan--if you have the time to kill, you can !Hide until Exdeath runs out of mana."
+  - "White Hole can put a wrench in that plan - if you have the time to kill, you can !Hide until Exdeath runs out of MP."
   UNION Bard Blue-Mage:
-  - "If you have Blue Mage in addition to Bard, Magic Hammers will drain Exdeath's MP a hell of a lot faster."
+  - "If you have Blue Mage in addition to Bard, Magic Hammer will drain Exdeath's MP a hell of a lot faster."
   Chemist:
-  - "Yes, yes, on the SNES you can Kiss of Blessing to stop NED from spawning and thus skip the final boss. Gold star. Don't."
+  - "Yes, yes, on the SNES you can use Kiss of Blessing to stop NED from spawning and thus skip the final boss. Gold star. Don't."
   - "This fight continues into NED, so Chemists can use the time to go immune-to-everything-level-255 Super Saiyan now."
   Shield:
   - "Aegis Shield blocks White Hole completely, so have it on your most indispensible character."
   White-Mage:
-  - "Have Shell and Protect on the party going into Exdeath."
+  - "This fight continues into NED, so Shell and Protect on the party will carry over."
   Blue-Mage:
-  - "Mighty Guard. Mightguardmightyguardmightyguard. You can even facetank Meteos with it."
-  - "Especially after you Dark Spark him once and land a Level 2 Old."
+  - "Mighty Guard. Mightguardmightyguardmightyguard. You can even facetank Meteo with it."
+  - "...Especially after you Dark Spark him once and land a Level 2 Old."
   Ninja:
-  - "Now would probably be a good time to chuck all those legendary weapons, if you're having trouble burning the last 10K HP."
+  - "Now is probably be a good time to !Throw all those legendary weapons, if you're having trouble burning the last 10k HP."
