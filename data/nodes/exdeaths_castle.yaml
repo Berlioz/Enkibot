@@ -5,17 +5,12 @@ Exdeath's Castle:
     previous-nodes:
     - apanda
   Generic:
-  - "If you have AoE, the 2x Sword Dancer + 2x Death Claw encounter in the lobby is fantastic experience/AP."
-  Mystic-Knight:
-  - "You can rare steal/thief knife an Enhancer Sword from the Sword Dancers, but it's not usually useful."
-  - "Spellsword + Chicken Knife is such a dumb, dumb combination."
-  Generic`:
-  - "Make sure you grab a Hermes Sandals from a treasure chest in the Castle; that's 50k gil saved."
+  - "If you have strong AoE, the 2x Sword Dancer + 2x Death Claw encounter in the lobby is easy experience and ABP."
+  - "Make sure you grab a Hermes Sandals from a treasure chest in the Castle; if you only had 3, there you go."
   NOT Dancer:
-  - "The fight with the old men in the downstairs cells that turn into Jura Avis is optional and pretty pointless."
+  - "The fight with the old men in the downstairs cells that turn into Jura Aevis is optional and pretty pointless."
   Dancer:
-  - "If you still need Red Shoes or Rainbow Dresses, there's one of each in the downstairs cells if you fight the Jura Avis."
-  Generic``:
-  - "There is a room in the castle that only has fights with Iron Giants."
-  - "They're worth 10K experience each but are relatively tough."
-  - "They only use physical attacks and are vulnerable to instant-kill magic like Odin and Break Blade."
+  - "If you still need Red Shoes or Rainbow Dresses, there's one of each in the downstairs cells if you fight the Jura Aevis."
+  Generic`:
+  - "Iron Giants are common in random encounters here. They're worth 10k experience each but are relatively tough."
+  - "They only use physical attacks, but hit hard. Ideally, they're vulnerable to Death and Petrify."
