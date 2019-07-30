@@ -97,3 +97,14 @@ Jobs:
     - Inflict-Berserk
     - Heavyscammer
     - Earth
+  Freelancer:
+    - Staff
+    - Break-Rods
+    - Heavyscammer
+    - Pierce-Def
+    - Shield
+    - Wind
+  Mime: 
+    - Staff
+    - Shield
+    - Break-Rods
