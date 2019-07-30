@@ -4,28 +4,28 @@ Liquiflame:
     previous-nodes: ['fireship']
   Generic:
     - "3000 HP, transitions randomly between three forms when struck."
-    - "Human Form: single and multi target attacks and counters with target-all fire magic."
-    - "Hand Form: single target attacks that can paralyze and counters with Fire 2. Absorbs fire, nullifies ALL other elements."
-    - "Tornado Form: casts Fire2 on self to heal."
-  Ranger:
+    - "Human Form: single and multi target attacks, counters with Blaze."
+    - "Hand Form: single target attacks that can paralyze, counters with Fira. Runs out of MP after three casts. Absorbs fire, nullifies ALL other elements."
+    - "Tornado Form: casts Fira on itself to heal. Runs out of MP after five casts."
+  UNION Ranger Freelancer:
     - "Killing Liquid Flame in Tornado Form makes it drop a Fire Bow, useful in the next dungon and not buyable until later.
-  INTERSECTION White-Mage Red-Mage:
-    - "It can be confused, which will have it do nothing except attack itself. Useful for choosing which drop you get!"
+  UNION White-Mage Red-Mage:
+    - "Liquid Flame can be confused, leading it to do nothing except attack itself. Useful for choosing which drop you get!"
   Break-Rods:
-    - "Frost Rods will kill in two breaks. Don't use them when it's in hand form!"
+    - "Frost Rods will kill in two snaps. Don't use them when it's in hand form!"
   Time-Mage:
-    - "The Time Mage's Demi spell works on the human and tornado forms."
-    - "One cast of Demi followed up by a Frost Rod snap on the human or tornado form will kill."
+    - "Casting Demi works on the human and tornado forms."
+    - "One cast of Demi followed up by a Frost Rod snap on the human or tornado form should kill."
   Monk:
-    - "Fewer, bigger hits will do better against him, so !Focus ain't bad here."
+    - "Fewer, bigger hits do better against counter-heavy enemies, so !Focus ain't bad here."
   Knight:
-    - "The fewer times you have to hit Liquid Flame the fewer counters you'll see, so Two-Handed makes your life easier."
+    - "Fewer, bigger hits do better against counter-heavy enemies, so Two-Handed makes your life easier."
   Mystic-Knight:
-    - "Blizzara Sword will inflict massive damage. Make sure you have a way to damage hand form to turn it back to a form weak to ice."
-    - "You can unequip your weapon and re-equip it through the Item menu to strip your spellblade effect. It also doesn't use your turn."
+    - "Blizzara Sword will inflict massive damage. Make sure you have a way to damage Hand Form to turn it back to a Form weak to ice."
+    - "You can unequip your weapon and re-equip it through the Item menu to strip your !Spellblade effect without using your turn."
   Generic`:
-    - "Since the forms' MP are tracked separately and the tornado form doesn't attack you, consider just sitting there until it runs out from 5 Fire 2 casts."
+    - "Since the forms' MP are tracked separately and Tornado Form doesn't attack you, consider just sitting there until it runs out of MP."
   Berserker:
     - "Consider going into the fight with your Berserker dead to control phase changes, at least until you run Tornado out of MP so it can't heal."
   Blue-Mage:
-    - "All three forms absorb wind element, so don't use Aero. Just break rods."
+    - "All three forms absorb wind, so don't use Aero. Just break rods."
