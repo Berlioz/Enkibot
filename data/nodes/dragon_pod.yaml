@@ -12,7 +12,7 @@ Dragon Pod/Hiryuu Plant:
   - "The Flowers themselves have no status immunities, which is nice to know if you have to rely on the Bone Mail."
   Monk:
   - "This battle is probably the Monk's last gasp at viability: !Kick's time to shine is repeatedly clearing 100 HP idiots."
-  UNION Black-Mage Summoner Ninja:
+  INTERSECTION Black-Mage Summoner Ninja:
   - "Powerful target-all spells (or scrolls) will keep the Pod stuck resummoning its Flowers every turn."
   Blue-Mage:
   - "The plant isn't Heavy, so you can just end this fight with a Death Claw."
@@ -27,7 +27,7 @@ Dragon Pod/Hiryuu Plant:
   - "Death Potion works on the Dragon Pod."
   Bard:
   - "Bards can Stop all the Flowers (and the central Pod!) at once with Romeo's Ballad."
-  UNION Ranger Freelancer:
+  INTERSECTION Ranger Freelancer:
   - "The Killer Bow works on the Dragon Pod."
   Samurai:
   - "!Iainuki will cut the Dragon Pod right in half, if you have it."
