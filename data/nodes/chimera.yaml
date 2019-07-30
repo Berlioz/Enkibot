@@ -9,7 +9,7 @@ Chimera:
     - "Before moving onto W2, you may wish to catch a few more Sand Bears, if you're worried about Bridgeamesh."
   Berserker:
     - "Manticore isn't immune to instant death, so Death Sickle works."
-  UNION Ranger Freelancer:
+  INTERSECTION Ranger Freelancer:
     - "Manticore isn't immune to instant death, so Killer Bow works."
   Blue-Mage:
     - "Manticore isn't heavy, so Death Claw works."
@@ -20,5 +20,5 @@ Chimera:
     - "Manticore isn't heavy, so you can also use Gravity early in the fight for damage."
   Bard:
     - "With multiple Romeo's Ballad singers, Manticore probably won't ever get a turn."
-  UNION White-Mage Red-Mage:
+  INTERSECTION White-Mage Red-Mage:
     - "If you don't have any cheesier options, you can likely just heal through the multi-target spells with Cura."
