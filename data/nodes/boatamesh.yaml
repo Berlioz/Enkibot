@@ -5,25 +5,26 @@ Boatamesh & Enkidu:
     previous-nodes:
     - surgate
   Generic:
-  - "8888 HP, mixes up physicals with Missile and Death Claw. Summons Enkidu at 4000."
+  - "8888 HP, mixes up physicals with Missile and Death Claw. Summons Enkidu at 4000 HP."
   - "Enkidu has 4000 HP and uses various blue magic, including the completely infuriating White Wind."
   - "Kill Enkidu first, but watch out for his ability to Vampire for obscene damage when you do."
   Blue-Mage:
-  - "Gil's level 31. Dark Shock + L5 Death ends this fight instantly."
-  Chemist:
-  - "MP draining Gil won't stop him from summoning Enkidu, but it will shut down his offensive casting."
-  - "Or end the fight with a Death Potion, if you have the Dark Matter to spare."
+  - "Gilgamesh is level 31. Dark Shock -> L5 Death ends this fight before Enkidu shows up."
   Berserker:
-  - "The Death Sickle can kill him instantly when it lands."
-  Ranger:
-  - "The Killer bow can kill him instantly when it lands."
+  - "Gilgamesh isn't immune to instant death. Death Sickle him before Enkidu shows up."
+  UNION Ranger Freelancer:
+  - "Gilgamesh isn't immune to instant death. Killer Bow him before Enkidu shows up."
+  Chemist:
+  - "Gilgamesh isn't immune to instant death. Death Potion him before Enkidu shows up."
+  Samurai:
+  - "Enkidu is neither heavy nor immune to instant death. !Iainuki him, if you have it. Sorry you can't get Gilgamesh too."  
   INTERSECTION Time-Mage White-Mage:
-  - "Silence from a Time Mage or White Mage will shut down Gil's offense, but Blue Magic can't be silenced."
+  - "Silence from a Time Mage or White Mage shuts down Gilgamesh's offense, but Blue Magic can't be silenced."
+  Time-Mage:
+  - "Both Gilgamesh and Enkidu are vulnerable to Slow."
   Mystic-Knight:
-  - "Mystic Knights can nail Gil with a Silence sword. He can still cast Blue Magic."
+  - "Mystic Knights can nail Gilgamesh with a Silence !Spellblade, but it won't turn off his Blue Magic."
   Thief:
-  - "Make sure to steal a Genji Glove from Gil, if you have anyone who can equip heavy armor."
+  - "Make sure to steal a Genji Glove from Gilgamesh, if you have anyone who can equip heavy armor."
   Beastmaster:
-  - "You can !Control Enkidu lol. Have him Hurricane himself."
-  Heavyscammer:
-  - "Enkidu has no immunity to instant death, stuff like !Iainuki, Death Potions, Death Sickles will work on him."
+  - "You can !Control Enkidu. A self-targeted Hurricane works just fine."
