@@ -5,21 +5,22 @@ Garula:
   Generic:
     - "1200 HP, begins countering every attack with Rush at 800 HP."
     - "A definite trainwreck waiting to happen for unlucky and unprepared players."
-  INTERSECTION Blue-Mage Black-Mage:
-    - "Of course, you could pretty much just toast him with one snapped rod farmed from a Ricard Mage downstairs."
+  Break-Rods:
+    - "Of course, you can also farm up a Fire Rod from a Ricard Mage downstairs, or use the Frost Rod from Carwen."
   Knight:
-    - "Knights can cheese this fight hilariously with three critical-HP characters and one spamming Cover."
+    - "Knights can cheese this fight hilariously with three critical-HP characters and one Knight with spamming !Guard."
     - "Garula can't do anything to you, it's hysterical."
-    - "Well, OK, he can still inflict HP Sap. Bring a few potions or something."
+    - "Well, OK, HP Sap still exists, so bring a few potions or something."
   White-Mage:
     - "White Mages can cast Protect to make Garula's offense half as dangerous."
     - "For 4x WHM parties: put everyone in the back row and ONLY attack with the Flail to minimize counterattacks."
-    - "It's easy enough to grind out. Also completely infuriating."
+    - "It's easy enough to grind out. Also completely boring."
   Thief:
-    - "4x Thief parties should have a mythril knife attacker in the front row and 3 potion chuckers in the back row."
+    - "4x Thief parties should have a Mythril Knife attacker in the front row and 3 potion chuckers in the back row."
     - "Seriously expect to burn through 50-60+ potions if you're at a reasonable level and haven't been grinding."
+    - "As a corollary, check when you get your next M increase, and maybe grind to it."
   Monk:
-    - "The Monk's !Focus, which lets you hit twice as hard half as often, completely trivializes the counterattack mechanic."
+    - "The Monk's !Focus, which lets you hit twice as hard half as often, helps immensely with the counterattack mechanic."
   Blue-Mage:
-    - "You can get Pond's Chorus to apply to Garula. He can cure himself, but he'll keep wasting turns."
-    - "Blind will also stick to him, if for some reason frog abuse isn't enough."
+    - "You can get Pond's Chorus to apply to Garula. Its self-Frog-cure takes its turn, and then you can repeat."
+    - "Blind will also work, if for some reason frog abuse isn't enough."
