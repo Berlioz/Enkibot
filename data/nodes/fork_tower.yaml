@@ -6,10 +6,12 @@ Fork Tower:
     - wendigo
   Generic:
   - "Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not."
-  - "The Defender in Fork Tower is a Knightsword that might be interesting if Excalibur didn't exist."
+  - "Magic users go to the left and physical fighters go to the right."
+  - "The Defender in Fork Tower is a Knight Sword that might be interesting if Excalibur didn't exist."
   - "It can be used as an item to cast Protect, which may be useful for certain very squishy parties."
   Break-Rods:
   - "Many rod-using parties can take good advantage of the Wonder Rod in Fork Tower, especially if they lack !White."
+  - "It cycles through almost every spell in the game in a particular order."
   White-Mage:
   - "Fork Tower is the only way to learn Holy, which gives White Mages (fantastic) offense if required."
   INTERSECTION Black-Mage Mystic-Knight:
