@@ -5,18 +5,17 @@ Catastrophe:
     previous-nodes:
     - azulmagia
   Generic:
-  - "19997 HP, casts Gravity 100 to dispell Float, then spams Earth Shakers."
-  - "GRAVITY 100 CAN BE REFLECTED. Get a floating character, put a wall ring on them. He'll never attack."
-  - "Dancing Dagger to confuse a Gaelicat (North Mountain) or Poison Eagle (Drakenvale, feed it an Ether) for Float."
-  - "If on the GBA version, you can use the Quicksave glitch to get the rare encounter in the Caves room with the super long staircase."
-  - "That rare encounter is the same one in Drakenvale that has a Poison Eagle. You'll need to feed it an Ether before it can float you though."
-  - "Just don't stay at an inn or use a cottage/tent when running back."
+  - "19997 HP, casts 100 Gs to dispel Float, then spams Earth Shaker and occasionally petrifies a target."
+  - "100 Gs can be reflected. Floating character + Reflect Ring means Catastrophe will literally never attack."
+  Inflict-Confuse:
+  - "Dancing Dagger to confuse a Gaelicat (North Mountain) or Poison Eagle (rare encounter in the Caves, feed it an Ether) for Float."
+  - "Just don't use a Cottage once you're Floating."
   Time-Mage:
   - "...or just cast the Float spell with your Time Mage."
   Chemist:
-  - "...or just use the Levisalve !mix with your Chemist."
+  - "...or just use the Levisalve !Mix with your Chemist."
   Blue-Mage:
-  - "...or just use the Blue Mage's Mighty Guard, which grants Float."
+  - "...or just use the Mighty Guard, which gives Float."
   Generic`:
   - "Of course, some parties have the HP/healing/offense to just eat Earth Shakers and kill Catastrophe normally."
-  - "Try it out before running out to do the float cheese, to save a lot of time."
+  - "Try it out before bothering with Float cheese if you want to potentially save time."
