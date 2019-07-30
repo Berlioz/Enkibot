@@ -8,7 +8,7 @@ Byblos:
     - "That combination can make this fight brutal for parties with only physical damage."
   Break-Rods:
     - "Happily, you can just snap a couple of Fire Rods and call it a day."
-  UNION Black-Mage Red-Mage:
+  INTERSECTION Black-Mage Red-Mage:
     - "Or you can just Fira him if money is tight."
   Knight:
     - "Knights should be relying on Two-Handed in this fight and any other fight where counterattacks are an issue."
@@ -31,7 +31,7 @@ Byblos:
   Blue-Mage:
     - "Byblos isn't heavy or immune to paralysis, so Death Claw works to end this fight immediately."
     - "On the other hand, you probably want to learn Magic Hammer here, which can be obnoxious as hell."
-  UNION Beastmaster Freelancer:
+  INTERSECTION Beastmaster Freelancer:
     - "The Whip Magissa dropped all that time ago will paralyze-lock Byblos."
   Beastmaster:
     - "A released Page 32 will cast Banish for a 33% chance of killing Byblos."
