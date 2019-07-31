@@ -35,7 +35,7 @@ Seal Crystals:
   - "Gravity deals low enough damage to not knock the Crystal into spellcasting phase, so the correct order is Gravity -> Graviga -> Comet."
   - "You can spend 'extra' turns trying to land the initial Gravity on the other Crystals while you wait for Graviga to hit, as long as you're always prepared to Comet immediately afterwards."
   - "The Crystals are also vulnerable to Slow, to make this tactic even safer."
-  UNION Ranger Freelancer:
+  INTERSECTION Ranger Freelancer:
   - "High level and magic evasion doesn't do anything to stop Killer Bow procs."
   - "Don't bother blinding the Crystals with a Dark Bow, that's wasted turns that could have been Killer Bow attacks."
   - "If you find you're pushing the Crystals into casting range fishing for Killer Bow procs, let a Mini Magician outside make you Mini first."
