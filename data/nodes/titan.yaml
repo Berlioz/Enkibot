@@ -6,23 +6,29 @@ Titan:
     - "2500 HP; main threat is the Earth Shakers he casts for powerful (480-540) all-target damage."
     - "He casts Earth Shaker on death, so you need to have a way to not wipe to that."
   INTERSECTION White-Mage Red-Mage:
-    - "WHM/RDM can cast Confuse on Gaelicats in the North Mountain to gain Float, which neatly evades Earth Shaker."
+    - "White and Red Mages can cast Confuse on Gaelicats in the North Mountain to gain Float to nullify Earth Shaker."
+    - "Don't use a Tent or Cottage after getting it, because they remove Float status."
   Dancer:
-    - "Dancers can roll Tempting Tango on Gaelicats in the North Mountain to gain Float, to nullify Earth Shaker."
+    - "Dancers can !Dance the Tempting Tango on Gaelicats in the North Mountain to gain Float to nullify Earth Shaker."
+    - "Don't use a Tent or Cottage after getting it, because they remove Float status."
   Bard:
-    - "Bards can play Alluring Air on Gaelicats in the North Mountain to gain Float, to nullify Earth Shaker"
-  UNION Thief Berserker:
-    - "If you have a thief, a berserk, and a death wish, you can rarely steal a Earth Hammer from Titan."
-    - "That's literally an endgame weapon, especially if you can back up its Quake procs with a mage ability for stats."
+    - "Bards can !Sing Alluring Air on Gaelicats in the North Mountain to gain Float to nullify Earth Shaker"
+    - "Don't use a Tent or Cottage after getting it, because they remove Float status."
   Chemist:
-    - "Here's your introduction to the brokenness of !Mix: Antidote + Maiden's Kiss = Levisalve."
+    - "Here's your introduction to the brokenness of !Mix: Antidote + Maiden's Kiss = Levisalve to gain float to nullify Earth Shaker."
+  UNION Thief Berserker:
+    - "If you have a Thief, a Berserker, and lots of patience, Titan's rare steal is a Gaia Hammer."
+    - "That's literally an endgame weapon, especially if you can back up its Earthquake procs with a magic ability to pass along a magic stat."
   Beastmaster:
-    - "Stopping Titan with !Calm right before you kill him will dodge the Earth Shaker, but the timing is tight."
-    - "!Calm won't work on the SNES version, but you can paralyze lock him with the Whip for the same result."
+    - "On GBA, Stopping Titan with !Calm right before you kill him will dodge the Earth Shaker, but the timing is tight."
+    - "You can also paralyze him with the Whip and then have someone else immediately deal the fatal blow for the same result."
+    - "If you're not worried about Earth Shaker, you can !Release a Sand Bear to almost oneshot Titan."
+  Freelancer:
+    - "You can paralyze Titan with the Whip and then have someone else immediately deal the fatal blow to dodge the Earth Shaker, but the timing is tight."
   Bard:
-    - "Stopping Titan with !Sing right before you kill him will dodge the Earth Shaker, but the timing is tight."
+    - "Stopping Titan with !Sing right before you kill him will dodge the Earth Shaker, but the timing is tight. Getting Float is better."
   Time-Mage:
-    - "Your Time Mage can set Slow on Titan, which helps with wearing him down before he gets too many shakers off."
+    - "Your Time Mage can set Slow on Titan, which helps with wearing him down before he gets too many Earth Shakers off."
     - "If you have no alternative, you can Stop Titan right before you kill him, but the timing is tight."
   Summoner:
     - "Titan is vulnerable to the Remora summon's Paralysis, probably the only time in the game it's useful."

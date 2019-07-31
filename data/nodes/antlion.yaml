@@ -6,19 +6,24 @@ Antlion:
     - exdeath_w2
   Generic:
   - "8100 HP, Bartz and Krile only."
-  - "Pain in the ass if your offense is slow, since he spams Dischord (level half) which makes it slower."
+  - "This fight can be a pain with slow offense, since it'll spam Dischord to halve your level repeatedly."
   Staff:
   - "Unless you had the foresight to farm a Power Staff in Meatfort. It casts Berserk when wielded."
   White-Mage:
-  - "Berserking him and dealing with the physical attacks is probably the easiest path with a White Mage."
+  - "Berserk and Blink make this fight trivial."
   Red-Mage:
-  - "Red Mages can Berserk him with the Power Staff, which puts an end to the level-halving."
+  - "Power Staff access lets you Berserk, so at least your levels will remain intact."
+  INTERSECTION Black-Mage Mystic-Knight:
+  - "Antlion is vulnerable to Sleep. Problem solved."
+  Ranger:
+  - "Antlion is vulnerable to Blind from the Dark Bow."
   Beastmaster:
-  - "If you didn't plan ahead, the only available !release is from the trapped chest in Tule's training house."
+  - "If you didn't plan ahead, the only available !Release is 1016 damage from the Goblin in the trapped chest in Tule's training house."
   Blue-Mage:
-  - "1000 Needles at least isn't affected by your levels. 8 and spare change will kill Antlion."
-  - "Blinding him would also basically neuter his offense."
+  - "1000 Needles isn't affected by your levels. 8 and spare change will kill Antlion."
+  - "Antlion is vulnerable to both Old and Slow, so Time Slip is great here, and also Blind if you care."
   Time-Mage:
-  - "Time Mages can serve him up some of his own medicine with Old."
+  - "Comet provides a source of level-independent damage."
+  - "Antlion is vulnerable to Old and Slow, so you can weaken it while you Comet it into oblivion."
   Ninja:
-  - "He's eak to water, so Water Scrolls are effective even once your level tanks."
+  - "Antlion is weak to water, so Water Scrolls are very effective."

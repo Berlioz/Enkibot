@@ -5,11 +5,20 @@ Halicarnassus:
     previous-nodes:
     - catastrophe
   Generic:
-  - "33333 HP, sky-high level (affects aliment spell accuracy)."
-  - "Starts by turning characters into frogs; if you come in with everyone frogged it cures you instead."
+  - "33333 HP, sky-high level (affects ailment spell accuracy)."
+  - "Starts by turning the entire party into frogs."
   - "Casts Holy once every eight turns; having the party Reflected will let you scam an easy kill."
   - "In general, only has single-target offense. Any party can sandbag with Phoenix Downs."
   Summoner:
-  - "For whatever reason, Halicarnassus counters all offensive summons viciously."
+  - "For whatever reason, Halicarnassus counters all offensive summons with Strong Fight for 9999."
   - "You can still just spam Carbuncle until it impales itself with Holy, though."
   - "Or just put up a Golem first to suck up the counter."
+  INTERSECTION Black-Mage Blue-Mage:
+  - "The opening Ribbit spell just toggles Frog, so come into the fight as frogs to be cured by Ribbit and waste that turn."
+  Mystic-Knight:
+  - "Halicarnassus is vulnerable to Silence, which will prevent the occasional buff and also Holy."
+  Cannoneer:
+  - "Halicarnassus is vulnerable to Mini, Old, Darkness, and Slow, which your Cannons can set."
+  - "Mini only doubles evade, and Halicarnassus naturally has 0, and 2*0=0, so..."
+  Beastmaster:
+  - "You don't have a better option than Great Dragons, still, but 4*9999 > 33333 so you also aren't complaining."

@@ -6,29 +6,45 @@ Necrophobe:
     - shinryu
   Generic:
   - "Necrophobe is an optional fight! You need to kill him for the last save point before NED, though."
-  - "First phase: four 8800 HP auto-reflect Barriers, which alternate between level 3 black magic and holy/flare."
-  - "Second phase: 34044 effective HP, weak to all elements, spams double physical attacks/vacuum waves."
-  - "He'll have 44044 if you didn't get Excalipoor, though."
-  - "Reflect rings will let you cast on yourself to penetrate the barrier reflect status."
-  Heavyscammer:
-  - "The barriers are vulnerable to instant death, which your party is capable of efficiently inflicting."
-  - "Make sure that your preferred method of ID is NOT reflectable, though!"
-  - "The Assassin's Dagger *is*, so maybe don't use that."
-  NOT Heavyscammer:
-  - "It might be tempting to try and Assassin's Dagger the barriers. Just be aware that Doom can be reflected..."
+  - "First phase: four 8800 HP auto-reflect Barriers, which alternate between Firaga/Blizzaga/Thundaga and Holy/Flare."
+  - "Second phase: 34044 effective HP, weak to all elements, spams double physical attacks/Vacuum Waves."
+  - "He'll have 44044 HP if you didn't get Excalipoor, though."
+  - "Reflect Rings will let you cast on yourself to penetrate the Barriers' Reflect status."
+  - "It might be tempting to try and Assassin's Dagger the barriers. Don't do it, because that Doom proc gets reflected."
   Samurai:
   - "Samurai can just !Zeninage the barrier crystals down easily."
   - "You might think to use !Iainuki, but the Barriers are heavy, so it won't work."
   Summoner:
-  - "Air Lancet boosted Syldras from your Summoner will let you just DPS race the barriers."
-  - "If that sounds like too much work, you can also scum Shoat petrifies on the barriers."
-  - "Golem will allow you to almost completely neuter the second phase's offense."
+  - "Air Knife boosted Syldra can easily DPS race the Barriers."
+  - "If that sounds like too much work, you can also use Catoblepas to petrify them."
+  - "Golem almost completely neuters Necrophobe's offense."
   Time-Mage:
-  - "Remember that the Time Mage's Comet and Meteor ignore reflect statuses."
+  - "Remember that Comet and Meteor ignore Reflect. It'll take some casting of Meteor, since Necrophobe is effectively a blank target, but you'll get there."
   Beastmaster:
-  - "Beastmasters can release Great Dragons from the X-Zone Caves for a 9999 hit, to quickly thin out the crystals."
-  - "Just pray the random target selection doesn't pick Necrophobe himself."
+  - "Beastmasters can release Great Dragons from the X-Zone Caves for to hit a random target for 9999, oneshotting a Barrier."
+  - "Just pray that the random target selection doesn't pick Necrophobe."
   Ranger:
-  - "!Rapid-fire and the Killer Bow work fairly well when you don't shoot Necrophone instead."
+  - "!Rapid Fire to fish for Killer Bow procs works fairly well, though you will inevitably "waste" some hits on Necrophobe."
+  - "Alternatively, !Rapid Fire with the Chicken Knife, since the Barriers aren't THAT beefy."
+  Freelancer:
+  - "The Killer Bow's death proc doesn't reflect, so that's one option for the Barriers."
   Berserker:
-  - "Don't try Death Sickles. They spell they cast on-hit will be reflected."
+  - "Don't try Death Sickles. Their Doom proc gets Reflected."
+  Mystic-Knight:
+  - "Break Blade works on the Barriers."
+  - "Necrophobe is weak to every element."
+  Black-Mage:
+  - "Bouncing Break or Death off your own Reflect Ringed party member is an effective, if randomly targeted, way to kill the Barriers."
+  Chemist:
+  - "Death Potion kills Barriers."
+  Blue-Mage:
+  - "The Barriers are level 44, so it would take three Dark Sparks to hit them with Level 5 Death."
+  - "The Barriers are heavy, so Death Claw won't work."
+  - "BLU's best multi-target option is Aqua Breath here, thanks to Reflect neutralizing Aeroga."
+  Thief:
+  - "Don't forget the Genji Armor from Gilgamesh."
+  Cannoneer:
+  - "Chaos Cannon kills Barriers."
+  - "Necrophobe is vulnerable to Slow and Darkness, both of which you have Cannons for."
+  Gladiator:
+  - "One Finisher kills the Barriers. As does several !Bladeblitzes, I guess."

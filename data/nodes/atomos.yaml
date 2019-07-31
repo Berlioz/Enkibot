@@ -5,22 +5,21 @@ Atomos:
     previous-nodes:
     - shield_generator
   Generic:
-  - "19997 HP, spams comet until someone dies then starts sucking them in."
-  - "Just come in with someone dead so you can at least choose who you have down."
-  - "Revive them right before they get eaten and let Atomos kill someone else to buy more DPS uptime."
-  INTERSECTION White-Mage Chemist:
-  - "!White or !Mix are the two defensive abilities good enough to possibly let you just tank comets."
-  - "Wouldn't really try it though, unless you have no better plan."
+  - "19997 HP, spams Comet until someone dies, then starts sucking them in."
+  - "You can just come in with someone dead to skip the Comets."
+  - "Revive them right before they get eaten and let Atomos kill someone else to buy more time."
   Blue-Mage:
-  - "Dark Shock + Level 5 Death."
-  - "Yup. Could take a while to actually get Dark Shock to stick, though."
+  - "Dark Shock -> Level 5 Death ends the fight."
   INTERSECTION Black-Mage Mystic-Knight:
-  - "Sleep (and Sleep Sword) inflict the only aliment that Atomos is weak to."
-  - "Once you have him sleeping, you can just kill him without waking him up with magic or !Mineuchi/!SwdSlap or something."
-  - "!Mineuchi/!SwdSlap is 'fixed' on iOS and wakes sleeping enemies!"
-  INTERSECTION Red-Mage Knight:
-  - "You have a class that can equip swords, which means you can Slumber Sword Atomos if you have to."
-  - "Once you have him sleeping, you can just kill him without waking him up with magic or !Mineuchi/!SwdSlap or something."
-  - "!Mineuchi/!SwdSlap is 'fixed' on iOS and wakes sleeping enemies!"
+  - "Atomos is weak to Sleep, and then you can kill it without waking it up."
+  Red-Mage:
+  - "You can use the Sleep Blade to put Atomos to sleep, then kill it with magic without waking it up."
+  Knight:
+  - "You can use the Sleep Blade to put Atomos to sleep, then kill it if you have any magical damage. Otherwise, it doesn't matter much."
+  Freelancer:
+  - "You can use the Sleep Blade to put Atomos to sleep, then kill it by snapping rods without waking it up."
+  Beastmaster:
+  - "!Releasing a Lesser Lopros from the river by the Moogle Village will deal 5000 damage with Breath Wing."
+  - "It's also magical damage, in case you're using Sleep strats."
   Generic`:
-  - "Most parties without access to a dirty trick can simply win a DPS race against Atomos."
+  - "Most parties without access to Sleep or !Blue can simply win a DPS race here."

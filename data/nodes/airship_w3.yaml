@@ -7,42 +7,44 @@ Aviation:
   Generic:
   - "There are a lot of interesting things to do now that you have a working Airship."
   - "In a forest on an island to the south of the world, you can visit the Phantom Village."
-  - "The stores there sell stupendously valuable gear, with a price tag to match."
-  - "The Weapon shop is disappointing, since you just got done raiding a cache of legendary weapons."
-  - "The Magic Shop sells some fantastic spells, if you have White/Black/Time Mages."
   White-Mage:
   - "Arise and Dispel will both come in handy in upcoming boss fights."
   Black-Mage:
-  - "Black Mages kind of get the short end of the stick with Doom and Aspir."
+  - "Black Mages honestly get the short end of the stick with 'only' Doom and Osmose."
   Time-Mage:
-  - "Quick is fucking obscene, even without Venom Rod abuse. Just bring a Gold Hairpin."
+  - "Quick is obscene, even without Venom Rod abuse. Just bring a Gold Hairpin."
   Generic``:
-  - "The Accessory Shop sells WingedShoes/Hermes Sandals for 50K each."
-  - "They grant Haste and Stop immunity and are a steal at 50K. Buy 3; there's a free one later."
+  - "The Accessory Shop sells Hermes Sandals for 50k each."
+  - "They grant Haste and Stop immunity, and are easily the best accessory in the game.
+  - "There's a free one late in the Rift... but still buy 4 now, rather than waiting, if you can afford them."
   Bard:
-  - "The last Piano also happens to be in the Phantom Village, hidden carefully. Sneaky."
+  - "The last Piano is carefully hidden in the basement. Sneaky."
   Generic```:
-  - "Lastly, don't forget the Thief's Knife at the bar, which lets anyone steal from enemies."
+  - "Lastly, don't forget the Thief's Knife behind the bar, which lets anyone steal."
   - "You can grab Boko back from where you parked him near Ghido's Cave."
   - "You can ride him all the way to the top of Istory Falls, to find the Magic Lamp."
-  - "The Magic Lamp allows non-Summoners to use summons, with some conditions. It's vital."
+  - "The Magic Lamp allows non-Summoners to use summons and one-shots part of the final boss. It's vital."
+  - "While you're on Boko anyway, ride him around the entire world, then talk to a NPC in Phantom Village for your free Mirage Vest."
   Summoner:
   - "Summoners get a pretty damn good prize too: in Faris' old hideout, you can get the Syldra summon."
-  - "When boosted with the Air Lancet, it's the strongest summon in the game. Better than Bahamut or Leviathan."
-  - "You can also visit Val Castle's basement to get the Odin summon, but you could also just Magic Lamp it."
+  - "When boosted with the Air Knife, it's the strongest summon in the game."
+  - "You can also visit Bal Castle's basement to get the Odin summon, but it's not that useful."
   UNION Summoner Chemist:
-  - "Though the Elemental Power mix actually does boost Water, so Leviathan will come out on top if you use that."
+  - "The Elemental Power mix actually does boost Water, so Leviathan will come out on top damage-wise."
   Blue-Mage:
   - "Blue Mages can and should learn Mighty Guard from Stingrays, a rare encounter in the water south of the huge desert."
-  - "It's a Control-only spell, so the easiest way to pick it up is with a Beastmaster."
-  - "Otherwise, you'll have to Confuse it with White Magic/!mix, or use a Dancing Dagger."
+  - "You'll have to Confuse it with !White/!Mix/the Dancing Dagger."
+  UNION Blue-Mage Beastmaster:
+  - "You can use !Control to learn Mighty Guard. How lucky!"
   Beastmaster:
   - "The Stingray, a rare encounter in the water south of the huge desert, has the strongest whip in the game as a drop."
   - "Of course, it's a rare encounter and a rare drop, so you may want to skip it."
   - "If you're on the NA version of the GBA port, you can use the Quicksave trick to get guaranteed Stingrays."
   - "Bring a captured Zombie Dragon to poison them, then hold them down with !Control to watch them slowly bleed out. You monster."
   Bard`:
-  - "The Minstrel in Crescent Island will teach you the PowerSong/Sinewy Etude if you've hit seven pianos."
-  - "If you've hit all eight, you'll also get Hero Song/Hero's Rime."
+  - "The Minstrel in Crescent Island will teach you the Sinewy Etude if you've played seven pianos."
+  - "If you've played all eight, you'll also get Hero's Rime."
   Dancer:
-  - "Your Dancers (and Equip Ribbon-havers) will appreciate the Ribbon a girl in Regole will give you."
+  - "Dancers (and Equip Ribbon-havers) will appreciate the Ribbon that the girl in the Regole equipment shop will give you."
+  Freelancer:
+  - "Freelancers will appreciate the Ribbon that the girl in the Regole equipment shop will give you."

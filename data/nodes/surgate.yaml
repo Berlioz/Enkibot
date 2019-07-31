@@ -7,8 +7,9 @@ Surgate:
   Generic:
   - "You can visit Surgate Castle at this point, but most parties shouldn't bother."
   Bard:
-  - "Bards, however, can learn the incredible Swift Song at Surgate now."
+  - "Bards, however, can learn the incredible Swift Song from a book in King Xezat's bedroom."
   Time-Mage:
-  - "Time Mages can find the Float spell at Surgate, just in time for W2 Exdeath."
+  - "Time Mages can find the Float spell at Surgate, just in time for Exdeath."
+  - "Help the librarian reshelve the books, then follow them back and ultimately open a chest for Float."
   Dragoon:
-  - "The weapon shop here has a lance upgrade for you, for when the elemental lances you have don't work."
+  - "The Surgate weapon shop has Heavy Lances, for when the elemental lances you already have don't work."

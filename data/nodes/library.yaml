@@ -4,19 +4,20 @@ Library:
     previous-nodes: ['karnak_500']
   Generic:
     - "On the walk down, dodge the desert unless you want to fight the powerful Dhorme Chimera."
-    - "Remember that you can heal for free in the Library by drinking from the pot on the second floor."
+    - "You can heal for free in the Library by drinking from the pot on the left side of the second floor."
     - "Inside the library, remember that Page 32s can and will use Level 5 Death on any party members with a level divisible by 5."
   Blue-Mage:
     - "Blue Mages: you'll obviously have to grind to 15 or 20 to learn it for yourself, but make sure only one person is actually at that level for obvious reasons."
-    - "You can also learn Moon Flute in here from Page 256s, but all it does is berserk your party. Big whoop."
+    - "You can also learn Moon Flute in here from Page 256s, but all it does is berserk your party."
+    - "Page 32 casts Aera, if you missed it from Gigas in the Karnak 500."
   Chemist:
     - "The turtles infesting the grasslands around here drop Turtle Shells; you're gonna want to farm 99 of them for your Chemist."
-    - "I know it sucks, but drain kiss is really really really good and you can basically run from everything else for the rest of the game."
+    - "I know it sucks, but Drain Kiss is really really really good and you can basically run from everything else for the rest of the game."
   Thief:
     - "Page 256es are carrying a Ninja Suit as a steal, a pretty respectable piece of cloth armor."
     - "That said, you'll be able to just buy them not too long from now."
   Geomancer:
     - "Geomancers will often get the Will-o-Wisp spell here, so they're actually good."
   UNION Blue-Mage Beastmaster:
-    - "!Control will also let you learn Off-Guard from the same Page 256."
-    - "The same for the (extremely questionably useful) Transfusion spell from Mythril Dragons outside."
+    - "!Control will also let you learn (marginally useful) Off-Guard from the Page 256."
+    - "The same for the (useless) Transfusion spell from Mythril Dragons outside."

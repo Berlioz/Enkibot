@@ -3,14 +3,13 @@ Chocobo Forest:
     next-node: sandworm
     previous-nodes: ['after_fireship']
   Generic:
-    - "Comedy note: if you land the black chocobo in its home forest you have to catch it again."
-    - "Or you can just enter the forest, leave, and you'll be standing on the black chocobo."
-    - "Pop by Rikks/Lix village now that you have black chocobo flight."
-    - "The item vendor there sells at half-price to you, making it a good place to stock up on ethers and phoenix downs."
+    - "Comedy note: if you land the black chocobo in its home forest, the game makes you catch it again..."
+    - "...or you can just enter the forest, leave, and you'll be standing on it."
+    - "Pop by Lix in the north to buy half-price items, most importantly Ethers."
   Chemist:
-    - "Chemists should definitely spend their entire earthly fortune on ethers here. You'll miss them bitterly when you leave W1."
+    - "Chemists should definitely empty their wallet for  Ethers here. You'll miss them dearly when you leave W1."
   Ninja:
-    - "Ninjas will also appreciate buyable elemental scrolls and shuriken."
+    - "The weapon shop sells !Throw-able elemental scrolls for 200 gil each. Stock up."
   Bard:
-    - "Bartz's old home has Alluring Air/TemptSong, which influcts Confuse/Charm on all enemies."
-    - "What random encounters don't get punked by Romeo's Ballad will be trivialized by this."
+    - "Bartz's old home has Alluring Air, which inflicts Confuse on all enemies."
+    - "What few random encounters don't get punked by Romeo's Ballad are often trivialized by this."

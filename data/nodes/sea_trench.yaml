@@ -6,12 +6,14 @@ Deep Sea Trench:
     - omniscient
   Generic:
   - "It's pretty rare for any Fiesta party to care about the Deep Sea Trench. Consider skipping it."
+  - "That said, it's the only location to recharge your Magic Lamp."
+  UNION Oracle Cannoneer Gladiator:
+  - "It's also required to unlock Oracle, Cannoneer, and Gladiator."
   Bard:
-  - "Bard parties might appreciate it solely for the novelty of vaporizing its 100% undead inhabitants with Requiem."
-  - "Not a bad way to grind out XP/AP/gil, but you've got Bard. Why do you need to grind?"
+  - "Bard parties might appreciate the Trench solely for the novelty of vaporizing its 100% undead inhabitants with Requiem."
+  - "Not a bad way to grind out XP/AP/gil, but with Bard you don't need that much grinding."
   Monk:
   - "Monks can get the Kaiser Knuckles here, which turns their damage from pathetic to pretty bad."
-  - "It also locks them out of the Hermes Sandals."
-  - "hahaha"
+  - "It also competes for the accessory slot with Hermes Sandals, making it useless."
   Time-Mage:
-  - "Meteor is locked behind the Deep Sea Trench for your Time Mage, which is probably the only time I'd do it personally."
+  - "Meteor is locked behind the Deep Sea Trench, which makes it worth doing for Time Mages."

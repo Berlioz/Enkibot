@@ -3,35 +3,37 @@ Soulcannon:
     next-node: ronka
     previous-nodes: ['adamantoise']
   Blue-Mage:
-    - "The turrets you fight before SoulCannon can teach you Missile and Flamethrower/Burn Ray."
-    - "The latter is a very solid damage option with a Flame Rod equipped."
+    - "The turrets you fight before Soul Cannon can teach you Missile and Flamethrower."
+    - "The latter is exactly as powerful as Fira, so it's a very solid damage option with a Flame Rod equipped."
   Generic:
-    - "12500 HP; charges up and then casts Surge Beam (casts get faster after the first)"
-    - "Surge beam deals 50% of the party's max HP and inflicts HP Leak."
+    - "12500 HP, weak to lightning, charges up and then casts Wave Cannon (casts get faster after the first)"
+    - "Wave Cannon deals 50% of the party's max HP and inflicts HP Leak."
     - "The real danger is the Launchers: 2 of 'em, 800 effective HP, can inflict Old."
-    - "Try to kill the launchers fast with lightning damage to avoid having your whole party slowed into uselessness."
+    - "Try to kill the Launchers quickly to avoid having your whole party slowed into uselessness."
   Blue-Mage`:
-    - "the launchers are level 50 so you can just L5 death em lmao"
+    - "You can Level 5 Death the launchers."
   Break-Rods:
-    - "It'll take two rods (of any flavor) to kill the launchers, unless you've been grinding."
+    - "It'll take two rods (of any flavorm since they have no weakness) to kill the launchers, unless you've been grinding."
   Summoner:
     - "Or just cast Ramuh, whatever."
   Ninja:
     - "Thunder scrolls work especially well."
   White-Mage:
-    - "Parties with !white can get through this slowly by Esunaing the Olds and healing through Surge Beams."
-    - "Esuna will not heal the stat downs incurred while Old'd! Purge the status effect IMMEDIATELY."
-  NOT White-Mage:
-    - "If your offense is slow, you may as a last resort buy Angel Rings from Istory at 50k each; they prevent Old."
+    - "Parties with !White can get through this slowly by using Esuna to cure Old and healing after Wave Cannons."
+    - "Note that Esuna doesn't undo the level loss caused by Old! Cure the status effect ASAP to minimize the damage."
+  Knight:
+    - "Coral Swords hit Soul Cannon's Lightning weakness."
   Geomancer:
     - "All you'll get in this fight is Wind Slash! Awesome! ...except Soul Cannon and the Launchers are immune to wind."
+    - "Yes, Geomancers are completely useless here aside from knife/bell attacks."
   Time-Mage:
     - "Stop from a Time Mage will work on the Launchers, if for some reason you're allergic to rod abuse."
+    - "Soul Cannon itself is vulnerable to Slow."
   Bard:
-    - "This is a surprisngly funny fight for Bards, since they can Stop the Launchers all at once and Hide from the Surge Beams."
+    - "This is a surprisngly funny fight for Bards, since they can Romeo's Ballad lock the Launchers and Hide from the Wave Cannons."
   Beastmaster:
-    - "You may be able to rush the Soulcannon down with four Bearagas (~9k damage) plus some chip."
-    - "Alternate plan: you can Capture a Prototype and release it for ~1k all-target damage."
+    - "You may be able to rush the Soul Cannon down with four Bearagas (~9k damage) plus some chip."
+    - "Less good plan: Capture a Prototype and release it for ~1k all-target damage to deal with the Launchers as well."
     - "Prototype is vulnerable to !Control, but actually reducing it to 1/8 hp is an exercise for the reader."
   Generic`:
     - "All damage in this fight is % based, so armor does nothing. Consider unequipping it for speed."

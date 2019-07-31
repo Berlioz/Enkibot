@@ -3,37 +3,38 @@ The Karnak 500:
     next-node: library
     previous-nodes: ['liquiflame']
   Generic:
-    - "You have 10:00 to get as much loot out of the Karnak 500 as possible."
-    - "(Karnak 1000 just doesn't roll off the tongue as easily)"
-    - "Have your jobs and abilities set immediately after you kill liquiflame; the Karnak 500 continues ticking in menu."
-    - "It's best to look up a map if this is your first time. There's a decent one on GameFAQs."
-    - "If you're having trouble with the Sergeant + Kar Nakk encounter, kill the Sergeant to make the dogs run away."
+    - "You have 10:00 to get as much loot out of the Karnak 500 as possible. (Karnak 1000 just doesn't roll off the tongue as easily)"
+    - "Have your jobs and abilities set immediately after you kill Liquid Flame; the timer keeps ticking even in the menu."
+    - "It's best to look up a map if this is your first time. There's a decent one on GameFAQs: https://www.gamefaqs.com/ps/562810-final-fantasy-v/faqs/49618?raw=1 "
+    - "If you're having trouble with the Sergeant + Cur Nakk encounter, kill the Sergeant to make the dogs run away."
   INTERSECTION White-Mage Red-Mage:
-    - "Or you can Confuse the Sergeant before he transforms; this has the added benefit of stopping him from telling the dogs to attack."
+    - "Or you can Confuse the Sergeant, which stops him from telling the dogs to attack."
   Knight:
-    - "RUN RUN RUN run. No, the Brave Blade ain't worth it. Never take the Brave Blade."
+    - "RUN RUN RUN. No, the Brave Blade isn't worth it. Never take the Brave Blade."
+    - "You demolish chest enemies with Two-Handed attacks, if you have it."
   Thief:
-    - "If your offense is good, you can steal plenty of Elixirs from the Gigas enemies infesting this place."
-    - "You should common-steal some Mage Mashers from the Sorceror enemy in here."
+    - "If your offense is good, you can steal plenty of Elixirs from the Gigas enemies in every trapped chest."
+    - "Remember, you can Flee from trapped chests and re-open them again to steal again! This is your best use of any remaining time after you've beaten Iron Claw but before you leave the area."
+    - "You should also common-steal some Mage Mashers from the Sorcerers in chests here."
   Generic`:
-    - "Try and get the Elven Mantle and Main Gauche; those are the best unconditional loot in here."
+    - "Get the Elven Mantle and Main Gauche; those are the best unconditional loot in here."
   Dancer:
     - "There's also a Ribbon! Get the Ribbon! You'll need it for your Dancer! It's rad!"
   NOT Dancer:
-    - "You could let the Ribbon burn since you don't have a Dancer, but it's kind of bad form."
+    - "You could let the Ribbon burn since you don't have a Dancer, but it's bad form to not save the poor thing."
   Blue-Mage:
-    - "You can learn Aerora from the Gigases here for your Blue Mage, though it won't be too long until you can get it again."
+    - "You can learn Aera from the Gigases here for your Blue Mage, though it won't be too long until you can get it again."
     - "Since the Gigases are immune to Aero, Blue Mages can have serious damage problems here."
     - "It may be worth it to run straight to the exit for Death Claw, then run back to the trapped chests."
   INTERSECTION Black-Mage Red-Mage:
     - "You have the firepower (literally) to grab every chest with time to spare, if you want them."
     - "I like to farm up gil for a few rods off Wild Nakks before coming here, to extra-trivialize things."
   White-Mage:
-    - "White Mages should definitely not forget about the Esuna spell in a chest here; it'll be a while till you can rebuy it."
+    - "White Mages should definitely not forget about the Esuna spell in a chest here; it'll be a while until you can buy it."
   Generic``:
-    - "You'll have to kill Iron Claw, a miniboss with 900 HP and some adds, before you exit the castle."
+    - "You'll have to kill Iron Claw, a miniboss with 900 HP and some Cur Nakk friends, before you exit the castle."
   Blue-Mage`:
-    - "He can teach you Death Claw, and you'd be well advised to try and get it here. It's lovely against anything that's not Heavy."
-    - "Don't kill the sergeant before he transforms into Death Claw, if you do decide to do this."
+    - "He can teach you Death Claw, and this is the only spot to get it for a while. It's lovely against anything that's not Heavy."
+    - "Don't kill the sergeant before he transforms into Iron Claw if you want Death Claw."
   NOT Blue-Mage:
-    - "Don't bother fighting it out. You can prevent him from spawning simply by killing the two dogs, then punching the sergeant until he runs."
+    - "Don't bother fighting it out. You can prevent Iron Claw from spawning by leaving one Cur Nakk alive and then attacking the Sergeant to death."

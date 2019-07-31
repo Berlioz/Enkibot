@@ -5,37 +5,38 @@ Dragon Pod/Hiryuu Plant:
     previous-nodes:
     - val
   Generic:
-  - "12000 HP, summons 100 HP adds that inflict various status effects."
-  - "Most parties will either clear adds with heavy AoE, or abuse the plant's lack of Heavy."
-  - "Worst case scenario: the Bone Mail shuts down almost everything the plants and flowers have."
-  - "Only the second flower from the left inflicts an aliment (paralyze) that the Bone Mail doesn't nullify."
-  - "The flowers themselves have no status immunities, which is nice to know if you have to reply on the Bone Mail."
+  - "12000 HP, summons 100 HP Dragon Flower that inflict various status effects."
+  - "Most parties will either clear Flowers repeatedly with AoE or abuse the Pod's vulnerability to instant death."
+  - "Worst case scenario: the Bone Mail shuts down almost everything this fight can do."
+  - "Only the second Flower from the left inflicts an ailment that the Bone Mail doesn't nullify (paralyze)."
+  - "The Flowers themselves have no status immunities, which is nice to know if you have to rely on the Bone Mail."
   Monk:
-  - "This battle is probably the Monk's last gasp at viability: repeatedly clearing tiny adds is what they're best at."
+  - "This battle is probably the Monk's last gasp at viability: !Kick's time to shine is repeatedly clearing 100 HP idiots."
   INTERSECTION Black-Mage Summoner Ninja:
-  - "Any powerful target-all spells or scrolls will lock the plant into resummoning its adds."
+  - "Powerful target-all spells (or scrolls) will keep the Pod stuck resummoning its Flowers every turn."
   Blue-Mage:
   - "The plant isn't Heavy, so you can just end this fight with a Death Claw."
   Berserker:
-  - "If you can clear out the adds, your Berserker will eventually kill the plant with a Death Sickle."
+  - "If you can clear out the Flowers to keep them on-target, your Berserker will eventually kill the Pod with a Death Sickle."
   Beastmaster:
-  - "Aquathorns from the swamps around Val cast an instant death spell when !released, which will work."
-  - "It's only single-target, so kill the flowers manually first."
-  - "If you don't want to walk out, you can catch a Skelesaur right here in Drakenvale."
+  - "Aquathorn from the swamps around Bal casts an instant death spell when !Released. It's only single-target, so kill the flowers first."
+  - "If you don't want to walk out, you can instead !Catch a Skelesaur right here in Drakenvale."
   Mystic-Knight:
   - "Drain Sword bypasses the no-healing property of Bone Mail, allowing for an effortless Mystic Knight solo."
   Chemist:
-  - "You can hit the plant with a Death Potion (Dark Matter + Phoenix Down) for a 100% kill."
-  - "If the rest of your party is good, though, it's a waste of a dark matter."
+  - "Death Potion works on the Dragon Pod."
   Bard:
-  - "Bards can Stop all the flowers (and the central pod!) at once with !Sing."
-  Ranger:
-  - "The Killer bow works on the Dragon Pod, if you're willing to wait for its 8% death rate."
-  - "!Rapid-fire/!X-fight helps, if you have it."
+  - "Bards can Stop all the Flowers (and the central Pod!) at once with Romeo's Ballad."
+  INTERSECTION Ranger Freelancer:
+  - "The Killer Bow works on the Dragon Pod."
   Samurai:
-  - "!Iainuiki will cut the Dragon Pod right in half, if you have it."
-  - "If not, the Wind Slash katana from Drakenvale will clear the flowers every time Wind Slash triggers."
+  - "!Iainuki will cut the Dragon Pod right in half, if you have it."
+  - "If not, the Wind Slash katana will clear the Flowers every time its Wind Slash ability procs."
   Geomancer:
-  - "!Gaia is quite likely to use Earthquiake here, which will get rid of the flowers instantly."
-  INTERSECTION Red-Mage White-Mage:
+  - "!Gaia is quite likely to use Earthquake here, which will kill the Flowers."
+  UNION Red-Mage White-Mage:
   - "In extremis, you can neuter the paralyze flower by Confusing it."
+  Time-Mage:
+  - "The Pod isn't heavy, so Gravity works. You can also snap rods to clear the Flowers."
+  Red-Mage:
+  - "You can also snap rods to clear the Flowers."

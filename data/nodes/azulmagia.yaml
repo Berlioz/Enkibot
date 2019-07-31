@@ -6,13 +6,17 @@ Azulmagia/Apocalypse:
     - exdeaths_castle
   Generic:
   - "27900 HP, casts only !Blue spells."
-  - "Go in with an odd level not divisible by 5 (he doesn't know L3 Flare) to neuter his Level X spells."
-  - "Technically optional; all you get from him is a save point."
+  - "Go in with an odd level not divisible by 5 (don't worry about L3 Flare) to neuter the Level X spells."
+  - "Technically optional, since the fight reward is a save point."
   Break-Rods:
-  - "He's weak to poison, so you can just snap a ton of Venom Rods over his head and be done with it."
-  - "The Wonder Rod will also let you Reflect him if you have it, which is super funny when he Mighty Guards."
+  - "Azulmagia is weak to poison, so you can just snap a ton of Venom Rods and call it a day."
+  - "The Wonder Rod will also let you cast Reflect, which does good work against Mighty Guard."
+  Mystic-Knight:
+  - "Azulmagia is weak to poison, so Bio !Spellblade is the way to go."
   Blue-Mage:
-  - "Your Blue Mage can actually 'teach' him a few spells, causing him to try it out on you."
-  - "You can teach him Exploder ahahahahahah i'm serious do it."
-  - "But first, check if there's any good !Blue spells he uses that you missed; you can learn them here."
-  - "If your party is divisible by level 3, you have Reflect Rings, and you want an even funnier kill than Exploder, teach him Level 3 Flare."
+  - "Your Blue Mage can actually 'teach' Azulmagia new !Blue spells, which will then get tested on you."
+  - "You can teach Self-Destruct to end the fight in one round."
+  - "But first, check whether you're missing any good !Blue spells you can learn here."
+  - "If your party is divisible by level 3, you have Reflect Rings, and you want an even funnier kill, try teaching Level 3 Flare."
+  Beastmaster:
+  - "Yep, Great Dragon."

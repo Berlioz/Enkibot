@@ -22,7 +22,12 @@ class Generator
     "Samurai" => "SAM",
     "Dragoon" => "DRG",
     "Dancer" => "DNC",
-    "Chemist" => "CHM"
+    "Chemist" => "CHM",
+    "Freelancer" => "FRE",
+    "Mime" => "MIM"
+    "Cannoneer" => "CAN",
+    "Gladiator" => "GLD",
+    "Oracle" => "ORC"
   }
 
   def initialize(jobs)

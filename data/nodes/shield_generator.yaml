@@ -12,12 +12,13 @@ Shield Generator/Barrier Tower:
   - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka."
   Knight:
   - "Knights can obtain the Blood Sword here, a weapon which drains HP from its target."
-  - "Note that it's nearly useless since it only has 25% Accuracy, AND is treated like a magic spell for Multipler calculations."
+  - "Note that it's nearly useless since it only has 25% Accuracy, AND is treated like a magic spell in damage calculations."
   Thief:
-  - "Thieves can get an invaluable Flame Ring from the Red Dragons in trapped chests."
-  - "You can flee from a monster-in-a-box to reset the encounter if your steal fails."
+  - "Thieves can steal a Flame Ring from the Red Dragons in the Gold Hairpin and Blood Sword chests."
+  - "Remember, you can flee from a monster-in-a-box to reset the encounter if your steal fails."
   - "...or if you're a nutter and want 4 of them."
-  - "...or as many as you want to sell for gil while grinding out flees for the Chicken Knife."
+  - "...or if you want even more to sell for gil, all while grinding out escapes for the Chicken Knife."
   Generic`:
-  - "Most importantly, farm Reflect Knights for their Reflect Ring drop here."
+  - "Most importantly, farm Reflect Knights for their Reflect Ring drops here."
   - "Unless you have a way to cheese him entirely, you'll need them for World 2 Exdeath."
+  - "The best place to farm them is outside between floors 5 and 6, but if you need to return to the sub to heal frequently the balcony between 3 and 4 is pretty good too."

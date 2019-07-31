@@ -3,35 +3,39 @@ ArchaeoAvis:
     next-node: purobolos
     previous-nodes: ['ronka']
   Generic:
-    - "Has 5 forms with their own HP pool but shared MP pool."
-    - "F1: 1600 HP, weak to wind, high physical defense, inflicts Sap."
-    - "F2: 1600 HP, absorbs ice, not Heavy, inflicts poison."
-    - "F3: 1600 HP, absorbs fire, inflicts blind."
-    - "F4: 1600 HP, absorbs lightning, not Heavy, inflicts paralysis."
-    - "F5: 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm."
+    - "Has 5 forms with their own HP pool but a shared MP pool."
+    - "The forms have steadily decreasing physical defense and steadily increasing magic defense."
+    - "Form 1: 1600 HP, weak to wind, high physical defense, inflicts Sap."
+    - "Form 2: 1600 HP, absorbs ice, not Heavy, inflicts poison."
+    - "Form 3: 1600 HP, absorbs fire, inflicts blind."
+    - "Form 4: 1600 HP, absorbs lightning, not Heavy, inflicts paralysis."
+    - "Form 5: 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm."
     - "Magic-heavy teams may have to knife the last form to death painfully and slowly."
-  Berserker:
-    - "Since berserker axes mostly ignore defense, they can reliably damage all five forms."
   Ninja:
-    - "Water Scrolls are solid offense against the first four forms; he'll never absorb Water."
+    - "Water Scrolls are solid offense against the first four forms, since none absorb Water."
   Monk:
-    - "If you can kill a form with a Monk's Counter, it skips the trigger that causes the next form to spawn."
+    - "If you kill any form with Counter, it will skip the trigger that causes the next form to spawn and end the fight immediately."
+  Pierce-Def:
+    - "Being able to pierce defense, whether with critical hits or axes, can reliably damage all five forms."
   Time-Mage:
-    - "You can land Slows on problem forms, if you feel like it."
-    - "Gravity will work on forms 2 and 4."
+    - "You can land Slow on every form, if you feel like it."
+    - "Gravity works on forms 2 and 4."
+  Mystic-Knight:
+    - "Don't forget that you can disenchant your Spellblade by moving your sword around in the Item menu."
+    - "For fewest disenchants, use Thundara until form 4."
   Blue-Mage:
-    - "Aerora the first form to death."
-    - "You can L5 Death the last form and the last form only, but that's the hard one anyway."
-    - "Hint: Death Claw will land on forms 2 and 4, so you only have to have an answer for F3."
-    - "(by the way, the answer is 2x dark spark + l5 death)"
-    - "God, blue mage is broken."
+    - "The first form is weak to Aerora."
+    - "Death Claw works on forms 2 and 4."
+    - "Form 3 dies to 2x Dark Spark -> Level 5 Death, if you want, or Aerora it for mediocre damage."
+    - "The last form dies instantly to Level 5 Death."
+    - "Wow, blue mage is broken."
   Geomancer:
-    - "The first form is, like, geomancer's one time to shine. Go for it!!!"
+    - "The first form is Geomancer's finest hour, thanks to !Gaia hitting its Wind weakness."
+    - "The next few take substantial damage from !Gaia as well, until its magic defense builds up."
   Summoner:
     - "Chocobo, your time is now! (It does physical damage and therefore will work on form 5)."
-    - "Unless you're on iOS hahaha fuck you they 'fixed' that."
+    - "Unless you're on mobile, where they 'fixed' that."
   Beastmaster:
-    - "You can use Bearagas on the first and last form, which can otherwise give beastmaster parties trouble."
-    - "If you don't have Sand Bears stocked, the Ronka Knights in here still !release for ~1500."
-  UNION Beastmaster Monk:
-    - "...which brings a form just low enough for Monks to easily counter-kill."
+    - "!Catch an Aegir outside Karnak before coming in here, then !Release a Ronkan Knight from in here, then !Release the Aegir."
+    - "The Knight attacks for ~1560, then the Aegir inflicts Sap that will kill form 1, bypassing its counter script and ending the fight."
+    - "Be sure not to do anything else, because you want to guarantee it dies to Sap."

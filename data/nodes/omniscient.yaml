@@ -5,31 +5,36 @@ Minotauros + Omniscient:
     previous-nodes:
     - fork_tower
   Generic:
-  - Dual boss; you have to split up your parties for this.
-  - Minotaur is easy even for mages. Just whittle him down with Chicken Knife and potions.
-  - Just don't be afraid to back off on dps, since he counters with more physical attacks.
-  - Omniscient Resets if a physical command is used on him, unless silenced or berserked.
-  - SILENCE AND BERSERK DO NOT WORK IN THE STEAM/MOBILE VERSION DO NOT BLAME ME IF YOU DO NOT READ THIS
-  - His entire offense is neutralized by Reflect Rings, but you still need a way to kill him.
+  - "Dual boss; you have to split up your parties for this."
+  - "Minotaur is easy even for mages. Just whittle him down with Chicken Knife and potions."
+  - "Don't be afraid to back off on dps, since Minotaur counters with more physical attacks."
+  - "Don't enter the pause menu between Minotaur and Omniscient, because you WILL get a game over and you WILL feel stupid."
+  - "Omniscient Resets if any non-Magic (!White, !Black, !Time, !Blue, !Summon, !Dualcast) command is used on him, unless he is Silenced or Berserked."
+  - "SILENCE AND BERSERK DO NOT WORK IN THE MOBILE VERSION! DO NOT BLAME ME IF YOU DO NOT READ THIS!"
+  - "Omniscient's entire offense is neutralized by Reflect Rings, but you still need a way to kill him."
   White-Mage:
-  - White Mages can simply land Berserk on him and then spam Blink.
-  - The latter bit is important, he hits like a freight train loaded with bricks.
+  - "White Mages can Berserk on him and then spam Blink and attack him to death."
+  - "The Blink part is important. Omniscient is evidently very muscular under that rug."
   Geomancer:
-  - http://i.imgur.com/JkwTg5O.png
+  - "http://i.imgur.com/JkwTg5O.png"
   Chemist:
-  - Offensive mixes will cause Omniscient to reset the battle.
-  - That said, you can just berserk + blind him trivially.
+  - "Offensive !Mixes do cause Omniscient to reset the battle."
+  - "That said, you can just Berserk him first, then blind him and !Mix to your heart's content."
   Mystic-Knight:
-  - Silence Blade is hilariously effective.
+  - "Silence Blade is hilariously effective."
+  INTERSECTION Mime Freelancer:
+  - "Even if you have no mages, you have the Power Staff for Berserk access.
+  - "Just prepare to throw LOTS of Phoenix Downs before you beat Omniscient to death."
   Break-Rods:
-  - SNAPPING RODS COUNTS AS A PHYSICAL ATTACK (somehow).
+  - "SNAPPING RODS COUNTS AS A PHYSICAL ATTACK (somehow)."
+  - "...except on mobile, where !Item is not forbidden."
   Generic`:
-  - The Magic Lamp is, unfortunately, a physical attack.
-  - Failing any other way to do this, there are three general strategies.
-  - 1) With Reflect Ring+Mage Masher reflect Silence onto Omniscient by attacking yourself.
-  - 2) With a Reflect Ring+Bone Mail, just wait for him to impale himself on yourself.
-  - 3) With a Reflect Ring, wait out his 30,000 MP. This may happen before (2) does.
-  - ps if you do this route, mage masher him then hit him with an ether to overflow his mp straight down to 9999.
-  - All of these options are Super Bullshit 64 and you should seriously consider if you need to do Fork Tower at all.
-  - Also, none of them work on the mobile or Steam releases.
-  - Those versions *do* allow rod breaking and lamp use.
+  - "Except on mobile, the Magic Lamp will provokes Return as well."
+  - "Failing any other way to do this, there are three general strategies."
+  - "1) With a Reflect Ring+Mage Masher, reflect a Silence proc onto Omniscient by attacking yourself, then quickly attack him before it wears off."
+  - "2) With a Reflect Ring+Bone Mail, just wait for him to impale himself on yourself. Drain does a lot of heavy lifting here."
+  - "3) With a Reflect Ring, wait out his 30,000 MP. This may happen before (2) does."
+  - "3.1) if you do this, you can reflect a Mage Masher proc onto him and use an Ether on him to overflow his mp down to 9999."
+  - "All of these options suck and if they are your best options, you probably don't need to do Fork Tower."
+  - "...unless you need to unlock Oracle, Gladiator, or Cannoneer, in which case, you have my sympathies."
+  - "Also, none of these options work on the mobile or Steam releases, where your best option is using the Magic Lamp all the way through, combined with the Reflect Ring + Bone Mail damage strats."
