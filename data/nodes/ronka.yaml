@@ -4,18 +4,22 @@ Ronka Ruins:
     previous-nodes: ['soulcannon']
   Generic:
     - "Don't hit the speed trap!"
-  Knight:
-    - "The Ancient Sword in Ronka is both a great Knight weapon and a way to inflict Old."
+  INTERSECTION Knight Red-Mage Mystic Knight Gladiator
+    - "The Ancient Sword in a chest here is a way to inflict Old, which can come in handy for some bosses."
   UNION Dancer Thief:
-    - "Dance + Thief parties should steal a Lamia's Tiara from Lamias here, which boosts Sword Dance's proc rate."
+    - "Dancer + Thief parties should steal a Lamia's Tiara from Lamias here, which boosts Sword Dance's proc rate."
+    - "You won't wear it forever, because Ribbons and Rainbow Dresses both exist, but it has its uses for pure DPS races in the meantime."
   Blue-Mage:
-    - "If you missed it, the Enchanted Fan can teach you Aera."
+    - "If you missed it in Karnak, the Enchanted Fan can teach you Aera."
   UNION Beastmaster Blue-Mage:
-    - "A !Controlled enchanted fan will also teach you White Wind, which is KIND OF A BIG DEAL."
-    - "You can also learn 1000 Needles from !Controlled Lamias, which is pretty handy now or then."
+    - "A !Controlled Enchanted Fan can also teach you White Wind, which is KIND OF A BIG DEAL."
+    - "You can also learn 1000 Needles from !Controlled Lamias, which is pretty handy for a few fights coming up."
   UNION Blue-Mage White-Mage:
-    - "You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad."
+    - "You can Confuse an Enchanted Fan to learn White Wind, which you really should since it's rad."
   UNION Blue-Mage Red-Mage:
-    - "You can Confuse an enchanted fan to learn White Wind, which you really should since it's rad."
+    - "You can Confuse an Enchanted Fan to learn White Wind, which you really should since it's rad."
   Blue-Mage`:
     - "Frankly it's a pain in the ass, but you can hunt down the Ghidra to learn L4 Graviga at this point too."
+    - "On GBA, you can quicksave to get the rare Ghidra encounter easily."
+  Thief:
+    - "Enjoy the brief moment of Find Passages being a relevant ability. It won't happen again for a while."
