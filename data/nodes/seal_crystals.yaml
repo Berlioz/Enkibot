@@ -5,29 +5,39 @@ Seal Crystals:
     previous-nodes:
     - moore
   Generic:
-  - "7777 HP each, not Heavy, virtually immune to %M-EVD subject spells."
-  - "Each crystal casts a spell at <3000 HP: top Fire3, left Aero3, bottom Earthshaker, right Aqua Rake."
-  - "Each crystal also absorbs attacks of its element, and nulls attacks that are of the four elements not mentioned here"
-  - "In general, avoid all-target attacks unless you think you can end the fight in one cycle of casts (cough giltoss)."
-  Heavyscammer:
-  - "None of these are immune to instant death. Your party can simply pick off one at a time that way."
-  Generic`:
-  - "Parties with reasonable offenses can simply get a crystal close to 3000 HP and try to kill it quickly."
+  - "7777 HP each, not Heavy, 20% magic evasion and level 77 to make it difficult to hit with inaccurate spells."
+  - "Each Crystal switches from attacking to casting a spell at 3000 HP remaining: top Firaga, left Aeroga, bottom Earth Shaker, right Aqua Breath."
+  - "Each Crystal also absorbs attacks of its element, and all four nullify Ice/Lightning/Holy/Poison."
+  - "In general, avoid all-target attacks unless you think you can end the fight in one cycle."
+  - "Parties with reasonable offenses can simply get a Crystal close to 3000 HP and try to kill it quickly."
+  - "If you can (and aren't on mobile), put Bone Mail on Galuf to save yourself some time in the next fight."
   Blue-Mage:
-  - "Death Claw, while not very likely to land, can essentially kill a Crystal as long as you poke it right after."
+  - "Death Claw, when it gets through their magic evasion, kills a Crystal (as long as you poke it immediately afterwards)."
+  - "While the Crystals can be blinded, that's probably not the best use of your time."
   Berserker:
-  - "Death Sickles will eventually work, though watch out for the berserker failing to kill enough times that the crystal rampages."
-  - "Consider using the Tiny Mages outside to Mini your Berserker; the Death effect can still work."
+  - "Death Sickle procs will  work, though watch out for dealing too much damage if you don't get procs early."
+  - "Consider using the Mini Magicians outside to Mini your Berserker; the Death effect will still work."
   White-Mage:
-  - "Shelling the party gives you a lot more room to work with here, as a White Mage."
+  - "Shell means you have a lot less to worry about from the spellcasting phase."
+  Samurai:
+  - "The Crystals have 10 defense, but that's not enough to protect them from !Zeninage."
+  Mystic-Knight:
+  - "The Crystals are NOT vulnerable to Break. Sorry, you don't have Death !Spellblade yet."
+  Chemist:
+  - "Death Potion works on the Crystals. This is why you probably farmed Prototypes in World 1."
+  Bard:
+  - "Swift Song will eventually make a noticeable difference in a damage race against a spellcasting Crystal."
+  Beastmaster:
+  - "Sandcrawlers from the desert outside Moogle Village !Release to cast Maelstrom, which has a 40.8% chance of putting each Crystal down to single-digit HP."
+  - "Obviously, don't release one until you're prepared to follow up with pokes to finish the vulnerable Crystals off."
   Time-Mage:
-  - "While they're high level and have some amount of Magic Evade, they ARE Graviga-able."
-  - "Get !Time on everyone, have one person attempt Graviga, and if it connects, everyone else spams Comet. If not, they just defend."
-  - "You need to be fast on the hop after Graviga connects, though, because it sends them right into the panic zone."
-  Ranger:
-  - "Their level and M-Ev% doesn't do anything to protect them from Killer Bows."
-  Generic``:
-  - "Extremely low-offense parties can equip Flame Rings from Istory back in W1, if they planned ahead for it."
-  - "Being able to absorb the top crystal's Fire3 allows you to pick off individual crystals without worrying about healing."
-  - "You can also get fire absorb by letting the Aegis shield burn, if you forgot to get Fire Rings or are otherwise an idiot."
-  - "Seriously, don't do it."
+  - "While the Crystals are high level and have some amount of Magic Evade, they ARE vulnerable to Gravity spells."
+  - "Gravity deals low enough damage to not knock the Crystal into spellcasting phase, so the correct order is Gravity -> Graviga -> Comet."
+  - "You can spend 'extra' turns trying to land the initial Gravity on the other Crystals while you wait for Graviga to hit, as long as you're always prepared to Comet immediately afterwards."
+  - "The Crystals are also vulnerable to Slow, to make this tactic even safer."
+  UNION Ranger Freelancer:
+  - "High level and magic evasion doesn't do anything to stop Killer Bow procs."
+  - "Don't bother blinding the Crystals with a Dark Bow, that's wasted turns that could have been Killer Bow attacks."
+  - "If you find you're pushing the Crystals into casting range fishing for Killer Bow procs, let a Mini Magician outside make you Mini first."
+  Generic`:
+  - "If you did put Bone Mail on Galuf, have him use a Phoenix Down on himself against Exdeath."
