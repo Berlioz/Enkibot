@@ -4,7 +4,7 @@ Ronka Ruins:
     previous-nodes: ['soulcannon']
   Generic:
     - "Don't hit the speed trap!"
-  INTERSECTION Knight Red-Mage Mystic Knight Gladiator
+  INTERSECTION Knight Red-Mage Mystic Knight Gladiator:
     - "The Ancient Sword in a chest here is a way to inflict Old, which can come in handy for some bosses."
   UNION Dancer Thief:
     - "Dancer + Thief parties should steal a Lamia's Tiara from Lamias here, which boosts Sword Dance's proc rate."
