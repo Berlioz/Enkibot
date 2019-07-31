@@ -105,3 +105,10 @@ Jobs:
     - Staff
     - Shield
     - Break-Rods
+  Cannoneer:
+    - Shield
+    - Crown
+  Gladiator:
+    - Shield
+  Oracle:
+    - Staff
