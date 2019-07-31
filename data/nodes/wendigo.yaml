@@ -20,7 +20,7 @@ Stoker/Wendigo:
   - "Despite Wendigo's vulnerability to Sleep, its immunity to Old means that Time Slip won't work."
   INTERSECTION Red-Mage Black-Mage Mystic-Knight:
   - "Wendigo is vulnerable to Sleep. If it's asleep, it can't move."
-  Time-Mage 
+  Time-Mage:
   - "Wendigo is vulnerable to Slow."
   Ranger:
   - "!Rapid Fire isn't technically multi-target. You're good."
