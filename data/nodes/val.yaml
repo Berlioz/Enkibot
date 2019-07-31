@@ -5,22 +5,25 @@ Val/Drakenvale:
     previous-nodes:
     - lugor
   Generic:
-  - "Let's get this out of the way. Objets d'Art in the basement of Val Castle drop very little XP, but lots of gil and AP."
-  - "They can be instantly killed by the gold needle item."
+  - "Let's get this out of the way. Objets d'Art in the basement of Bal Castle drop very little XP, but lots of gil and ABP."
+  - "They can be instantly killed by using a Gold Needle on them, and they're also weak to lightning."
   Blue-Mage:
   - "Blue Mages can simply vaporize them with Level 5 Death, which makes grinding much less tedious."
   Ninja:
-  - "Thunder Scrolls are quite effective."
+  - "Thunder Scrolls are effective enough to be faster than Gold Needles."
+  Summoner:
+  - "Boosted Ramuh is effective enough to be faster than Gold Needles."
   Thief:
   - "Thieves can rarely steal Twin Lances from them, which is the best weapon they'll get for a long time."
   Chemist:
-  - "Chemists are the only class that can equip the hidden Angel Robe in Val Castle."
+  - "Chemists are the only class that can equip the hidden Angel Robe above the item shop in Bal Castle."
   Time-Mage:
-  - "Time Mages should get the Teleport spell in Val Castle; it's the only source of it in the game."
+  - "Time Mages should get the Teleport spell in the 'hidden' chest just south of the visible chest in Bal Castle's throne room."
   INTERSECTION Knight Mystic-Knight:
-  - "The Great Sword in the moat of Val Castle is the best sword you're gonna get for quite a while."
+  - "The hidden Great Sword in the moat of Bal Castle (right side dead end, bottom corner, face right and press A) is the best sword you're gonna get for quite a while, and free to boot."
   Bard:
-  - "You can pick up Requiem in Quelb, which damages undead monsters. Quite handy for the next area and many to come."
+  - "You can pick up Requiem in Quelb from the werewolves running in a circle in the top-right."
+  - "Requiem deals massive damage to undead monsters. Quite handy for the next area and many to come."
   Generic`:
   - "Drakenvale itself has some fantastic loot."
   - "The Dragon Zombies here are tough, but can be easily defeated by Phoenix Downs or other anti-undead measures."
@@ -29,17 +32,17 @@ Val/Drakenvale:
   - "Dragon Fangs are also invaluable for endgame Chemist shenanigans; you'll want to grind a few of them."
   - "If you plan on killing Omega with your solo chemist, you'll want 40+."
   Beastmaster:
-  - "Beastmasters should make sure they get the Coronet here, which doubles the success rate of !Control."
+  - "Beastmasters should make sure they get the Hypno Crown here, which doubles the success rate of !Control."
   Summoner:
-  - "Later in the area you'll find Golem being harrassed by undead monsters. Save him and get the summon, it's invaluable."
+  - "Later in the area you'll find Golem being harassed by undead dragons. Save him and you'll earn his useful summon."
   Generic``:
-  - "The big prize is the Bonemail, which you can find on a skeleton near the top of Drakenvale."
+  - "The big prize is the Bone Mail, which you can find hidden on a skeleton near the top of Drakenvale."
   - "It's a medium armor with sky-high physical defense and immunity to death, poison, old, charm, and berserk."
-  - "It also makes most healing magic hurt (though instant death effects like Doom, Death Sickle procs, etc will now full heal you.)"
-  - "You can also get around this with elemental absorb: flame rings are particularily good since Bonemail also confers fire weakness."
+  - "It also makes most healing magic hurt (though instant death effects will now full heal you.)"
+  - "You can also get around this with elemental absorb: Flame Rings are particularily good since Bone Mail also gives a fire weakness."
   Blue-Mage`:
-  - "The Blue Mage's White Wind spell can still heal Bonemail wearers, because !Blue wasn't good enough."
+  - "The Blue Mage's White Wind spell can still heal Bone Mail wearers, because !Blue wasn't good enough."
   Mystic-Knight:
-  - "Bonemail is particularily disgusting on a Mystic Knight with Drain Sword, which still works."
+  - "Bone Mail is particularly disgusting on a Mystic Knight with Drain Sword, which still works."
   Generic```:
-  - "Bonemail is otherwise best against random encounters, bosses that mostly attack physically, or bosses that mostly use status spells."
+  - "Bone Mail is best against random encounters, bosses that mostly attack physically, or bosses that mostly use status spells."
