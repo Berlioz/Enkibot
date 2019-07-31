@@ -3,18 +3,18 @@ Magissa + Forza:
     next-node: walse_tower
     previous-nodes: ['north_mountain']
   Generic:
-    - "650 HP; alternates between black magic and drain/fight. Summons Forza at 300 HP."
+    - "650 HP; alternates between black magic and Drain/Fight. Summons Forza at 300 HP."
     - "Forza has 850 HP and can easily one-shot a squishy character in the front row."
   White-Mage:
-    - "It's technically quite easy to sandbag your way through Magissa's 200 MP before she summons Forza, if you have !White."
-    - "Or you could Silence her and not care about her MP. And also use Protect on everyone before Forza arrives."
+    - "It's possible to sandbag your way through Magissa's 200 MP before she summons Forza, if you have !White."
+    - "Or you could Silence her, refresh it periodically, and not care about her MP. And also cast Protect on everyone before Forza arrives."
   Thief:
-    - "Just bring a lot of potions if you have 4 thieves. There's no real way to finesse this fight."
-    - "If you're really in trouble, grind to level 16. With 4 Daggers, you can bring Magissa from 320 to dead in one set of !Fights."
+    - "Just bring a lot of potions if you have 4 TThieves. There's no real way to finesse this fight."
+    - "If you're really in trouble, grind to level 16. With 4 Daggers, you can bring Magissa from 320 to dead (and skip Forza) in one set of !Fights."
   INTERSECTION Black-Mage Blue-Mage:
-    - "You can snap the Frost Rod from Kerwin here for dumb amounts of damage; pushing Magissa from 300-0 like that skips Forza."
+    - "You can snap the Frost Rod from Carwen here for dumb amounts of damage; pushing Magissa from 300-0 like that skips Forza."
   Blue-Mage:
-    - "If you're not going to abuse rod snapping, your Blue Mage can blind Forza if you bothered to learn Flash."
+    - "If you're not going to abuse rod snapping, your Blue Mage can blind Forza with Flash."
   Black-Mage:
     - "If you're not going to abuse rod snapping, you can also just Sleep Forza and unload on Magissa."
     - "Spells won't wake Forza up so he'll fall easily enough as well."
