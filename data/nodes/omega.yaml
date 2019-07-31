@@ -5,50 +5,54 @@ Omega:
     previous-nodes:
     - calofisteri
   Generic:
-  - "Optional superboss; there is no reason other than bragging rights to try this."
+  - "Optional superboss; there is no reason other than bragging rights (and a shiny circle on your Fiesta page) to try this."
   - "To pull this off at a sane level, you need both a way to neuter his offense and a way to actually hurt him."
+  - "Without cheese but with good sandbagging classes like WHM or BLU, you can try to fight it out normally...."
+  - "...but many parties don't even have a way to damage Omega through its 190 defense, 150 magic defense, Reflect, Shell, 7 elemental absorbs, 95% physical evasion, and 90% magic evasion."
   Bard:
-  - "Omega is vulnerable to being stopped by the Bard's Love Song."
-  - "Two hasted bards can keep him locked while a third sings your speed up to 99."
+  - "Omega is vulnerable to being stopped by Romeo's Ballad."
+  - "On SNES and GBA, two hasted Bards can keep a full lock going while a third sings your speed up to 99."
+  - "After maximizing speed, one Bard can keep lockdown going while the other two sing Hero's Rime and your stat buff song of choice."
+  - "Then attack without fear of counterattacks."
   Beastmaster:
-  - "Omega is vulnerable to being stopped by a Beastmaster's !Calm ability."
-  - "Three hasted beastmasters can keep him locked while your fourth party member attacks."
+  - "On GBA, Omega is vulnerable to being stopped by !Calm."
+  - "Three hasted Beastmasters can keep a full lock going while your fourth party member attacks without fear of counterattacks."
   Time-Mage:
-  - "Time Mages can use Quick+Venom Rod snap to kill Omega very, very slowly."
-  - "Please don't attempt this on an actual physical SNES/GBA/iDevice."
+  - "Time Mages can use the 'quickleak' technique (Quick+use Venom Rod+sit there with second action prompt up) to kill Omega very, very slowly."
+  - "Since this takes a few real-life hours, you may not want to attempt this on an actual physical SNES/GBA/iDevice."
   Chemist:
-  - "Chemists can go invulnerable to every single one of Omega's attacks."
-  - "see: http://www.sullla.com/FF/omegashinryuu.html"
-  Generic`:
-  - "Without cheese but with good sandbagging classes like WHM or BLU, you can try to fight it out normally."
-  - "That said, many parties won't even have a way to damage him through 190 defense and elemental absorbs (or his 95% physical evasion)."
-  INTERSECTION Monk Samurai:
-  - "Barehand and katana criticals ignore physical defense."
-  Berserker:
-  - "Axes quarter enemy defense, making it possible to hurt Omega with any strong axe."
+  - "Chemists can pretty much make themselves invulnerable to every single one of Omega's attacks."
+  - "That's not literally true. You can still die to two Wave Cannons in a row without getting a turn to heal in between. But only that."
+  - "See, for example, sullla's solo Chemist: http://www.sullla.com/FF/omegashinryuu.html"
+  - "Hint: !Mixing five Turtle Soups decreases Omega's defense and magic defense to 1."
+  Pierce-Def:
+  - "Piercing defense is a start - criticals and axes are okay starting ideas if there's no better plan."
   Black-Mage:
-  - "Black Mages can reflect a Thundaga off friendlies to beat Omega's innate reflect."
-  - "This doesn't trigger Omega's brutal counter script, making Black Mage one of the only choices for winning a straight up fight."
+  - "Black Mages can reflect a Thundaga off allies to bypass Omega's innate Reflect."
+  - "On SNES and GBA, reflecting off 3 allies and hitting the fourth (ideally someone with Diamond armor access to weaken the blow) won't trigger Omega's brutal counters."
   Blue-Mage:
-  - "Blue Mages can chip Omega down with Thousand Needles. 1000 HP at a time."
+  - "Blue Mages can chip Omega down with Thousand Needles."
+  - "This mostly sucks, but you've got Mighty Guard and White Wind to keep yourself in the fight, so it's still technically doable."
   Time-Mage`:
   - "Meteor and Comet deal unaspected damage and ignore reflects."
-  - "Unless they roll fantastically high, however, they'll get completely nullified by his sky-high MDefense."
+  - "...Unless they roll fantastically high, however, they'll get completely nullified by Omega's sky-high MDefense."
+  - "Quickleaking is really it for Time Mage without other class friends."
   Mystic-Knight:
   - "Thundaga Sword will do 9999 damage to Omega."
-  Chemist:
-  - "Chemists can mix a Split Shell/Turtle Soup to decrease Omega's defense and magic defense."
   Ranger:
-  - "The Ranger's X-Fight/Rapidfire ability ignores physical defense and is guaranteed to hit."
-  - "It'll provoke two sets of counter-attacks, though!"
+  - "While !Rapid Fire ignores defense and never misses, it also provokes TWO counterattacks."
   Dragoon:
   - "Dragoons can chip away with the Trident, a spear that does lightning damage."
+  - "Even with !Jump, this will take ages. Consider not doing it."
   Summoner:
   - "Summoners can penetrate Omega's defenses with either Ramuh or Odin."
   - "Odin will deal superior damage unless you can Dispel the auto-shell on Omega."
   Beastmaster:
   - "Beastmasters can release Yellow Dragons for 9999 each."
-  INTERSECTION Knight Red-Mage:
-  - "Anyone who can use a sword can...technically damage Omega with the Coral Sword."
-  Generic``:
-  - "You could, in theory, Berserk someone with the Chicken Knife to just *barely* deal damage, but you'll die of old age before Omega kicks the bucket, even if you could deal with the counters."
+  INTERSECTION Knight Red-Mage Gladiator: 
+  - "Anyone who can use a sword can... technically damage Omega with the Coral Sword."
+  - "And no, even a Gladiator doesn't want to. One less attack power than the Trident, and no !Jump to double it."
+  Cannoneer:
+  - "You can inflict Slow on Omega with the awesome power of your cannon."
+  - "...also, Needle Cannon doesn't provoke counterattacks, so kill Omega 3000 damage at a time."
+  
