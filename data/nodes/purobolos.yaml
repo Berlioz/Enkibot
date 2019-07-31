@@ -3,31 +3,39 @@ Purobolos:
     next-node: titan
     previous-nodes: ['archaeoavis']
   Generic:
-    - "1500 HP, cast Exploder when low, will cast Life2 to revive other puroboloses when killed."
-    - "Easiest way to handle this is brute force with powerful AOEs to kill them all at once."
+    - "1500 HP, 1/3 chance to cast Self-Destruct rather than fighting every third round, each casts Arise to revive the other five when killed."
+    - "The easiest way to handle this is brute force with powerful AOEs to kill them all at once."
   Break-Rods:
     - "Yup, that means rods."
   NOT Break-Rods:
-    - "Otherwise, whittle them down one-by-one to make them Explode; they won't Life2 when they do this."
+    - "Otherwise, whittle them down one-by-one to make them Self-Destruct; they won't cast Arise when they do this."
   Blue-Mage:
-    - "If you don't want to just spam rods, Aqua Rake works pretty great here too."
-    - "So does Death Claw, which will make all their explosions do single-digit damage."
+    - "If you don't want to just spam rods, Aqua Breath works pretty great here too."
+    - "Alternatively, you can Death Claw them all and then target-all with Aera."
   Samurai:
-    - "Just kill them all with one gil tosses, though that's expensive. Maybe do something else if you have the option."
+    - "!Zeninage will get the job done, albeit at a high gil cost because there are six targets."
   Ninja:
-    - "Spamming a few scrolls on them, especially with a mage subability, will make quick work this fight."
+    - "!Throwing scrolls, especially if you have a magic ability to equip, will make quick work of them."
+  Summoner:
+    - "They look like they're Floating, but they're not. Titan away!"
   Beastmaster:
-    - "Beastmasters have it super-easy here: they can just !Control the bombs and have them Exploder each other."
+    - "Beastmasters have it super-easy here: they can just !Control the bombs and have them Self-Destruct on each other."
     - "Or if that takes two long, !Releasing two Prototypes will end the fight instantly."
   White-Mage:
-    - "A Silenced Purobolos will not cast Life2 upon death."
+    - "A Silenced Purobolos will not cast Arise upon death."
   Mystic-Knight:
-    - "A Silence Bladed Purobolos will not cast Life2 upon death."
+    - "A Silence Bladed Purobolos will not cast Arise upon death."
   Time-Mage:
-    - "The Time Mage's Mute spell will not stop Life2 from going off."
-    - "Gravity will cut their HP enough to make Exploder managable, however."
+    - "The Time Mage's Mute spell will NOT stop Arise from going off."
+    - "Gravity will cut their HP enough to make Self-Destruct managable, however."
+    - "Purobolos is also vulnerable to Slow."
   Bard:
-    - "A Purobolos that's Stopped by !Sing will not cast Life2 upon death."
+    - "A Purobolos that's Stopped by Romeo's Ballad will not cast Arise upon death."
   Berserker:
-    - "This is another fight you might want to come in with a dead/blinded berserker for."
-    - "If that's not an option (QUADZERK), you can roll the dice on Mage Masers to silence them with."
+    - "This is another fight you might want to come in with a dead/blinded Berserker for."
+    - "If that's not an option, you can roll the dice on Mage Masher silence procs."
+  Chemist:
+    - "You can drain all their MP with Lamia's Kiss, or Berserk them, to prevent the Self-Destructs and Arises both."
+  Geomancer:
+    - "!Gaia fishing for Wind Slash should work just fine, unless you get unlucky."
+    
