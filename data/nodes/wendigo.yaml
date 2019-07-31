@@ -9,13 +9,23 @@ Stoker/Wendigo:
   - "Attacking the wrong one does no damage."
   - "They respond to multi-target attacks with an Ice-element counter."
   - "If you have Fire Rings or Ice Shields, you can just blast away to your heart's content."
-  Thief:
-  - "Thieves can steal an Ice Shield from Slownin enemies in this dungeon...not that they can use it themselves."
+  - "The real one always starts in the top right for the first hit."
+  UNION Thief Shield:
+  - "Thieves can steal an Ice Shield from Numb Blade enemies in this dungeon... not that they can use it themselves."
   White-Mage:
-  - "Your White Mage can simply Shell up and heal through the counterattacks."
+  - "You can simply Shell up and heal through the counterattacks."
   Blue-Mage:
-  - "With Mighty Guard and White Wind, you kind of don't care about the counterattacks."
-  - "See if you can learn Mind Blast from the Wendigo while you're here."
+  - "With Mighty Guard and White Wind, you don't really care about the counterattacks."
+  - "Learn Mind Blast while you're here, even though you'll probably never use it.
+  - "Despite Wendigo's vulnerability to Sleep, its immunity to Old means that Time Slip won't work."
+  INTERSECTION Red-Mage Black-Mage Mystic-Knight:
+  - "Wendigo is vulnerable to Sleep. If it's asleep, it can't move."
+  Time-Mage 
+  - "Wendigo is vulnerable to Slow."
+  Ranger:
+  - "!Rapid Fire isn't technically multi-target. You're good."
+  Berserker:
+  - "Unlike most things that counter indiscriminate attacks, since Berserker isn't multi-target, it's not actively detrimental against Wendigo."
   Generic`:
-  - "Attacking the right Wendigo with a weak weapon (the Knife, or just fists) will display 0 damage, and importantly, will not move the Wendigo."
+  - "Attacking the right Wendigo with a weak weapon (the Knife or just fists) will display 0 damage, and importantly, will not move the Wendigo."
   - "You can then unleash your strongest attack on that one, then repeat until victory."
