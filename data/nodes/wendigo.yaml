@@ -26,6 +26,8 @@ Stoker/Wendigo:
   - "!Rapid Fire isn't technically multi-target. You're good."
   Berserker:
   - "Unlike most things that counter indiscriminate attacks, since Berserker isn't multi-target, it's not actively detrimental against Wendigo."
+  Beastmaster:
+  - "This fight is awkward for !Release. The best you can do is a Dragon Aevis from the Void for 5000 damage, which will provoke counters."
   Generic`:
   - "Attacking the right Wendigo with a weak weapon (the Knife or just fists) will display 0 damage, and importantly, will not move the Wendigo."
   - "You can then unleash your strongest attack on that one, then repeat until victory."
