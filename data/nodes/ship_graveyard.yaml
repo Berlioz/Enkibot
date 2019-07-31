@@ -3,7 +3,7 @@ Ship Graveyard:
     next-node: "siren"
     previous-nodes: ['karlabos']
   Generic:
-    - "If you're feeling the pain w.r.t healing, the Calcruthls in here rarely drop Elixirs."
+    - "If you're feeling low on healing, the Carcruthls in here rarely drop Elixirs."
     - "The room with the three treasure chests after the save point is the best place to grind those if you need."
     - "Don't forget, if you need to grind for any reason, you can sleep below decks on Faris' ship(wreck)."
   White-Mage:
@@ -12,6 +12,6 @@ Ship Graveyard:
   Thief:
     - "The Daggers dropped by skeleton enemies here are the only way to outfit your entire Thief party; get four before fighting Siren."
   Knight:
-    - "Because they sometimes factor AGI in, the Daggers dropped by skeleton enemies here can be better than Broadswords. Probably not worth the time though."
+    - "Because they sometimes factor AGI in, the Daggers dropped by skeleton enemies here can be better than Broadswords. Probably not worth the time, though."
   Ninja:
-    - "If you expect to have trouble vs. Byblos, you can farm Fire Scrolls off the Psycho Heads here."
+    - "If you expect to have trouble against Byblos much later, you can farm Fire Scrolls off the Mindflushers here."
