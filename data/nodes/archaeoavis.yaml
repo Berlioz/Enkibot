@@ -14,14 +14,15 @@ ArchaeoAvis:
   Ninja:
     - "Water Scrolls are solid offense against the first four forms, since none absorb Water."
   Monk:
-    - "If you kill a form with Counter, it skips the trigger that causes the next form to spawn and ends the fight."
+    - "If you kill any form with Counter, it will skip the trigger that causes the next form to spawn and end the fight immediately."
   Pierce-Def:
-    - "Being able to pierce defense, whether with Critical Hits or axes, can reliably damage all five forms."
+    - "Being able to pierce defense, whether with critical hits or axes, can reliably damage all five forms."
   Time-Mage:
     - "You can land Slow on every form, if you feel like it."
     - "Gravity works on forms 2 and 4."
   Mystic-Knight:
     - "Don't forget that you can disenchant your Spellblade by moving your sword around in the Item menu."
+    - "For fewest disenchants, use Thundara until form 4."
   Blue-Mage:
     - "The first form is weak to Aerora."
     - "Death Claw works on forms 2 and 4."
@@ -37,3 +38,4 @@ ArchaeoAvis:
   Beastmaster:
     - "!Catch an Aegir outside Karnak before coming in here, then !Release a Ronkan Knight from in here, then !Release the Aegir."
     - "The Knight attacks for ~1560, then the Aegir inflicts Sap that will kill form 1, bypassing its counter script and ending the fight."
+    - "Be sure not to do anything else, because you want to guarantee it dies to Sap."
