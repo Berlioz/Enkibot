@@ -5,46 +5,48 @@ Shinryu:
     previous-nodes:
     - voidamesh
   Generic:
-  - "Optional superboss; there is no reason other than bragging rights to try this."
-  - "Generally a lot more possible than Omega - you can hurt him with a lot, so the only question is not dying."
-  - "Coral Rings to absorb his opening Tidal Waves are usually a must - unless you are Berserking him, as every job but Berserker can outrace said Tidal Wave while hasted."
-  Beastmaster:
-  - "If you want his Dragon Whisker for your Beastmaster, remember that you can run from Shinryu."
-  - "There's nothing stopping you from !Stealing (or Thief Knifing) and running repeatedly."
-  - "Except basic common sense, i guess."
-  Generic`:
-  - "The vast majority of easy Shinryu kills are going to involve Berserking him."
+  - "Optional superboss; there is no reason other than bragging rights (and a nice heart on your fiesta page) to try this."
+  - "Generally a lot more possible than Omega - there's a lot of ways to hurt Shinryu, so the only real question is how not to die."
+  - "Coral Rings to absorb the opening Tidal Wave is mandatory for a straight-up fight...
+  - "...unless you are using Berserk strategies, in which case literally every job can get one turn before Tidal Wave with Hermes Sandals."
+  - "The vast majority of easy Shinryu kills involve Berserk."
   Time-Mage:
   - "Exception: Quick + Venom Rod works just fine for Time Mages, if you have the patience."
   White-Mage:
-  - "Anyone with White Magic can simply cast Berserk on him, of course."
-  - "White Mages have access to the Blink spell as well."
+  - "Anyone with !White can simply cast Berserk, of course."
   Break-Rods:
-  - "Anyone who can use a Rod can (eventually) land Berserk on him with the Wonder Rod."
+  - "Anyone who can wield a Rod can (eventually) land Berserk on him with the Wonder Rod."
   Staff:
-  - "Staff-users can attack with the Power Staff and apply a Berserk proc."
+  - "Staff-users can attack with the Power Staff to apply a Berserk proc."
   Chemist:
   - "Chemists can mix Holy Water + Turtle Shell for a guaranteed Berserk."
-  Generic``:
+  Beastmaster:
+  - "If you don't have better Berserk options, bring at least one party member with a Reflect Ring."
+  - "!Release a Mammon (caught in the Rift Castle) to cast Berserk and hope it targets the Reflected party member to bounce it to Shinryu."
+  - "Once you've gotten that RNG, !Release a Galajelly from the same encounter to blind Shinryu and trivialize the fight."
+  - "Also, if you want a Dragon Whisker for your Beastmaster, remember that you can run from Shinryu."
+  - "There's nothing stopping you from !Stealing (or Thief Knife !Mugging) and running repeatedly. Except common sense, really."
+  Generic`:
   - "You also need some way of surviving incredibly fast one-shot physical attacks."
   Shield:
   - "The Aegis Shield + mini status will boost a character's evasion % into the stratosphere."
   - "So will the Genji Shield from Gilgamesh in the Void, if you stole it. 99% Shield Evasion, baby!"
+  White-Mage`:
+  - "White Mages have access to Blink as well, making them perfect for this strategy."
   Knight:
-  - "Knights can coverscum Shinryu the same way they would vs. any other berserked enemy."
+  - "Knights can coverscum Shinryu the same way they can any other berserked enemy."
   Summoner:
-  - "Summoners can just about keep up with Shinryu's offense using the Golem spell."
+  - "Summoners can barely keep up with Shinryu's offense by casting Golem before every hit."
   Ninja:
   - "If you give the Ninja's !Image command to everyone, that'll work just fine."
-  Chemist:
-  - "Chemists can mix a 100% blind with Dragon Fang + Eye Drops because of course they can."
+  Chemist`:
+  - "Chemists can also inflict blind with Dragon Fang + Eye Drops."
   Cannoneer:
   - "You can inflict both Berserk and Blind with your magic gun."
-  - "Admittedly, you're using up one of the 3ish Ash in the game to do so. Maybe take a picture but don't save to keep the Ragnarok."
-  Generic```:
+  - "Admittedly, you're using up one of the 4 Ash in the game to do so. Maybe take a picture for RK but don't save afterwards."
+  Generic``:
   - "In the worst case scenario, any class which can wear the Mirage Vest can abuse a GBA bug."
-  - "On GBA, changing weapons with a Mirage Vest equipped will refresh its start-of-battle Blink."
+  - "On GBA, changing weapons with a Mirage Vest equipped will refresh its start-of-battle Blink status."
   - "In the ACTUAL worst case scenario, if you bring enough Phoenix Downs, you don't really need to survive the punches."
-  Staff:
-  - "All Staff users have the Sage's Staff to help mitigate Phoenix Down usage, even without true Raise access."
- 
+  Staff`:
+  - "All Staff users have the Sage's Staff to help mitigate Phoenix Down usage, even without actual Raise access."
