@@ -15,7 +15,7 @@ Necrophobe:
   - "Samurai can just !Zeninage the barrier crystals down easily."
   - "You might think to use !Iainuki, but the Barriers are heavy, so it won't work."
   Summoner:
-  - "Air Knife boosted Syldras easily DPS race the Barriers."
+  - "Air Knife boosted Syldra can easily DPS race the Barriers."
   - "If that sounds like too much work, you can also use Catoblepas to petrify them."
   - "Golem almost completely neuters Necrophobe's offense."
   Time-Mage:
@@ -38,9 +38,13 @@ Necrophobe:
   Chemist:
   - "Death Potion kills Barriers."
   Blue-Mage:
-  - "Barriers are level 44, so it would take three Dark Sparks to hit them with Level 5 Death."
-  - "You can manage it with Level 2 Old, if you genuinely don't have a better option for this fight."
+  - "The Barriers are level 44, so it would take three Dark Sparks to hit them with Level 5 Death."
   - "The Barriers are heavy, so Death Claw won't work."
+  - "BLU's best multi-target option is Aqua Breath here, thanks to Reflect neutralizing Aeroga."
   Thief:
   - "Don't forget the Genji Armor from Gilgamesh."
-  
+  Cannoneer:
+  - "Chaos Cannon kills Barriers."
+  - "Necrophobe is vulnerable to Slow and Darkness, both of which you have Cannons for."
+  Gladiator:
+  - "One Finisher kills the Barriers. As does several !Bladeblitzes, I guess."
