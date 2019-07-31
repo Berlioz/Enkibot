@@ -23,6 +23,8 @@ class Generator
     "Dragoon" => "DRG",
     "Dancer" => "DNC",
     "Chemist" => "CHM",
+    "Freelancer" => "FRE",
+    "Mime" => "MIM"
     "Cannoneer" => "CAN",
     "Gladiator" => "GLD",
     "Oracle" => "ORC"
