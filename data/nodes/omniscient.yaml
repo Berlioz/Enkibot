@@ -28,6 +28,9 @@ Minotauros + Omniscient:
   Break-Rods:
   - "SNAPPING RODS COUNTS AS A PHYSICAL ATTACK (somehow)."
   - "...except on mobile, where !Item is not forbidden."
+  Beastmaster:
+  - "You can !Release a Mammon and have it target a party member with a Reflect Ring to bounce Berserk onto Omniscient."
+  - "It's not great, but it works. Shame you can't get Mammons outside of the Rift Castle, so it's quite a hike."
   Generic`:
   - "Except on mobile, the Magic Lamp will provokes Return as well."
   - "Failing any other way to do this, there are three general strategies."
