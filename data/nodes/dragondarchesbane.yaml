@@ -6,11 +6,11 @@ TwinTania:
     - halicarnassus
   Generic:
   - "There was an extended FF14 joke here, but then Stormblood got an entire FFV themed raid tier and it started to feel dated."
-  - "It's not Heavy and has no status resistance at all when charging Giga Flare. [Almost] All parties can have the Assassin's Dagger here."
-  - "Just turtle up to avoid its counterattacks and kill it instantly when it changes form."
-  - "If you're having trouble surviving, you can equip a Coral Ring and attack him to heal for free."
+  - "It's not Heavy and has no status resistance at all when charging Giga Flare. You have the Assassin's Dagger."
+  - "Just turtle up to avoid its counterattacks and get the Dagger proc to kill it instantly when it changes form."
+  - "If you're having trouble surviving, you can equip a Coral Ring and physically attack to heal for free off the counterattack."
   Break-Rods:
-  - "The Wonder Wand from Fork Tower can be cycled to cast Death... but you'll *probably* get blown up by hubris this way."
+  - "The Wonder Wand from Fork Tower can be cycled all the way to casting Death... but you'll *probably* get blown up by hubris this way."
   - "<@CarbyBot> Oh my god, the Wonder Wand missed! (#25)"
   Mystic-Knight:
   - "Holy Blade and Break Blade both work on the charging form."
@@ -22,17 +22,24 @@ TwinTania:
   - "An Executor from the Solitary Island Shrine casts Level 5 Death on !Release, which works on the charging form."
   - "If you didn't pick one up earlier, using the Assassin's Dagger will be faster than walking out for one."
   Blue-Mage:
-  - "Your Blue Mage can also use Level 5 Death on the charging form."
+  - "Level 5 Death works on the charging form."
   Thief:
-  - "Steals vary by form: normal form has a Flame shield and charging form has a Giant Axe."
+  - "Steals vary by form: normal form has a Flame Shield and charging form has the second Titan's Axe."
+  UNION Thief Berserker:
+  - "Despite having a Berserker, you STILL probably don't care about the second Titan's Axe."
   Samurai:
   - "If for some reason you still need it, the charging form can rarely drop a Murasame when killed."
   - "!Iainuki works on the charging form."
   INTERSECTION Ranger Freelancer:
   - "Killer Bow works on the charging form."
+  Cannoneer:
+  - "Chaos Cannon works on the charging form."
   Red-Mage:
-  - "You can put Reflect Rings on everyone, then Dualcast any offensive spell to bait out Mega Flare counters to bounce."
+  - "You can put Reflect Rings on everyone, then Dualcast any offensive spell on the first form to bait out Mega Flare counters to bounce."
   White-Mage:
-  - "While a White Mage can't wield the Assassin's Dagger, Twintania's weak to Holy and Reflect Rings bounce its Mega Flare counters."
+  - "While White Mages can't wield the Assassin's Dagger, Twintania's weak to Holy and Reflect Rings bounce its Mega Flare counters."
+  - "Or just use another party member with the Dagger. I assume you have one."
   Monk:
   - "Boy, I hope you don't have four of these, because they're literally useless without someone else's skills here. Attacking triggers Tidal Wave, so wear Coral Rings."
+  Oracle:
+  - "Oracle can't wield the Assassin's Dagger. If you have nothing but Monks and Oracles, break out the Coral Rings. Otherwise, the Dagger works."
