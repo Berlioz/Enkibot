@@ -3,17 +3,17 @@ The Desert of Shifting Sands:
     next-node: crayclaw
     previous-nodes: ['sandworm']
   Ninja:
-    - "Water Scrolls (bought in Lix) murder everything in here."
+    - "Water Scrolls (bought in Lix) murder everything in the desert."
   UNION Thief Dragoon:
     - "You should steal a Javelin from the Sand Bears here."
     - "The Javelin is literally the fourth-best spear in the game, and won't be replaced until the very end of World 2."
   UNION Thief Freelancer:
     - "You should probably steal a Javelin from the Sand Bears here."
-    - "The Javelin is literally the fourth-best spear in the game, and when all you need is to hit things hard your Freelancer will appreciate it." 
+    - "The Javelin is literally the fourth-best spear in the game, and your Freelancer will appreciate it." 
   Beastmaster:
     - "Get used to coming back here to !Capture more Sand Bears before every hard boss fight for the rest of W1."
-    - "When !Released, they hit for ~2200 damage, which is kind of a lot in W1."
+    - "When !Released, they hit for ~2200 physical damage, which is kind of a lot in W1."
   Generic:
-    - "To get the treasure chests in the airship hangar, answer no when you interact with the switch, THEN yes. (Pull, not push.)"
+    - "To get the treasure chests in the Catapult, answer no when you interact with the switch, THEN yes. (Pull, not push.)"
   INTERSECTION White-Mage Red-Mage:
-    - "Make sure you don't miss the !White spell Mini in one of them."
+    - "Make sure you don't miss the !White spell Mini in one of them. You can buy it later, but it's a LOT later."
