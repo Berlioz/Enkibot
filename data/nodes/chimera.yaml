@@ -17,8 +17,10 @@ Chimera:
     - "Manticore isn't heavy, so !Iainuki technically works, but how the hell did you master Samurai already?"
   Time-Mage:
     - "Between Stop and Slow, Manticore probably won't ever get a turn."
-    - "Manticore isn't heavy, so you can also use Gravity early in the fight for damage."
+    - "Manticore isn't heavy, so you can also use Gravity."
   Bard:
     - "With multiple Romeo's Ballad singers, Manticore probably won't ever get a turn."
+  Dancer:
+    - "Manticore isn't heavy, so !Flirt works."
   INTERSECTION White-Mage Red-Mage:
     - "If you don't have any cheesier options, you can likely just heal through the multi-target spells with Cura."
