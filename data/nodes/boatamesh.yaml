@@ -7,9 +7,9 @@ Boatamesh & Enkidu:
   Generic:
   - "8888 HP, mixes up physicals with Missile and Death Claw. Summons Enkidu at 4000 HP."
   - "Enkidu has 4000 HP and uses various blue magic, including the completely infuriating White Wind."
-  - "Kill Enkidu first, but watch out for his ability to Vampire for obscene damage when you do."
+  - "Kill Enkidu first, but watch out for his ability to cast Vampire for obscene damage when you do."
   Blue-Mage:
-  - "Gilgamesh is level 31. Dark Shock -> L5 Death ends this fight before Enkidu shows up."
+  - "Gilgamesh is level 31. Dark Shock -> L5 Death will end this fight before Enkidu shows up."
   Berserker:
   - "Gilgamesh isn't immune to instant death. Death Sickle him before Enkidu shows up."
   INTERSECTION Ranger Freelancer:
@@ -17,14 +17,12 @@ Boatamesh & Enkidu:
   Chemist:
   - "Gilgamesh isn't immune to instant death. Death Potion him before Enkidu shows up."
   Samurai:
-  - "Enkidu is neither heavy nor immune to instant death. !Iainuki him, if you have it. Sorry you can't get Gilgamesh too."  
-  INTERSECTION Time-Mage White-Mage:
-  - "Silence shuts down Gilgamesh's offense, but Blue Magic can't be silenced."
+  - "Enkidu is neither heavy nor immune to instant death. !Iainuki him, if you have it. Sorry you can't get Gilgamesh too."
   Time-Mage:
   - "Both Gilgamesh and Enkidu are vulnerable to Slow."
   Mystic-Knight:
   - "Mystic Knights can nail Gilgamesh with a Silence !Spellblade, but it won't turn off his Blue Magic."
   Thief:
-  - "Make sure to steal a Genji Glove from Gilgamesh, if you have anyone who can equip heavy armor."
+  - "You can steal a Genji Glove from Gilgamesh, if you have anyone who can equip heavy armor."
   Beastmaster:
   - "You can !Control Enkidu. A self-targeted Hurricane works just fine."
