@@ -8,20 +8,28 @@ Antlion:
   - "8100 HP, Bartz and Krile only."
   - "This fight can be a pain with slow offense, since it'll spam Dischord to halve your level repeatedly."
   Staff:
-  - "Unless you had the foresight to farm a Power Staff in Meatfort. It casts Berserk when wielded."
+  - "...Unless you had the foresight to farm a Power Staff in Meatfort. It casts Berserk when wielded."
   White-Mage:
-  - "Berserk and Blink make this fight trivial."
+  - "You have Berserk and Blink to make this fight trivial."
   Red-Mage:
   - "Power Staff access lets you Berserk, so at least your levels will remain intact."
+  - "Antlion is also vulnerable to Old from the Ancient Sword, if you're worried about keeping up with its damage."
   INTERSECTION Black-Mage Mystic-Knight:
   - "Antlion is vulnerable to Sleep. Problem solved."
   Ranger:
   - "Antlion is vulnerable to Blind from the Dark Bow."
+  Freelancer:
+  - "Antlion is vulnerable to Blind from the Dark Bow and Old from the Ancient Sword."
+  Knight:
+  - "All of Antlion's actual damage comes from physical attacks. Just use !Guard."
+  - "Antlion is also vulnerable to Old from the Ancient Sword if you want to add insult to injury."
   Beastmaster:
   - "If you didn't plan ahead, the only available !Release is 1016 damage from the Goblin in the trapped chest in Tule's training house."
+  - "If you genuinely don't have a better option, make sure to grab a spare !Release in W2 rather than four-shotting Exdeath with Yellow Dragons."
+  - "...You almost certainly have a better option."
   Blue-Mage:
   - "1000 Needles isn't affected by your levels. 8 and spare change will kill Antlion."
-  - "Antlion is vulnerable to both Old and Slow, so Time Slip is great here, and also Blind if you care."
+  - "Antlion is vulnerable to Old, Sleep, and Blind, so Time Slip is great and Flash is good too."
   Time-Mage:
   - "Comet provides a source of level-independent damage."
   - "Antlion is vulnerable to Old and Slow, so you can weaken it while you Comet it into oblivion."
