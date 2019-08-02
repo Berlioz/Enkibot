@@ -5,19 +5,16 @@ Fork Tower:
     previous-nodes:
     - wendigo
   Generic:
-  - "Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not."
-  - "Magic users go to the left and physical fighters go to the right."
-  - "The Defender in Fork Tower is a Knight Sword that might be interesting if Excalibur didn't exist."
-  - "It can be used as an item to cast Protect, which may be useful for certain very squishy parties."
+  - "Think about whether you actually need to do the various optional World 3 dungeons; many parties do not."
+  - "If you don't need specific loot from Fork Tower, the Deep Sea Trench, or Istory Falls, and you don't have to unlock Cannoneer, Gladiator, or Oracle, you should just go to the Rift now."
+  - "Magic users go to the LEFT and physical fighters go to the RIGHT."
   Break-Rods:
   - "Many rod-using parties can take good advantage of the Wonder Rod in Fork Tower, especially if they lack !White."
-  - "It cycles through all the !White and !Black spells in a particular order."
+  - "It cycles through all the !White and !Black spells in a set order."
   - "This gives rod-users guaranteed access to Berserk, as well as Death, Reflect, Protect, Shell, and others."
   White-Mage:
   - "Fork Tower is the only way to learn Holy, which gives White Mages (fantastic) offense."
   Black-Mage:
-  - "Fork Tower is the only way to learn Flare for Black Mages (meh) and get the Wonder Rod, which is honestly more important."
+  - "Fork Tower is the only way to learn Flare for Black Mages (meh) and get the Wonder Rod, which is honestly more important for a lot of parties."
   Mystic-Knight:
   - "Fork Tower is the only way to learn Flare for Flare !Spellblade, which is far better than the spell itself. You should do it."
-  Generic`:
-  - "Classes that don't need specific loot from Fork Tower, the Deep Sea Trench, or Istory Falls should just go to the Rift now."
