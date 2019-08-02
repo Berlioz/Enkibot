@@ -4,43 +4,43 @@ W2 Exdeath:
     previous-nodes: ["scrubamesh"]
   Generic:
     - "32768 HP; phase transitions at 16000 and 7000 HP remaining."
-    - "Classes without a strong way to cheese this fight should bring Reflect Rings, which... you can't get after Barrier Tower except with !Steal."
-    - "If you're foregoing Reflect Rings, don't have a level divisible by 3, unless you want to die to Level 3 Flare."
-    - "If you *are* bringing Reflect Rings, going in with a level divisible by 3 is actively good.
+    - "Classes without a strong way to cheese this fight should bring Reflect Rings from Barrier Tower."
+    - "If you're foregoing Reflect Rings, don't have anyone with a level divisible by 3, unless you want them to die to Level 3 Flare."
+    - "If you are bringing Reflect Rings, going in with a level divisible by 3 is actively good!"
   Thief:
-    - "Thieves get a chance at redemption here if you forgot Reflect Rings in the Barrier Tower; Reflect Mages have them in Meatfort."
+    - "Thieves get a chance at redemption here if you forgot Reflect Rings in the Barrier Tower; Reflect Mages have them as a rare steal."
   White-Mage:
-    - "Make sure you keep Protect up; Exdeath's Vaccum Wave physicals can be surprisingly nasty."
-    - "Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also Reflect Exdeath."
-    - "Setting Berserk on your own characters may help with the mad rush to take his last 7000 HP."
+    - "Make sure you keep Protect up; Exdeath's Vacuum Wave physicals are nasty."
+    - "Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also put Reflect on Exdeath."
+    - "Setting Berserk on your own physical characters can help with the mad rush to take his last 7000 HP."
   Blue-Mage:
-    - "Level 2 Old works. If you know the timing well, or try a lot, you can wait for a multiple of 5 and use Level 5 Death to end the fight."
-    - "That said, it may be worth stalling the first form long enough to learn Level 3 Flare."
+    - "Level 2 Old works. If you know the timing well (or try many times), you can cast Level 5 Death at the right time to end the fight."
+    - "That said, you may also want to consider stalling the first form long enough to learn Level 3 Flare."
   UNION Beastmaster Blue-Mage:
-    - "If you bothered getting Level 3 Flare before now, that's solid damage at this point. Otherwise just Aeroga spam."
+    - "If you bothered to get Level 3 Flare before this fight, it's solid damage when you use it."
   Time-Mage:
-    - "Do not use Slow. Exdeath will counters with Haste, which overwrites Slow instead of neutralizing it."
-    - "Do use Float on your party to avoid Earth Shaker; even if he uses 100 Gs it wastes a turn (and you can recast to waste another)."
+    - "Do not use Slow. Exdeath will counter with Haste, which overwrites Slow instead of just cancelling it."
+    - "Do use Float on your party to avoid Earth Shaker; even if he uses 100 Gs it wastes a turn (and you can recast Float to waste another)."
   UNION Time-Mage White-Mage:
     - "If you can Reflect Exdeath and bounce a Slow off your own party, the resulting Haste counter bounces off too."
   Summoner:
-    - "Make sure you keep Golem up; Exdeath's Vaacum Wave physicals can be surprisingly nasty."
+    - "Make sure you keep Golem up; Exdeath's Vacuum Wave physicals are nasty."
   Beastmaster:
     - "Releasing four Yellow Dragons (8192 damage each) will instantly kill Exdeath."
   Ninja:
-    - "Consider !Throwing your Excalipoor or the Fuma Shuriken from two floors down to get past Exdeath's last 7000 HP."
+    - "Consider !Throwing your Excalipoor or the Fuma Shuriken from two floors down to get through Exdeath's last 7000 HP."
   Mystic-Knight:
-    - "Mystic Knights may have luck with applying Drain Sword and just trying to DPS race Exdeath."
+    - "Mystic Knights may have luck applying Drain Sword and just trying to DPS race Exdeath."
   Bard:
-    - "Going Super Saiyan on Exdeath with Swift Song is technically possible but tricky, unless you have a way around Condemn."
+    - "Going Super Saiyan on Exdeath with Swift Song is technically possible but tricky. Watch out for Condemn."
   Chemist:
-    - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) blocks Condemn, allowing you to go Super Saiyan in peace if you feel like it."
-    - "Exdeath is weak to Holy; chugging a Giant's Drink and then spamming Holy Breath (Dragon Fang + Holy Water) works."
+    - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) blocks Condemn, allowing you to buff up in peace."
+    - "Exdeath is weak to Holy; chugging a Goliath Tonic and then spamming Holy Breath (Dragon Fang + Holy Water) works well."
   Staff:
     - "Staff-wielding parties can grind for Staves of Light in Ghido's Cave; snapping them does about 4000 damage per Staff."
-    - "This also takes forever and should very much be treated as a last resort - that said, it's a good way to get Exdeath below 16000 for the phase change."
+    - "This also takes forever and should very much be treated as a last resort - that said, it can be useful to quickly push Exdeath below 16000 for the phase change."
     - "If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring."
   NOT Healing:
     - "Players with weak healing options should consider reading Exdeath's AI script to understand when he will cast Zombie Breath, which can spell a wipe for parties at low HP when it's cast."
   Shield:
-    - "Consider carefully what secondary loadout you give your Aegis Shield user; if things start going south they will likely be the one responsible for saving the fight with revives/healing."
+    - "Consider carefully what you give your Aegis Shield user; if things start going south they will likely be the one responsible for saving the fight."
