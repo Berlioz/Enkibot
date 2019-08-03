@@ -6,7 +6,7 @@ Halicarnassus:
     - catastrophe
   Generic:
   - "33333 HP, sky-high level (affects ailment spell accuracy)."
-  - "Starts by turning the entire party into frogs."
+  - "Starts the fight by casting Ribbit to turn the entire party into frogs."
   - "Casts Holy once every eight turns; having the party Reflected will let you scam an easy kill."
   - "In general, only has single-target offense. Any party can sandbag with Phoenix Downs."
   Summoner:
@@ -15,10 +15,21 @@ Halicarnassus:
   - "Or just put up a Golem first to suck up the counter."
   INTERSECTION Black-Mage Blue-Mage:
   - "The opening Ribbit spell just toggles Frog, so come into the fight as frogs to be cured by Ribbit and waste that turn."
+  Blue-Mage:
+  - "Halicarnassus is vulnerable to Blind if you want to mess around with trying to land Flash. I wouldn't bother, personally."
   Mystic-Knight:
-  - "Halicarnassus is vulnerable to Silence, which will prevent the occasional buff and also Holy."
+  - "Halicarnassus is vulnerable to Silence, which prevents the occasional self-buff and also Holy."
+  - "That said, since Silence doesn't last that long on Heavy targets, run the numbers on just Flare Sword beatdown instead."
   Cannoneer:
-  - "Halicarnassus is vulnerable to Mini, Old, Darkness, and Slow, which your Cannons can set."
-  - "Mini only doubles evade, and Halicarnassus naturally has 0, and 2*0=0, so..."
+  - "Halicarnassus is vulnerable to Mini, Old, Darkness, and Slow, all of which your Cannons can set."
+  - "Mini's only benefit is doubling evade, and Halicarnassus naturally has 0, and 2*0=0, so..."
   Beastmaster:
-  - "You don't have a better option than Great Dragons, still, but 4*9999 > 33333 so you also aren't complaining."
+  - "You don't have a better !Release option than Great Dragons, again, but 4*9999 > 33333 so it's no big deal."
+  Time-Mage:
+  - "Halicarnassus is vulnerable to Old and Slow. Sky-high magic evasion means Meteor spam is probably just better, though."
+  White-Mage:
+  - "Halicarnassus is vulnerable to Mini and Silence, but you'll have a hard time landing them."
+  - "Instead, take advantage of all the attacks being single-target and spam Raise."
+  Chemist:
+  - "You can set Darkness on Halicarnassus easily, since Dark Sigh doesn't care about magic evasion or the target's level."
+  - "...except on mobile, where Dark Sigh got 'fixed' to be blockable. You've been warned."
