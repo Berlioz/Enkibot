@@ -40,6 +40,8 @@ W2 Exdeath:
     - "Staff-wielding parties can grind for Staves of Light in Ghido's Cave; snapping them does about 4000 damage per Staff."
     - "This also takes forever and should very much be treated as a last resort - that said, it can be useful to quickly push Exdeath below 16000 for the phase change."
     - "If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring."
+  UNION Staff Ranger:
+    - "!Rapid Fire works with Staff of Light physical attacks. This obscurely specific tip sounds like a joke, but it isn't. Go for it!"
   NOT Healing:
     - "Players with weak healing options should consider reading Exdeath's AI script to understand when he will cast Zombie Breath, which can spell a wipe for parties at low HP when it's cast."
   Shield:
