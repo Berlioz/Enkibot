@@ -5,16 +5,15 @@ Melusine:
     previous-nodes:
     - pyramid
   Generic:
-  - "20000 HP, swaps between thunder/ice/fire/physical weakness."
+  - "20000 HP, swaps between fire/ice/thunder/physical weaknesses, always beginning weak to fire."
   - "When in elemental-weak form, has lots of physical defense and spams the NON-WEAK elements at party."
   - "When in physical-weak form, has 0 physical defense and 0 physical evasion."
-  - "Always begins weak to fire."
   - "Your Chicken Knife wielder will always be able to pierce her physical defenses."
   - "Reflect Rings make it nearly impossible to die, but be aware it'll let her heal herself occasionally with absorbs."
   INTERSECTION Red-Mage White-Mage:
-  - "Congratulations, you've found the one time in the game the !White spell Libra is useful."
+  - "Congratulations, you've found the one time in the game the !White spell Libra is theoretically useful."
   - "You can also neuter her offense with Shell, or stick Silence onto her, though it'll need refreshing periodically."
-  - "Confuse also works, hilariously."
+  - "Confuse also works on her."
   Blue-Mage:
   - "The Blue Mage !Scan ability will let you determine which form she changed to, if you care."
   - "Aqua Rake is non-elemental, giving you a way to hit the magic-vulnerable forms."
@@ -24,25 +23,25 @@ Melusine:
   - "Also, Fire Rods exist."
   Mystic-Knight:
   - "Silence Blade will always work on Melusine, which makes the fight easier to just bum rush."
-  - "Sleep Blade also works, which is easier."
-  - "Firaga Blade is guaranteed 9999 for the first three rounds of the fight, which is even easier."
+  - "Sleep Blade also works, which is even easier."
+  - "Firaga Blade is guaranteed 9999 for the first three rounds of the fight, which is even easier than that."
   Black-Mage:
   - "Melusine is vulnerable to Sleep, but you can probably Firaga her down before her weakness ever changes."
   Beastmaster:
   - "Bulettes in the desert !Release to Attack for about 4000 damage. It's not great, but there's no better option this early in World 3."
   Ranger:
-  - "!Rapid Fire ignores enemy defense; spamming it with the Chicken Knife lets you ignore fight mechanics for this boss."
+  - "!Rapid Fire ignores enemy defense; spamming it with the Chicken Knife lets you ignore the actual mechanics here."
   - "(also, most of the rest of the game)"
   Knight:
-  - "If you're not the designated Chicken Knife wielder, swap between Flametongue, Icebrand, and Coral Sword for best damage output."
+  - "If you're not the Chicken Knife wielder, swap between Flametongue, Icebrand, and Coral Sword for best damage output."
   Ninja:
   - "You can move the Chicken Knife to another melee class and still deal decent damage with !Throw here."
   Bard:
-  - "Alluring Air can confuse her, to hilarious effect."
-  - "Romeo's Ballad also works, although not for very long. You can probably lock her down with three casters."
+  - "Alluring Air can confuse her, which works as well as you think."
+  - "Romeo's Ballad also works, although not for very long. You can probably lock her down with three !Singers."
   Summoner:
   - "While you certainly can spam Ifrit, you might be better served using your other jobs' strategies or breaking rods."
   Chemist:
-  - "Take advantage of Melusine's 0 magic defense in her elemental forms and Succubus's Kiss her to death."
+  - "Take advantage of Melusine's 0 magic defense in all three elemental forms and Succubus's Kiss her to death."
   Pierce-Def:
   - "Defense-piercing critical hits and Axes work well against the elemental forms."
