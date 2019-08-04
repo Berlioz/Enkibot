@@ -5,10 +5,10 @@ Moore:
     previous-nodes:
     - ghidos_cave
   Generic:
-  - "Moore town, in general, has some great stuff for your casters."
+  - "There's a second Main Gauche in Moore, if you want it. It's in a barrel behind the pub."
   INTERSECTION Blue-Mage Summoner:
   - "Air Knives boost wind damage by 50%, making them immediately useful for Blue Mages."
-  - "Summoners will be able to abuse this too, but not until World 3."
+  - "Summoners will enjoy these too, but not until World 3."
   White-Mage:
   - "Curaga, Berserk, and Reflect all allow you to cheese fights in various hilarious ways."
   Black-Mage:
@@ -16,14 +16,13 @@ Moore:
   Time-Mage:
   - "The various spells Time Mages can learn here are nice, but the real winner is Hastega."
   Bard:
-  - "Bards will be happy to find yet another piano in Moore's pub."
+  - "Bards will be happy to find the seventh piano in Moore's pub."
   Generic`:
-  - "There's a second Main Gauche in town, if you want it. It's in a barrel behind the pub."
   - "Every single goddamn encounter in Moore Forest is fucking infuriating and you should run from them all."
   Bard`:
-  - "Exception: bards can spam Love Songs to inflict Stop; every random encounter is vulnerable to it."
+  - "Exception: bards can spam Romeo's Ballad to inflict Stop; every random encounter is vulnerable to it."
   Blue-Mage`:
-  - "Take a moment to learn Lilliputian Lyric from Mini Magicians here, it could enable complex evasive strategies."
+  - "You may want to learn Lilliputian Lyric from Mini Magicians here, even though you'll probably never use it if you don't have Berserker."
   Generic``:
   - "You'll have to make a choice here between the Aegis Shield and the Flame Shield."
   Shield:
