@@ -11,7 +11,7 @@ Class Tips:
     - "(White Mages can do so easily with a spell; staff and rod-users can later on)."
     - "So can Chemists, though if you have Chemist you probably don't need this to win."
     - "Bear in mind that even if you have Two-Handed equipped, you CAN equip a Shield mid-combat through the item menu."
-    - "This will take away your Two-Handed damage bonus until unequip the shield, but can be useful with elemental absorption shields."
+    - "This will take away your Two-Handed damage bonus until you unequip the shield, but can be useful with elemental absorption shields."
   Monk:
     - "Monks do amazing damage at first, but rapidly taper off after World 1."
     - "Barehanded attacks can crit, allowing you to penetrate high physical defense."
@@ -168,10 +168,11 @@ Class Tips:
     - "!Finisher's odds of doing stronger hits goes up with the job mastery level, peaking at 50% 9999, 25% critical hit, 25% miss."
     - "Long Reach is a pretty good passive that lets you deal full damage attacking from the back row with any weapon."
     - "Lure is a passive that increases encounter rate. Pretty useless, unless you really need to grind."
-Oracle:
+  Oracle:
     - "A forbidden class you can normally only get in GBA and mobile after getting all four tablets."
     - "Has a higher magic stat than even Summoner, but can only use Staves. and its !Predict abilities are difficult at best to use."
     - "!Condemn works on any target that's not Heavy, totally ignoring status immunity. Just Doom anything it works on, or Rejuvenate yourself."
+    - "The command's wait time goes down the higher the job mastery level of the character."
     - "!Predict has effects determined by the last digit of the user's MP at a power determined by the last digit of its target's HP."
     - "Several !Predicts can hit your own party. This can be beneficial or deadly depending on your equipment."
     - "Cleansing, which triggers at last digit of MP of 0, only hits enemies and does non-elemental damage. It's reliable."
@@ -179,13 +180,13 @@ Oracle:
     - "Second Rank Cleansing (3 MP) and Third Rank Blessing (7 MP) combo into each other infinitely if you don't want to think about it."
     - "Also note that !Predict won't ever cause enemies to counter. This includes annoying pests like Omega."
     - "Read Ahead is a passive that lowers the encounter rate. It's a solid time-saver that's totally useless for bosses. Kind of like Oracle."
-Cannoneer:
+  Cannoneer:
     - "A forbidden class you can normally only get in GBA and mobile once after getting all four tablets."
     - "Average stats and equipment access, but amazing abilities."
     - "!Open Fire is ridiculous early on, doing good damage and also randomly inflicting Poison/Blind/Confuse/Death. Fiesta Mod Cannoneers have it super easy."
-    - "!Combine can only be used when you actually unlock Cannoneer, as the materials used for it are only sold in special shops that don't appear until then."
+    - "!Combine can only be used when you actually unlock Cannoneer legit, as the materials used for it are only sold in special shops that don't appear until then."
     - "Just buy Blitzshots, they're the best one. The other two are cheaper, but deal less damage and sometimes do different (inferior) things altogether."
     - "Blitzshot+Dark Matter makes Chaos Cannon, which inflicts Death."
     - "Blitzshot+Iron Draft makes Vulner Cannon, which halves physical and magical defense and also doesn't trigger counterattacks."
-    - "Blitzshot+Gold Needle makes Needle Cannon, which deals a flat 3000 damage. Useful for very high-defense targets"
+    - "Blitzshot+Gold Needle makes Needle Cannon, which deals a flat 3000 damage. Useful for very high-defense targets."
     - "You can also set Berserk (Power Drink), Blind (Ash), Old (Speed Shake), Slow (Turtle Shell), and even Poison (Blastshot+Dark Matter)."
