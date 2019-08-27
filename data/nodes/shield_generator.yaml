@@ -6,7 +6,7 @@ Shield Generator/Barrier Tower:
     - boatamesh
   Generic:
   - "The Barrier Tower is a fairly obnoxious dungeon with a lot of loot you want to grab."
-  - "Anyone with a caster should make sure to get the Gold Hairpin, which halves MP consumption."
+  - "Anyone with a caster should make sure to get the Gold Hairpin in a guarded chest on the left side of Floor 9, which halves MP consumption."
   Blue-Mage:
   - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility."
   - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka."
@@ -22,3 +22,6 @@ Shield Generator/Barrier Tower:
   - "Most importantly, farm Reflect Knights for their Reflect Ring drops here."
   - "Unless you have a way to cheese him entirely, you'll need them for World 2 Exdeath."
   - "The best place to farm them is outside between floors 5 and 6, but if you need to return to the sub to heal frequently the balcony between 3 and 4 is pretty good too."
+  Black-Mage:
+  - "Drain bypasses Reflect, so you can farm your first Reflect Ring with Drain and then bounce Breaks off your own party for the rest."
+  
