@@ -4,7 +4,25 @@ An adaptive Final Fantasy V walkthrough/checklist generator designed to be used 
 ## Architecture
 The YAML files in /data/nodes define a very simple, mostly-linear state-machine. Each node contains hints for a certain part of FFV, some of which should be displayed only if the user has certain classes or combinations of classes. When building a walkthrough, the generator starts from the first node in the game (Wing Raptor) and recursively expands nodes until it meets an 'end' node (Neo Exdeath).
 
-## Use
+## Use (Website)
+
+[A version of Enkibot is available online](http://enkibot.herokuapp.com/). Note that the live version Enkibot may or may not be up-to-date with any particular GitHub repository.
+
+## Use (Python script)
+The Python generator is easier to use than the Ruby one but it requires you to have Python 3.7+ and dependencies installed instead. To install those requirements on Linux through `apt`, follow the steps below. If your system doesn't have `apt`, use your system's package manager or follow instructions from [the official Python website](https://www.python.org/downloads/).
+
+1. On a terminal window, enter: `sudo apt-get install python3 python3-pip`
+2. On a terminal window, enter: `pip3 install pyyaml` (this step is required even if you install Python manually)
+
+**Usage:** `python3 generator.py [all] [job1 job2 ...] [debug]`
+
+**Example:** `python3 generator.py knight monk white-mage black-mage`
+
+A `hints.txt` file will always be generated but since the script runs in interactive mode by default, you may want instead to supply a **debug** flag (if you're only interested in generating and keeping the file).
+
+Unlike the main Ruby generator, **debug** here controls only whether the output is interactive and if a whole dump is generated, with additional debug information. **all** is used to print out all the hints, regardless of tags and conditions. You can use both **all** and **debug** to achieve a result equivalent to using **debug** in the Ruby generator (to dump all hints to text).
+
+## Use (Ruby API)
 ```
 load 'generator.rb'
 generator = Generator.new(['Knight', 'Red-Mage', 'Ranger', 'Chemist'])
