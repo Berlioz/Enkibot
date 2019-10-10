@@ -4,6 +4,7 @@ The Void:
     next-node: shinryu
     previous-nodes:
     - dragondarchesbane
+    map: void.gif
   Generic:
   - "Most groups will simply want to blast through the Void on the way to NED."
   - "The last Gilgamesh fight is basically just a victory lap."

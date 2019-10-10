@@ -2,6 +2,7 @@ import {jobselector} from './expandable/jobselector.js'
 import {load} from './enkibot.js'
 import {tags} from './tags.js'
 import {navigation} from './expandable/navigation.js'
+import {mapview} from './expandable/mapview.js'
 
 const LINKOPTIONS={attributes:[{name:'target',value:'_blank'}]}
 
@@ -12,7 +13,10 @@ const body=element.querySelector('.body')
 
 class NodeViewer{
   constructor(){
-    this.node=false
+    this.node=false //base YAML object
+    this.nodetitle=false //root object key
+    this.data=false //this.node[this.title]
+    this.metadata=false //this.data['Metadata']
   }
   
   add(hint){
@@ -57,18 +61,15 @@ class NodeViewer{
   }
   
   refresh(){
-    let nodetitle=Object.keys(this.node)[0]
-    title.innerHTML=nodetitle
-    let data=this.node[nodetitle]
-    let metadata=data['Metadata']
+    title.innerHTML=this.nodetitle
     next.innerHTML=''
-    if(metadata['next-node']) this.addnavigation('Next',[metadata['next-node']])
+    if(this.metadata['next-node']) this.addnavigation('Next',[this.metadata['next-node']])
     body.innerHTML=''
-    for(let section of Object.keys(data)){
+    for(let section of Object.keys(this.data)){
       let clean=section
       while(clean.indexOf('`')>=0) clean=clean.replace('`','')
       if(this.allow(clean))
-        for(let hint of data[section]){
+        for(let hint of this.data[section]){
           if(hint.indexOf('- ')==0) hint=hint.substr(2)
           if(tags.debug) hint+=` [${clean}]`
           this.add(anchorme(hint,LINKOPTIONS))
@@ -86,7 +87,11 @@ class NodeViewer{
   async go(node){
     body.innerHTML='Loading...'
     this.node=await load(`data/nodes/${node}.yaml`)
+    this.nodetitle=Object.keys(this.node)[0]
+    this.data=this.node[this.nodetitle]
+    this.metadata=this.data['Metadata']
     this.refresh()
+    mapview.refresh()
   }
 }
 

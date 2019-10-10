@@ -4,6 +4,7 @@ Fork Tower:
     next-node: omniscient
     previous-nodes:
     - wendigo
+    map: forktower.gif
   Generic:
   - "Think about whether you actually need to do the various optional World 3 dungeons; many parties do not."
   - "If you don't need specific loot from Fork Tower, the Deep Sea Trench, or Istory Falls, and you don't have to unlock Cannoneer, Gladiator, or Oracle, you should just go to the Rift now."

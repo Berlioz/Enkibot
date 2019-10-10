@@ -36,6 +36,8 @@ Regole Village:
     branching-node: ["Beastmaster", "w2_shield_dragons"]   # optionally define a node to expand if a certain condition is met
     next-node: moogle-forest                               # define a node to expand if no branching-nodes are triggered
     previous-nodes: ["bridgeamesh"]                        # warn if we arrived at this node from outside this list
+    map: mapfile.jpg # map image relevant to this node
+    coordinates: [0,0] # any particular set of coordinates to highlight on the map (useful for world maps)
   Generic:
     - "This string will be printed no matter what classes you have available."
     - "Multiple strings can be printed for the same condition."
