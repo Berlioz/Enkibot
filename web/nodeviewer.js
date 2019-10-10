@@ -7,7 +7,7 @@ const LINKOPTIONS={attributes:[{name:'target',value:'_blank'}]}
 
 const element=document.querySelector('#nodeviewer')
 const title=element.querySelector('.title')
-const navigation=element.querySelector('#navigation')
+const next=element.querySelector('#next')
 const body=element.querySelector('.body')
 
 class NodeViewer{
@@ -21,7 +21,7 @@ class NodeViewer{
     body.appendChild(item)
   }
   
-  addnavigation(label,nodes,parent=navigation){
+  addnavigation(label,nodes,parent=next){
     let div=document.createElement('div')
     if(label) div.innerHTML=`${label}: `
     for(let n of nodes){
@@ -61,7 +61,7 @@ class NodeViewer{
     title.innerHTML=nodetitle
     let data=this.node[nodetitle]
     let metadata=data['Metadata']
-    navigation.innerHTML=''
+    next.innerHTML=''
     if(metadata['next-node']) this.addnavigation('Next',[metadata['next-node']])
     body.innerHTML=''
     for(let section of Object.keys(data)){

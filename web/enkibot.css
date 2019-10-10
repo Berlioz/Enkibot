@@ -4,10 +4,11 @@
 }
 .control{
   background-color:lightgray;
-  padding:.5em;
+  padding:.25em .5em;
   border-radius:.25em;
   text-align:center;
   border:1px gray solid;
+  display:inline-block;
 }
 .header{
   font-weight:bold;
@@ -29,20 +30,20 @@
   margin-top:1em;
   text-align:justify;
 }
-#nodeviewer #navigation{
+#nodeviewer #next{
   font-weight:bold;
   margin:.5em 0;
 }
 a:visited{
   color:blue;
 }
-#map{
+#navigation{
   margin:1em;
   color:black;
   border-radius:2em!important;
   display:grid;
 }
-#map .links a{
+#navigation .links a{
   margin:.25em;
   display:inline-block;
 }

@@ -2,9 +2,9 @@
 import {load} from './enkibot.js'
 import {nodeviewer} from './nodeviewer.js'
 
-const map=document.querySelector('#map')
-const links=map.querySelector('.links')
-const button=map.querySelector('button')
+const navigation=document.querySelector('#navigation')
+const links=navigation.querySelector('.links')
+const button=navigation.querySelector('button')
 
 class Nodes{
   async load(){
