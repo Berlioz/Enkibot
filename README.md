@@ -9,7 +9,7 @@ The YAML files in /data/nodes define a very simple, mostly-linear state-machine.
 [A version of Enkibot is available online](http://tukkek.github.io/Enkibot). Note that the live version Enkibot may or may not be up-to-date with any particular GitHub repository.
 
 ## Use (local server)
-Using a local version of Enkibot should be as simple as starting a utility webserver from the project's base directory. If you have Ruby or Pythoninstalled, for example, one of these should work out-of-the-box:
+Using a local version of Enkibot should be as simple as starting a basic webserver from the project's base directory. If you have Ruby or Python installed, for example, one of these should work out-of-the-box:
 
 * `ruby -run -e httpd -- . -p 8000`
 * `python3 -m http.server`
