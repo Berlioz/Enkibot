@@ -38,7 +38,6 @@ class NodeViewer{
   allow(tag){
     if(tag=='Metadata') return false
     if(tags.has(tag)||tags.has('All')) return true
-    while(tag.indexOf('`')>=0) tag=tag.replace('`','')
     if(tag=='Generic') return true
     let parameters=tag.split(' ').splice(1)
     if(tag.indexOf('UNION')>=0){
@@ -65,13 +64,16 @@ class NodeViewer{
     navigation.innerHTML=''
     if(metadata['next-node']) this.addnavigation('Next',[metadata['next-node']])
     body.innerHTML=''
-    for(let section of Object.keys(data))
-      if(this.allow(section))
+    for(let section of Object.keys(data)){
+      let clean=section
+      while(clean.indexOf('`')>=0) clean=clean.replace('`','')
+      if(this.allow(clean))
         for(let hint of data[section]){
           if(hint.indexOf('- ')==0) hint=hint.substr(2)
-          if(tags.debug) hint+=` [${section}]`
+          if(tags.debug) hint+=` [${clean}]`
           this.add(anchorme(hint,LINKOPTIONS))
         }
+    }
     if(tags.debug){
       this.add('<hr>')
       let activetags=Array.from(tags.active)
