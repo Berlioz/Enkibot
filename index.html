@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>Enkibot</title>
+    <meta charset='utf8'/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="web/enkibot.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.13.1/js-yaml.min.js" integrity="sha256-ry6nlLQ1JmRl5RUPQ4eSuaSp/rGNPvl144WHHs7BiNE=" crossorigin="anonymous"></script>
+    <script src="web/anchorme.min.js"></script>
+    <template id='jobselect'>
+      <div class='job'>
+        <input type="checkbox" id="" value="">
+        <label for=""></label>
+      </div>
+    </template>
+  </head>
+  <body>
+    <div id='sidebar'>
+      <div id='jobs' class='control'>
+        <div class='header'>Jobs</div>
+        <div class='body'></div>
+      </div>
+    </div>
+    <div id='nodeviewer'>
+      <div class='title'></div>
+      <div id='navigation'></div>
+      <ul class='body'><li>Loading...</li></ul>
+    </div>
+    <div id='map' class='control'>
+      <div class='header'>Map (all nodes) <button>Show</button></div>
+      <div class='links hidden'></div>
+    </div>
+  </body>
+  <script type='module'>import './web/enkibot.js'</script>
+</html>

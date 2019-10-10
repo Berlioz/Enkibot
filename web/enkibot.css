@@ -1,0 +1,51 @@
+#sidebar{
+  float:right;
+  margin-left:1em;
+}
+.control{
+  background-color:lightgray;
+  padding:.5em;
+  border-radius:.25em;
+  text-align:center;
+  border:1px gray solid;
+}
+.header{
+  font-weight:bold;
+  margin:.25em 0;
+}
+.job{
+  text-align:left;
+  font-size:small;
+}
+#nodeviewer{
+  padding:1em;
+}
+#nodeviewer .title{
+  font-size:x-large;
+  font-weight:bold;
+  text-decoration:underline;
+}
+#nodeviewer .body{
+  margin-top:1em;
+  text-align:justify;
+}
+#nodeviewer #navigation{
+  font-weight:bold;
+  margin:.5em 0;
+}
+a:visited{
+  color:blue;
+}
+#map{
+  margin:1em;
+  color:black;
+  border-radius:2em!important;
+  display:grid;
+}
+#map .links a{
+  margin:.25em;
+  display:inline-block;
+}
+.hidden{
+  display:none;
+}
