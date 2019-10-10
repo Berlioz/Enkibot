@@ -1,5 +1,5 @@
 import {load} from './enkibot.js'
-import {jobselector} from './jobselector.js'
+import {jobselector} from './expandable/jobselector.js'
 import {nodeviewer} from './nodeviewer.js'
 
 var data=false

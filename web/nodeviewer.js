@@ -1,4 +1,4 @@
-import {jobselector} from './jobselector.js'
+import {jobselector} from './expandable/jobselector.js'
 import {load} from './enkibot.js'
 import {tags} from './tags.js'
 import {navigation} from './expandable/navigation.js'

@@ -9,12 +9,12 @@ export class Expandable{
   
   hide(){
     this.content.classList.add('hidden')
-    this.button.innerHTML='Show'
+    this.button.innerHTML='+'
   }
   
   show(){
     this.content.classList.remove('hidden')
-    this.button.innerHTML='Hide'
+    this.button.innerHTML='-'
   }
   
   toggle(){

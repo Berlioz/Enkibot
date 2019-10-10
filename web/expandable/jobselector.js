@@ -1,10 +1,15 @@
-import {jobs} from './tags.js'
-import {tags} from './tags.js'
+import {jobs,tags} from '../tags.js'
+import {Expandable} from './expandable.js'
 
-let control=document.querySelector('#jobs .body')
-let inputtemplate=document.querySelector('template#jobselect')
+const element=document.querySelector('#jobs ')
+const control=element.querySelector('.body')
+const inputtemplate=document.querySelector('template#jobselect')
 
-class JobSelector{
+class JobSelector extends Expandable{
+  constructor(){
+    super(control,element.querySelector('button'),false)
+  }
+  
   refresh(){
     control.innerHTML=''
     let sorted=Array.from(jobs)
