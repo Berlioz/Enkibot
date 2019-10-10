@@ -46,8 +46,6 @@ class NodeViewer{
       return false
     }
     if(tag.indexOf('INTERSECTION')>=0){
-      console.log(parameters)
-      for(let p of parameters) console.log(tags.has(p))
       for(let p of parameters) if(!tags.has(p)) return false
       return true
     }

@@ -1,73 +1,75 @@
 Manifest:
-  - torna
-  - karlabos
-  - ship_graveyard
-  - siren
-  - north_mountain
-  - magissa
-  - walse_tower
-  - garula
-  - tycoon_treasure
-  - fireship
-  - liquiflame
-  - karnak_500
-  - library
-  - ifrit
-  - byblos
-  - after_fireship
-  - chocobo_forest
-  - sandworm
-  - bearaga
-  - crayclaw
-  - w1_after_flight
-  - adamantoise
-  - soulcannon
-  - ronka
-  - archaeoavis
-  - purobolos
-  - titan
-  - chimera
-  - test
-  - galuf_castle
-  - galufamesh
-  - bridgeamesh
-  - lugor
-  - val
-  - dragon_pod
-  - surgate
-  - boatamesh
-  - shield_generator
-  - atomos
-  - ghidos_cave
-  - moore
-  - seal_crystals
-  - meatcastle
-  - exdeath_w2
-  - antlion
-  - chicken_knife
-  - pyramid
-  - melusine
-  - sealed_castle
-  - airship_w3
-  - island_shrine
-  - wendigo
-  - fork_tower
-  - omniscient
-  - sea_trench
-  - those_assholes
-  - istory_falls
-  - leviathan
-  - xzone
-  - calofisteri
-  - omega
-  - apanda
-  - exdeaths_castle
-  - azulmagia
-  - catastrophe
-  - halicarnassus
-  - dragondarchesbane
-  - voidamesh
-  - shinryu
-  - necrophobe
-  - tree_exdeath
-  - ned
+- adamantoise
+- after_fireship
+- airship_w3
+- antlion
+- apanda
+- archaeoavis
+- atomos
+- azulmagia
+- bearaga
+- begin
+- boatamesh
+- bridgeamesh
+- byblos
+- calofisteri
+- catastrophe
+- chicken_knife
+- chimera
+- chocobo_forest
+- class_notes
+- crayclaw
+- dragondarchesbane
+- dragon_pod
+- exdeaths_castle
+- exdeath_w2
+- fireship
+- fork_tower
+- galufamesh
+- galuf_castle
+- garula
+- ghidos_cave
+- halicarnassus
+- ifrit
+- island_shrine
+- istory_falls
+- karlabos
+- karnak_500
+- leviathan
+- library
+- liquiflame
+- lugor
+- magissa
+- meatcastle
+- melusine
+- moore
+- necrophobe
+- ned
+- north_mountain
+- omega
+- omniscient
+- purobolos
+- pyramid
+- ronka
+- sandworm
+- scrubamesh
+- seal_crystals
+- sealed_castle
+- sea_trench
+- shield_generator
+- shinryu
+- ship_graveyard
+- siren
+- soulcannon
+- surgate
+- those_assholes
+- titan
+- torna
+- tree_exdeath
+- tycoon_treasure
+- val
+- voidamesh
+- w1_after_flight
+- walse_tower
+- wendigo
+- xzone

@@ -5,7 +5,7 @@ import {nodes} from './nodes.js'
 export async function load(target){
   let yaml=await fetch(target)
   yaml=await yaml.text()
-  return jsyaml.load(yaml)
+  return jsyaml.safeLoad(yaml)
 }
 async function setup(){
   await nodes.load()
