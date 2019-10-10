@@ -1,6 +1,7 @@
 import {nodeviewer} from './nodeviewer.js'
 import {tags} from './tags.js'
-import {nodes} from './nodes.js'
+import {navigation} from './expandable/navigation.js'
+import './expandable/guides.js'
 
 export async function load(target){
   let yaml=await fetch(target)
@@ -8,7 +9,7 @@ export async function load(target){
   return jsyaml.safeLoad(yaml)
 }
 async function setup(){
-  await nodes.load()
+  await navigation.load()
   await tags.load()
   await nodeviewer.go('begin')
 }

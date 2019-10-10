@@ -1,7 +1,7 @@
 import {jobselector} from './jobselector.js'
 import {load} from './enkibot.js'
 import {tags} from './tags.js'
-import {nodes} from './nodes.js'
+import {navigation} from './expandable/navigation.js'
 
 const LINKOPTIONS={attributes:[{name:'target',value:'_blank'}]}
 

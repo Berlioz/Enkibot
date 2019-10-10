@@ -37,16 +37,19 @@
 a:visited{
   color:blue;
 }
-#navigation{
+.footer{
   margin:1em;
   color:black;
   border-radius:2em!important;
   display:grid;
 }
-#navigation .links a{
+.footer .links a{
   margin:.25em;
   display:inline-block;
 }
 .hidden{
   display:none;
+}
+.footer button{
+  border-radius:1em;
 }
