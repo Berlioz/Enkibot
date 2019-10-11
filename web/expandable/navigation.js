@@ -10,12 +10,14 @@ const button=element.querySelector('button')
 class Navigation extends Expandable{
   constructor(){
     super(links,button)
+    this.titles={} //titles (root YAML dictionary keys) by filename
   }
   
   async load(){
     this.nodes=await load('data/nodes.yaml')
+    this.titles=this.nodes['Titles']
     this.nodes=this.nodes['Manifest']
-    this.nodes.sort()
+    this.nodes.sort((a,b)=>this.titles[a].localeCompare(this.titles[b]))
     nodeviewer.addnavigation(false,this.nodes,links)
   }
 }

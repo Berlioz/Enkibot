@@ -1,8 +1,9 @@
-Kyrosiris' Least Favorite Boss:
+Adamantoise:
   Metadata:
     next-node: soulcannon
     previous-nodes: ['w1_after_flight', 'crayclaw']
   Generic:
+    - "AKA Kyrosiris' Least Favorite Boss"
     - "The Adamantoise has 2000 HP, good magic evade, and sky-high physical defenses."
     - "It has powerful physical attacks, which you'll want to scam with back-row + mitigation/status aliments."
     - "The hard part is simply managing to get damage past its defenses."

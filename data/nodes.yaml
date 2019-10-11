@@ -1,75 +1,146 @@
 Manifest:
-- adamantoise
-- after_fireship
-- airship_w3
-- antlion
-- apanda
-- archaeoavis
-- atomos
-- azulmagia
-- bearaga
 - begin
-- boatamesh
-- bridgeamesh
-- byblos
-- calofisteri
-- catastrophe
-- chicken_knife
-- chimera
-- chocobo_forest
 - class_notes
-- crayclaw
-- dragondarchesbane
-- dragon_pod
-- exdeaths_castle
-- exdeath_w2
-- fireship
-- fork_tower
-- galufamesh
-- galuf_castle
-- garula
-- ghidos_cave
-- halicarnassus
-- ifrit
-- island_shrine
-- istory_falls
+- torna
 - karlabos
-- karnak_500
-- leviathan
-- library
-- liquiflame
-- lugor
-- magissa
-- meatcastle
-- melusine
-- moore
-- necrophobe
-- ned
-- north_mountain
-- omega
-- omniscient
-- purobolos
-- pyramid
-- ronka
-- sandworm
-- scrubamesh
-- seal_crystals
-- sealed_castle
-- sea_trench
-- shield_generator
-- shinryu
 - ship_graveyard
 - siren
-- soulcannon
-- surgate
-- those_assholes
-- titan
-- torna
-- tree_exdeath
-- tycoon_treasure
-- val
-- voidamesh
-- w1_after_flight
+- north_mountain
+- magissa
 - walse_tower
+- tycoon_treasure
+- garula
+- fireship
+- liquiflame
+- karnak_500
+- library
+- ifrit
+- byblos
+- after_fireship
+- chocobo_forest
+- sandworm
+- bearaga
+- crayclaw
+- adamantoise
+- soulcannon
+- ronka
+- archaeoavis
+- purobolos
+- titan
+- chimera
+- galuf_castle
+- bridgeamesh
+- lugor
+- val
+- dragon_pod
+- surgate
+- boatamesh
+- shield_generator
+- atomos
+- ghidos_cave
+- moore
+- seal_crystals
+- meatcastle
+- scrubamesh
+- exdeath_w2
+- antlion
+- chicken_knife
+- pyramid
+- melusine
+- sealed_castle
+- airship_w3
+- island_shrine
 - wendigo
+- fork_tower
+- omniscient
+- sea_trench
+- those_assholes
+- istory_falls
+- leviathan
 - xzone
+- calofisteri
+- omega
+- apanda
+- exdeaths_castle
+- azulmagia
+- catastrophe
+- halicarnassus
+- dragondarchesbane
+- voidamesh
+- shinryu
+- necrophobe
+- tree_exdeath
+- ned
+Titles:
+  adamantoise: Adamantoise
+  after_fireship: Sailing
+  airship_w3: Aviation
+  antlion: Antlion
+  apanda: Apanda
+  archaeoavis: ArchaeoAvis
+  atomos: Atomos
+  azulmagia: Azulmagia/Apocalypse
+  bearaga: The Desert of Shifting Sands
+  begin: Intro
+  boatamesh: Boatamesh & Enkidu
+  bridgeamesh: Bridgamesh
+  byblos: Byblos
+  calofisteri: Calofisteri
+  catastrophe: Catastrophe
+  chicken_knife: Did You Get The Chicken Knife?!
+  chimera: Chimera
+  chocobo_forest: Chocobo Forest
+  class_notes: Class Tips
+  crayclaw: Crayclaw
+  dragon_pod: Dragon Pod/Hiryuu Plant
+  dragondarchesbane: TwinTania
+  exdeath_w2: W2 Exdeath
+  exdeaths_castle: Exdeath's Castle
+  fireship: Fireship
+  fork_tower: Fork Tower
+  galuf_castle: World 2 Intro
+  garula: Garula
+  ghidos_cave: Post-Submarine Questing
+  halicarnassus: Halicarnassus
+  ifrit: Ifrit
+  island_shrine: Island Shrine
+  istory_falls: Istory Falls
+  karlabos: Karlabos
+  karnak_500: The Karnak 500
+  leviathan: Leviathan
+  library: Library
+  liquiflame: Liquiflame
+  lugor: Lugor/Regole
+  magissa: Magissa + Forza
+  meatcastle: Meatcastle
+  melusine: Melusine
+  moore: Moore
+  necrophobe: Necrophobe
+  ned: Neo Ex Cactuar
+  north_mountain: Carwen/North Mountain
+  omega: Omega
+  omniscient: Minotauros + Omniscient
+  purobolos: Purobolos
+  pyramid: The Great Pyramid
+  ronka: Ronka Ruins
+  sandworm: Sandworm (Zerkersbane)
+  scrubamesh: Castlemesh
+  sea_trench: Deep Sea Trench
+  seal_crystals: Seal Crystals
+  sealed_castle: Sealed Castle
+  shield_generator: Shield Generator/Barrier Tower
+  shinryu: Shinryu
+  ship_graveyard: Ship Graveyard
+  siren: Siren
+  soulcannon: Soulcannon
+  surgate: Surgate
+  those_assholes: Three Stooges
+  titan: Titan
+  torna: Post-Wind Shrine
+  tree_exdeath: Tree Exdeath
+  tycoon_treasure: Tycoon (optional)
+  val: Val/Drakenvale
+  voidamesh: The Void
+  walse_tower: Walse/Walse Tower
+  wendigo: Stoker/Wendigo
+  xzone: X-Zone/Interdimensional Rift

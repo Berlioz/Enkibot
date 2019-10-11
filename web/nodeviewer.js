@@ -9,6 +9,7 @@ const LINKOPTIONS={attributes:[{name:'target',value:'_blank'}]}
 const element=document.querySelector('#nodeviewer')
 const title=element.querySelector('.title')
 const next=element.querySelector('#next')
+const previous=element.querySelector('#previous')
 const body=element.querySelector('.body')
 
 class NodeViewer{
@@ -17,6 +18,7 @@ class NodeViewer{
     this.nodetitle=false //root object key
     this.data=false //this.node[this.title]
     this.metadata=false //this.data['Metadata']
+    this.last=false //hold last this.filename
   }
   
   add(hint){
@@ -25,12 +27,12 @@ class NodeViewer{
     body.appendChild(item)
   }
   
-  addnavigation(label,nodes,parent=next){
+  addnavigation(label,nodes,parent){
     let div=document.createElement('div')
     if(label) div.innerHTML=`${label}: `
     for(let n of nodes){
       let link=document.createElement('a')
-      link.title=n
+      link.title=navigation.titles[n]
       link.innerHTML=link.title
       link.addEventListener('click',()=>this.go(n))
       link.href='#'
@@ -63,7 +65,12 @@ class NodeViewer{
   refresh(){
     title.innerHTML=this.nodetitle
     next.innerHTML=''
-    if(this.metadata['next-node']) this.addnavigation('Next',[this.metadata['next-node']])
+    previous.innerHTML=''
+    if(this.metadata['next-node']) this.addnavigation('Next',[this.metadata['next-node']],next)
+    if(this.last){
+      //TODO here we could use the metadata 'previous-nodes' field but the state of that is a mess, there are "previous nodes" with multiple values while walking forward is 100% linear, for example...
+      this.addnavigation('Back to',[this.last],previous)
+    }
     body.innerHTML=''
     for(let section of Object.keys(this.data)){
       let clean=section
@@ -86,6 +93,8 @@ class NodeViewer{
   
   async go(node){
     body.innerHTML='Loading...'
+    this.last=this.filename
+    this.filename=node
     this.node=await load(`data/nodes/${node}.yaml`)
     this.nodetitle=Object.keys(this.node)[0]
     this.data=this.node[this.nodetitle]
