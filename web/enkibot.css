@@ -54,3 +54,16 @@ a:visited{
   border-radius:1em;
 }
 #map img{margin: 0 auto;}
+@keyframes fade {
+  0%{opacity:0;}
+  100%{opacity:1;}
+}
+.marker{
+  border: yellow double .5em;
+  width:2em;
+  height:2em;
+  border-radius:2em;
+  z-index:1;
+  position:absolute;
+  animation: 1s infinite alternate ease fade;
+}
