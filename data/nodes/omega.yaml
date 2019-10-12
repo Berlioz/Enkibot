@@ -2,16 +2,19 @@
 Omega:
   Metadata:
     next-node: apanda
-    previous-nodes:
-    - calofisteri
+    previous-nodes: [calofisteri]
   Generic:
   - "Optional superboss; there is no reason other than bragging rights (and a shiny circle on your Fiesta page) to try this."
+  - 'Battle strategy (Final Fantasy V Wiki) https://finalfantasy.fandom.com/wiki/Omega_(Final_Fantasy_V)#Battle'
+  - 'Optional Omega battle (Caves of Narshe) https://www.cavesofnarshe.com/ff5/optional.php#omega'
+  - 'Parties as low as level 40 have been reported to win this fight but recommended level is 60. Some parties and players have trouble beating him even at level 90.'
   - "To pull this off at a sane level, you need both a way to neuter his offense and a way to actually hurt him."
-  - "Without cheese but with good sandbagging classes like WHM or BLU, you can try to fight it out normally...."
+  - "Without cheese but with good sandbagging classes like White or Blue mages, you can try to fight it out normally...."
   - "...but many parties don't even have a way to damage Omega through its 190 defense, 150 magic defense, Reflect, Shell, 7 elemental absorbs, 95% physical evasion, and 90% magic evasion."
+  - 'Will counter twice for any attack that deals damage.'
+  - 'Useful equipment: Fire Rings (absorb damage); Ribbons (negate statuses).'
   Bard:
-  - "Omega is vulnerable to being stopped by Romeo's Ballad."
-  - "On SNES and GBA, two hasted Bards can keep a full lock going while a third sings your speed up to 99."
+  - "On SNES and GBA, two hasted Bards can keep a full lock going through Romeo's Ballad while a third sings your speed up to 99."
   - "After maximizing speed, one Bard can keep lockdown going while the other two sing Hero's Rime and your stat buff song of choice."
   - "Then attack without fear of counterattacks."
   Beastmaster:
@@ -37,10 +40,12 @@ Omega:
   - "Meteor and Comet deal unaspected damage and ignore reflects."
   - "...Unless they roll fantastically high, however, they'll get completely nullified by Omega's sky-high MDefense."
   - "Quickleaking is really it for Time Mage without other class friends."
+  - "Float will negate Omega's Earthquake so you may want to apply it before battle."
+  - "Omega is vulnerable to Stop but it's fast-acting."
   Mystic-Knight:
-  - "Thundaga Sword will do 9999 damage to Omega."
+  - "Thundaga Sword will do 9999 damage to Omega - but will draw a counterarrack if it's charging up."
   Ranger:
-  - "While !Rapid Fire ignores defense and never misses, it also provokes TWO counterattacks."
+  - "While !Rapid Fire ignores defense and never misses, it also provokes TWO counterattacks if Omega is charging up."
   Dragoon:
   - "Dragoons can chip away with the Trident, a spear that does lightning damage."
   - "Even with !Jump, this will take ages. Consider not doing it."
