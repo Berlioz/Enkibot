@@ -14,86 +14,116 @@ Jobs:
   Knight:
     - Shield
     - Wind
+    - Physical
   Monk:
     - Pierce-Def
     - Wind
+    - Physical
   Thief:
     - lol
     - Wind
+    - Physical
   Black-Mage:
     - Break-Rods
     - Elemental
     - Heavyscammer
     - Wind
+    - Magical
+    - Magic-Damage
   White-Mage:
     - Healing
     - Staff
     - Inflict-Confuse
     - Wind
+    - Magical
   Blue-Mage:
     - Shield
     - Break-Rods
     - Heavyscammer
     - Healing
     - Wind
+    - Magical
+    - Magic-Damage
   Mystic-Knight:
     - Elemental
     - Shield
     - Water
+    - Physical
+    - Magic-Damage
   Time-Mage:
     - Staff
     - Break-Rods
     - Water
+    - Magical
+    - Magic-Damage
   Summoner:
     - Break-Rods
     - Elemental
     - Heavyscammer
     - Water
+    - Magical
+    - Magic-Damage
   Red-Mage:
     - Break-Rods
     - Staff
     - Inflict-Confuse
     - Healing
     - Water
+    - Magical
+    - Magic-Damage
   Berserker:
     - Shield
     - Heavyscammer
     - Pierce-Def
     - Water
+    - Physical
   Beastmaster:
     - Crown
     - Heavyscammer
     - Fire
+    - Physical
   Geomancer:
     - lol
     - Fire
+    - Magical
+    - Magic-Damage
   Ninja:
     - Elemental
     - Fire
+    - Physical
   Bard:
     - Crown
     - Fire
+    - Magical
+    - Magic-Damage
   Ranger:
     - Pierce-Def
     - Elemental
     - Fire
+    - Physical
   Samurai:
     - Shield
     - Heavyscammer
     - Pierce-Def
     - Earth
+    - Physical
   Dragoon:
     - Shield
     - Earth
+    - Physical
   Dancer:
     - Inflict-Confuse
     - Earth
+    - Magical
+    - Magic-Damage
   Chemist:
     - Healing
     - Crown
     - Staff
     - Heavyscammer
     - Earth
+    - Magical
+    - Magic-Damage
   Freelancer:
     - Staff
     - Break-Rods
