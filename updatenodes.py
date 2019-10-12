@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # updates data/nodes.yaml
 # DEPENDENCIES: pip3 install pyyaml
+# TODO would be good as a last step to check the actual files against the index and warn about any dangling nodes
 import yaml
 
 NODES={

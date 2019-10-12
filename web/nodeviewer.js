@@ -66,7 +66,8 @@ class NodeViewer{
     title.innerHTML=this.nodetitle
     next.innerHTML=''
     previous.innerHTML=''
-    if(this.metadata['next-node']) this.addnavigation('Next',[this.metadata['next-node']],next)
+    let nextnode=this.metadata['next-node']
+    if(nextnode&&nextnode!='end') this.addnavigation('Next',[nextnode],next)
     if(this.last){
       //TODO here we could use the metadata 'previous-nodes' field but the state of that is a mess, there are "previous nodes" with multiple values while walking forward is 100% linear, for example...
       this.addnavigation('Back to',[this.last],previous)

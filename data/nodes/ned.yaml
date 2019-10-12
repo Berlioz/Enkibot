@@ -1,11 +1,11 @@
 ---
-Neo Ex Cactuar:
+Neo Exdeath:
   Metadata:
     next-node: end
-    previous-nodes:
-    - tree_exdeath
+    previous-nodes: [tree_exdeath]
   Generic:
   - "Image guide: http://i.imgur.com/FphWf.gif"
+  - 'Battle strategy (Final Fantasy Wiki) https://finalfantasy.fandom.com/wiki/Neo_Exdeath_(Final_Fantasy_V)#Battle'
   - "High level strategy overview follows:"
   - "Biggest threats are: Grand Cross (random ailments), Almagest (1620-1665 holy damage + Sap status), enrage (last part living uses every part's bad stuff, attacks twice a turn)"
   - "Grand Cross can be mitigated with Hermes Sandals, Aegis Shield, and luck. Most parties will kill Grand Cross first to lower the number of dice rolls."
