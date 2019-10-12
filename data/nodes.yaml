@@ -71,6 +71,9 @@ Manifest:
 - necrophobe
 - tree_exdeath
 - ned
+- galufamesh
+- w1_after_flight
+- odin
 Titles:
   adamantoise: Adamantoise
   after_fireship: Sailing
@@ -99,6 +102,7 @@ Titles:
   fireship: Fireship
   fork_tower: Fork Tower
   galuf_castle: World 2 Intro
+  galufamesh: galufamesh
   garula: Garula
   ghidos_cave: Post-Submarine Questing
   halicarnassus: Halicarnassus
@@ -118,6 +122,7 @@ Titles:
   necrophobe: Necrophobe
   ned: Neo Exdeath
   north_mountain: Carwen/North Mountain
+  odin: Odin
   omega: Omega
   omniscient: Minotauros + Omniscient
   purobolos: Purobolos
@@ -141,6 +146,7 @@ Titles:
   tycoon_treasure: Tycoon (optional)
   val: Val/Drakenvale
   voidamesh: The Void
+  w1_after_flight: After Flight (world 1)
   walse_tower: Walse/Walse Tower
   wendigo: Stoker/Wendigo
   xzone: X-Zone/Interdimensional Rift

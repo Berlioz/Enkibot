@@ -43,7 +43,8 @@ Omega:
   - "Float will negate Omega's Earthquake so you may want to apply it before battle."
   - "Omega is vulnerable to Stop but it's fast-acting."
   Mystic-Knight:
-  - "Thundaga Sword will do 9999 damage to Omega - but will draw a counterarrack if it's charging up."
+  - "Thundaga Sword will do 9,999 damage to Omega but will draw a counter-attack if it's charging up."
+  - 'Thundaga is available at Moore for 6,000 gil.'
   Ranger:
   - "While !Rapid Fire ignores defense and never misses, it also provokes TWO counterattacks if Omega is charging up."
   Dragoon:
