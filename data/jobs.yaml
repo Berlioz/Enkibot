@@ -23,6 +23,7 @@ Jobs:
     - lol
     - Wind
     - Physical
+    - Dodger
   Black-Mage:
     - Break-Rods
     - Elemental
@@ -50,6 +51,7 @@ Jobs:
     - Water
     - Physical
     - Magic-Damage
+    - Dodger
   Time-Mage:
     - Staff
     - Break-Rods
@@ -91,16 +93,19 @@ Jobs:
     - Elemental
     - Fire
     - Physical
+    - Dodger
   Bard:
     - Crown
     - Fire
     - Magical
     - Magic-Damage
+    - Dodger
   Ranger:
     - Pierce-Def
     - Elemental
     - Fire
     - Physical
+    - Dodger
   Samurai:
     - Shield
     - Heavyscammer
@@ -140,5 +145,6 @@ Jobs:
     - Crown
   Gladiator:
     - Shield
+    - Dodger
   Oracle:
     - Staff
