@@ -12,6 +12,7 @@ class MapView extends Expandable{
   }
   
   addmarkers(){
+    this.clearmarkers()
     if(!nodeviewer||ELEMENT.classList.contains('hidden')||
       MAP.classList.contains('hidden'))
         return
@@ -44,6 +45,7 @@ class MapView extends Expandable{
     ELEMENT.classList.remove('hidden')
     MAP.src=`maps/${map}`
     LINK.href=MAP.src
+    this.addmarkers()
   }
   
   show(){

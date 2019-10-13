@@ -95,6 +95,7 @@ class NodeViewer{
       this.add('Tags: '+activetags.join(' '))
       this.add(JSON.stringify(this.node))
     }
+    mapview.refresh()
   }
   
   async go(node){
@@ -105,7 +106,6 @@ class NodeViewer{
     this.data=this.node[this.nodetitle]
     this.metadata=this.data['Metadata']
     this.refresh()
-    mapview.refresh()
   }
   
   navigate(){
