@@ -11,6 +11,6 @@ export async function load(target){
 async function setup(){
   await navigation.load()
   await tags.load()
-  await nodeviewer.go('begin')
+  nodeviewer.navigate()
 }
 setup()

@@ -3,8 +3,9 @@ Intro:
     next-node: class_notes
     previous-nodes: []
   Generic:
-    - "Enkibot is a hints file generator built by the Something Awful fiesta community."
+    - "Enkibot is a hints file generator originally created by the Something Awful fiesta community."
     - "Questions, corrections, suggestions? Come hang out on the goon fiesta discord! https://discord.gg/HZc6NCg"
+    - "Enkibot now supports internal links too! Check it out yo: enki.bot/class_notes (details at Read Me file)"
     - "Other resources that I'd recomend:"
     - "- http://ffvspirit.com/ has the best general-purpose walkthrough I know of."
     - "- http://www.cavesofnarshe.com/ff5/ is slicker but assumes you have all classes..."

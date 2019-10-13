@@ -7,6 +7,8 @@ const element=document.querySelector('#navigation')
 const links=element.querySelector('.links')
 const button=element.querySelector('button')
 
+export var root='begin'
+
 class Navigation extends Expandable{
   constructor(){
     super(links,button)
@@ -17,7 +19,7 @@ class Navigation extends Expandable{
     this.nodes=await load('data/nodes.yaml')
     this.titles=this.nodes['Titles']
     this.nodes=this.nodes['Manifest']
-    this.nodes.sort((a,b)=>this.titles[a].localeCompare(this.titles[b]))
+    this.nodes.sort((a,b)=>a==root?-1:this.titles[a].localeCompare(this.titles[b]))
     nodeviewer.addnavigation(false,this.nodes,links)
   }
 }

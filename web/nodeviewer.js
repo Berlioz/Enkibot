@@ -1,10 +1,11 @@
 import {jobselector} from './expandable/jobselector.js'
 import {load} from './enkibot.js'
 import {tags} from './tags.js'
-import {navigation} from './expandable/navigation.js'
+import {navigation,root} from './expandable/navigation.js'
 import {mapview} from './expandable/mapview.js'
 
 const LINKOPTIONS={attributes:[{name:'target',value:'_blank'}]}
+const INTERNAL='enki.bot/'
 
 const element=document.querySelector('#nodeviewer')
 const title=element.querySelector('.title')
@@ -18,12 +19,20 @@ class NodeViewer{
     this.nodetitle=false //root object key
     this.data=false //this.node[this.title]
     this.metadata=false //this.data['Metadata']
-    this.last=false //hold last this.filename
   }
   
   add(hint){
     let item=document.createElement('li')
     item.innerHTML=hint
+    for(let a of item.querySelectorAll('a')){
+      let i=a.href.indexOf(INTERNAL)
+      if(i>=0){
+        let to=a.href.substr(i+INTERNAL.length)
+        if(navigation.titles[to]) a.innerHTML=navigation.titles[to]
+        a.href='#'+to
+        a.target='_self'
+      }
+    }
     body.appendChild(item)
   }
   
@@ -34,8 +43,7 @@ class NodeViewer{
       let link=document.createElement('a')
       link.title=navigation.titles[n]
       link.innerHTML=link.title
-      link.addEventListener('click',()=>this.go(n))
-      link.href='#'
+      link.href='#'+n
       div.appendChild(link)
       parent.appendChild(div)
     }
@@ -63,15 +71,12 @@ class NodeViewer{
   }
   
   refresh(){
+    document.head.querySelector('title').innerHTML=this.nodetitle + ' | Enkibot'
     title.innerHTML=this.nodetitle
     next.innerHTML=''
     previous.innerHTML=''
     let nextnode=this.metadata['next-node']
     if(nextnode&&nextnode!='end') this.addnavigation('Next',[nextnode],next)
-    if(this.last){
-      //TODO here we could use the metadata 'previous-nodes' field but the state of that is a mess, there are "previous nodes" with multiple values while walking forward is 100% linear, for example...
-      this.addnavigation('Back to',[this.last],previous)
-    }
     body.innerHTML=''
     for(let section of Object.keys(this.data)){
       let clean=section
@@ -94,7 +99,6 @@ class NodeViewer{
   
   async go(node){
     body.innerHTML='Loading...'
-    this.last=this.filename
     this.filename=node
     this.node=await load(`data/nodes/${node}.yaml`)
     this.nodetitle=Object.keys(this.node)[0]
@@ -103,6 +107,12 @@ class NodeViewer{
     this.refresh()
     mapview.refresh()
   }
+  
+  navigate(){
+    this.go(location.hash.length>1?location.hash.substr(1):root)
+  }
 }
 
 export var nodeviewer=new NodeViewer()
+
+window.addEventListener('hashchange',()=>nodeviewer.navigate())

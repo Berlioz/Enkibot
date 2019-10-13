@@ -57,3 +57,10 @@ Regole Village:
     - "You can create conditions that are satisfied if none of the subsequent conditions are fulfilled."
     - "Even without a source of Float, you can always get it from a confused Gaelicat on North Mountain."
 ```
+## Inline links
+
+Enkibot will recognize and "linkify" valid URLs in the text of any hints (like `cavesofnarshe.com`) but also in particular special links in the format `enki.bot/node`, which will be automatically transformed into internal navigation (for example: writing `enki.bot/omega` will lead to the `omega` node when clicked). The Introduction node (`begin.yaml`) contains examples of both types of links - external and internal.
+
+This internal link mechanism is also designed to allow actual links (from other websites, mostly or even shared pages/copy-pasted addresses from inside Enkibot) to be fully functional. If you try clicking [this link](http://tukkek.github.io/Enkibot/#chocobo_forest), it should land you directly at *Chocobo Forest*, hopefully!
+
+Oh and through this all your browser's history features (ie. arrows) are fully supported, which is nice, kupo!
