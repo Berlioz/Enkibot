@@ -15,13 +15,15 @@ class MapView extends Expandable{
     if(!nodeviewer||ELEMENT.classList.contains('hidden')||
       MAP.classList.contains('hidden'))
         return
+    if(MAP.naturalWidth!=MAP.width||
+      MAP.naturalHeight!=MAP.height)
+        return //browser has resized image (eg. mobile), don't even try
     let coordinates=nodeviewer.metadata['coordinates']
     if(coordinates) for(let c of coordinates){
       let m=document.createElement('div')
       m.classList.add('marker')
-      let image=MAP.getBoundingClientRect()
-      m.style.left=image.left+c[0]-25+'px'
-      m.style.top=image.top+c[1]-25+'px'
+      m.style.left=MAP.offsetLeft+c[0]-25+'px'
+      m.style.top=MAP.offsetTop+c[1]-25+'px'
       document.body.appendChild(m)
       MARKERS.push(m)
     }
