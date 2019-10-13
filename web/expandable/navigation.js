@@ -19,7 +19,9 @@ class Navigation extends Expandable{
     this.nodes=await load('data/nodes.yaml')
     this.titles=this.nodes['Titles']
     this.nodes=this.nodes['Manifest']
-    this.nodes.sort((a,b)=>a==root?-1:this.titles[a].localeCompare(this.titles[b]))
+    this.nodes.sort((a,b)=>this.titles[a].localeCompare(this.titles[b]))
+    this.nodes.splice(this.nodes.indexOf(root),1)
+    this.nodes.splice(0,0,root)
     nodeviewer.addnavigation(false,this.nodes,links)
   }
 }
