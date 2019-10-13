@@ -1,7 +1,7 @@
 ---
 Phoenix Tower:
   Metadata:
-    next-node: TODO
+    next-node: w3_questing
     previous-nodes: [bahamut]
     map: phoenixtower.gif
   Generic: 

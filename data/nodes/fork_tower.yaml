@@ -7,8 +7,8 @@ Fork Tower:
     map: forktower.gif
   Generic:
   - "Think about whether you actually need to do the various optional World 3 dungeons; many parties do not."
-  - "If you don't need specific loot from Fork Tower, the Deep Sea Trench, or Istory Falls, and you don't have to unlock Cannoneer, Gladiator, or Oracle, you should just go to the Rift now."
-  - "Magic users go to the LEFT and physical fighters go to the RIGHT."
+  #- "If you don't need specific loot from Fork Tower, the Deep Sea Trench, or Istory Falls, and you don't have to unlock Cannoneer, Gladiator, or Oracle, you should just go to the Rift now."
+  - "Dual boss; you have to split up your parties for this. Mages go left, fighters go right."
   Break-Rods:
   - "Many rod-using parties can take good advantage of the Wonder Rod in Fork Tower, especially if they lack !White."
   - "It cycles through all the !White and !Black spells in a set order."

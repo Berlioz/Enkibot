@@ -1,9 +1,8 @@
 ---
 Leviathan:
   Metadata:
-    next-node: xzone
-    previous-nodes:
-    - istory_falls
+    next-node: w3_questing
+    previous-nodes: [istory_falls]
   Generic:
   - "Why are you here? There are easier Reflect Rings, and you don't need the actual summon."
   - "It's not even better than Syldra, unless you have a Chemist to mix Elemental Power."
