@@ -1,3 +1,7 @@
 Alex Corvi
-==========
+=======
 * Anchorme.js https://github.com/alexcorvi/anchorme.js
+
+Firestar_Pusheen
+===========
+* Moogle face icon http://www.rw-designer.com/icon-detail/15269
