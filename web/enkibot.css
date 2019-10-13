@@ -57,7 +57,10 @@ a:visited{
 .control button{
   border-radius:1em;
 }
-#map img{margin: 0 auto;}
+#map img{
+  margin:0 auto;
+  max-width:100%;
+}
 @keyframes fade {
   0%{opacity:0;}
   100%{opacity:1;}

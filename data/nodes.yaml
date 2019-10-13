@@ -72,6 +72,7 @@ Manifest:
 - tree_exdeath
 - ned
 - galufamesh
+- phoenix_tower
 - w1_after_flight
 - odin
 Titles:
@@ -125,6 +126,7 @@ Titles:
   odin: Odin
   omega: Omega
   omniscient: Minotauros + Omniscient
+  phoenix_tower: Phoenix Tower
   purobolos: Purobolos
   pyramid: The Great Pyramid
   ronka: Ronka Ruins

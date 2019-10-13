@@ -1,0 +1,16 @@
+---
+Phoenix Tower:
+  Metadata:
+    next-node: TODO
+    previous-nodes: [bahamut]
+    map: phoenixtower.gif
+  Generic: 
+  - 'Pretty out of the way (you can only come here after finding the Chocobo on Mirage Town).'
+  - "You can gamble a 1/3 chance of trading Elixirs for 100 Ability Points with the Magic Pot encounters." 
+  - "Elixirs are rare but can be farmed (in the area where Omega can be found later on, for example)."
+  - "If you don't have Exit on-hand, each Magic Pot you plan on meeting will take you 5 floors up and down."
+  - 'This walkthrough lists what hidden doors to take to avoid encounters https://gamefaqs.gamespot.com/gba/930369-final-fantasy-v-advance/faqs/63899'
+  - "Would be nice for someone to turn it into an image instead..." #TODO
+  - "The value of the Phoenix summon is debatable on most cases, considering all the effort of getting it."
+  NOT White-Mage:
+  - "Phoenix ressurects a target to full HP/MP. The 99 MP used can be a net-gain if you target a spell-caster."
