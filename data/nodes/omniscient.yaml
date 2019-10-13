@@ -1,9 +1,8 @@
 ---
 Minotauros + Omniscient:
   Metadata:
-    next-node: sea_trench
-    previous-nodes:
-    - fork_tower
+    next-node: w3_questing
+    previous-nodes: [fork_tower]
   Generic:
   - "Dual boss; you have to split up your parties for this."
   - "Minotaur is easy even for mages. Just whittle him down with Chicken Knife and potions."

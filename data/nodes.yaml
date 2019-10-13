@@ -47,16 +47,7 @@ Manifest:
 - chicken_knife
 - pyramid
 - melusine
-- sealed_castle
-- airship_w3
-- island_shrine
-- wendigo
-- fork_tower
-- omniscient
-- sea_trench
-- those_assholes
-- istory_falls
-- leviathan
+- w3_questing
 - xzone
 - calofisteri
 - omega
@@ -71,10 +62,21 @@ Manifest:
 - necrophobe
 - tree_exdeath
 - ned
+- sea_trench
 - galufamesh
+- wendigo
+- airship_w3
+- leviathan
+- sealed_castle
+- omniscient
+- those_assholes
+- gogo
 - phoenix_tower
 - w1_after_flight
+- istory_falls
 - odin
+- island_shrine
+- fork_tower
 Titles:
   adamantoise: Adamantoise
   after_fireship: Sailing
@@ -106,6 +108,7 @@ Titles:
   galufamesh: galufamesh
   garula: Garula
   ghidos_cave: Post-Submarine Questing
+  gogo: Famed Mystic Gogo
   halicarnassus: Halicarnassus
   ifrit: Ifrit
   island_shrine: Island Shrine
@@ -149,6 +152,7 @@ Titles:
   val: Val/Drakenvale
   voidamesh: The Void
   w1_after_flight: After Flight (world 1)
+  w3_questing: Optional World 3 quests
   walse_tower: Walse/Walse Tower
   wendigo: Stoker/Wendigo
   xzone: X-Zone/Interdimensional Rift

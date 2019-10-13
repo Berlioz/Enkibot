@@ -3,7 +3,6 @@ Post-Wind Shrine:
     next-node: karlabos
     previous-nodes: ['class_notes']
     map: world1.png
-    coordinates: [[196,169],[273,121],[321,210]]
   Generic:
     - "Most classes will not need to purchase gear in Torna to beat Karlabos, but it's cheap."
   Beastmaster:

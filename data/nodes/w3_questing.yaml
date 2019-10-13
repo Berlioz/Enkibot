@@ -1,0 +1,29 @@
+---
+Optional World 3 quests:
+  Metadata:
+    next-node: xzone
+    previous-nodes: [fork_tower]
+    map: [world3.png]
+    coordinates: [[232,392]]
+  Generic: 
+  - "This late into the game, Square decides Final Fantasy V should have been an open-world RPG 🤷"
+  - "This page shows your party's options from here. All links below should eventually loop back here again. "
+  - "Once you're done questing, proceed to the next node as usual to enter the late game."
+  - "Mirage has a lot of end-game shops available, with 2 sellers for each category (one may be hidden)."
+  - "enki.bot/phoenix_tower can net you 500 ABP (requires Black Chocobo from Mirage)"
+  - "In the enki.bot/sealed_castle you can unlock 3 weapons for each of the 4 tablets."
+  - "You already have the Earth Tablet. You can visit the Sealed Castle now and/or later with more tablets."
+  UNION Black-Mage White-Mage:
+  - "enki.bot/island_shrine has the Wind Tablet and unlocks the enki.bot/fork_tower (for Holy and Flare)."
+  Time-Mage:
+  - "enki.bot/sea_trench has the Fire Tablet and Meteor."
+  Summoner:
+  - "enki.bot/istory_falls has the Water Tablet and Leviathan."
+  - "enki.bot/odin can be of use (against Omega in particular)."
+  - "enki.bot/bahamut is arguably the most powerful Esper (requires Black Chocobo from Mirage)."
+  Bard:
+  - "Mirage should be the last piano lesson before you can unlock the final songs with the bard in Crescent."
+  Mime:
+  - "If you want to unlock the Mime, now is the time to fight enki.bot/gogo in the submerged Walse Tower."
+  NOT Magic-Damage:
+  - "You can ride Boko (yellow Chocobo) to the upstream of Istory Falls for the Magic Lamp."

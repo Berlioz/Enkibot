@@ -1,9 +1,8 @@
 ---
 Melusine:
   Metadata:
-    next-node: sealed_castle
-    previous-nodes:
-    - pyramid
+    next-node: w3_questing
+    previous-nodes: [pyramid]
   Generic:
   - "20000 HP, swaps between fire/ice/thunder/physical weaknesses, always beginning weak to fire."
   - "When in elemental-weak form, has lots of physical defense and spams the NON-WEAK elements at party."
