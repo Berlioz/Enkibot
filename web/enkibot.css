@@ -30,13 +30,14 @@
   margin-top:1em;
   text-align:justify;
 }
-#nodeviewer #next,#nodeviewer #previous{
+#nodeviewer #next{
   font-weight:bold;
   margin:.5em 0;
   display:inline-block;
 }
-#nodeviewer #next a,#nodeviewer #previous a{
+#nodeviewer #next a{
   margin-right:.5em;
+  display:flex;
 }
 a:visited{
   color:blue;

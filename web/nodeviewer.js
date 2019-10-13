@@ -110,6 +110,7 @@ class NodeViewer{
   
   navigate(){
     this.go(location.hash.length>1?location.hash.substr(1):root)
+    title.scrollIntoView()
   }
 }
 
