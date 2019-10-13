@@ -1,8 +1,9 @@
-Sailing:
+Sailing: #TODO should probably be restructured as an open-world node like w3_questing?
   Metadata:
     next-node: chocobo_forest
     previous-nodes: ['byblos']
   Generic:
+    - "If you haven't unlocked your Fire Crystal job yet, you'll want to go to enki.bot/chocobo_forest first."
     - "There's a few useful things you can do with the Fire-Powered Ship before you progress the plot."
     - "The random trash encounters around Jachol are difficult, since you're not 'supposed' to be there yet."
     - "The stores in Jachol sell Mage Mashers, Coral Swords, katanas, bows, and the Ninja Suit."
@@ -21,7 +22,7 @@ Sailing:
   Black-Mage:
     - "Black Mages can pick up the Toad spell in Istory. Walk in a circle on the flowers in the top-left of the town."
   Summoner:
-    - "Summoners can learn Ramuh from an encounter outside Istory."
+    - "Summoners can attain Ramuh from the eastern forest, if they're around Istory already."
   Thief:
     - "Ramuh's common steal is a Hi-Potion and he's a 70% encounter outside Istory until you kill him."
     - "You can steal Hi-Potions from him forever if you keep running from the fight."
