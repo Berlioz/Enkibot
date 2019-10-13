@@ -25,6 +25,7 @@
   font-size:x-large;
   font-weight:bold;
   text-decoration:underline;
+  display:flex;
 }
 #nodeviewer .body{
   margin-top:1em;
@@ -34,10 +35,10 @@
   font-weight:bold;
   margin:.5em 0;
   display:inline-block;
+  display:flex;
 }
 #nodeviewer #next a{
   margin-right:.5em;
-  display:flex;
 }
 a:visited{
   color:blue;

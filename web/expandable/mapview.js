@@ -3,6 +3,7 @@ import {nodeviewer} from '../nodeviewer.js'
 
 const ELEMENT=document.querySelector('#map')
 const MAP=ELEMENT.querySelector('img')
+const LINK=ELEMENT.querySelector('a')
 const MARKERS=[]
 
 class MapView extends Expandable{
@@ -40,6 +41,7 @@ class MapView extends Expandable{
     }
     ELEMENT.classList.remove('hidden')
     MAP.src=`maps/${map}`
+    LINK.href=MAP.src
   }
   
   show(){
