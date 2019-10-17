@@ -62,21 +62,22 @@ Manifest:
 - necrophobe
 - tree_exdeath
 - ned
-- sea_trench
-- galufamesh
-- wendigo
-- airship_w3
-- leviathan
 - sealed_castle
-- omniscient
-- those_assholes
-- gogo
 - phoenix_tower
-- w1_after_flight
-- istory_falls
-- odin
-- island_shrine
+- gogo
+- bahamut
+- leviathan
+- those_assholes
+- airship_w3
+- sea_trench
 - fork_tower
+- wendigo
+- odin
+- galufamesh
+- omniscient
+- w1_after_flight
+- island_shrine
+- istory_falls
 Titles:
   adamantoise: Adamantoise
   after_fireship: Sailing
@@ -86,6 +87,7 @@ Titles:
   archaeoavis: ArchaeoAvis
   atomos: Atomos
   azulmagia: Azulmagia/Apocalypse
+  bahamut: Bahamut
   bearaga: The Desert of Shifting Sands
   begin: Intro
   boatamesh: Boatamesh & Enkidu

@@ -1,9 +1,8 @@
 ---
 Aviation:
   Metadata:
-    next-node: island_shrine
-    previous-nodes:
-    - sealed_castle
+    next-node: w3_questing
+    previous-nodes: [sealed_castle]
   Generic:
   - "There are a lot of interesting things to do now that you have a working Airship."
   - "In a forest on an island to the south, you can visit the Phantom Village."

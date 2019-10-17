@@ -1,7 +1,7 @@
 ---
 Sealed Castle:
   Metadata:
-    next-node: airship_w3
+    next-node: w3_questing
     previous-nodes:
     - melusine
   Generic:

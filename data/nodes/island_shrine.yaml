@@ -6,7 +6,7 @@ Island Shrine:
     - airship_w3
   Generic:
   - "Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not."
-  - "The Island Shrine is required for Fork Tower, therefore also for the Deep Sea Trench and Istory Falls."
+  #TODO check- "The Island Shrine is required for Fork Tower, therefore also for the Deep Sea Trench and Istory Falls."
   INTERSECTION Cannoneer Gladiator Oracle:
   - "And yes, this means it's ultimately mandatory to unlock Cannoneer, Gladiator, and Oracle."
   Thief:

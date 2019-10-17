@@ -5,7 +5,7 @@ Stoker/Wendigo:
     previous-nodes:
     - island_shrine
   Generic:
-  - "20000 HP, uses physical attacks and Hurricane/Mind Blast/Confuse."
+  - "20,000 HP, uses physical attacks and Hurricane/Mind Blast/Confuse."
   - "Attacking the wrong one does no damage."
   - "They respond to multi-target attacks with an Ice-element counter."
   - "If you have Fire Rings or Ice Shields, you can just blast away to your heart's content."
