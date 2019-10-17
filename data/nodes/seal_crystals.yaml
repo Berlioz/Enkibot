@@ -5,12 +5,14 @@ Seal Crystals:
     previous-nodes:
     - moore
   Generic:
+  - "For grinding XP, encounters in the woods outside will give you either 800 XP or a chance at Elixir drops."
   - "7777 HP each, not Heavy, 20% magic evasion and level 77 to make it difficult to hit with inaccurate spells."
   - "Each Crystal switches from attacking to casting a spell at 3000 HP remaining: top Firaga, left Aeroga, bottom Earth Shaker, right Aqua Breath."
   - "Each Crystal also absorbs attacks of its element, and all four nullify Ice/Lightning/Holy/Poison."
   - "In general, avoid all-target attacks unless you think you can end the fight in one cycle."
   - "Parties with reasonable offenses can simply get a Crystal close to 3000 HP and try to kill it quickly."
   - "If you can (and aren't on mobile), put Bone Mail on Galuf to save yourself some time in the next fight."
+  - "If you equip the Flame Shield found in the previous area, the top crystal will now heal you with Fire 3."
   Blue-Mage:
   - "Death Claw, when it gets through their magic evasion, kills a Crystal (as long as you poke it immediately afterwards)."
   - "While the Crystals can be blinded, that's probably not the best use of your time."

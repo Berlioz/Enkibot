@@ -6,6 +6,7 @@ Surgate:
     - dragon_pod
   Generic:
   - "You can visit Surgate Castle at this point, but most parties shouldn't bother."
+  - "There's also ~80,000 gil in the Gil Cave east of Bal's Castle, if you're up to fighting the Gil Turtle..." #TODO would you ever really want to go there? when?
   Bard:
   - "Bards, however, can learn the incredible Swift Song from a book in King Xezat's bedroom."
   Time-Mage:
