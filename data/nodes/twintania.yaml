@@ -9,6 +9,7 @@ Twin Tania:
   - "Turtle up to avoid its counterattacks and use the Dagger to kill it instantly when it transitions."
   - "If you're having trouble surviving, equip a Coral Ring and physically attack to heal off of the counter."
   - "You can also use Reflect to turn the counterattacks against himself."
+  - "If nothing else, you can use the Magic Lamp to summon Odin."
   Break-Rods:
   - "The Wonder Wand from Fork Tower can be cycled all the way to casting Death... but you'll *probably* get blown up by hubris this way."
   - "<@CarbyBot> Oh my god, the Wonder Wand missed! (#25)"
@@ -16,6 +17,7 @@ Twin Tania:
   - "Holy Blade and Break Blade both work on the charging form."
   Summoner:
   - "Catoblepas and Odin both work on the charging form."
+  - "Carbuncle can be used to Reflect counterattacks."
   Time-Mage:
   - "Banish and Stop both work on the charging form."
   Beastmaster:
@@ -32,6 +34,8 @@ Twin Tania:
   - "!Iainuki works on the charging form."
   INTERSECTION Ranger Freelancer:
   - "Killer Bow works on the charging form."
+  Ranger:
+  - "Tania is always immune to Paralyze so !Animals's Flying Squirrel is innefective here."
   Cannoneer:
   - "Chaos Cannon works on the charging form."
   Red-Mage:
