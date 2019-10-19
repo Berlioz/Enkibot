@@ -10,6 +10,14 @@ class JobSelector extends Expandable{
     super(control,element.querySelector('button'),false)
   }
   
+  click(target){
+    if(target.checked)
+      localStorage[target.value]=true
+    else
+      delete localStorage[target.value]
+    tags.refresh()
+  }
+  
   refresh(){
     control.innerHTML=''
     let sorted=Array.from(jobs)
@@ -24,8 +32,10 @@ class JobSelector extends Expandable{
       label.setAttribute('for',input.id)
       label.innerHTML=j.replace('-',' ')
       control.appendChild(select)
-      input.addEventListener('click',()=>tags.refresh())
+      input.addEventListener('click',(e)=>this.click(e.target))
+      if(localStorage[j]) input.checked=true
     }
+    tags.refresh()
   }
   
   get jobs(){

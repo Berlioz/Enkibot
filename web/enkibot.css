@@ -76,3 +76,6 @@ a:visited{
   position:absolute;
   animation: 1s infinite alternate ease fade;
 }
+li{
+  margin:0.25em 0em;
+}
