@@ -56,28 +56,29 @@ Manifest:
 - azulmagia
 - catastrophe
 - halicarnassus
-- dragondarchesbane
+- twintania
 - voidamesh
 - shinryu
 - necrophobe
 - tree_exdeath
 - ned
-- sealed_castle
-- phoenix_tower
-- gogo
+- sea_trench
+- galufamesh
+- wendigo
+- airship_w3
 - bahamut
 - leviathan
-- those_assholes
-- airship_w3
-- sea_trench
-- fork_tower
-- wendigo
-- odin
-- galufamesh
+- sealed_castle
 - omniscient
+- those_assholes
+- gogo
+- phoenix_tower
 - w1_after_flight
-- island_shrine
 - istory_falls
+- odin
+- mirage
+- island_shrine
+- fork_tower
 Titles:
   adamantoise: Adamantoise
   after_fireship: Sailing
@@ -101,9 +102,8 @@ Titles:
   class_notes: Class Tips
   crayclaw: Crayclaw
   dragon_pod: Dragon Pod/Hiryuu Plant
-  dragondarchesbane: TwinTania
   exdeath_w2: W2 Exdeath
-  exdeaths_castle: Exdeath's Castle
+  exdeaths_castle: Ex Death's Castle
   fireship: Fireship
   fork_tower: Fork Tower
   galuf_castle: World 2 Intro
@@ -122,8 +122,9 @@ Titles:
   liquiflame: Liquiflame
   lugor: Lugor/Regole
   magissa: Magissa + Forza
-  meatcastle: Meatcastle
+  meatcastle: Ex Death's castle (Galuf's world)
   melusine: Melusine
+  mirage: Mirage (Phantom Village)
   moore: Moore
   necrophobe: Necrophobe
   ned: Neo Exdeath
@@ -150,11 +151,12 @@ Titles:
   titan: Titan
   torna: Post-Wind Shrine
   tree_exdeath: Tree Exdeath
+  twintania: Twin Tania
   tycoon_treasure: Tycoon (optional)
   val: Val/Drakenvale
   voidamesh: The Void
   w1_after_flight: After Flight (world 1)
-  w3_questing: Optional World 3 quests
+  w3_questing: Merged World questing
   walse_tower: Walse/Walse Tower
   wendigo: Stoker/Wendigo
   xzone: X-Zone/Interdimensional Rift

@@ -1,11 +1,10 @@
 ---
-TwinTania:
+Twin Tania:
   Metadata:
     next-node: voidamesh
     previous-nodes:
     - halicarnassus
   Generic:
-  - "There was an extended FF14 joke here, but then Stormblood got an entire FFV themed raid tier and it started to feel dated."
   - "It's not Heavy and has no status resistance at all when charging Giga Flare. You have the Assassin's Dagger."
   - "Just turtle up to avoid its counterattacks and get the Dagger proc to kill it instantly when it changes form."
   - "If you're having trouble surviving, you can equip a Coral Ring and physically attack to heal for free off the counterattack."
@@ -40,6 +39,6 @@ TwinTania:
   - "While White Mages can't wield the Assassin's Dagger, Twintania's weak to Holy and Reflect Rings bounce its Mega Flare counters."
   - "Or just use another party member with the Dagger. I assume you have one."
   Monk:
-  - "Boy, I hope you don't have four of these, because they're literally useless without someone else's skills here. Attacking triggers Tidal Wave, so wear Coral Rings."
+  - "Boy, I hope you don't have four monks, because they're literally useless without someone else's skills here. Attacking triggers Tidal Wave, so wear Coral Rings."
   Oracle:
   - "Oracle can't wield the Assassin's Dagger. If you have nothing but Monks and Oracles, break out the Coral Rings. Otherwise, the Dagger works."

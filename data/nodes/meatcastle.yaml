@@ -1,11 +1,15 @@
 ---
-Meatcastle:
+Ex Death's castle (Galuf's world):
   Metadata:
     next-node: scrubamesh
-    previous-nodes:
-    - seal_crystals
+    previous-nodes: [seal_crystals]
+  Generic:
+  - "The room after the first save point has tons of dragons - can be hard but also good XP."
+  - "After the second save point is not a good grinding spot (you can't return without going throuh lava)."
+  NOT Healing:
+  - "If you don't have cure, you will probably want to grind at least one level at this point."
   Staff:
-  - "To save yourself time in world 3, and open up some Triple Crown options, farm a Power Staff from Black Warlocks."
+  - "To save yourself time in world 3 and open up some Triple Crown options, farm a Power Staff from Black Warlocks."
   - "It casts Berserk when wielded, which has a number of obscure but quite useful applications."
   UNION Staff Thief:
   - "Your Thief can also steal a Judgment Staff from the very same Black Warlocks."

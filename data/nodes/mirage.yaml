@@ -1,0 +1,32 @@
+---
+Mirage (Phantom Village):
+  Metadata:
+    next-node: w3_questing
+    previous-nodes: [w3_questing]
+    map: [world3.png]
+    coordinates: [[232,392]]
+  Generic: 
+  - "On Final Fantasy Wiki: https://finalfantasy.fandom.com/wiki/Phantom_Village"
+  - "On The Spirit of Final Fantasy V http://ffvspirit.com/walkthrough.phtml?World=59"
+  - "Lists of items by shop http://www.geocities.ws/squarefocus/FFV/ffvsidequests/ffvmirage.html"
+  - "This is where you'll probably want to do all of your late-game shopping."
+  - "When shopping, keep in mind you'll eventually need many consumables to go into enki.bot/xzone ."
+  - "If you're halfway through on gil for an item, short enki.bot/xzone grinds should get you all the way there."
+  - "The Inn here doesn't sell Cottages but does sell Elixirs (for 50,000 gil)..."
+  - "If you plan on going to enki.bot/phoenix_tower , 3 Elixirs give you solid odds at 100ABP (1,500 gil/ABP)."
+  - "The weapon shop is probably irrelevant, since you now have access to a tablet ( enki.bot/sealed_castle )."
+  - "The armor shop has a hidden room (press the action button against the top bar) with:"
+  - "Coral ring (great against Shinryu, Leviathan and Twin Tania but makes you weak to fire)!"
+  - "Fire ring (great against Omega but makes you weak to water)! "
+  Healing:
+  - 'Running shoes (probably the better "generic" choice here since it will ALWAYS benefit you to a point).'
+  NOT Healing:
+  - "Guard ring (may be the best option if you don't have any healing)..."
+  Berserker:
+  - "Berserkers in particular will probably want to get the Running shoes."
+  Time-Mage:
+  - "If you have Exit, you can progress through enki.bot/x_zone and return easily at any point in time."
+  Ninja:
+  - "Unlike the main weapon shop, the hidden one has a lot of good !Throw consumables!"
+  Thief:
+  - "The hidden weapon shop may have something for Thiefs, if they didn't get a Sealed weapon."

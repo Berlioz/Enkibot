@@ -10,6 +10,8 @@
 # - Heavyscammer: class has an easy way to abuse Death/Petrify before assassin knife
 # - Crown: class guarantees a triple crown regardless of party composition
 
+#TODO could probably have "Area-damage" and "Single-damage" tags for classes that excel at those
+
 Jobs:
   Knight:
     - Shield
