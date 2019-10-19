@@ -2,12 +2,13 @@
 Twin Tania:
   Metadata:
     next-node: voidamesh
-    previous-nodes:
-    - halicarnassus
+    previous-nodes: [halicarnassus]
   Generic:
-  - "It's not Heavy and has no status resistance at all when charging Giga Flare. You have the Assassin's Dagger."
-  - "Just turtle up to avoid its counterattacks and get the Dagger proc to kill it instantly when it changes form."
-  - "If you're having trouble surviving, you can equip a Coral Ring and physically attack to heal for free off the counterattack."
+  - "Will usually counter physical attacks with Tidal Wave and magical attacks with Mega Flare."
+  - "It's not Heavy and has no status resistance when charging Giga Flare. Use the Assassin's Dagger."
+  - "Turtle up to avoid its counterattacks and use the Dagger to kill it instantly when it transitions."
+  - "If you're having trouble surviving, equip a Coral Ring and physically attack to heal off of the counter."
+  - "You can also use Reflect to turn the counterattacks against himself."
   Break-Rods:
   - "The Wonder Wand from Fork Tower can be cycled all the way to casting Death... but you'll *probably* get blown up by hubris this way."
   - "<@CarbyBot> Oh my god, the Wonder Wand missed! (#25)"

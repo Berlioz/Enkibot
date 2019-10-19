@@ -40,7 +40,7 @@ Manifest:
 - ghidos_cave
 - moore
 - seal_crystals
-- meatcastle
+- ex_castle_w2
 - scrubamesh
 - exdeath_w2
 - antlion
@@ -52,7 +52,7 @@ Manifest:
 - calofisteri
 - omega
 - apanda
-- exdeaths_castle
+- ex_castle_void
 - azulmagia
 - catastrophe
 - halicarnassus
@@ -102,8 +102,9 @@ Titles:
   class_notes: Class Tips
   crayclaw: Crayclaw
   dragon_pod: Dragon Pod/Hiryuu Plant
+  ex_castle_void: Ex Death's Castle (Void)
+  ex_castle_w2: Ex Death's castle (Galuf's world)
   exdeath_w2: W2 Exdeath
-  exdeaths_castle: Ex Death's Castle (Void)
   fireship: Fireship
   fork_tower: Fork Tower
   galuf_castle: World 2 Intro
@@ -122,7 +123,6 @@ Titles:
   liquiflame: Liquiflame
   lugor: Lugor/Regole
   magissa: Magissa + Forza
-  meatcastle: Ex Death's castle (Galuf's world)
   melusine: Melusine
   mirage: Mirage (Phantom Village)
   moore: Moore

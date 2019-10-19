@@ -1,9 +1,8 @@
 ---
 Seal Crystals:
   Metadata:
-    next-node: meatcastle
-    previous-nodes:
-    - moore
+    next-node: ex_castle_w2
+    previous-nodes: [moore]
   Generic:
   - "For grinding XP, encounters in the woods outside will give you either 800 XP or a chance at Elixir drops."
   - "7777 HP each, not Heavy, 20% magic evasion and level 77 to make it difficult to hit with inaccurate spells."

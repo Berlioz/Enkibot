@@ -2,8 +2,7 @@
 Castlemesh:
   Metadata:
     next-node: exdeath_w2
-    previous-nodes:
-    - meatcastle
+    previous-nodes: [ex_castle_w2]
   Generic:
   - "13000 effective HP, spams the same old Blue Magic + new status aliments."
   - "Totally optional, if you don't need Excalipoor or the Genji Helmet and, later, Genji Armor."

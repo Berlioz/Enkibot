@@ -1,9 +1,8 @@
 ---
 Apanda:
   Metadata:
-    next-node: exdeaths_castle
-    previous-nodes:
-    - omega
+    next-node: ex_castle_void
+    previous-nodes: [omega]
   Generic:
   - "22200 HP, Byblos 2.0, counterattack routines and all."
   - "You have a few more options available to you now, though..."
