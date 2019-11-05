@@ -14,20 +14,20 @@ The Karnak 500:
     - "You demolish chest enemies with Two-Handed attacks, if you have it."
   Thief:
     - "If your offense is good, you can steal plenty of Elixirs from the Gigas enemies in every trapped chest."
-    - "Remember, you can Flee from trapped chests and re-open them again to steal again! This is your best use of any remaining time after you've beaten Iron Claw but before you leave the area."
+    - "Remember, you can !Flee from trapped chests and re-open them again to steal again! This is your best use of any remaining time after you've beaten Iron Claw but before you leave the area."
     - "You should also common-steal some Mage Mashers from the Sorcerers in chests here."
   Generic`:
     - "Get the Elven Mantle and Main Gauche; those are the best unconditional loot in here."
   Dancer:
     - "There's also a Ribbon! Get the Ribbon! You'll need it for your Dancer! It's rad!"
-  NOT Dancer:
-    - "You could let the Ribbon burn since you don't have a Dancer, but it's bad form to not save the poor thing."
   Freelancer:
     - "Freelancers can also wear the Ribbon! And should. Get the Ribbon and never take it off."
+  UNION NOT Dancer NOT Freelancer:
+    - "You could let the Ribbon burn since you don't have anyone to wear it, but it's bad form to not save the poor thing."
   Blue-Mage:
     - "You can learn Aera from the Gigases here for your Blue Mage, though it won't be too long until you can get it again."
-    - "Since the Gigases are immune to wind themselves, parties relying on Blue Mages will have serious damage problems here."
-    - "Consider running straight to the exit for Death Claw, then doubling back to clear out the trapped chests."
+    - "Since the Gigases are immune to wind themselves, parties relying on !Blue will have serious damage problems here."
+    - "Consider running straight to the exit to learn Death Claw, then doubling back to clear out the trapped chests."
   INTERSECTION Black-Mage Red-Mage:
     - "You have the firepower (literally) to grab every chest with time to spare, if you want them."
     - "I like to farm up gil for a few rods off Wild Nakks before coming here, to extra-trivialize things."
@@ -37,6 +37,6 @@ The Karnak 500:
     - "You'll have to kill Iron Claw, a miniboss with 900 HP and some Cur Nakk friends, before you exit the castle."
   Blue-Mage`:
     - "He can teach you Death Claw, and this is the only spot to get it for a while. It's lovely against anything that's not Heavy."
-    - "Don't kill the sergeant before he transforms into Iron Claw if you want Death Claw."
+    - "Don't kill the Sergeant before he transforms into Iron Claw if you want Death Claw."
   NOT Blue-Mage:
     - "Don't bother fighting it out. You can prevent Iron Claw from spawning by leaving one Cur Nakk alive and then attacking the Sergeant to death."

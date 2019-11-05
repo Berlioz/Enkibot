@@ -36,4 +36,4 @@ Soulcannon:
     - "Less good plan: Capture a Prototype and release it for ~1k all-target damage to deal with the Launchers as well."
     - "Prototype is vulnerable to !Control, but actually reducing it to 1/8 hp is an exercise for the reader."
   Generic`:
-    - "All damage in this fight is % based, so armor does nothing. Consider unequipping it for speed."
+    - "All damage in this fight is percentage-based, so armor does nothing. Consider unequipping it to lower your Equip Weight to act faster."

@@ -4,18 +4,18 @@ Siren:
     previous-nodes: ["ship_graveyard"]
   Generic:
     - "900 HP; switches between a high-magic-defense human form and a high-physical-defense undead form."
-    - "She is Heavy, so no getting cheeky with Phoenix Downs"
+    - "Siren is Heavy, so no getting cheeky with Phoenix Downs"
   NOT White-Mage:
     - "Even without !White, you can damage the undead form for 50 HP a shot with Potions."
   White-Mage:
-    - "You can use Cure to deal big damage to her undead form."
-    - "The Flail ignores defense, which means you can actually also do some pretty nice damage to her human form."
+    - "You can use Cure to deal big damage to the undead form."
+    - "The Flail ignores defense, which means you can actually also do some pretty nice damage to the human form."
     - "Remember that the Flail can be used from the back row at 100% damage."
   Black-Mage:
-    - "Her undead form is weak to Fire."
+    - "The undead form is weak to Fire."
   Blue-Mage:
-    - "Don't try to use Vampire on her Undead form; the results are as predictable as they are unfortunate."
+    - "Don't try to use Vampire on the Undead form; the results are as predictable as they are unfortunate."
   Monk:
     - "Fist criticals can penetrate Siren's hefty physical defense even in undead form."
   Beastmaster:
-    - "Chaos Beastmasters can catch a Carcruthl to instantly kill her with Hug."
+    - "Chaos Beastmasters can catch a Carcruthl to instantly kill Siren with Hug."
