@@ -20,17 +20,17 @@ W2 Exdeath:
     - "If you bothered to get Level 3 Flare before this fight, it's solid damage when you use it."
   Time-Mage:
     - "Do not use Slow. Exdeath will counter with Haste, which overwrites Slow instead of just cancelling it."
-    - "Do use Float on your party to avoid Earth Shaker; even if he uses 100 Gs it wastes a turn (and you can recast Float to waste another)."
+    - "Do use Float on your party to avoid Earth Shaker; even if Exdeath uses 100 Gs it just wastes a turn (and you can recast Float.)"
   UNION Time-Mage White-Mage:
     - "If you can Reflect Exdeath and bounce a Slow off your own party, the resulting Haste counter bounces off too."
   Summoner:
     - "Make sure you keep Golem up; Exdeath's Vacuum Wave physicals are nasty."
   Beastmaster:
-    - "Releasing four Yellow Dragons (8192 damage each) will instantly kill Exdeath."
+    - "Releasing four Yellow Dragons (8192 damage each) does 100% total."
   Ninja:
-    - "Consider !Throwing your Excalipoor or the Fuma Shuriken from two floors down to get through Exdeath's last 7000 HP."
+    - "Consider !Throwing the Excalipoor and the Fuma Shuriken from two floors down to get through Exdeath's last 7000 HP."
   Mystic-Knight:
-    - "Mystic Knights may have luck applying Drain Sword and just trying to DPS race Exdeath."
+    - "Mystic Knights may have luck applying Drain Sword and just trying to DPS race."
   Bard:
     - "Going Super Saiyan on Exdeath with Swift Song is technically possible but tricky. Watch out for Condemn."
   Chemist:
@@ -41,8 +41,8 @@ W2 Exdeath:
     - "This also takes forever and should very much be treated as a last resort - that said, it can be useful to quickly push Exdeath below 16000 for the phase change."
     - "If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring."
   UNION Staff Ranger:
-    - "!Rapid Fire works with Staff of Light physical attacks. This obscurely specific tip sounds like a joke, but it isn't. Go for it!"
+    - "!Rapid Fire works with Staff of Light physical attacks. This obscurely specific tip sounds like a joke, but it isn't."
   NOT Healing:
-    - "Players with weak healing options should consider reading Exdeath's AI script to understand when he will cast Zombie Breath, which can spell a wipe for parties at low HP when it's cast."
+    - "Players with weak healing options should consider reading Exdeath's AI script to be ready for Zombie Breath, which can spell a wipe for parties at low HP when it's cast."
   Shield:
     - "Consider carefully what you give your Aegis Shield user; if things start going south they will likely be the one responsible for saving the fight."
