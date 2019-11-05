@@ -24,7 +24,7 @@ class Generator
     "Dancer" => "DNC",
     "Chemist" => "CHM",
     "Freelancer" => "FRE",
-    "Mime" => "MIM"
+    "Mime" => "MIM",
     "Cannoneer" => "CAN",
     "Gladiator" => "GLD",
     "Oracle" => "ORC"
