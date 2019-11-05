@@ -8,25 +8,25 @@ Melusine:
   - "20000 HP, swaps between fire/ice/thunder/physical weaknesses, always beginning weak to fire."
   - "When in elemental-weak form, has lots of physical defense and spams the NON-WEAK elements at party."
   - "When in physical-weak form, has 0 physical defense and 0 physical evasion."
-  - "Your Chicken Knife wielder will always be able to pierce her physical defenses."
-  - "Reflect Rings make it nearly impossible to die, but be aware it'll let her heal herself occasionally with absorbs."
+  - "Your Chicken Knife wielder will always be able to pierce the physical defense."
+  - "Reflect Rings make it nearly impossible to die, but mean Melusine occasionally self-heals."
   INTERSECTION Red-Mage White-Mage:
   - "Congratulations, you've found the one time in the game the !White spell Libra is theoretically useful."
-  - "You can also neuter her offense with Shell, or stick Silence onto her, though it'll need refreshing periodically."
-  - "Confuse also works on her."
+  - "You can also just cast Shell and heal through it all."
+  - "Melusine is vulnerable to both Silence and Confuse. Go wild."
   Blue-Mage:
-  - "The Blue Mage !Scan ability will let you determine which form she changed to, if you care."
-  - "Aqua Rake is non-elemental, giving you a way to hit the magic-vulnerable forms."
-  - "Also, Fire Rods exist."
+  - "The Blue Mage !Scan ability will let you determine the current weakness, if you care."
+  - "Aqua Rake is non-elemental, giving you a way to hit all three magic-vulnerable forms."
+  - "Also, Fire Rods exist. Just break those and you'll win before the first weakness swap."
   Time-Mage:
-  - "Melusine's vulnerable to both Slow and Stop."
-  - "Also, Fire Rods exist."
+  - "Melusine is vulnerable to both Slow and Stop."
+  - "Also, Fire Rods exist. Just break those and you'll win before the first weakness swap."
   Mystic-Knight:
-  - "Silence Blade will always work on Melusine, which makes the fight easier to just bum rush."
-  - "Sleep Blade also works, which is even easier."
-  - "Firaga Blade is guaranteed 9999 for the first three rounds of the fight, which is even easier than that."
+  - "Silence Blade will always work on Melusine, which makes the fight easy to burn down."
+  - "Sleep Blade also always works, which is even easier."
+  - "Firaga Blade is guaranteed to do 9999 for the first three rounds of the fight, which is even easier than that."
   Black-Mage:
-  - "Melusine is vulnerable to Sleep, but you can probably Firaga her down before her weakness ever changes."
+  - "Melusine is vulnerable to Sleep, but you can probably deal 20k with Firaga spam before the first weakness swap."
   Beastmaster:
   - "Bulettes in the desert !Release to Attack for about 4000 damage. It's not great, but there's no better option this early in World 3."
   Ranger:
@@ -37,11 +37,11 @@ Melusine:
   Ninja:
   - "You can move the Chicken Knife to another melee class and still deal decent damage with !Throw here."
   Bard:
-  - "Alluring Air can confuse her, which works as well as you think."
-  - "Romeo's Ballad also works, although not for very long. You can probably lock her down with three !Singers."
+  - "Alluring Air can confuse Melusine, which works as well as you think."
+  - "Romeo's Ballad also works, although not for very long. You can probably get a soft lock with three dedicated !Singers."
   Summoner:
   - "While you certainly can spam Ifrit, you might be better served using your other jobs' strategies or breaking rods."
   Chemist:
-  - "Take advantage of Melusine's 0 magic defense in all three elemental forms and Succubus's Kiss her to death."
+  - "Take advantage of Melusine's 0 magic defense in all three elemental forms and spam Succubus's Kiss."
   Pierce-Def:
   - "Defense-piercing critical hits and Axes work well against the elemental forms."
