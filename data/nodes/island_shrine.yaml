@@ -5,12 +5,12 @@ Island Shrine:
     previous-nodes:
     - airship_w3
   Generic:
-  - "Consider carefully whether you actually need to do the various optional World 3 dungeons; many parties do not."
-  #TODO check- "The Island Shrine is required for Fork Tower, therefore also for the Deep Sea Trench and Istory Falls."
+  - "Consider carefully whether you actually need to do the various optional World 3 dungeons. Most parties don't!"
+  - "The Island Shrine is required for Fork Tower, therefore also the Deep Sea Trench and Istory Falls."
   INTERSECTION Cannoneer Gladiator Oracle:
-  - "And yes, this means it's ultimately mandatory to unlock Cannoneer, Gladiator, and Oracle."
+  - "And yes, this means it's mandatory to unlock Cannoneer, Gladiator, and Oracle. Sorry."
   Thief:
-  - "The Island Shrine contains the Rising Sun, the best thief weapon in the game (oh boy!)."
-  - "Additional Mirage Vests, which grant natural Blink, can be rarely stolen from Oiseaurare."
+  - "The Island Shrine contains the Rising Sun, the best Thief-only weapon in the game (oh boy!)."
+  - "Additional Mirage Vests, which grant natural Blink, can be rarely stolen from Oiseaurares in the Shrine as well."
   Beastmaster:
-  - "If you're coming here for other reasons anyway, the Beast Killer whip can come in handy for a few fights later."
+  - "If you're coming here for other reasons anyway, the Beast Killer whip can do a lot in a few fights later."
