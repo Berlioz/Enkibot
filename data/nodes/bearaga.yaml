@@ -3,7 +3,7 @@ The Desert of Shifting Sands:
     next-node: crayclaw
     previous-nodes: ['sandworm']
   Ninja:
-    - "Water Scrolls (bought in Lix) murder everything in the desert."
+    - "Water Scrolls (bought in Lix) murder everything in the desert, even though they didn't do that to Sandworm. Water element is weird."
   UNION Thief Dragoon:
     - "You should steal a Javelin from the Sand Bears here."
     - "The Javelin is literally the fourth-best spear in the game, and won't be replaced until the very end of World 2."
