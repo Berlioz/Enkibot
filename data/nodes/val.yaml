@@ -35,15 +35,15 @@ Val/Drakenvale:
   Beastmaster:
   - "Beastmasters should make sure they get the Hypno Crown here, which doubles the success rate of !Control."
   Summoner:
-  - "Later in the area you'll find Golem being harassed by undead dragons. Save him and you'll earn his useful summon."
+  - "Later in the area you'll find a random encounter with Golem being harassed by undead dragons. Save him and you'll earn his useful summon."
   Generic``:
   - "The big prize is the Bone Mail, which you can find hidden on a skeleton near the top of Drakenvale."
   - "It's a medium armor with sky-high physical defense and immunities to death, poison, old, confuse, and berserk."
   - "It also makes the wearer undead, so healing magic hurts them instead and instant death effects fully heal them instead."
   - "You can also get around this with elemental absorb: Flame Rings are particularly good since Bone Mail also gives a fire weakness."
   Blue-Mage`:
-  - "The Blue Mage's White Wind spell can still heal Bone Mail wearers, because !Blue wasn't good enough already."
+  - "The Blue Mage's White Wind spell still heals Bone Mail wearers, because !Blue wasn't good enough already."
   Mystic-Knight:
-  - "Drain !Spellblade can still heal Bone Mail wearers, because !Spellblade wasn't good enough already."
+  - "Drain !Spellblade still heals Bone Mail wearers, because !Spellblade wasn't good enough already."
   Generic```:
   - "Bone Mail is best against random encounters, bosses that mostly attack physically, or bosses that mostly use status spells."
