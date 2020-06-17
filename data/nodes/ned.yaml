@@ -7,47 +7,44 @@ Neo Exdeath:
   - "Image guide: http://i.imgur.com/FphWf.gif"
   - 'Battle strategy (Final Fantasy Wiki) https://finalfantasy.fandom.com/wiki/Neo_Exdeath_(Final_Fantasy_V)#Battle'
   - "High level strategy overview follows:"
-  - "Biggest threats are: Grand Cross (random ailments), Almagest (1620-1665 holy damage + Sap status), enrage (last part living uses every part's bad stuff, attacks twice a turn)"
+  - "Biggest threats are: Grand Cross (random ailments), Almagest (1620-1665 holy damage + Sap status), enrage (last part living uses every part's bad stuff, plus gets two attacks per turn)."
   - "Grand Cross can be mitigated with Hermes Sandals, Aegis Shield, and luck. Most parties will kill Grand Cross first to lower the number of dice rolls."
   - "Almagest is a HP check. Unless you have extreme damage output and rush it first, you will need the HP (or Shell) to survive it."
   - "You can skip enrage either by counting HP and killing the last 2 parts at the same time..."
   - "...or by saving the bottom, non-Heavy part for last, then killing it with the Magic Lamp's Odin."
   - 'Around level 40 is considered enough to beat Exdeath when playing the game casually'
   Break-Rods:
-  - "Even without !White, you get one free Shell casting from the Wonder Wand, if you have it."
+  - "Even without !White, you get one free Shell cast from the Wonder Wand."
   Berserker:
-  - "In the SNES version, there are two 'dummy' targets in the fight that will cause your Berserker to miss a lot."
-  - "You will probably be better served equipping the Earth Hammer and Thornlet to underflow your magic stat."
+  - "In the SNES version, there are two 'dummy' targets in the fight that will cause your Berserker to miss a lot. You will probably be better served equipping the Earth Hammer and Thornlet to underflow your magic stat."
   - "In the GBA version, the dummy targets are gone, making the Rune Axe much more reliable."
-  - "In the mobile version, Berserkers attack targets in a nice orderly fashion, which is actually awful when trying to not leave one part alive alone. Play around it."
+  - "In the mobile version, Berserkers attack targets in a nice orderly fashion, which is actually awful when trying to avoid enrage mode. Play around it."
   Mystic-Knight:
-  - "Congratulations! Mystic Knights don't care about Almagest."
-  - "Break Blade kills the part that casts it with 100% accuracy."
+  - "Congratulations! Mystic Knights don't care about Almagest. Break Blade kills the part that casts it with 100% accuracy."
   Time-Mage:
-  - "If things go seriously south, the Time Mage's Quick is a good recovery tool."
-  - "Quick will allow you to throw out multiple Phoenix Downs/Remedies/Elixirs in a single action."
-  - "On SNES, Meteor will be weaker than expected, due to the presence of two 'dummy' targets."
+  - "If things go seriously south, Quick is a good recovery tool to throw out two Phoenix Downs/Remedies/Elixirs in one turn."
+  - "On SNES, your Meteors will be weaker than expected, due to the presence of two 'dummy' targets."
   - "If you're a gambling sort, you can try to land Old on the Almagest part at *extremely* low odds."
   - "You can also, with even more gambling (and high levels) involved, attempt to Banish the far-left piece. Not very practical, but absolutely hilarious."
   Dragoon:
-  - "The Dragon Lance is super-effective vs. the Grand Cross part, if you're burning that one first."
+  - "The Dragon Lance is super-effective against the Grand Cross part, if you're burning that one first."
   - "Almagest is telegraphed by Neo Exdeath beginning to shake, and Grand Cross is telegraphed by the warning 'The laws of the universe mean nothing!'."
-  - "Your Dragoon can dodge them with !Jump if properly timed."
+  - "A well-timed !Jump can dodge each."
   Dancer:
   - "You'll probably have to look elsewhere for damage, but Equip Ribbons make Grand Cross almost completely useless."
-  - "That said, the Man-Eater deals critical damage to the left-most piece (the one that casts magic... and is killed by Lamp Odin)."
+  - "That said, the Man-Eater deals critical damage to the left-most piece (the one that dies to Magic Lamp Odin, so this tip isn't great.)"
   Chemist:
   - "Chemists can do excellent AoE by spamming Holy Breath (Dragon Fang + Holy Water)."
-  - "It does damage equal to your HP, which is affected by the doubling from Giant's Drink"
-  - "Between Giant's Drinks and the ability to Shell allies, Chemists can neuter Almagest."
-  - "The Dragon's Kiss (Dragon Fang + Maiden's Kiss) also grants immunity from Grand Cross's 'HP Critical' result." 
+  - "It does damage equal to your HP, which combos with Giant's Drink doubling your max HP."
+  - "Between Giant's Drink and the ability to Shell the team, Chemists can neuter Almagest."
+  - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) also grants immunity from Grand Cross's 'HP Critical' result." 
   Samurai:
   - "You will need an obscene amount of cash to kill NED with just !Zeninage, but it's conceptually simple."
   - "If you have a way to kill them, the Movers in the last room of the void drop 50k gil each and come in packs of three."
   Thief:
   - "Remember that weapons you steal off of NED's parts (Ragnarok, Dragon Lance, Murakumo) can be equipped mid-battle."
   UNION Thief Ninja:
-  - "...or thrown, with your Ninja."
+  - "...or thrown by your Ninja."
   Beastmaster:
   - "Beastmasters can release a Dragon Aevis for a 9999-all-target Breath Wing. 4 of them will get NED's parts real low."
   - "You can also release a Crystelle for Mighty Guard to trivialize Almagest, but catching one's a horrible pain."
@@ -56,12 +53,12 @@ Neo Exdeath:
   - "Mighty Guard and White Wind allow you to win stand-up brawls against NED with little fuss."
   - "Or you could abuse Dark Spark and L5 Death, but honestly it's not really worth the setup time and Dark Spark missing."
   UNION Blue-Mage Chemist:
-  - "Unless you have !Mix AND math at your side, which lets you set up the hilarious QUAD SKULL by taking all parts to level 255."
+  - "Unless you have !Mix AND math both on your side, which lets you set up the hilarious QUAD SKULL by taking all parts to level 255."
   Blue-Mage`:
-  - "Condemn/Doom works on the far-left piece, if you don't want to just Magic Lamp it, or if you think that telling the final boss it has 30 seconds to live is hilarious (it is)."
+  - "Condemn works on the far-left piece, if you don't want to just Magic Lamp it, or if you think that telling the final boss it has 30 seconds to live is hilarious (it is.)"
   - "The top-left piece, which casts Grand Cross, can be locked down by Paralyze from Mind Blast. This might be a reason to learn it from Wendigo or Twintania."
   Bard:
-  - "Apollo's Harp will do massive damage vs. the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway."
+  - "Apollo's Harp does 8x damage against the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway."
   - "And they should be, since you buffed all your stats to maximum in the Treedeath phase of the fight."
   Ranger:
   - "The Melee piece (the one that chucks out 1800 damage Vacuum Waves) can be blinded by Dark Bow."
@@ -73,10 +70,10 @@ Neo Exdeath:
   - "Scrolls are still good AoE if backed up by a magic ability."
   - "Now is the time to throw the legendary weapons you aren't using for good single-target damage. Fuma Shurikens are stronger, though."
   Geomancer:
-  - "!Gaia will always use Wind Slash here. Boost it with Air Knife or Rune Chime, and it'll do honestly pretty reasonable AoE damage."
+  - "!Gaia will always use Wind Slash here. Boost it with Air Knife or Rune Chime, and it'll do reasonable AoE damage."
   Monk:
-  - "Unless you did a lot of grinding, your fists won't do much here. Just settle for making them an Elixir dispensary, or give them some other class's secondary."
-  - "HP +30% can make it easier for your other classes to survive Almagest, though."
+  - "Unless you did a lot of grinding, your fists won't do much here. Just settle for a beefy Elixir dispenser, or use some other class's secondary."
+  - "HP +30% can help other classes survive Almagest, though, and an actual Monk almost always will."
   White-Mage:
   - "Shell makes Almagest a non-issue. Blink does the same for the physicals."
   INTERSECTION Summoner Black-Mage:
@@ -88,7 +85,7 @@ Neo Exdeath:
   - "Alternatively, the far-left piece has 5000 more than the middle ones, and dies to Magic Lamp Odin, so you can leave it for last on purpose."
   Red-Mage:
   - "At least you can put up Protect...?"
-  - "Raise+Cura isn't the *worst* use of their time, though you're probably better off just breaking rods for middling damage."
+  - "Raise+Cura isn't the *worst*, but you're probably better off breaking rods for middling damage."
   - "Hopefully you have another class that can use !Dualcast and can pick up the slack."
   Knight:
   - "Aegis Shield protects against a few Grand Cross outcomes, and can block Almagest, but you were wearing it anyway."
@@ -106,3 +103,5 @@ Neo Exdeath:
   - "The Grand Cross piece (top middle) is a Dragon, so it will take double damage from Dragon Cannon, which might do more than Needle Cannon at sane levels."
   Gladiator:
   - "Fishing for 9999 !Finisher probably averages more damage than !Bladeblitz, but either should be fine, because Gladiator has lots of weapon options and LOTS of Strength."
+  Oracle:
+  - "I made up a bogus tip for Knight about wearing Aegis Shield. I have no such tip for Oracle. Just do whatever you've been doing all game."
