@@ -18,7 +18,6 @@ Jobs:
     - Pierce-Def
     - Wind
   Thief:
-    - lol
     - Wind
   Black-Mage:
     - Break-Rods
@@ -65,7 +64,6 @@ Jobs:
     - Heavyscammer
     - Fire
   Geomancer:
-    - lol
     - Fire
   Ninja:
     - Elemental
