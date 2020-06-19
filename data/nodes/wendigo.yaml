@@ -1,15 +1,14 @@
 ---
-Stoker/Wendigo:
+Wendigo:
   Metadata:
     next-node: fork_tower
     previous-nodes:
     - island_shrine
   Generic:
   - "20000 HP, uses physical attacks and Hurricane/Mind Blast/Confuse."
-  - "Attacking the wrong one does no damage."
+  - "Attacking the 'wrong' ones of the four does no damage. The real one always starts in the top right for the first hit, then moves to a random location when hit."
   - "They respond to multi-target attacks with an Ice-element counter."
   - "If you have Fire Rings or Ice Shields, you can just blast away to your heart's content."
-  - "The real one always starts in the top right for the first hit."
   UNION Thief Shield:
   - "Thieves can steal an Ice Shield from Numb Blade enemies in this dungeon... not that they can use it themselves."
   White-Mage:
