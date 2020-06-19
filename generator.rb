@@ -67,7 +67,12 @@ class Generator
   end
 
   def handle_node(nodename, previous_node)
-    node = YAML.load(File.read("data/nodes/#{nodename}.yaml"))
+    begin
+      node = YAML.load(File.read("data/nodes/#{nodename}.yaml"))
+    rescue Exception => e
+      print "ERROR: failure to load YAML file #{nodename}.yaml"
+      raise
+    end
     node_header = node.keys.first
     node_data = node[node_header]
 

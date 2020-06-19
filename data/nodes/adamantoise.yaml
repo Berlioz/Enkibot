@@ -19,13 +19,12 @@ Adamantoise:
   Blue-Mage:
     - "Adamantoise is level 20, so Level 5 Death will kill it."
   Beastmaster:
-    - "It's not immune to death, so !Releasing a Bandersnatch (near Walse) to cast Banish has a 50/50 chance of killing it."
+    - "It's not immune to death, so !Releasing a Bandersnatch (near Walse) to cast Blaster has a 50/50 chance of killing it."
   INTERSECTION Berserker Freelancer:
     - "It's not immune to death, so Death Sickles will eventually get there."
   Monk:
     - "Fist criticals break through physical defense. It might take a while, but it works."
   White-Mage:
-    - "Blind is a godsend in this fight if you have no strong offensive option."
-    - "You can also Protect everyone and leave them in the back row, since Adamantoise only physically attacks."
+    - "Protect everyone and leave them in the back row, since Adamantoise only physically attacks."
   Generic``:
     - "The Something Awful Forums >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards"

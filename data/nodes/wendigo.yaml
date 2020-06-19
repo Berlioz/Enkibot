@@ -1,17 +1,14 @@
 ---
-Stoker/Wendigo:
+Wendigo:
   Metadata:
     next-node: fork_tower
     previous-nodes:
     - island_shrine
   Generic:
   - "20,000 HP, uses physical attacks and Hurricane/Mind Blast/Confuse."
-  - "Attacking the wrong one does no damage."
+  - "Attacking the 'wrong' ones of the four does no damage. The real one always starts in the top right for the first hit, then moves to a random location when hit."
   - "They respond to multi-target attacks with an Ice-element counter."
   - "If you have Fire Rings or Ice Shields, you can just blast away to your heart's content."
-  - "The real one always starts in the top right for the first hit."
-  UNION Thief Shield:
-  - "Thieves can steal an Ice Shield from Numb Blade enemies in this dungeon... not that they can use it themselves."
   White-Mage:
   - "You can simply Shell up and heal through the counterattacks."
   Blue-Mage:
@@ -30,5 +27,5 @@ Stoker/Wendigo:
   - "This fight isn't great for !Release. A Dragon Aevis from the Void will do 5000 damage, but provoke counters."
   - "Four of them will still kill, you'll just eat a lot of counters along the way."
   Generic`:
-  - "Attacking the right Wendigo with a weak weapon (the Knife or your fists) will display 0 damage, and importantly, doesn't make Wendigo move."
+  - "Attacking the correct Wendigo with a weak weapon (like unarmed fists or a Knife) will display 0 damage and still doesn't make Wendigo move."
   - "You can then unleash your strongest attack on that one, let it move, and repeat the process."

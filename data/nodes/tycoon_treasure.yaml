@@ -8,10 +8,8 @@ Tycoon (optional):
     - "Two of those Cottages are hidden - walk into the castle courtyard, but before going in head over to the right wall and walk through a passage behind a tower."
   Staff:
     - "You'll also get a Healing Staff, which casts Cura on its attack target instead of attacking for damage."
-  Samurai:
-    - "You'll also get an Ashura, which is the first possible katana for samurai-havers."
-  NOT Samurai:
-    - "You'll also get an Ashura, which may be useful if you're in Chaos and have a Freelancer. Otherwise, it's free gil."
+  INTERSECTION Samurai Freelancer:
+    - "You'll also get an Ashura, which is the first katana. It can critical hit and it's got good attack for this early."
   Summoner:
     - "This is also a good time to head to the tower behind the waterfall in Walse to get Shiva."
     - "For a free kill, break two Fire Rods dropped in Walse Tower or bought slightly later in Karnak."
