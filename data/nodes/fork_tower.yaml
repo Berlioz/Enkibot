@@ -5,11 +5,11 @@ Fork Tower:
     previous-nodes:
     - wendigo
   Generic:
-  - "Think about whether you actually need to do the various optional World 3 dungeons; many parties do not."
+  - "Think about whether you actually need to do the various optional World 3 dungeons. Many parties don't."
   - "If you don't need specific loot from Fork Tower, the Deep Sea Trench, or Istory Falls, and you don't have to unlock Cannoneer, Gladiator, or Oracle, you should just go to the Rift now."
   - "Magic users go to the LEFT and physical fighters go to the RIGHT."
   Break-Rods:
-  - "Many rod-using parties can take good advantage of the Wonder Rod in Fork Tower, especially if they lack !White."
+  - "Many rod-using parties can take good advantage of the Wonder Wand in Fork Tower, especially if they lack !White."
   - "It cycles through all the !White and !Black spells in a set order."
   - "This gives rod-users guaranteed access to Berserk, as well as Death, Reflect, Protect, Shell, and others."
   White-Mage:
@@ -18,3 +18,7 @@ Fork Tower:
   - "Fork Tower is the only way to learn Flare for Black Mages (meh) and get the Wonder Rod, which is honestly more important for a lot of parties."
   Mystic-Knight:
   - "Fork Tower is the only way to learn Flare for Flare !Spellblade, which is far better than the spell itself. You should do it."
+  Time-Mage:
+  - "Meteor is locked behind Fork Tower. Make it happen."
+  INTERSECTION Cannoneer Gladiator Oracle:
+  - "In case the above didn't make it obvious, your Advance job is locked behind Fork Tower, so it's mandatory for you."
