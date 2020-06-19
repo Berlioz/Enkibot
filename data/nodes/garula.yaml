@@ -1,3 +1,4 @@
+---
 Garula:
   Metadata:
     next-node: fireship
@@ -13,8 +14,8 @@ Garula:
     - "If you already have Two-Handed, it means half as many counterattacks before you kill. Good idea."
   White-Mage:
     - "White Mages can cast Protect to make Garula's offense half as dangerous."
-    - "For 4x White Mage parties: put everyone in the back row and ONLY attack with the Flail to minimize counterattacks."
-    - "It's easy enough to grind out. Also completely boring."
+    - "For 4x White Mage parties, put everyone in the back row and ONLY attack with the Flail to minimize counterattacks."
+    - "It's easy enough to grind out, especially with the Healing Staff. Also incredibly boring."
   Thief:
     - "4x Thief parties should have a Mythril Knife attacker in the front row and 3 Potion chuckers in the back row."
     - "Seriously, expect to burn through 50-60+ Potions if you're at a reasonable level."
@@ -24,3 +25,6 @@ Garula:
   Blue-Mage:
     - "Garula is weak to Frog, so you can cast Pond's Chorus, have it spend its turn curing Frog, and repeat."
     - "Blind will also work, if for some reason Frog abuse isn't enough."
+  Freelancer:
+    - "Garula is vulnerable to Paralyze, so the Whip can lock it down and prevent counterattacks. It doesn't always proc, but it goes a long way."
+    

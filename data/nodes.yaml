@@ -63,7 +63,6 @@ Manifest:
 - tree_exdeath
 - ned
 - sea_trench
-- galufamesh
 - wendigo
 - airship_w3
 - bahamut
@@ -108,7 +107,6 @@ Titles:
   fireship: Fireship
   fork_tower: Fork Tower
   galuf_castle: World 2 Intro
-  galufamesh: galufamesh
   garula: Garula
   ghidos_cave: Post-Submarine Questing
   gogo: Famed Mystic Gogo

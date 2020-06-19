@@ -8,7 +8,7 @@ Omega:
   - 'Battle strategy (Final Fantasy V Wiki) https://finalfantasy.fandom.com/wiki/Omega_(Final_Fantasy_V)#Battle'
   - 'Optional Omega battle (Caves of Narshe) https://www.cavesofnarshe.com/ff5/optional.php#omega'
   - 'Parties as low as level 40 have been reported to win this fight but recommended level is 60. Some parties and players have trouble beating him even at level 90.'
-  - "To pull this off at a sane level, you need both a way to neuter his offense and a way to actually hurt him."
+  - "To pull this off at a sane level, you need both a way to neuter its offense and a way to actually deal damage."
   - "Without cheese but with good sandbagging classes like White or Blue mages, you can try to fight it out normally...."
   - "...but many parties don't even have a way to damage Omega through its 190 defense, 150 magic defense, Reflect, Shell, 7 elemental absorbs, 95% physical evasion, and 90% magic evasion."
   - 'Will counter twice for any attack that deals damage.'
@@ -24,10 +24,15 @@ Omega:
   Time-Mage:
   - "Time Mages can use the 'quickleak' technique (Quick+use Venom Rod+sit there with second action prompt up) to kill Omega very, very slowly."
   - "Since this takes a few real-life hours, you may not want to attempt this on an actual physical SNES/GBA/iDevice."
+  - "Meteor and Comet deal unaspected damage and ignore reflects."
+  - "...Unless they roll fantastically high, however, they'll get completely nullified by Omega's sky-high MDefense."
+  - "Quickleaking is really it for Time Mage without other class friends."
+  - "Float will negate Omega's Earthquake so you may want to apply it before battle."
+  - "Omega is vulnerable to Stop but not only Omega has Reflect but it's also only short-acting, requiring multiple casts per turn to be fully effective."
   Chemist:
   - "Chemists can pretty much make themselves invulnerable to every single one of Omega's attacks."
   - "That's not literally true. You can still die to two Wave Cannons in a row without getting a turn to heal in between. But only that."
-  - "See, for example, sullla's solo Chemist: http://www.sullla.com/FF/omegashinryuu.html"
+  - "See, for example, sullla's solo Chemist log at http://www.sullla.com/FF/omegashinryuu.html"
   - "Hint: !Mixing five Turtle Soups decreases Omega's defense and magic defense to 1."
   Pierce-Def:
   - "Piercing defense is a start - criticals and axes are okay starting ideas if there's no better plan."
@@ -37,12 +42,6 @@ Omega:
   Blue-Mage:
   - "Blue Mages can chip Omega down with Thousand Needles."
   - "This mostly sucks, but you've got Mighty Guard and White Wind to keep yourself in the fight, so it's still technically doable."
-  Time-Mage`:
-  - "Meteor and Comet deal unaspected damage and ignore reflects."
-  - "...Unless they roll fantastically high, however, they'll get completely nullified by Omega's sky-high MDefense."
-  - "Quickleaking is really it for Time Mage without other class friends."
-  - "Float will negate Omega's Earthquake so you may want to apply it before battle."
-  - "Omega is vulnerable to Stop but not only Omega has Reflect but it's also only short-acting, requiring multiple casts per turn to be fully effective."
   Mystic-Knight:
   - "Thundaga Sword will do 9,999 damage to Omega but will draw a counter-attack if it's charging up."
   - 'Thundaga is available at Moore for 6,000 gil.'
@@ -59,6 +58,8 @@ Omega:
   INTERSECTION Knight Red-Mage Gladiator: 
   - "Anyone who can use a sword can... technically damage Omega with the Coral Sword."
   - "And no, even a Gladiator doesn't want to. The Trident has exactly one more point of attack and is also lightning elemental. Still not worth it without !Jump."
+  Gladiator:
+  - "Since there's no character with a Lightning-elemental !Finisher, there's no good option for GLD itself."
   Cannoneer:
   - "You can inflict Slow on Omega with the awesome power of your cannon."
   - "You can also halve its formidable defense."

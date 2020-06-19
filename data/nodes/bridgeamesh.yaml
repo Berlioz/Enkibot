@@ -7,24 +7,23 @@ Bridgamesh:
   Generic:
   - "6500 HP, and will cast all three of Haste, Protect, and Shell at 2500 HP remaining, then spam Jump."
   - "This fight is much, much easier if you can prevent the buffs from being cast."
+  - "In the SNES version only, you can try getting lucky with a Mage Masher proc right as you push Gilgamesh below 2500."
+  - "Otherwise, most parties can still win a DPS race against boosted Gilgamesh, if you're careful about when you push him."
   White-Mage:
-  - "Protect will let you just slug it out against boosted Gilgamesh."
+  - "Protect will let you safely slug it out against boosted Gilgamesh."
   Time-Mage:
   - "While he can't be silenced, the Mute spell works just fine."
   - "Land Slow on him before Mute stops your spells as well to make the fight even easier."
   Blue-Mage:
-  - "Blue Mages can Magic Hammer their way through Gilgamesh's 1000 MP before phasing him, causing his buffs to fail."
+  - "Blue Mages can Magic Hammer their way through Gilgamesh's 1000 MP before taking him below 2500 HP, causing his buffs to fail."
   Beastmaster:
   - "Beastmasters can deploy Bearagas saved from World 1, if you have any."
   UNION Blue-Mage Beastmaster:
   - "Alternatively, 1000 Needles still does its fixed damage even after his buffs."
   Dragoon:
-  - "It'll take forever, but in the worst case scenario !Lance can be used to drain Gilgamesh's 1000 MP, causing his buffs to fail."
+  - "It'll take forever, but in the worst case scenario !Lance can be used to drain Gilgamesh's 1000 MP before taking him below 2500 HP, causing his buffs to fail."
   - "It's likely better to just kill him through them, for your own sanity."
   Chemist:
-  - "Chemists can mix Lamia's Kiss and Dark Ether to effortlessly drain Gilgamesh's 1000 MP, causing his buffs to fail."
+  - "Chemists can mix Lamia's Kiss and Dark Ether to effortlessly drain Gilgamesh's 1000 MP before taking him below 2500 HP, causing his buffs to fail."
   INTERSECTION Knight Mystic-Knight Blue-Mage Red-Mage Freelancer:
-  - "Gilgamesh is vulnerable to Old, which you can inflict via the Ancient Sword. It's not vital, but cuts his Jump damage in half."
-  Generic`:
-  - "In the SNES version only, you can try getting lucky with a Mage Masher proc right as you push Gilgamesh below 2500."
-  - "Otherwise, most parties can still win a DPS race against boosted Gilgamesh, if you're careful about when you push him."
+  - "Gilgamesh is vulnerable to Old, which you can inflict via the Ancient Sword. It's not vital, but ultimately cuts his Jump damage in half."

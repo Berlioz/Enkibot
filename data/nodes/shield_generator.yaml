@@ -1,27 +1,29 @@
 ---
-Shield Generator/Barrier Tower:
+Barrier Tower:
   Metadata:
     next-node: atomos
     previous-nodes:
     - boatamesh
   Generic:
-  - "The Barrier Tower is a fairly obnoxious dungeon with a lot of loot you want to grab."
-  - "Anyone with a caster should make sure to get the Gold Hairpin in a guarded chest on the left side of Floor 9, which halves MP consumption."
+  - "Anyone with a caster should make sure to get the Gold Hairpin in a trapped chest on the left side of Floor 9, which halves MP consumption."
   Blue-Mage:
   - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility."
   - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka."
-  Knight:
-  - "Knights can obtain the Blood Sword here, a weapon which drains HP from its target."
-  - "Note that it's nearly useless since it only has 25% Accuracy, AND is treated like a magic spell in damage calculations."
   Thief:
-  - "Thieves can steal a Flame Ring from the Red Dragons in the Gold Hairpin and Blood Sword chests."
+  - "Thieves can rare steal Flame Rings from the Red Dragons in the Gold Hairpin and Blood Sword chests."
   - "Remember, you can flee from a monster-in-a-box to reset the encounter if your steal fails."
-  - "...or if you're a nutter and want 4 of them."
-  - "...or if you want even more to sell for gil, all while grinding out escapes for the Chicken Knife."
+  - "...or if you're crazy and want 4 of them, or even more to sell for gil, all while grinding out escapes for the Chicken Knife."
   Generic`:
-  - "Most importantly, farm Reflect Knights for their Reflect Ring drops here."
-  - "Unless you have a way to cheese him entirely, you'll need them for World 2 Exdeath."
+  - "Almost every party should farm Reflect Knights for their Reflect Ring drops here. You'll likely need them for World 2 Exdeath."
   - "The best place to farm them is outside between floors 5 and 6, but if you need to return to the sub to heal frequently the balcony between 3 and 4 is pretty good too."
+  Blue-Mage`:
+  - "You have L2 Old -> L5 Death to kill W2 Exdeath, and can safely skip Reflect Rings altogether. Maybe get one for Catastrophe."
+  Beastmaster:
+  - "You have !Release to kill W2 Exdeath, and can safely skip Reflect Rings altogether. Maybe get one for Catastrophe."
+  Chemist:
+  - "Since you have Chemist, you don't need Reflect Rings for W2 Exdeath, though they're still nice. Be sure to get one if you're going to go toe-to-toe with Omega via !Mix."
   Black-Mage:
   - "Drain bypasses Reflect, so you can farm your first Reflect Ring with Drain and then bounce Breaks off your own party for the rest."
-  
+  Thief`:
+  - "No point in Thieves farming Reflect Rings here. You can steal them from Carbuncle and Reflect Mages more easily before you need them."
+ 

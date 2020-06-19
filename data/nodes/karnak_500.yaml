@@ -3,12 +3,12 @@ The Karnak 500:
     next-node: library
     previous-nodes: ['liquiflame']
   Generic:
-    - "You have 10:00 to get as much loot out of the Karnak 500 as possible. (Karnak 1000 just doesn't roll off the tongue as easily)"
+    - "You have ten minutes to get as much loot out of the Karnak 500 as possible. (Karnak 1000 just doesn't roll off the tongue as easily)"
     - "Take the opportunity immediately after you kill Liquid Flame to set your jobs and abilities. The Karnak timer keeps ticking even in the menu."
-    - "It's best to look up a map if this is your first time. There's a decent one on GameFAQs: https://www.gamefaqs.com/ps/562810-final-fantasy-v/faqs/49618?raw=1 "
+    - "It's best to look up a map if this is your first time. There's a decent one on GameFAQs at https://www.gamefaqs.com/ps/562810-final-fantasy-v/faqs/49618?raw=1"
     - "If you're having trouble with the Sergeant + Cur Nakk encounter, kill the Sergeant to make the dogs run away."
   INTERSECTION White-Mage Red-Mage:
-    - "You can also Confuse the Sergeant, which stops him from telling the Curs to attack."
+    - "You can also Confuse the Sergeant, which prevents the script that tells the Curs to attack."
   Knight:
     - "RUN RUN RUN. No, the Brave Blade isn't worth it. Never take the Brave Blade."
     - "You demolish chest enemies with Two-Handed attacks, if you have it."

@@ -3,11 +3,11 @@ Ship Graveyard:
     next-node: "siren"
     previous-nodes: ['karlabos']
   Generic:
-    - "You'll probably want to use the 2 free heals the game has here to grind some of those early levels."
-    - "Carcruthls can drop Elixirs, which scale very well into late game (room with 3 chests is a good spot)."
+    - "If you're feeling low on healing, the Carcruthls in here rarely drop Elixirs. The room with the three treasure chests after the save point is the best place to grind those if you need."
+    - "Don't forget, if you need to grind for any reason, you can sleep both below decks on Faris' ship(wreck) and by the save point."
   White-Mage:
-    - "The enemies here are Undead, which makes this a great place to gain levels with your White Mages."
-    - "Make sure you pick up the hidden Flail; White Mage parties will rely on it for damage for a while. It's south of where you start."
+    - "The enemies here are Undead, which makes this a great place to gain levels with your White Mages. Just Cure them to death."
+    - "Make sure you pick up the hidden Flail, as White Mage parties will rely on it for damage for a while. It's south of where you start."
   Thief:
     - "The Daggers dropped by Skeletons here are the only way to outfit your entire Thief party; get a full set of four before fighting Siren."
   Knight:

@@ -12,7 +12,6 @@ Twin Tania:
   - "If nothing else, you can use the Magic Lamp to summon Odin."
   Break-Rods:
   - "The Wonder Wand from Fork Tower can be cycled all the way to casting Death... but you'll *probably* get blown up by hubris this way."
-  - "<@CarbyBot> Oh my god, the Wonder Wand missed! (#25)"
   Mystic-Knight:
   - "Holy Blade and Break Blade both work on the charging form."
   Summoner:
@@ -26,9 +25,10 @@ Twin Tania:
   Blue-Mage:
   - "Level 5 Death works on the charging form."
   Thief:
-  - "Steals vary by form: normal form has a Flame Shield and charging form has the second Titan's Axe."
+  - "Each form has separate steals. The first form has a rare Flame Shield, and the charging form has a common [second] Titan's Axe."
   UNION Thief Berserker:
   - "Despite having a Berserker, you STILL probably don't care about the second Titan's Axe."
+  - "Though it's your first if you didn't do Istory Falls, so if you have 2+ Bersekers (first one wants Rune Axe) and couldn't do Fork Tower, here's your chance."
   Samurai:
   - "If for some reason you still need it, the charging form can rarely drop a Murasame when killed."
   - "!Iainuki works on the charging form."
@@ -40,10 +40,13 @@ Twin Tania:
   - "Chaos Cannon works on the charging form."
   Red-Mage:
   - "You can put Reflect Rings on everyone, then Dualcast any offensive spell on the first form to bait out reflectable Mega Flare counters."
+  - "...Or just use the Assassin's Dagger on the charging form like everyone else."
   White-Mage:
   - "While White Mages can't wield the Assassin's Dagger, the non-charging form is weak to Holy and Reflect bounces the Mega Flare counters."
-  - "Or just use another party member with the Dagger. I assume you have one."
+  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters. Otherwise, the Dagger works."
   Monk:
   - "Boy, I hope you don't have four monks, because they're literally useless without someone else's skills here. Attacking triggers Tidal Wave, so wear Coral Rings."
+  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters. Otherwise, the Dagger works."
   Oracle:
-  - "Oracle can't wield the Assassin's Dagger. If you have nothing but Monks and Oracles, break out the Coral Rings. Otherwise, the Dagger works."
+  - "Oracle can't wield the Assassin's Dagger."
+  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters. Otherwise, the Dagger works."

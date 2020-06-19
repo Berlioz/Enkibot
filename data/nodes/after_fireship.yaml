@@ -11,27 +11,24 @@ Sailing: #TODO should probably be restructured as an open-world node like w3_que
     - "Bards can play the fourth Piano in Jachol, also."
   Blue-Mage:
     - "Blue Mages can learn the almost-useless Self-Destruct from Bombs near Jachol."
-    - "It is very, very useful (also: funny) in one particular boss fight later, so get it."
+    - "It is useful (and also funny) for one particular boss fight much later, so get it."
   Geomancer:
-    - "The cave near Jachol has Skull Eater encounters for 5 ABP and a common Elixir drop."
+    - "The cave near Jachol has Skull Eater encounters that give 5 ABP and drop Elixirs."
     - "They hit hard and fast, but !Gaia either oneshots them with Stalactite or confuses them with Ignus Fatuus."
     - "For Geomancers, this is a great grind spot for ABP and Elixirs."
-  Generic`:
-    - "Black Mages, Summoners, and Bards want to visit Istory at this point."
-    - "Parties with weak single target offense and no White Mage may also want to consider a Flame Ring, but 50k is a lot of gil."
   Black-Mage:
     - "Black Mages can pick up the Toad spell in Istory. Walk in a circle on the flowers in the top-left of the town."
   Summoner:
     - "Summoners can attain Ramuh from the eastern forest, if they're around Istory already."
   Thief:
-    - "Ramuh's common steal is a Hi-Potion and he's a 70% encounter outside Istory until you kill him."
-    - "You can steal Hi-Potions from him forever if you keep running from the fight."
+    - "Ramuh's common steal is a Hi-Potion and he's a 70% encounter outside Istory until killed."
+    - "You can steal Hi-Potions forever if you keep running from the fight."
   Bard`:
     - "Bards can learn Romeo's Ballad in Istory, which Stops all enemies."
     - "In addition to being situationally useful against bosses, it's an incredible trash-clearing tool for the rest of the game."
-    - "They can also play the fifth piano in Crescent, along with learning Mighty March (just for a complete song list; Regen sucks)."
+    - "They can also play the fifth piano in Crescent, and talk to the composer NPC to learn Mighty March (just for a complete song list, because Regen sucks)."
   Break-Rods:
-    - "Rod-having parties can also pull the legendary Dragondarch Manuever outside Istory, farming the tough Magic Dragons there for XP."
+    - "Rod-having parties can also pull the legendary Dragondarch Manuever outside Istory, farming the tough Mini Dragons there for XP with Thunder Rods."
   Ninja:
     - "Ninjas can farm the Magic Dragons outside of Istory for XP with !Throw."
   Berserker:

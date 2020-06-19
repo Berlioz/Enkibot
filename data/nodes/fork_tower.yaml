@@ -10,7 +10,7 @@ Fork Tower:
   #- "If you don't need specific loot from Fork Tower, the Deep Sea Trench, or Istory Falls, and you don't have to unlock Cannoneer, Gladiator, or Oracle, you should just go to the Rift now."
   - "Dual boss; you have to split up your parties for this. Mages go left, fighters go right."
   Break-Rods:
-  - "Many rod-using parties can take good advantage of the Wonder Rod in Fork Tower, especially if they lack !White."
+  - "Many rod-using parties can take good advantage of the Wonder Wand in Fork Tower, especially if they lack !White."
   - "It cycles through all the !White and !Black spells in a set order."
   - "This gives rod-users guaranteed access to Berserk, as well as Death, Reflect, Protect, Shell, and others."
   White-Mage:
@@ -19,3 +19,9 @@ Fork Tower:
   - "Fork Tower is the only way to learn Flare for Black Mages (meh) and get the Wonder Rod, which is honestly more important for a lot of parties."
   Mystic-Knight:
   - "Fork Tower is the only way to learn Flare for Flare !Spellblade, which is far better than the spell itself. You should do it."
+  Time-Mage:
+  - "Meteor is locked behind Fork Tower. Make it happen."
+  INTERSECTION Cannoneer Gladiator Oracle:
+  - "In case the above didn't make it obvious, your Advance job is locked behind Fork Tower, so it's mandatory for you."
+  Mime:
+  - "Mime is locked behind Fork Tower, it's mandatory for you."

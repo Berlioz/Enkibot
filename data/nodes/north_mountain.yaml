@@ -3,7 +3,7 @@ Carwen/North Mountain:
     next-node: magissa
     previous-nodes: ['siren']
   Generic:
-    - "You don't care about it now, but unless you have Blue/Time, Confused Gaelicats on North Mountain are your only way to get the Float status."
+    - "You don't care right now, but without !Blue and !Time, Confused Gaelicats on North Mountain are the only way to get the Float status in World 1."
   Break-Rods:
     - "Frost Rod hidden in the crawlspace at the southern dock - t's effective against Magissa or Garula."
   White-Mage:
@@ -15,7 +15,6 @@ Carwen/North Mountain:
     - "More importantly, definitely buy Long Swords. They're much better than Daggers and Broadswords."
   Thief:
     - "You can steal Gold Needles from the Cockatrices on North Mountain, which is a nice way to save some gil."
-    - "You can steal Silver Specs from the Tombstones on North Mountain to save some hassle in the Fire-Powered Ship later."
   Blue-Mage:
-    - "If you restore their MP with Ether, you can learn Flash from Headstones in North Mountain."
-    - "You can learn it naturally in the Fire-Powered Ship, so it only matters for two boss fights, but it's nice."
+    - "If you restore their MP with Ether first, you can learn Flash from Headstones in North Mountain."
+    - "You can learn it normally in the Fire-Powered Ship, so it only matters for two boss fights, but it's nice."

@@ -22,7 +22,6 @@ Jobs:
     - Wind
     - Physical
   Thief:
-    - lol
     - Wind
     - Physical
     - Dodger
@@ -87,7 +86,6 @@ Jobs:
     - Fire
     - Physical
   Geomancer:
-    - lol
     - Fire
     - Magical
     - Magic-Damage

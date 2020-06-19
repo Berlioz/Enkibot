@@ -6,8 +6,8 @@ Necrophobe:
     - shinryu
   Generic:
   - "Necrophobe is an optional fight! The only reward is the last save point before NED, which is good, but still optional."
-  - "First phase: four 8800 HP auto-reflect Barriers, which alternate between Firaga/Blizzaga/Thundaga and Holy/Flare."
-  - "Second phase: 34044 effective HP, weak to all elements, spams double physical attacks/Vacuum Waves."
+  - "The first phase is four 8800 HP auto-reflect Barriers, which alternate between Firaga/Blizzaga/Thundaga and Holy/Flare."
+  - "The second phase is Necrophobe himself, with 34044 effective HP, weak to all elements, spams double physical attacks/Vacuum Waves."
   - "He'll have 44044 HP if you didn't get Excalipoor, but why would you leave Gilgamesh all alone?"
   - "Reflect Rings let you bounce spells off yourself to penetrate the Barriers' Reflect status."
   - "Similarly, it might be tempting to try and Assassin's Dagger the Barriers. Don't do it, because that Doom proc gets reflected."
@@ -21,7 +21,7 @@ Necrophobe:
   Time-Mage:
   - "Remember that Comet and Meteor ignore Reflect. It'll take extra Meteors, since Necrophobe is effectively a blank target, but you'll get there."
   Beastmaster:
-  - "Beastmasters can (still) !Release Great Dragons from the Caves for to hit a random target for 9999, which will kill a Barrier."
+  - "Beastmasters can (still) !Release Great Dragons from the Caves to hit a random target for 9999, which will kill a Barrier."
   - "Just pray that the random target selection doesn't pick Necrophobe."
   Ranger:
   - "!Rapid Fire to fish for Killer Bow procs works fairly well, though you will inevitably 'waste' some hits on Necrophobe."
