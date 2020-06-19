@@ -8,8 +8,8 @@ Soulcannon:
   Generic:
     - "12500 HP, weak to lightning, charges up and then casts Wave Cannon (casts get faster after the first)"
     - "Wave Cannon deals 50% of the party's max HP and inflicts HP Leak."
-    - "The real danger is the Launchers: 2 of 'em, 800 effective HP, can inflict Old."
-    - "Try to kill the Launchers quickly to avoid having your whole party slowed into uselessness."
+    - "The real danger is the Launchers. Each of them has 800 effective HP and can inflict Old."
+    - "Try to kill the Launchers quickly to avoid having your whole party delevelled and slowed into uselessness."
   Blue-Mage`:
     - "You can Level 5 Death the launchers."
   Break-Rods:
@@ -33,7 +33,7 @@ Soulcannon:
     - "This is a surprisngly funny fight for Bards, since they can Romeo's Ballad lock the Launchers and Hide from the Wave Cannons."
   Beastmaster:
     - "You may be able to rush the Soul Cannon down with four Bearagas (~9k damage) plus some chip."
-    - "Less good plan: Capture a Prototype and release it for ~1k all-target damage to deal with the Launchers as well."
-    - "Prototype is vulnerable to !Control, but actually reducing it to 1/8 hp is an exercise for the reader."
+    - "If you have a way to damage it, you could !Capture a Prototype and release it for ~1k all-target damage to deal with the Launchers in one shot."
+    - "Prototype is vulnerable to !Control, but actually reducing it to 1/8 hp is left as an exercise for the reader."
   Generic`:
     - "All damage in this fight is percentage-based, so armor does nothing. Consider unequipping it to lower your Equip Weight to act faster."
