@@ -12,8 +12,9 @@ Titan:
     - "Dancers can !Dance the Tempting Tango on Gaelicats in the North Mountain to gain Float to nullify Earth Shaker."
     - "Don't use a Tent, Cottage, Inn, or healing pot after getting it, because they remove Float status."
   Bard:
-    - "Bards can !Sing Alluring Air on Gaelicats in the North Mountain to gain Float to nullify Earth Shaker"
+    - "Bards can !Sing Alluring Air on Gaelicats in the North Mountain to get Float to nullify Earth Shaker."
     - "Don't use a Tent, Cottage, Inn, or healing pot after getting it, because they remove Float status."
+    - "Stopping Titan with !Sing right before the killshot will dodge the Earth Shaker, but the timing is tight. Getting Float is better."
   Chemist:
     - "Here's your introduction to the brokenness of !Mix. Antidote + Maiden's Kiss = Levisalve to gain Float to nullify Earth Shaker."
   UNION Thief Berserker:
@@ -25,13 +26,12 @@ Titan:
     - "If you're not worried about Earth Shaker, you can !Release a Sand Bear to nearly oneshot Titan."
   Freelancer:
     - "You can paralyze Titan with the Whip and then have someone else immediately deal the fatal blow to dodge the Earth Shaker, but the timing is tight."
-  Bard`:
-    - "Stopping Titan with !Sing right before you the killshot will dodge the Earth Shaker, but the timing is tight. Getting Float is better."
+    - "Stopping Titan with !Sing right before the killshot will dodge the Earth Shaker, but the timing is tight. Getting Float is better."
   Time-Mage:
     - "Titan is vulnerable to slow, which helps with the damage race portion of the fight."
     - "If you have no better method, you can try to land Stop right before the killshot to dodge the final Earth Shaker, but the timing is tight."
   Summoner:
-    - "Titan is vulnerable to the Remora summon's Paralysis, probably the only time in the game it's useful."
+    - "Titan is vulnerable to the Remora summon's Paralyze. This is literally only time in the game it's useful."
     - "With very, very good timing, you can avoid the last Earth Shaker using it right before the killshot."
   Generic`:
     - "Failing any way to scam Earth Shaker, the only real alternative is to have enough HP to survive it."
