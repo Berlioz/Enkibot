@@ -3,8 +3,8 @@ Chocobo Forest:
     next-node: sandworm
     previous-nodes: ['after_fireship']
   Generic:
-    - "Comedy note: if you land the black chocobo in its home forest, the game makes you catch it again..."
-    - "...or you can just enter the forest, leave, and you'll be standing on it."
+    - "Comedy note, if you land the black chocobo in its home forest, the game tries to make you catch it again..."
+    - "...but you can just leave the forest and it'll respawn right under you."
     - "Pop by Lix in the north to buy half-price items, most importantly Ethers."
   Chemist:
     - "Chemists should definitely empty their wallet for Ethers here. You'll miss them dearly when you leave W1."
