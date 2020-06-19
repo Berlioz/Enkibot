@@ -7,8 +7,6 @@ W2 Exdeath:
     - "Classes without a strong way to cheese this fight should bring Reflect Rings from Barrier Tower."
     - "If you're foregoing Reflect Rings, don't have anyone with a level divisible by 3, unless you want them to die to Level 3 Flare."
     - "If you are bringing Reflect Rings, going in with a level divisible by 3 is actively good!"
-  Thief:
-    - "Thieves get a chance at redemption here if you forgot Reflect Rings in the Barrier Tower; Reflect Mages have them as a rare steal."
   White-Mage:
     - "Make sure you keep Protect up; Exdeath's Vacuum Wave physicals are nasty."
     - "Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also put Reflect on Exdeath."
@@ -26,7 +24,7 @@ W2 Exdeath:
   Summoner:
     - "Make sure you keep Golem up; Exdeath's Vacuum Wave physicals are nasty."
   Beastmaster:
-    - "Releasing four Yellow Dragons (8192 damage each) does 100% total."
+    - "!Releasing four Yellow Dragons (8192 damage each) does 100% total."
   Ninja:
     - "Consider !Throwing the Excalipoor and the Fuma Shuriken from two floors down to get through Exdeath's last 7000 HP."
   Mystic-Knight:
