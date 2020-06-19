@@ -10,10 +10,7 @@ Barrier Tower:
   Blue-Mage:
   - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility."
   - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka."
-  Knight:
-  - "Knights can obtain the Blood Sword here, a weapon which drains HP from its target."
-  - "Note that it's nearly useless since it only has 25% Accuracy, AND is treated like a magic spell in damage calculations."
-  Thief:
+ Thief:
   - "Thieves can steal a Flame Ring from the Red Dragons in the Gold Hairpin and Blood Sword chests."
   - "Remember, you can flee from a monster-in-a-box to reset the encounter if your steal fails."
   - "...or if you're crazy and want 4 of them, or even more to sell for gil, all while grinding out escapes for the Chicken Knife."
