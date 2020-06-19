@@ -5,11 +5,11 @@ ArchaeoAvis:
   Generic:
     - "Has 5 forms, each with their own HP pool but all with a single shared MP pool."
     - "The forms have steadily decreasing physical defense and steadily increasing magic defense."
-    - "Form 1: 1600 HP, weak to wind, high physical defense, inflicts Sap."
-    - "Form 2: 1600 HP, absorbs ice, not Heavy, inflicts poison."
-    - "Form 3: 1600 HP, absorbs fire, inflicts blind."
-    - "Form 4: 1600 HP, absorbs lightning, not Heavy, inflicts paralysis."
-    - "Form 5: 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm. 0 physical defense."
+    - "Form 1 has 1600 HP, is weak to wind, has the highest physical defense, and inflicts Sap."
+    - "Form 2 has 1600 HP, absorbs ice, is not Heavy, and inflicts poison."
+    - "Form 3 has 1600 HP, absorbs fire, and inflicts blind."
+    - "Form 4 has 1600 HP, absorbs lightning, is not Heavy, and inflicts paralysis."
+    - "Form 5 has 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm, and literally has 0 physical defense."
     - "Magic-heavy teams may have to slowly and painfully knife the last form to death."
   Ninja:
     - "Water Scrolls are solid offense against the first four forms, since none absorb Water."
