@@ -17,6 +17,7 @@ Omega:
   Beastmaster:
   - "On GBA, Omega is vulnerable to being stopped by !Calm."
   - "Three hasted Beastmasters can keep a full lock going while your fourth party member attacks without fear of counterattacks."
+  - "Beastmasters can release Yellow Dragons for 9999 each."
   Time-Mage:
   - "Time Mages can use the 'quickleak' technique (Quick+use Venom Rod+sit there with second action prompt up) to kill Omega very, very slowly."
   - "Since this takes a few real-life hours, you may not want to attempt this on an actual physical SNES/GBA/iDevice."
@@ -46,8 +47,6 @@ Omega:
   Summoner:
   - "Summoners can penetrate Omega's defenses with either Ramuh or Odin."
   - "Odin will deal more damage unless you can Dispel the auto-Shell on Omega."
-  Beastmaster:
-  - "Beastmasters can release Yellow Dragons for 9999 each."
   INTERSECTION Knight Red-Mage Gladiator: 
   - "Anyone who can use a sword can... technically damage Omega with the Coral Sword."
   - "And no, even a Gladiator doesn't want to. The Trident has exactly one more point of attack and is also lightning elemental. Still not worth it without !Jump."
