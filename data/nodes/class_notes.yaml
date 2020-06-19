@@ -3,7 +3,7 @@ Class Tips:
     next-node: torna
     previous-nodes: ['begin']
   Generic:
-    - "Here are some basic general tips based on your jobs:"
+    - "Here are some basic general tips based on your jobs!"
   Knight:
     - "The Knight seems straightforward, but the combo of !Guard + Cover is amazing."
     - "If the party is in critical HP, you ignore all single-target physical attacks."
