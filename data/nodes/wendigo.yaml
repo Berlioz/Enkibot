@@ -9,8 +9,6 @@ Wendigo:
   - "Attacking the 'wrong' ones of the four does no damage. The real one always starts in the top right for the first hit, then moves to a random location when hit."
   - "They respond to multi-target attacks with an Ice-element counter."
   - "If you have Fire Rings or Ice Shields, you can just blast away to your heart's content."
-  UNION Thief Shield:
-  - "Thieves can steal an Ice Shield from Numb Blade enemies in this dungeon... not that they can use it themselves."
   White-Mage:
   - "You can simply Shell up and heal through the counterattacks."
   Blue-Mage:
