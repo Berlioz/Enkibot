@@ -8,7 +8,7 @@ Purobolos:
   Break-Rods:
     - "Yup, that means rods."
   NOT Break-Rods:
-    - "Otherwise, whittle them down one-by-one to make them Self-Destruct; they won't cast Arise when they do this."
+    - "Otherwise, whittle them down to low HP, stop, and wait for them to Self-Destruct (1/3 chance every second turn), since they don't cast Arise when they explode."
   Blue-Mage:
     - "If you don't want to just spam rods, Aqua Breath works pretty great here too."
     - "Alternatively, you can Death Claw them all and then target-all with Aera."
@@ -19,7 +19,7 @@ Purobolos:
   Summoner:
     - "They look like they're Floating, but they're not. Titan away!"
   Beastmaster:
-    - "Beastmasters can just !Control each Purobolos and have them Self-Destruct on themselves to avoid Arise."
+    - "Beastmasters can just !Control each Purobolos and have them Self-Destruct targeted on themselves to avoid Arise."
   White-Mage:
     - "A Silenced Purobolos will not cast Arise upon death."
   Mystic-Knight:
