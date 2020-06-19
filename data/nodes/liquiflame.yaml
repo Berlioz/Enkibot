@@ -4,9 +4,9 @@ Liquiflame:
     previous-nodes: ['fireship']
   Generic:
     - "3000 HP, transitions randomly between three forms when struck."
-    - "Human Form: single and multi target attacks, counters with Blaze."
-    - "Hand Form: single target attacks that can paralyze, counters with Fira. Runs out of MP after three casts. Absorbs fire, nullifies ALL other elements. Including ice."
-    - "Tornado Form: casts Fira on itself to heal. Runs out of MP after five casts."
+    - "The Human Form has single and multi target attacks and counters with Blaze."
+    - "The Hand Form has single target attacks that can paralyze and counters with Fira. It runs out of MP after three casts. Absorbs fire, nullifies ALL other elements including ice."
+    - "The Tornado Form casts Fira on itself to heal. It runs out of MP after five casts."
   UNION Ranger Freelancer:
     - "Killing Liquid Flame in Tornado Form makes it drop a Fire Bow, useful in the next dungon and not buyable until later."
   UNION White-Mage Red-Mage:
