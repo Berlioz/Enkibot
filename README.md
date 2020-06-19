@@ -1,5 +1,5 @@
 # Enkibot
-An adaptive Final Fantasy V walkthrough/checklist generator designed to be used for a Four Job Fiesta, which only displays information needed for your particular run.
+An adaptive Final Fantasy V walkthrough/checklist generator designed to be used for a Four Job Fiesta, which only displays information needed for your particular run. Compiled, usable version is available at https://enkibot-prime.herokuapp.com/.
 
 ## Architecture
 The YAML files in /data/nodes define a very simple, mostly-linear state-machine. Each node contains hints for a certain part of FFV, some of which should be displayed only if the user has certain classes or combinations of classes. When building a walkthrough, the generator starts from the first node in the game (Wing Raptor) and recursively expands nodes until it meets an 'end' node (Neo Exdeath).
