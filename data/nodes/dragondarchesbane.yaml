@@ -23,7 +23,7 @@ TwinTania:
   Blue-Mage:
   - "Level 5 Death works on the charging form."
   Thief:
-  - "Steals vary by form: first form has a rare Flame Shield, charging form has a common [second] Titan's Axe."
+  - "Each form has separate steals. The first form has a rare Flame Shield, and the charging form has a common [second] Titan's Axe."
   UNION Thief Berserker:
   - "Despite having a Berserker, you STILL probably don't care about the second Titan's Axe."
   - "Though it's your first if you didn't do Istory Falls, so if you have 2+ Bersekers and couldn't do Fork Tower, here's your chance."
