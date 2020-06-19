@@ -5,4 +5,4 @@ galufamesh:
     previous-nodes:
     - galuf_castle
   Generic:
-  - foo
+  - "foo"
