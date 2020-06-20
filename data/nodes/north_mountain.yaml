@@ -2,7 +2,7 @@ Carwen/North Mountain:
   Metadata:
     next-node: magissa
     previous-nodes: ['siren']
-  UNION NOT Blue-Mage NOT Time-Mage:
+  NOT INTERSECTION Blue-Mage Time-Mage:
     - "You don't care right now, but without !Blue and !Time, Confused Gaelicats on North Mountain are the only way to get the Float status in World 1."
   Break-Rods:
     - "The hidden Frost Rod in Carwen lets you trivialize either Magissa or Garula, so get it."
