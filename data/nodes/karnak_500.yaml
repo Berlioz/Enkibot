@@ -18,10 +18,8 @@ The Karnak 500:
     - "You should also common-steal some Mage Mashers from the Sorcerers in chests here."
   Generic`:
     - "Get the Elven Mantle and Main Gauche; those are the best unconditional loot in here."
-  Dancer:
-    - "There's also a Ribbon! Get the Ribbon! You'll need it for your Dancer! It's rad!"
-  Freelancer:
-    - "Freelancers can also wear the Ribbon! And should. Get the Ribbon and never take it off."
+  INTERSECTION Dancer Freelancer:
+    - "There's also a Ribbon! Get the Ribbon! And never take it off."
   UNION NOT Dancer NOT Freelancer:
     - "You could let the Ribbon burn since you don't have anyone to wear it, but it's bad form to not save the poor thing."
   Blue-Mage:
