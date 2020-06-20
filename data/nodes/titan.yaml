@@ -1,6 +1,6 @@
 Titan:
   Metadata:
-    next-node: chimera
+    next-node: manticore
     previous-nodes: ['purobolos']
   Generic:
     - "2500 HP. Has beefy physical attacks, but the main threat is Earth Shaker, which deals powerful (480-540) all-target damage."
