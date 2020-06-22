@@ -3,4 +3,37 @@ Version Differences:
     next-node: torna
     previous-nodes: ['class_notes']
   Generic:
-  - "Testing, one two, one two."
+  - "There are some fairly significant differences in bugs and functionality between SNES, GBA, and mobile (which includes Steam) versions."
+  - "These tips show applicable ones for your four jobs."
+  Black-Mage:
+  - "Due to unspecified formula changes, all-target magic spells deal more damage on mobile. This makes farming (especially statues) slightly easier."
+  - "As a trade-off, you can no longer all-target Thundaga on your own party and reflect 3/4 of it onto Omega to bypass its counterattacks. If this is your Omega plan, play SNES or GBA."
+  Thief:
+  - "On mobile, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire crystal, you likely want to avoid mobile."
+  Blue-Mage:
+  - "Vampire is bugged on GBA to restore your entire missing health. Significantly better on GBA."
+  Time-Mage:
+  - "The mobile version fixes quickleaking, so you lose a free Triple Crown with it."
+  Berserker:
+  - "Berserkers can attack dummy targets on SNES. This makes 1-2 Berserker runs significantly better against Sandworm, Necrophobe, and NED on GBA or mobile."
+  - "Berserkers always attack the first target in line on mobile. This makes 1-2 Berserker runs slightly better against NED on GBA."
+  - "That said, Berserkers also act independently and don't start battles with empty ATB on mobile. So GBA/Mobile is largely down to preference if you don't have too many Berserkers."
+  - "Once you have 3+ Berserkers, the best damage output will be on SNES - utilizing the Thornlet magic underflow glitch makes your Gaia Hammer Berserker an all-star to help make up for your lack of control."
+  Beastmaster:
+  - "!Calm is only bugged on GBA, so you lose an easy Triple Crown if you use SNES or mobile."
+  Bard:
+  - "Songs go up to 255 rather than 99 on mobile. This doesn't matter in practice, but you can make even more hilariously large numbers."
+  - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on mobile, so the final fight is slightly safer on mobile."
+  Ninja:
+  - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable its !Flee proc on SNES and GBA, but not mobile."
+  Chemist:
+  - "The Death Potion !Mix is blockable on mobile, so Chemists are better on SNES or GBA."
+  Samurai:
+  - "!Mineuchi is only half power on mobile, but in return gains the ability to Paralyze."
+  - "If you don't have another Paralyze source OR a better Chicken Knife user, you're trading off the ability to Paralyze the Gargoyles and the Grand Cross piece of NED for that damage."
+  - "That's your decision, but I'd recommend full-power CK without other information."
+  UNION Cannoneer Oracle Gladiator:
+  - "On mobile, Omniscient is much harder to defeat without a 'proper' caster job, since Silence and Berserk don't work."
+  - "Depending on your jobs, this may remove mobile as a feasible option altogether."
+  
+  
