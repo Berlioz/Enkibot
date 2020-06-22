@@ -1,9 +1,9 @@
-Soulcannon:
+Soul Cannon:
   Metadata:
     next-node: ronka
     previous-nodes: ['adamantoise']
   Blue-Mage:
-    - "The turrets you fight before Sol Cannon can teach you Missile and Flamethrower."
+    - "The turrets you fight before Soul Cannon can teach you Missile and Flamethrower."
     - "The latter is exactly as powerful as Fira, so it's a very solid damage option with a Flame Rod equipped."
   Generic:
     - "12500 HP, weak to lightning, charges up and then casts Wave Cannon, and casts get faster after the first."
