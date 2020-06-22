@@ -39,7 +39,9 @@ Shinryu:
   Ninja:
   - "If you give the Ninja's !Image command to everyone, that'll work just fine."
   Chemist`:
-  - "Chemists can also inflict blind with Dragon Fang + Eye Drops."
+  - "Chemists can also inflict Blind with Dragon Fang + Eye Drops."
+  Ranger:
+  - "Rangers can inflict blind at a flat 66% rate with Dark Bow !Attacks, since it doesn't care about level or magic evasion."
   Cannoneer:
   - "You can inflict both Berserk and Blind with your magic gun."
   - "Admittedly, you're using up one of the 4 Ash in the game to do so. Maybe take a picture for RK but don't save afterwards."
@@ -50,3 +52,6 @@ Shinryu:
   - "In the ACTUAL worst case scenario, if you bring enough Phoenix Downs, you don't really need to survive the punches."
   Staff`:
   - "All Staff users have the Sage's Staff to help mitigate Phoenix Down usage, even without actual Raise access."
+  Bard:
+  - "Even without any Berserk access, you can get a !Hide off before the first Tidal Wave and have a Zombie party member with a Reflect Ring eventually Reflect Shinryu's Atomic Rays for the full 55,500 HP."
+  - "The only way to speed this up is to bring more than one Zombie, as there's no weapon that brings a reflectable proc and NOT access to a better method of killing."
