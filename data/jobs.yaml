@@ -7,8 +7,6 @@
 # - Break-Rods: 750 blaze it
 # - Inflict-Confuse: class can confuse enemies; important to blue mages
 # - Inflict-Berserk: Deprecated (redundant with Staff), but we don't know if removing it altogether will break things.
-# - Heavyscammer: class has an easy way to abuse Death/Petrify before assassin knife
-# - Crown: class guarantees a triple crown regardless of party composition
 
 Jobs:
   Knight:
@@ -22,7 +20,6 @@ Jobs:
   Black-Mage:
     - Break-Rods
     - Elemental
-    - Heavyscammer
     - Wind
   White-Mage:
     - Healing
@@ -32,7 +29,6 @@ Jobs:
   Blue-Mage:
     - Shield
     - Break-Rods
-    - Heavyscammer
     - Healing
     - Wind
   Mystic-Knight:
@@ -46,7 +42,6 @@ Jobs:
   Summoner:
     - Break-Rods
     - Elemental
-    - Heavyscammer
     - Water
   Red-Mage:
     - Break-Rods
@@ -56,12 +51,9 @@ Jobs:
     - Water
   Berserker:
     - Shield
-    - Heavyscammer
     - Pierce-Def
     - Water
   Beastmaster:
-    - Crown
-    - Heavyscammer
     - Fire
   Geomancer:
     - Fire
@@ -69,7 +61,6 @@ Jobs:
     - Elemental
     - Fire
   Bard:
-    - Crown
     - Fire
   Ranger:
     - Pierce-Def
@@ -77,7 +68,6 @@ Jobs:
     - Fire
   Samurai:
     - Shield
-    - Heavyscammer
     - Pierce-Def
     - Earth
   Dragoon:
@@ -88,14 +78,11 @@ Jobs:
     - Earth
   Chemist:
     - Healing
-    - Crown
     - Staff
-    - Heavyscammer
     - Earth
   Freelancer:
     - Staff
     - Break-Rods
-    - Heavyscammer
     - Pierce-Def
     - Shield
     - Wind
@@ -105,7 +92,6 @@ Jobs:
     - Break-Rods
   Cannoneer:
     - Shield
-    - Crown
   Gladiator:
     - Shield
   Oracle:
