@@ -1,13 +1,10 @@
 # Classes and meta-tags
-# - Shield: class can equip aegis shield and also other things i guess
-# - Pierce-Def: class can penetrate high physical defense without relying on high-power weaponry
-# - Elemental: class has easy access to fire/ice/lightning, may consider istory rings if no healing
-# - Healing: class has easy access to things which are better than hi-potion spam
+# - Shield: class can equip Aegis Shield, and technically other shields
+# - Pierce-Def: class can penetrate high physical defense, whether with defense-ignoring axes or critical hits (katanas/fists)
+# - Elemental: class has easy access to fire/ice/lightning elemental damage, may consider Istory rings if no healing
 # - Staff: class can equip Healing Staff/Power Staff
-# - Break-Rods: 750 blaze it
-# - Inflict-Confuse: class can confuse enemies; important to blue mages
-# - Inflict-Berserk: Deprecated (redundant with Staff), but we don't know if removing it altogether will break things.
-
+# - Break-Rods: 750 blaze it (class can equip, and thus break, rods)
+# - Inflict-Confuse: class can confuse enemies, important to Blue Mages
 Jobs:
   Knight:
     - Shield
@@ -22,14 +19,12 @@ Jobs:
     - Elemental
     - Wind
   White-Mage:
-    - Healing
     - Staff
     - Inflict-Confuse
     - Wind
   Blue-Mage:
     - Shield
     - Break-Rods
-    - Healing
     - Wind
   Mystic-Knight:
     - Elemental
@@ -47,7 +42,6 @@ Jobs:
     - Break-Rods
     - Staff
     - Inflict-Confuse
-    - Healing
     - Water
   Berserker:
     - Shield
@@ -77,7 +71,6 @@ Jobs:
     - Inflict-Confuse
     - Earth
   Chemist:
-    - Healing
     - Staff
     - Earth
   Freelancer:
