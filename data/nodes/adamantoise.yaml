@@ -1,7 +1,7 @@
-Kyrosiris' Least Favorite Boss:
+Adamantoise:
   Metadata:
     next-node: soulcannon
-    previous-nodes: ['w1_after_flight', 'crayclaw']
+    previous-nodes: ['crayclaw']
   Generic:
     - "The Adamantoise has 2000 HP, good magic evade, and sky-high physical defenses."
     - "It has powerful physical attacks, which you'll want to scam with back-row + mitigation/status aliments."
@@ -25,4 +25,4 @@ Kyrosiris' Least Favorite Boss:
   White-Mage:
     - "Protect everyone and leave them in the back row, since Adamantoise only physically attacks."
   Generic``:
-    - "The Something Awful Forums >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards"
+    - "The Something Awful Forums >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards (aka "Kyrosiris's Least Favorite Boss")"
