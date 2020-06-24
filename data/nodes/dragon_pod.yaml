@@ -3,7 +3,7 @@ Dragon Pod:
   Metadata:
     next-node: surgate
     previous-nodes:
-    - val
+    - bal
   Generic:
   - "12000 HP, summons 100 HP Dragon Flower that inflict various status effects."
   - "Most parties will either clear Flowers repeatedly with AoE or abuse the Pod's vulnerability to instant death."
