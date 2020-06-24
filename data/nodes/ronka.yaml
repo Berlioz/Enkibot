@@ -2,6 +2,10 @@ Ronka Ruins:
   Metadata:
     next-node: archaeoavis
     previous-nodes: ['soulcannon']
+  Chemist:
+    - "This is your last opportunity with all 4 party members to farm Prototypes on the island west of Crescent for Dark Matter."
+    - "You will want a total of 6 if you are Death Potioning every vulnerable boss before the next source of them (the Pyramid in W3) and you already have 1 from Soul Cannon."
+    - "Prototype is vulnerable to Berserk, but you can't set Blind as well without Dragon Fangs. Mostly just kiss it to death."
   Generic:
     - "Don't hit the speed trap!"
   INTERSECTION Knight Red-Mage Mystic Knight Gladiator:
