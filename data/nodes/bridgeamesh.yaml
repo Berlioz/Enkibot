@@ -27,3 +27,5 @@ Bridgamesh:
   - "Chemists can mix Lamia's Kiss and Dark Ether to effortlessly drain Gilgamesh's 1000 MP before taking him below 2500 HP, causing his buffs to fail."
   INTERSECTION Knight Mystic-Knight Blue-Mage Red-Mage Freelancer:
   - "Gilgamesh is vulnerable to Old, which you can inflict via the Ancient Sword. It's not vital, but ultimately cuts his Jump damage in half."
+  Samurai:
+  - "!Zeninage doesn't care about Protect, so you'll inflict the same damage before and after the buffs. And if you're level 13+, it only takes two !Zeninage to kill after buffs."
