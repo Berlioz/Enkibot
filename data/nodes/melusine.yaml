@@ -12,10 +12,9 @@ Melusine:
   - "Reflect Rings make it nearly impossible to die, but mean Melusine occasionally self-heals."
   INTERSECTION Red-Mage White-Mage:
   - "Congratulations, you've found the one time in the game the !White spell Libra is theoretically useful."
-  Red-Mage:
-  - "Melusine is vulnerable to Silence. It'll help."
+  - "Melusine is also vulnerable to both Silence and Confuse. Go wild."
   White-Mage:
-  - "Melusine is vulnerable to both Silence and Confuse. And you have Shell. Go wild."
+  - "Even beyond that, you have Shell. You can't lose."
   Blue-Mage:
   - "The Blue Mage !Scan ability will let you determine the current weakness, if you care."
   - "Aqua Rake is non-elemental, giving you a way to hit all three magic-vulnerable forms."
