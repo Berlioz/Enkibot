@@ -1,5 +1,5 @@
 ---
-Seal Crystals:
+Seal Crystals/Guardians:
   Metadata:
     next-node: meatcastle
     previous-nodes:
@@ -9,7 +9,7 @@ Seal Crystals:
   - "Each Crystal switches from attacking to casting a spell at 3000 HP remaining."
   - "The top one casts Firaga, the left Aeroga, the bottom Earth Shaker, and the right Aqua Breath."
   - "Each Crystal also absorbs attacks of its element, and all four nullify Ice/Lightning/Holy/Poison."
-  - "In general, avoid all-target attacks unless you think you can end the fight in one cycle."
+  - "In general, avoid all-target attacks unless you think you can kill all affected Crystals in one cycle."
   - "Parties with reasonable offenses can simply get a Crystal close to 3000 HP and try to kill it quickly."
   - "If you can (and aren't on mobile), put Bone Mail on Galuf to save yourself some time in the next fight."
   Blue-Mage:
@@ -44,3 +44,8 @@ Seal Crystals:
   - "If you did put Bone Mail on Galuf, and you're not on mobile, have him use a Phoenix Down on himself against Exdeath."
   Blue-Mage:
   - "If you're not on mobile, Self-Destruct also ends the fight instantly."
+  Summoner:
+  - "Get Float from a Poison Eagle on the bridge screen in Drakenvale via the Dancing Dagger's Tempting Tango."
+  - "Then go into the fight, wait for ATB bars to fill, cast three Titans with Gaia Gear on, wait for full bars again, four."
+  - "This should kill all the non-Earth crystals, and at that point you've won because you have Float. Chip it down."
+  
