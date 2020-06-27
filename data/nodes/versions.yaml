@@ -3,17 +3,21 @@ Version Differences:
     next-node: torna
     previous-nodes: ['class_notes']
   Generic:
-  - "There are some fairly significant differences in bugs and functionality between SNES, GBA, and mobile (which includes Steam) versions."
+  - "There are some fairly significant differences in bugs and functionality between SNES (including the Project Demi hack), GBA, and mobile (which includes Steam) versions."
   - "These tips show applicable ones for your four jobs."
   Black-Mage:
   - "Due to unspecified formula changes, all-target magic spells deal more damage on mobile. This makes farming (especially statues) slightly easier."
   - "As a trade-off, you can no longer all-target Thundaga on your own party and reflect 3/4 of it onto Omega to bypass its counterattacks. If this is your Omega plan, play SNES or GBA."
+  White-Mage:
+  - "Bridge Gilgamesh can be Silenced with Silence on SNES. This is a very small change, so likely don't let it be the tiebreaker over your personal preference."
   Thief:
   - "On mobile, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire crystal, you likely want to avoid mobile."
   Blue-Mage:
   - "Vampire is bugged on GBA to restore your entire missing health. Significantly better on GBA."
   Time-Mage:
   - "The mobile version fixes quickleaking, so you lose a free Triple Crown with it."
+  Red-Mage:
+  - "Bridge Gilgamesh can be Silenced with Silence on SNES. This is a very small change, so likely don't let it be the tiebreaker over your personal preference."
   Berserker:
   - "Berserkers can attack dummy targets on SNES. This makes 1-2 Berserker runs significantly better against Sandworm, Necrophobe, and NED on GBA or mobile."
   - "Berserkers always attack the first target in line on mobile. This makes 1-2 Berserker runs slightly better against NED on GBA."
