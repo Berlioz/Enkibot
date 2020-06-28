@@ -3,14 +3,14 @@ Liquid Flame:
     next-node: karnak_500
     previous-nodes: ['fireship']
   Generic:
-    - "3000 HP, transitions randomly between three forms when hit."
+    - "3000 HP, transitions randomly between three forms when hit. All three forms absorb wind and fire."
     - "The Human Form has single and multi target attacks and counters hits with Blaze."
     - "The Hand Form has single target attacks that can paralyze and counters hits with Fira. It runs out of MP after three casts. Absorbs fire, nullifies ALL other elements including ice."
     - "The Tornado Form casts Fira on itself to heal. It runs out of MP after five casts."
   UNION Ranger Freelancer:
     - "Killing Liquid Flame in Tornado Form makes it drop a Fire Bow, helpful in the next dungon and not buyable until later."
   UNION White-Mage Red-Mage:
-    - "Liquid Flame can be confused, leading it to do nothing except attack itself. Useful for choosing which drop you get, if you care."
+    - "Liquid Flame can be confused, leading it to do nothing except attack itself. Doesn't stop form changes, but gives you lots of time to heal."
   Break-Rods:
     - "Frost Rods will kill in two snaps. Don't use them when it's in hand form!"
   Time-Mage:
