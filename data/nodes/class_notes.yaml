@@ -148,7 +148,7 @@ Class Tips:
     - "!Mimic is an interesting ability, though timing it to do what you want can be tricky with cast times being different."
     - "!Mimicing !Zeninage still consumes money, but everything else, including items and spells, are used at no cost."
     - "You also still get random effects from things like !Dance or !Animals - you're copying the command, not the result."
-    - "Sadly, some things don't work well. !Mimicing a rod snap uses the weapon in the Mime's hand, which doesn't do what you want unless the Mime also has a rod equipped."
+    - "!Mimicing a rod snap (or other weapon use from the Items menu) uses the weapon in the Mime's hand as an item. This won't make a rod snap unless the Mime already has a rod equipped."
   Gladiator:
     - "A forbidden class you can normally only get in GBA and mobile after getting all four tablets."
     - "Strong, beefy, and can use almost any physical weapon."
