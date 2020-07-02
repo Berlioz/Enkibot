@@ -1,6 +1,6 @@
 Manticore:
   Metadata:
-    next-node: galuf_castle
+    next-node: w1_end
     previous-nodes: ['titan']
   Generic:
     - "3300 HP, not Heavy nor immune to instant death, alternates between (Fight or Aqua Breath) and (Blaze or Aqua Breath)."
