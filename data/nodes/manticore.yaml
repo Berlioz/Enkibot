@@ -7,7 +7,6 @@ Manticore:
   Beastmaster:
     - "Bandersnatches near Walse cast Blaster on !Release, which is 50/50 to instantly kill Manticore."
     - "Manticore is a Magic Beast, so !Calm will not work on GBA because it's bugged."
-    - "Before moving onto W2, you may want to catch a few more Sand Bears, if you're worried about Bridgeamesh."
   INTERSECTION Berserker Freelancer:
     - "Manticore isn't immune to instant death, so Death Sickle works."
   UNION Ranger Thief:
