@@ -26,6 +26,9 @@ Bal/Drakenvale:
   Bard:
   - "You can pick up Requiem in Quelb from the werewolves running in a circle in the top-right."
   - "Requiem deals massive damage to undead monsters. Quite handy for the next area and many to come."
+  Beastmaster:
+  - "You can get the Kornago Gourd from the man in the well on the left side of Quelb in return for 10,000 gil and a !Catch'd Kornago."
+  - "It lets you !Catch monsters at half HP rather than 1/8, which ranges from very useful to completely mandatory (Crystelles in the final dungeon have 3 HP and are good for NED.)"
   Generic`:
   - "Drakenvale itself has some fantastic loot."
   - "The Dragon Zombies here are tough, but can be easily defeated by Phoenix Downs or other anti-undead measures."
