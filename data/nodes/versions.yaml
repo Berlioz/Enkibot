@@ -3,7 +3,7 @@ Version Differences:
     next-node: torna
     previous-nodes: ['class_notes']
   Generic:
-  - "There are some fairly significant differences in bugs and functionality between SNES (including the Project Demi hack), GBA, and mobile (which includes Steam) versions."
+  - "There are some fairly significant differences in bugs and functionality between SNES (including the PS1 version and the Project Demi hack), GBA, and mobile (which includes Steam) versions."
   - "These tips show applicable ones for your four jobs."
   Black-Mage:
   - "Due to unspecified formula changes, all-target magic spells deal more damage on mobile. This makes farming (especially statues) slightly easier."
@@ -41,5 +41,4 @@ Version Differences:
   UNION Cannoneer Oracle Gladiator:
   - "On mobile, Omniscient is much harder to defeat without a 'proper' caster job, since Silence and Berserk don't work."
   - "Depending on your jobs, this may remove mobile as a feasible option altogether."
-  
   
