@@ -2,6 +2,8 @@ Walse/Walse Tower:
   Metadata:
     next-node: tycoon_treasure
     previous-nodes: ['magissa']
+  Generic:
+    - "At Walse Town you can pick up a free Silver Specs in a pot in the house you need to go into the water to reach. It'll make you immune to Blind, which is better than nothing in that slot!" 
   Summoner:
     - "The waterfall behind Walse Castle has the Shiva fight, which is critical for Summoners."
     - "...but you won't have Summoner until after the next dungeon, so Shiva can wait. Come back with Fire Rods from Ricard Mages."
