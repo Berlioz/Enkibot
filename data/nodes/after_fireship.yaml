@@ -19,8 +19,8 @@ Sailing:
     - "For Geomancers, this is a great grind spot for ABP and Elixirs."
   Beastmaster:
     - "The cave near Jachol has a Blitz Whip in a treasure chest near the end."
-  Black-Mage:
-    - "Black Mages can pick up the Toad spell in Istory. Walk in a circle on the flowers in the top-left of the town."
+  INTERSECTION Black-Mage Red-Mage:
+    - "Black and Red Mages can pick up the Toad spell in Istory. Walk in a circle on the flowers in the top-left of the town."
   Summoner:
     - "Summoners can learn Ramuh from an encounter outside Istory."
   Thief:
