@@ -35,7 +35,8 @@ Shinryu:
   - "White Mages have access to Blink as well, making them perfect for this strategy."
   Knight:
   - "Knights can coverscum Shinryu the same way they can any other berserked enemy."
-  - "But Shinryu absorbs Holy, so don't use the Excalibur when it comes time to attack with the Knight."
+  INTERSECTION Freelancer Knight:
+  - "Shinryu absorbs Holy, so don't hit it with the Excalibur."
   Summoner:
   - "Summoners can barely keep up with Shinryu's offense by casting Golem before every hit."
   Ninja:
