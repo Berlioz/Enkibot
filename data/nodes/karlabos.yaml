@@ -4,7 +4,7 @@ Karlabos:
     previous-nodes: ["torna"]
   Generic:
     - "The Something Awful Forums -> Let's Play -> Let's All Solo FFV And Get Murdered By Karl Boss"
-    - "650 HP, can inflict paralysis or lower a character to 1 HP. Basically the worst for solo games."
+    - "650 HP, weak to Lightning, can inflict paralysis or lower a character to 1 HP. Basically the worst for solo games."
     - "Just Potion up after getting hit by Tail Screw and you'll be fine."
   INTERSECTION Knight Monk:
     - "You'd kind of have to be trying to lose with Monk or Knight."
@@ -13,7 +13,7 @@ Karlabos:
     - "Blue Mages should make sure they learn Vampire and Goblin Punch first from Steel Bats and, well, Goblins."
     - "Karlabos is level 5, so a level 5 Blue Mage will deal about 240 damage with Goblin Punch."
   Black-Mage:
-    - "Black Mages can absolutely go ham with Thunder to hit a convenient elemental weakness. It's almost like Karlabos is a tutorial boss!"
+    - "Black Mages can spam Thunder to hit a convenient elemental weakness. It's almost like Karlabos is a tutorial boss!"
   White-Mage:
     - "If you're stuck with four White Mages, you'll probably need to grind out another point of M at level 8."
   Thief:

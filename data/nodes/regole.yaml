@@ -1,7 +1,7 @@
 ---
 Regole:
   Metadata:
-    next-node: val
+    next-node: bal
     previous-nodes:
     - bridgeamesh
   Generic:

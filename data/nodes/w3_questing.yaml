@@ -1,7 +1,7 @@
 ---
 Merged World questing:
   Metadata:
-    next-node: xzone
+    next-node: rift
     previous-nodes: [fork_tower]
     map: [world3.png]
   Generic: 

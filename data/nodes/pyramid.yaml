@@ -8,15 +8,21 @@ The Great Pyramid:
   - "To get in, you'll have to beat two Gargoyles with 5000 HP each which use physical attacks."
   - "If one is dead when the other gets a turn, it will revive at full HP, so you need to kill both nearly-simultaneously or use debilitating effects."
   - "Gargoyles are vulnerable to instant death, Sleep, Paralyze, Berserk, Stop, and Slow. (But they're heavy, so Stop doesn't last long.)"
-  - "For subsequent rematches, you can always use a Magic Lamp'd Odin to kill them."
+  - "For subsequent rematches, you can use the Magic Lamp to run through Bahamut, Leviathan (sadly not Odin) and Syldra for enough AoE damage to usually kill both."
   - "Without a run-away ability (Thief or Ninja), regular Chicken Knife attacks are the best way to get away from Zephyrus encounters in a reasonable timeframe."
   Blue-Mage:
   - "Blue Mages can use Level 3 Flare to kill both Gargoyles."
+  White-Mage:
+  - "Gargoyles are vulnerable to Berserk, and that prevents them from reviving each other."
+  Staff:
+  - "With a Power Staff, you can take advantage of the Gargoyles' vulnerability to Berserk even without access to the spell Berserk."
   Beastmaster:
   - "You don't have good !Catch options yet, but you can !Release Bulettes for ~4000 to a single random target."
   - "Four of them will kill both Gargoyles, so wait until all your ATB bars are full."
-  INTERSECTION Thief Ninja:
-  - "The Zephyrus encounters in here can be run from, but it takes forever naturally, so !Flee and !Smoke are really good."
+  INTERSECTION Thief Ninja Time-Mage:
+  - "The Zephyrus encounters in here can be run from, but it takes forever naturally, so !Flee and !Smoke and the Teleport spell are really good."
+  NOT INTERSECTION Thief Ninja Time-Mage:
+  - "Without a run-away ability, regular Chicken Knife attacks are the best way to get away from Zephyrus encounters in a reasonable timeframe."
   Bard:
   - "Many of the random encounters in here are Undead, making Requiem very handy."
   Berserker:

@@ -1,7 +1,7 @@
 ---
 Bridgamesh:
   Metadata:
-    next-node: lugor
+    next-node: regole
     previous-nodes:
     - galuf_castle
   Generic:
@@ -11,6 +11,8 @@ Bridgamesh:
   - "Otherwise, most parties can still win a DPS race against boosted Gilgamesh, if you're careful about when you push him."
   White-Mage:
   - "Protect will let you safely slug it out against boosted Gilgamesh."
+  INTERSECTION Red-Mage White-Mage:
+  - "On SNES only, you can land Silence at the proper moment to prevent the buffs. Not on GBA or mobile. Just SNES."
   Time-Mage:
   - "While he can't be silenced, the Mute spell works just fine."
   - "Land Slow on him before Mute stops your spells as well to make the fight even easier."
@@ -27,3 +29,5 @@ Bridgamesh:
   - "Chemists can mix Lamia's Kiss and Dark Ether to effortlessly drain Gilgamesh's 1000 MP before taking him below 2500 HP, causing his buffs to fail."
   INTERSECTION Knight Mystic-Knight Blue-Mage Red-Mage Freelancer:
   - "Gilgamesh is vulnerable to Old, which you can inflict via the Ancient Sword. It's not vital, but ultimately cuts his Jump damage in half."
+  Samurai:
+  - "!Zeninage doesn't care about Protect, so you'll inflict the same damage before and after the buffs. And if you're level 13+, it only takes two !Zeninage to kill after buffs."

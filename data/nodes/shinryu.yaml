@@ -34,6 +34,8 @@ Shinryu:
   - "White Mages have access to Blink as well, making them perfect for this strategy."
   Knight:
   - "Knights can coverscum Shinryu the same way they can any other berserked enemy."
+  INTERSECTION Freelancer Knight:
+  - "Shinryu absorbs Holy, so don't hit it with the Excalibur."
   Summoner:
   - "Summoners can barely keep up with Shinryu's offense by casting Golem before every hit."
   Ninja:
@@ -55,3 +57,4 @@ Shinryu:
   Bard:
   - "Even without any Berserk access, you can get a !Hide off before the first Tidal Wave and have a Zombie party member with a Reflect Ring eventually Reflect Shinryu's Atomic Rays for the full 55,500 HP."
   - "The only way to speed this up is to bring more than one Zombie, as there's no weapon that brings a reflectable proc and NOT access to a better method of killing."
+  - "Alternatively, if you have Berserk access, use Apollo's Harp to kill really, really quickly. 8x damage is stupid."

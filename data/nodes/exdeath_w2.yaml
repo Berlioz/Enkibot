@@ -7,6 +7,7 @@ W2 Exdeath:
     - "Classes without a strong way to cheese this fight should bring Reflect Rings from Barrier Tower."
     - "If you're foregoing Reflect Rings, don't have anyone with a level divisible by 3, unless you want them to die to Level 3 Flare."
     - "If you are bringing Reflect Rings, going in with a level divisible by 3 is actively good!"
+    - "Parties with weak healing options (or anyone, honestly) should consider reading Exdeath's AI script to be ready for Zombie Breath, which wipe a party at low HP."
   White-Mage:
     - "Make sure you keep Protect up; Exdeath's Vacuum Wave physicals are nasty."
     - "Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also put Reflect on Exdeath."
@@ -40,7 +41,5 @@ W2 Exdeath:
     - "If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring."
   UNION Staff Ranger:
     - "!Rapid Fire works with Staff of Light physical attacks. This obscurely specific tip sounds like a joke, but it isn't."
-  NOT Healing:
-    - "Players with weak healing options should consider reading Exdeath's AI script to be ready for Zombie Breath, which can spell a wipe for parties at low HP when it's cast."
   Shield:
     - "Consider carefully what you give your Aegis Shield user; if things start going south they will likely be the one responsible for saving the fight."

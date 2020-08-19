@@ -34,8 +34,7 @@ Neo Exdeath:
   - "You'll probably have to look elsewhere for damage, but Equip Ribbons make Grand Cross almost completely useless."
   - "That said, the Man-Eater deals critical damage to the left-most piece (the one that dies to Magic Lamp Odin, so this tip isn't great.)"
   Chemist:
-  - "Chemists can do excellent AoE by spamming Holy Breath (Dragon Fang + Holy Water)."
-  - "It does damage equal to your HP, which combos with Giant's Drink doubling your max HP."
+  - "Chemists want to lean on spamming Holy Breath (Dragon Fang + Holy Water). It does damage equal to your HP, which combos with Giant's Drink doubling your max HP."
   - "Between Giant's Drink and the ability to Shell the team, Chemists can neuter Almagest."
   - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) also grants immunity from Grand Cross's 'HP Critical' result." 
   Samurai:
@@ -47,8 +46,9 @@ Neo Exdeath:
   - "...or thrown by your Ninja."
   Beastmaster:
   - "Beastmasters can release a Dragon Aevis for a 9999-all-target Breath Wing. 4 of them will get NED's parts real low."
-  - "You can also release a Crystelle for Mighty Guard to trivialize Almagest, but catching one's a horrible pain."
+  - "You can also release a Crystelle for Mighty Guard to trivialize Almagest, but catching one's a horrible pain and literally impossible without the Kornago Gourd."
   - "As long as you're under level 45, using the Dancing Dagger in the back row against a Crystelle that you have !Controlled to use Protect on itself first can do the necessary 2 damage."
+  - "Alternatively, if you have an Excalipoor wielder, that's going to be way easier."
   Blue-Mage:
   - "Mighty Guard and White Wind allow you to win stand-up brawls against NED with little fuss."
   - "Or you could abuse Dark Spark and L5 Death, but honestly it's not really worth the setup time and Dark Spark missing."
@@ -56,7 +56,7 @@ Neo Exdeath:
   - "Unless you have !Mix AND math both on your side, which lets you set up the hilarious QUAD SKULL by taking all parts to level 255."
   Blue-Mage`:
   - "Condemn works on the far-left piece, if you don't want to just Magic Lamp it, or if you think that telling the final boss it has 30 seconds to live is hilarious (it is.)"
-  - "The top-left piece, which casts Grand Cross, can be locked down by Paralyze from Mind Blast. This might be a reason to learn it from Wendigo or Twintania."
+  - "The top-left piece, which casts Grand Cross, can be locked down by Paralyze from Mind Blast. That said, it has 75% magic evasion and is high level, so it's likely not worth the effort."
   Bard:
   - "Apollo's Harp does 8x damage against the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway."
   - "And they should be, since you buffed all your stats to maximum in the Treedeath phase of the fight."
@@ -89,7 +89,7 @@ Neo Exdeath:
   - "Hopefully you have another class that can use !Dualcast and can pick up the slack."
   Knight:
   - "Aegis Shield protects against a few Grand Cross outcomes, and can block Almagest, but you were wearing it anyway."
-  - "Honestly, I just felt bad for Knight because we didn't have any real tips for it."
+  - "If you have the Defender from Fork Tower, you can use it to apply Protect to help mitigate Vacuum Wave, if you're worried."
   UNION Knight Thief:
   - "You can steal a Ragnarok in this fight, and then swap it in to wield it without having to fight Shinryu, but it's a rare steal so it may not be worth your time."
   - "...and this is relevant because if you have Knight and Thief, your odds of being able to fight Shinryu are not great."
@@ -101,7 +101,8 @@ Neo Exdeath:
   - "All four pieces are vulnerable to Darkness, but only the far-right one actually matters, because that one physically attacks."
   - "The Almagest piece (bottom middle) is vulnerable to Old, which will completely nerf its Almagest damage."
   - "The Grand Cross piece (top middle) is a Dragon, so it will take double damage from Dragon Cannon, which might do more than Needle Cannon at sane levels."
+  - "Between the Lamp, Darkness+Slow, and Old, the only piece you don't outright neuter is the Grand Cross piece... and for some reason CAN gets Aegis Shield access."
   Gladiator:
   - "Fishing for 9999 !Finisher probably averages more damage than !Bladeblitz, but either should be fine, because Gladiator has lots of weapon options and LOTS of Strength."
   Oracle:
-  - "I made up a bogus tip for Knight about wearing Aegis Shield. I have no such tip for Oracle. Just do whatever you've been doing all game."
+  - "Uh... just do whatever you've been doing all game."

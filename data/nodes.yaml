@@ -1,6 +1,7 @@
 Manifest:
 - begin
 - class_notes
+- versions
 - torna
 - karlabos
 - ship_graveyard
@@ -28,10 +29,11 @@ Manifest:
 - purobolos
 - titan
 - chimera
+- w1_end
 - galuf_castle
 - bridgeamesh
-- lugor
-- val
+- regole
+- bal
 - dragon_pod
 - surgate
 - boatamesh
@@ -48,7 +50,7 @@ Manifest:
 - pyramid
 - melusine
 - w3_questing
-- xzone
+- rift
 - calofisteri
 - omega
 - apanda
@@ -62,22 +64,21 @@ Manifest:
 - necrophobe
 - tree_exdeath
 - ned
-- sea_trench
-- wendigo
-- airship_w3
+- sealed_castle
+- phoenix_tower
+- gogo
 - bahamut
 - leviathan
-- sealed_castle
-- omniscient
-- those_assholes
-- gogo
-- phoenix_tower
-- w1_after_flight
-- istory_falls
-- odin
+- airship_w3
 - mirage
-- island_shrine
+- sea_trench
 - fork_tower
+- wendigo
+- odin
+- omniscient
+- island_shrine
+- istory_falls
+- stooges
 Titles:
   adamantoise: Adamantoise
   after_fireship: Sailing
@@ -88,6 +89,7 @@ Titles:
   atomos: Atomos
   azulmagia: Azulmagia
   bahamut: Bahamut
+  bal: Bal/Drakenvale
   bearaga: The Desert of Shifting Sands
   begin: Intro
   boatamesh: Boatamesh & Enkidu
@@ -119,7 +121,6 @@ Titles:
   leviathan: Leviathan
   library: Library
   liquiflame: Liquid Flame
-  lugor: Regole
   magissa: Magissa + Forza
   melusine: Melusine
   mirage: Mirage (Phantom Village)
@@ -133,28 +134,29 @@ Titles:
   phoenix_tower: Phoenix Tower
   purobolos: Purobolos
   pyramid: The Great Pyramid
+  regole: Regole
+  rift: Interdimensional Rift
   ronka: Ronka Ruins
   sandworm: Sandworm (Zerkersbane)
   scrubamesh: Castlemesh
   sea_trench: Deep Sea Trench
-  seal_crystals: Seal Crystals
+  seal_crystals: Seal Crystals/Guardians
   sealed_castle: Sealed Castle
   shield_generator: Barrier Tower
   shinryu: Shinryu
   ship_graveyard: Ship Graveyard
   siren: Siren
-  soulcannon: Soulcannon
+  soulcannon: Soul Cannon
+  stooges: Three Stooges
   surgate: Surgate
-  those_assholes: Three Stooges
   titan: Titan
   torna: Post-Wind Shrine
   tree_exdeath: Tree Exdeath
   twintania: Twin Tania
   tycoon_treasure: Tycoon (optional)
-  val: Bal/Drakenvale
+  versions: Version Differences
   voidamesh: The Void
-  w1_after_flight: After Flight (world 1)
+  w1_end: Leaving W1 (Before You Go)
   w3_questing: Merged World questing
   walse_tower: Walse/Walse Tower
   wendigo: Wendigo
-  xzone: X-Zone/Interdimensional Rift

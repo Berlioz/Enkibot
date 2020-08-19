@@ -1,7 +1,7 @@
 Adamantoise:
   Metadata:
     next-node: soulcannon
-    previous-nodes: ['w1_after_flight', 'crayclaw']
+    previous-nodes: ['crayclaw']
   Generic:
     - "AKA Kyrosiris' Least Favorite Boss"
     - "Trigger the ruins to fly by trying to return there, talk to Cid, then go to the Tycoon Meteorite."
@@ -27,4 +27,4 @@ Adamantoise:
   White-Mage:
     - "Protect everyone and leave them in the back row, since Adamantoise only physically attacks."
   Generic``:
-    - "The Something Awful Forums >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards"
+    - "The Something Awful Forums >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards (aka 'Kyrosiris's Least Favorite Boss')"

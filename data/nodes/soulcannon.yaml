@@ -1,4 +1,4 @@
-Soulcannon:
+Soul Cannon:
   Metadata:
     next-node: ronka
     previous-nodes: ['adamantoise']
@@ -26,11 +26,13 @@ Soulcannon:
   Geomancer:
     - "All you'll get in this fight is Wind Slash! Awesome! ...except Soul Cannon and the Launchers are immune to wind."
     - "Yes, Geomancers are completely useless here aside from knife/bell attacks."
+    - "The best Elixir grind spot is in the Ship Graveyard, inside the shipwreck after the Save Point, where the World Map was. You'll need them."
   Time-Mage:
     - "Stop from a Time Mage will work on the Launchers, if for some reason you're allergic to rod abuse."
     - "Soul Cannon itself is vulnerable to Slow."
   Bard:
     - "This is a funny fight for Bards, since they can Romeo's Ballad lock the Launchers and Hide from the Wave Cannons."
+    - That said, the best Elixir grind spot is in the Ship Graveyard, inside the shipwreck after the Save Point, where the World Map was. You still might need them."
   Beastmaster:
     - "You may be able to rush the Soul Cannon down with four Bearagas (~9k damage) plus some attacks."
     - "If you have a way to damage it, you could !Capture a Prototype and release it for ~1k all-target damage to deal with the Launchers in one shot, but that's a big if there."

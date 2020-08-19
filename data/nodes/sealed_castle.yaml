@@ -7,21 +7,34 @@ Sealed Castle:
   Generic:
   - "Try not to die to the Exdeath's Soul and Shield Dragon encounters in the lobby, they're a cut above most encounter trash."
   - "You'll have the choice of 3 legendary weapons at first in the Sealed Castle, plus 3 more per tablet."
-  - "Assassin's Dagger is multiclass and excellent."
+  - "The Assassin's Dagger is the only truly multiclass one, but it's excellent (if nothing else, it murders Twintania)."
+  Freelancer:
+  - "Freelancer gets to go shopping here. Take the Dagger in your first set (probably), but you have so many of options! In rough order of power:"
+  - "Masamune is dumb dumb dumb. Guaranteed initiative + use to cast Haste. Especially funny with !Flee or !Smoke."
+  - "Excalibur has the highest Power of any easily obtainable weapon and is Holy elemental, which is usually upside (but not against Shinryu or Minotaur.)"
+  - "The Rune Axe runs off your not-Berserker-level magic, so it just hits like a truck and ignores a bunch of defense for no reason."
+  - "Yoichi's Bow hits hard, and its 30% critical hit rate ignores defense when it procs. Doesn't do anything fancy, but does murder."
+  - "Apollo's Harp is really good against dragons, so you may want it with your second+ set of tablets. Shinryu is the notable target here."
+  - "Sasuke's Katana has pretty high attack power and a 1/3 physical attack block rate, like a Main Gauche on steroids."
+  - "The Sage's Staff is Holy elemental like Excalibur, and can be used to infinitely cast Raise for free."
+  - "The Magus Rod boosts every element, which does fuck-all for Freelancer on its own. If you want this, you already know you want this."
+  - "The Holy Lance is like Excalibur, except strictly worse. The Fire Lash sucks. The Gaia Bell is worse."
   NOT Time-mage:
-  - "If you don't have dimensional magic, you may need the Assasin's Dagger to kill enki.bot/twintania ."
+  - "If you don't have dimensional magic, you may need the Assasin's Dagger to kill enki.bot/twintania."
   Knight: 
   - "Excalibur has the highest Power of any easily obtainable weapon and is Holy elemental. No-brainer for Knights." 
   Ninja:
-  - "Sasuke's Katana is really good, especially if your Ninja isn't your Chicken Knife user."
+  - "Sasuke's Katana is really good, especially if your Ninja isn't your Chicken Knife user. High power and a 1/3 physical attack block rate."
   Dragoon:
   - "The Holy Lance is a solid option for your dragoon, though Dragoon is kind of a falling-off class at this point."
+  - "Sure, take the Holy Lance, whatever, just don't use it against Shinryu or Minotaur because they absorb Holy."
   Berserker:
   - "The Rune Axe is a mediocre choice for your Berserker...unless you have a magic-using secondary ability, in which case it's amazing."
   Samurai:
   - "Masamune is dumb dumb dumb. Guaranteed initiative + use to cast Haste. Especially funny with !Flee or !Smoke. Get it."
   Ranger:
   - "Yoichi's Bow's selling point is its defense ignoring proc... but !Rapid Fire does that too. Sorry, friend."
+  - "That said, its power makes it the second-best weapon for a ranger after the Chicken Knife, so you likely still want it."
   Bard:
   - "Apollo's Harp is kind of niche, but it's not a bad choice for your third weapon if you have no better options."
   UNION Bard Chemist:

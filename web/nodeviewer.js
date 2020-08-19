@@ -49,16 +49,22 @@ class NodeViewer{
     }
   }
   
+  /* 
+   * The original ruby program confuses the meaning of 
+   * UNION (or) and INTERSECTION (and). Sadly, it's easier to 
+   * emulate this fault rather than to fix it (especially when
+   * it comes to merging upstream changes).
+   */
   allow(tag){
     if(tag=='Metadata') return false
     if(tags.has(tag)||tags.has('All')) return true
     if(tag=='Generic') return true
     let parameters=tag.split(' ').splice(1)
-    if(tag.indexOf('UNION')>=0){
+    if(tag.indexOf('INTERSECTION')>=0){
       for(let p of parameters) if(tags.has(p)) return true
       return false
     }
-    if(tag.indexOf('INTERSECTION')>=0){
+    if(tag.indexOf('UNION')>=0){
       for(let p of parameters) if(!tags.has(p)) return false
       return true
     }

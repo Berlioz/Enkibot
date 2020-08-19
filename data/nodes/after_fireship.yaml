@@ -5,6 +5,7 @@ Sailing: #TODO should probably be restructured as an open-world node like w3_que
   Generic:
     - "If you haven't unlocked your Fire Crystal job yet, you'll want to go to enki.bot/chocobo_forest first."
     - "There's a few useful things you can do with the Fire-Powered Ship before you progress the plot."
+    - "After the Karnak 500, a new merchant appears walking around in the Karnak weapon/armor shop. He sells a bunch of stuff for jobs you may not have yet."
     - "The random trash encounters around Jachol are difficult, since you're not 'supposed' to be there yet."
     - "The stores in Jachol sell Mage Mashers, Coral Swords, katanas, bows, and the Ninja Suit."
   Bard:
@@ -16,8 +17,10 @@ Sailing: #TODO should probably be restructured as an open-world node like w3_que
     - "The cave near Jachol has Skull Eater encounters that give 5 ABP and drop Elixirs."
     - "They hit hard and fast, but !Gaia either oneshots them with Stalactite or confuses them with Ignus Fatuus."
     - "For Geomancers, this is a great grind spot for ABP and Elixirs."
-  Black-Mage:
-    - "Black Mages can pick up the Toad spell in Istory. Walk in a circle on the flowers in the top-left of the town."
+  Beastmaster:
+    - "The cave near Jachol has a Blitz Whip in a treasure chest near the end."
+  INTERSECTION Black-Mage Red-Mage:
+    - "Black and Red Mages can pick up the Toad spell in Istory. Walk in a circle on the flowers in the top-left of the town."
   Summoner:
     - "Summoners can attain Ramuh from the eastern forest, if they're around Istory already."
   Thief:
@@ -26,11 +29,11 @@ Sailing: #TODO should probably be restructured as an open-world node like w3_que
   Bard`:
     - "Bards can learn Romeo's Ballad in Istory, which Stops all enemies."
     - "In addition to being situationally useful against bosses, it's an incredible trash-clearing tool for the rest of the game."
-    - "They can also play the fifth piano in Crescent, and talk to the composer NPC to learn Mighty March (just for a complete song list, because Regen sucks)."
+    - "They can also play the fifth piano in Crescent, and talk to the composer NPC to learn Mighty March."
   Break-Rods:
     - "Rod-having parties can also pull the legendary Dragondarch Manuever outside Istory, farming the tough Mini Dragons there for XP with Thunder Rods."
   Ninja:
-    - "Ninjas can farm the Magic Dragons outside of Istory for XP with !Throw."
+    - "Ninjas can farm the Mini Dragons outside of Istory for XP by !Throwing Thunder Scrolls."
   Berserker:
     - "Berserkers should swing by Crescent Island and farm up some Death Sickles from the Harvesters there."
   Freelancer:
@@ -41,7 +44,7 @@ Sailing: #TODO should probably be restructured as an open-world node like w3_que
   Blue-Mage`:
     - "Blue Mages can learn Dark Spark from the Black Flame enemies on the small island north of Crescent."
     - "It halves the target's level, which combines with L5 Death and L2 Old to murder a bunch of bosses."
-  Beastmaster:
+  Beastmaster`:
     - "If you're interested, !Control will let you farm Prototypes (they Self-Destruct) on an island west of Crescent."
     - "It's pretty good XP/ABP."
   UNION Chemist Beastmaster:

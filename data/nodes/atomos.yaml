@@ -6,18 +6,16 @@ Atomos:
     - shield_generator
   Generic:
   - "19997 HP, spams Comet until someone dies, then starts sucking them in."
-  - "You can just come in with someone dead to skip the Comets."
-  - "Revive them right before they get eaten and let Atomos kill someone else to buy more time."
+  - "You can come in with someone dead to skip the Comets, or just leave one party member dead after them."
+  - "Revive your corpse just before they move far enough to the left to get eaten and let Atomos kill someone else to buy more time. This fight is hard to lose."
   Blue-Mage:
   - "Dark Shock -> Level 5 Death ends the fight."
   INTERSECTION Black-Mage Mystic-Knight:
   - "Atomos is weak to Sleep, and then you can kill it without waking it up."
-  Red-Mage:
-  - "You can use the Sleep Blade to put Atomos to sleep, then kill it with magic without waking it up."
+  INTERSECTION Red-Mage Freelancer:
+  - "You can attack with the Sleep Blade to put Atomos to sleep, then kill it by snapping rods (or with magic) without waking it up."
   Knight:
-  - "You can use the Sleep Blade to put Atomos to sleep, then kill it if you have any magical damage. Otherwise, it doesn't matter much."
-  Freelancer:
-  - "You can use the Sleep Blade to put Atomos to sleep, then kill it by snapping rods without waking it up."
+  - "You can attack with the Sleep Blade to put Atomos to sleep, then kill it if you have any magical damage (including rod snaps!) Otherwise, it doesn't really matter."
   Beastmaster:
   - "!Releasing a Lesser Lopros from the river by the Moogle Village will deal 5000 damage with Breath Wing."
   - "Four of them will kill Atomos."

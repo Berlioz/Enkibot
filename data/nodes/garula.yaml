@@ -5,6 +5,7 @@ Garula:
     previous-nodes: ['walse_tower', 'tycoon_treasure']
   Generic:
     - "1200 HP, begins countering every attack with Rush at 800 HP."
+    - "Weak to Paralysis, like from the Whip, if you currently have someone to wield it."
     - "A definite trainwreck waiting to happen for unlucky and unprepared players."
   Break-Rods:
     - "Of course, you can also farm up a Fire Rod from a Ricard Mage downstairs, or use the Frost Rod from Carwen."

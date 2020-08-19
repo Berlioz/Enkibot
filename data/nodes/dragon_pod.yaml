@@ -3,9 +3,9 @@ Dragon Pod:
   Metadata:
     next-node: surgate
     previous-nodes:
-    - val
+    - bal
   Generic:
-  - "12000 HP, summons 100 HP Dragon Flower that inflict various status effects."
+  - "12000 HP, summons 100 HP Dragon Flowers that inflict various status effects."
   - "Most parties will either clear Flowers repeatedly with AoE or abuse the Pod's vulnerability to instant death."
   - "Worst case scenario, the Bone Mail shuts down almost everything this fight can do for one lucky wearer."
   - "Only the second Flower from the left inflicts an ailment that the Bone Mail doesn't nullify (paralyze)."
@@ -36,11 +36,12 @@ Dragon Pod:
   Samurai:
   - "!Iainuki will cut the Dragon Pod right in half, if you have it."
   - "If not, the Wind Slash katana will clear the Flowers every time its Wind Slash ability procs (12.5%)."
+  - "!Zeninage will be very expensive here, but everything has 0 defense if you're absolutely loaded with gil."
   Geomancer:
   - "!Gaia is quite likely to use Earthquake here, which will kill the Flowers."
   INTERSECTION Red-Mage White-Mage:
-  - "If you'd rather not snap rods, you can neuter the Flowers by Confusing them."
-  Time-Mage:
-  - "The Dragon Pod isn't heavy, so you can murder it with Gravity. You can also snap rods to clear the Flowers."
+  - "You can neuter the Flowers by Confusing them."
   Red-Mage:
   - "You can also snap rods to clear the Flowers."
+  Time-Mage:
+  - "The Dragon Pod isn't heavy, so you can Gravity it repeatedly and snap one rod for the kill. Rod snapping also clears the Flowers."

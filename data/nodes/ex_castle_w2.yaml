@@ -6,27 +6,30 @@ Ex Death's castle (Galuf's world):
   Generic:
   - "The room after the first save point has tons of dragons - can be hard but also good XP."
   - "After the second save point is not a good grinding spot (you can't return without going throuh lava)."
+  - "For the floor puzzle with the skull trapdoors, use this handy picture: https://www.cavesofnarshe.com/ff5/images/walkthrough/trapfloor.png"
   NOT Healing:
   - "If you don't have cure, you will probably want to grind at least one level at this point."
   Staff:
   - "To save yourself time in world 3 and open up some Triple Crown options, farm a Power Staff drop from Black Warlocks."
-  - "It casts Berserk when wielded, which has a number of obscure but quite useful applications."
+  - "It casts Berserk on hit, which has a number of obscure but quite useful applications. Especially on Shinryu."
   UNION Staff Thief:
-  - "Your Thief can also steal a Judgment Staff from those same Black Warlocks."
-  - "It casts Dispel when wielded, which can be rarely useful."
+  - "Your Thief can also rare steal a Judgment Staff from those same Black Warlocks. It casts Dispel when used. You likely don't care, but might."
   Shield:
-  - "Shield-users will appreciate the Ice Shield in a chest here... or at least they would if not for the Aegis Shield."
+  - "Shield-users will appreciate the Ice Shield in a chest here... or at least they would, if not for the Aegis Shield."
+  - "Still, if you have multiple shield-users, it's the next best option so far."
   Blue-Mage:
   - "Magic Dragons cast three Blue Magic spells you theoretically could have, but may have missed."
   - "Aeroga, Off-Guard, and Level 2 Old were all annoying to obtain the first time around, if even possible for your team."
+  - "On GBA, quicksaving on floor 4 will give you an uncommon encounter with three Magic Dragons and some trash, to up your odds."
+  - "Without prior confusion access, using Tempting Tango from the Dancing Dagger on a Hellraiser is your first chance to get White Wind as well."
   Ranger:
-  - "You'll have to walk through the lava to get the Hayate Bow here, but it's worth it."
+  - "You'll have to walk through the lava to get the Hayate Bow here. Consider Quicksave to do it safely on GBA. Even without that, it's worth it."
   UNION Ranger Berserker:
   - "...Especially if you put Equip Bows on a Berserker and give it to them."
   Knight:
   - "The Icebrand isn't very good, but in conjuction with your new Ice Shield it lets your Knight heal themselves."
   INTERSECTION Ninja Thief:
-  - "Ninjas and Thieves will appreciate the Twin Lance weapon in a chest near the end."
+  - "Ninjas and Thieves will appreciate the Twin Lance weapon in a chest near the end, especially if it's your best Chicken Knife option."
   Summoner:
   - "Summoners can get the Carbuncle summon by defeating it in just before the final save point."
   - "Carbuncle is really sturdy, but transforms into a weaker healing form after casting 3 spells on you."
@@ -37,3 +40,5 @@ Ex Death's castle (Galuf's world):
   Thief:
   - "Lazy people with a Thief may want to fight Carbuncle, because it has two common steal Reflect Rings, one from each form."
   - "Reflect Mages, common on floor 3, have a rare steal Reflect Ring and no common steal. Here's your farming place for the rest of the party!"
+  NOT Healing:
+  - "Players with weak healing options should consider reading Exdeath's AI script to be ready for Zombie Breath, which can spell a wipe for parties at low HP when it's cast."  

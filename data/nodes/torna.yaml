@@ -1,14 +1,14 @@
 Post-Wind Shrine:
   Metadata:
     next-node: karlabos
-    previous-nodes: ['class_notes']
+    previous-nodes: ['versions']
     map: world1.png
   Generic:
-    - "Most classes will not need to purchase gear in Torna to beat Karlabos, but it's cheap."
+    - "Most classes will not need to purchase gear in Tule to beat Karlabos, but it's cheap."
   Beastmaster:
     - "If you plan on releasing it against the Antlion, don't open the Goblin-trapped chest in the Training House."
   Bard:
-    - "Play the piano in the Torna pub for your Bard."
+    - "Play the piano in the Pub for your Bard."
   Blue-Mage:
     - "You can revisit Faris' hideout now and learn Vampire from the bats there."
     - "Also, you should definitely get Aero from the Moldwynds in the Wind Shrine and probably also Goblin Punch from the Black Goblins."

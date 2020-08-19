@@ -16,11 +16,13 @@ Aviation:
   - "The eighth and final piano is carefully hidden behind a secret passage in the basement. Sneaky."
   - "The composer on Crescent Island will teach you Sinewy Etude if you've played seven pianos and Hero's Rime if you've played all eight."
   Generic`:
-  - "The Accessory Shop sells Hermes Sandals for 50k each. They give permanent Haste, and are easily the best accessory in the game."
+  - "The Accessory Shop sells Hermes Sandals for 50k each. They give permanent Haste (and thus immunity to Slow, Stop, Paralyze, and Sleep) and are easily the best accessory in the game."
   - "There's a free pair late in the Rift... but still buy all 4 now, rather than waiting, if you can afford them."
   - "Don't forget the Thief Knife behind the bar, which gives every party access to !Steal."
   - "You can grab Boko back from where you parked him near Ghido's Cave."
   - "Ride Boko all the way to the top of Istory Falls to find the Magic Lamp, which can one-shot part of the final boss."
+  - "It summons a summon when used in battle, starting from strongest to weakest before looping."
+  - "Examine the waterfall again to bring the Magic Lamp back to the beginning of its cycle if you need to use it for multiple bosses."
   - "While you're on Boko anyway, ride him around the entire world, then talk to a NPC in Phantom Village for your free Mirage Vest."
   - "The Accessory Shop sells Hermes Sandals for 50k each."
   - "They grant Haste and Stop immunity, and are easily the best accessory in the game."
@@ -43,7 +45,9 @@ Aviation:
   Beastmaster`:
   - "!Release a Zombie Dragon to poison it, then hold it down with !Control and watch it slowly bleed out. You monster."
   Dancer:
-  - "Dancers (and Equip Ribbon-havers) will appreciate the Ribbon that the girl in the Regole equipment shop gives you."
+  - "Dancers (and other Equip Ribbon-havers) will appreciate the Ribbon that the girl in the Regole equipment shop gives you."
+  - "You almost certainly want to stop by Phoenix Tower to common-steal a Rainbow Dress from Parthenope (with the Thief's Knife if you don't have THF) so that you can Swords Dance half the time you !Dance."
+  - "This is why you don't care about Lamia's Tiara or Red Slippers, because Ribbons and Hermes Sandals are strictly better. But one Dress per Ribbon-wearer will serve you until endgame."
   Freelancer:
   - "Freelancers will appreciate the Ribbon that the girl in the Regole equipment shop gives you."
   Red-Mage:

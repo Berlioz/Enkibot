@@ -1,0 +1,33 @@
+---
+Leaving W1 (Before You Go):
+  Metadata:
+    next-node: galuf_castle
+    previous-nodes:
+    - manticore
+  Generic:
+  - "Before you leave W1, make sure you have the following:"
+  - "Sufficient healing items to take on the Big Bridge Gilgamesh fight. There's a shop after that in Regole, and you can get infinite Tents very slowly from the Paos before the Bridge."
+  - "Lix sells everything but Phoenix Downs half off, and goes away after W1."
+  - "Speaking of, get a couple Phoenix Downs. You'll be really embarrassed if you have 0 and the one in the chest before Tyrannosaurus misses."
+  - "The Elven Mantle from the basement of Walse, if you want it."
+  Bard:
+  - "Romeo's Ballad and Alluring Air. They're permanently missable! And also they're two of the most useful songs."
+  INTERSECTION Berserker Freelancer:
+  - "As many Death Sickles as you need from Crescent Island. They don't show up again until Fork Tower."
+  Chemist:
+  - "A stockpile of Turtle Shells to get you through until you can farm them again after Drakenvale."
+  - "The maximum number of Dark Matter you could want is six, if you want to Death Potion everything that is vulnerable to it, and you can't farm them in W2."
+  Beastmaster:
+  - "You may want to catch a few more Sand Bears to plow through Bridgeamesh."
+  - "The Blitz Whip in Jachol Cave is gone for a long time. If you want it, get it now."
+  Ninja:
+  - "Enough Scrolls and Shuriken to get you to Quelb. In practice, this is a few Thunder Scrolls for the Big Bridge, a few non-Thunder Scrolls for Neo Garula, and a few Shuriken for Gilgamesh."
+  Blue-Mage:
+  - "Much of what you want you can't re-get right now, but don't miss out on Level 5 Death, Aera, and Aqua Breath. Possibly also Flame Thrower, Vampire, Flash, and Missile."
+  - "Dark Spark and Death Claw show up again very soon, but you should have them anyway."
+  Black-Mage:
+  - "Get Toad now or wait until Phantom Village. It's not especially useful but it's your call."
+  INTERSECTION White-Mage Red-Mage:
+  - "Get Mini from the Catapult. It's not essential, but it's a long time before you can get it again and it's useful for weird things like Berserkers on the Crystals."
+  Summoner:
+  - "Get Shiva and Ramuh now or wait until literally before Twintania."

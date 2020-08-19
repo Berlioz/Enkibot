@@ -3,8 +3,8 @@ Siren:
     next-node: north_mountain
     previous-nodes: ["ship_graveyard"]
   Generic:
-    - "900 HP; switches between a high-magic-defense human form and a high-physical-defense undead form."
-    - "Siren is Heavy, so no getting cheeky with Phoenix Downs"
+    - "900 HP; switches between a high-magic-defense human form and a high-physical-defense fire-weak undead form."
+    - "Siren is Heavy, so no getting cheeky with Phoenix Down on the undead form."
   NOT White-Mage:
     - "Even without !White, you can damage the undead form for 50 HP a shot with Potions."
   White-Mage:
@@ -14,6 +14,6 @@ Siren:
   Black-Mage:
     - "The undead form is weak to Fire."
   Blue-Mage:
-    - "Don't try to use Vampire on the Undead form; the results are as predictable as they are unfortunate."
+    - "Don't try to use Vampire on the Undead form. The results are as predictable as they are unfortunate."
   Monk:
     - "Fist criticals can penetrate Siren's hefty physical defense even in undead form."
