@@ -3,7 +3,7 @@ Atomos:
   Metadata:
     next-node: ghidos_cave
     previous-nodes:
-    - shield_generator
+    - barrier_tower
   Generic:
   - "19997 HP, spams Comet until someone dies, then starts sucking them in."
   - "You can come in with someone dead to skip the Comets, or just leave one party member dead after them."
