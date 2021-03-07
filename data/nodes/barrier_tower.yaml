@@ -7,8 +7,8 @@ Barrier Tower:
   Generic:
   - "Anyone with a caster should make sure to get the Gold Hairpin in a trapped chest on the left side of Floor 9, which halves MP consumption."
   Blue-Mage:
-  - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility."
-  - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka."
+  - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility since it requires targets to be vulnerable to both Sleep and Old."
+  - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka. But also, it's basically useless, so whatever."
   Thief:
   - "Thieves can rare steal Flame Rings from the Red Dragons in the Gold Hairpin and Blood Sword chests."
   - "Remember, you can flee from a monster-in-a-box to reset the encounter if your steal fails."
@@ -27,4 +27,6 @@ Barrier Tower:
   Thief`:
   - "No point in Thieves farming Reflect Rings here. You can steal them from Carbuncle and Reflect Mages more easily before you need them."
   Mystic-Knight:
-  - "You can kill Reflect Knights with Break Blade. Rings are easy for you to get!"
+  - "You can kill Reflect Knights with Break Blade. Reflect Rings are easy for you!"
+  Time-Mage:
+  - "You can kill Reflect Knights with Comet. Reflect Rings are not very difficult for you!"
