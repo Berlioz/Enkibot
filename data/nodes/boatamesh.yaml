@@ -1,7 +1,7 @@
 ---
 Boatamesh & Enkidu:
   Metadata:
-    next-node: shield_generator
+    next-node: barrier_tower
     previous-nodes:
     - surgate
   Generic:
