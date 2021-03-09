@@ -7,7 +7,7 @@ Liquid Flame:
     - "The Human Form has single and multi target attacks and counters hits with Blaze."
     - "The Hand Form has single target attacks that can paralyze and counters hits with Fira. It runs out of MP after three casts. Absorbs fire, nullifies ALL other elements including ice."
     - "The Tornado Form casts Fira on itself to heal. It runs out of MP after five casts. It drops a Fire Bow to save you buying one in Crescent."
-  UNION Ranger Freelancer:
+  INTERSECTION Ranger Freelancer:
     - "Killing Liquid Flame in Tornado Form makes it drop a Fire Bow, helpful in the next dungon and not buyable until later."
   UNION White-Mage Red-Mage:
     - "Liquid Flame can be confused, leading it to do nothing except attack itself. Doesn't stop form changes, but gives you lots of time to heal."
