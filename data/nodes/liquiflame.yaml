@@ -9,7 +9,7 @@ Liquid Flame:
     - "The Tornado Form casts Fira on itself to heal. It runs out of MP after five casts. It drops a Fire Bow to save you buying one in Crescent."
   INTERSECTION Ranger Freelancer:
     - "Killing Liquid Flame in Tornado Form makes it drop a Fire Bow, helpful in the next dungon and not buyable until later."
-  UNION White-Mage Red-Mage:
+  INTERSECTION White-Mage Red-Mage:
     - "Liquid Flame can be confused, leading it to do nothing except attack itself. Doesn't stop form changes, but gives you lots of time to heal."
   Break-Rods:
     - "Frost Rods will kill in two snaps. Don't use them when it's in hand form!"
