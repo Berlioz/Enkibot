@@ -12,8 +12,11 @@ Version Differences:
   - "Bridge Gilgamesh can be Silenced with Silence on SNES. This is a very small change, so likely don't let it be the tiebreaker over your personal preference."
   Thief:
   - "On mobile, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, you likely want to avoid mobile."
+  - "On mobile, you can run even faster with a Thief, stacking with the existing sprinting option."
+  Monk:
+  - "On mobile, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   Blue-Mage:
-  - "Vampire is bugged on GBA to restore your entire missing health. Significantly better on GBA."
+  - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Significantly better on GBA."
   Time-Mage:
   - "The mobile version fixes quickleaking, so you lose a free Triple Crown with it."
   - "On SNES, Meteor can hit dummy targets. This makes the final boss harder, because there are two. You want to be on GBA if Time Mage is your best offense for NED."
@@ -21,7 +24,7 @@ Version Differences:
   - "Bridge Gilgamesh can be Silenced with Silence on SNES. This is a very small change, so likely don't let it be the tiebreaker over your personal preference."
   Berserker:
   - "Berserkers can attack dummy targets on SNES. This makes 1-2 Berserker runs significantly better against Sandworm, Necrophobe, and NED on GBA or mobile."
-  - "Berserkers always attack the first target in line on mobile. This makes 1-2 Berserker runs slightly better against NED on GBA."
+  - "Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row, on mobile. This makes 1-2 Berserker runs slightly better against NED on GBA."
   - "That said, Berserkers also act independently and don't start battles with empty ATB on mobile. So GBA/Mobile is largely down to preference if you don't have too many Berserkers."
   - "Once you have 3+ Berserkers, the best damage output will be on SNES - utilizing the Thornlet magic underflow glitch makes your Gaia Hammer Berserker an all-star to help make up for your lack of control."
   Beastmaster:
@@ -33,6 +36,7 @@ Version Differences:
   - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on mobile, so the final fight is slightly safer on mobile."
   Ninja:
   - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not mobile."
+  - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on mobile."
   Chemist:
   - "The Death Potion !Mix is blockable on mobile, so Chemists are better on SNES or GBA."
   Samurai:
