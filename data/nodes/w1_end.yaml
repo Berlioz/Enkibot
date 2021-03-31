@@ -2,8 +2,7 @@
 Leaving W1 (Before You Go):
   Metadata:
     next-node: galuf_castle
-    previous-nodes:
-    - manticore
+    previous-nodes: ['manticore']
     Generic:
     - "Before you leave W1, make sure you have the following:"
     - "Sufficient healing items to take on the Big Bridge Gilgamesh fight. There's a shop after that in Regole, and you can get infinite Tents very slowly from the Paos before the Bridge."
