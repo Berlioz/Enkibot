@@ -10,11 +10,9 @@ Atomos:
   - "Revive your corpse just before they move far enough to the left to get eaten and let Atomos kill someone else to buy more time. This fight is hard to lose."
   Blue-Mage:
   - "Dark Shock -> Level 5 Death ends the fight."
-  INTERSECTION Black-Mage Mystic-Knight:
+  INTERSECTION Black-Mage Mystic-Knight Red-Mage:
   - "Atomos is weak to Sleep, and then you can kill it without waking it up."
-  INTERSECTION Red-Mage Freelancer:
-  - "You can attack with the Sleep Blade to put Atomos to sleep, then kill it by snapping rods (or with magic) without waking it up."
-  Knight:
+  INTERSECTION Knight Freelancer:
   - "You can attack with the Sleep Blade to put Atomos to sleep, then kill it if you have any magical damage (including rod snaps!) Otherwise, it doesn't really matter."
   Beastmaster:
   - "!Releasing a Lesser Lopros from the river by the Moogle Village will deal 5000 damage with Breath Wing."
