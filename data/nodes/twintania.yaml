@@ -24,6 +24,8 @@ Twintania:
   - "If you didn't pick one up earlier, using the Assassin's Dagger will be faster than walking out for one."
   Blue-Mage:
   - "Level 5 Death works on the charging form."
+  Dancer:
+  - "The Flirt command can lock down the charging form, so you have infinite tries to get the Assassin's Dagger to stick."
   Thief:
   - "Each form has separate steals. The first form has a rare Flame Shield, and the charging form has a common [second] Titan's Axe."
   UNION Thief Berserker:
