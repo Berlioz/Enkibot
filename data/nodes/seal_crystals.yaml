@@ -19,6 +19,10 @@ Seal Crystals/Guardians:
   Berserker:
   - "Death Sickle procs will work, though watch out for dealing too much damage if you don't get procs early."
   - "Consider using the Mini Magicians outside to Mini your Berserker, which reduces their damage but doesn't stop the Death proc."
+  UNION Berserker White-Mage:
+  - "Or just use your own Mini spell. Obviously."
+  UNION Berserker Red-Mage:
+  - "Or just use your own Mini spell. Obviously."
   White-Mage:
   - "Shell means you have a lot less to worry about from the spellcasting phase."
   Samurai:
@@ -45,7 +49,7 @@ Seal Crystals/Guardians:
   INTERSECTION Ranger Freelancer:
   - "High level and magic evasion doesn't do anything to stop Killer Bow procs."
   - "You can blind the Crystals with a Dark Bow, but that's wasted turns that could have been Killer Bow attacks. It's relatively easy, but if you're not dying to the attack damage, don't bother."
-  - "If you find you're pushing the Crystals into casting range fishing for Killer Bow procs, reset and let a Mini Magician outside make you Mini first."
+  - "If you find you're pushing the Crystals into casting range fishing for Killer Bow procs, reset and let a Mini Magician outside (or your own White or Red Mage if applicable) make you Mini first."
   - "Or just use Hi-Potions on them. That's my preferred strat."
   Generic`:
   - "If you did put Bone Mail on Galuf, and you're not on mobile, have him use a Phoenix Down on himself against Exdeath."
