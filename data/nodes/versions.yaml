@@ -34,6 +34,11 @@ Version Differences:
   Bard:
   - "Songs raise numbers to a maximum of 255 on mobile, versus 99 in other verions. This doesn't matter in practice, but you can make even more hilariously large numbers."
   - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on mobile, so the final fight is slightly safer on mobile."
+  - "On the SNES and GBA versions, there's an interesting glitch where if you have a Bard sing a stat boosting song, then put it to Sleep with a spell and wake it up, the song they're singing will continue despite them being free to act."
+  - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad."
+  - "This is easiest with a Black or Red Mage buddy that can cast the spell Sleep. Theoretically a reflected Sleep proc from the Sleep Blade would work but... that's unlikely at best."
+  UNION Bard Blue-Mage:
+  - "Time Slip can trigger the glitch but it will Old your Bard, so take that into consideration. Also make sure they aren't immune to Old or Time Slip will fail entirely!"
   Ninja:
   - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not mobile."
   - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on mobile."
