@@ -12,8 +12,10 @@ Boatamesh & Enkidu:
   - "Gilgamesh is level 31. Dark Shock -> L5 Death can end this fight before Enkidu shows up."
   Berserker:
   - "Gilgamesh isn't immune to instant death. Death Sickle him before Enkidu shows up."
-  INTERSECTION Ranger Freelancer:
+  Ranger:
   - "Gilgamesh isn't immune to instant death. Killer Bow him before Enkidu shows up."
+  Freelancer:
+  - "Gilgamesh isn't immune to instant death. Killer Bow or Death Sickle him before Enkidu shows up."
   Chemist:
   - "Gilgamesh isn't immune to instant death. Death Potion him before Enkidu shows up."
   Samurai:
