@@ -6,23 +6,22 @@ Adamantoise:
     - "The Adamantoise has 2000 HP, good magic evade, and sky-high physical defenses."
     - "It has powerful physical attacks, which you'll want to scam with back-row + mitigation/status aliments."
     - "The hard part is simply managing to get damage past its defenses."
-  Break-Rods:
-    - "...Unless you can just break two Frost Rods."
-  Generic`:
     - "Any source of Ice damage hits its elemental weakness, bypassing its defenses."
+  Break-Rods:
+    - "This includes breaking Frost Rods."
   Ranger:
-    - "Like, say, an Ice Bow you can buy in Crescent Town."
+    - "You can use the Frost Bow from Crescent's weapon shop."
   Knight:
     - "A boss that only uses single-target physical attacks. You have !Cover. Have fun."
   Blue-Mage:
-    - "Adamantoise is level 20, so Level 5 Death will kill it."
+    - "Don't bother with rods. Adamantoise is level 20, so just cast Level 5 Death."
   Beastmaster:
-    - "It's not immune to death, so !Releasing a Bandersnatch (near Walse) to cast Blaster has a 50/50 chance of killing it."
+    - "It's not immune to death, so !Releasing a Bandersnatch (from the land next to the the Torna Canal) to cast Blaster has a 50/50 chance of killing it."
   INTERSECTION Berserker Freelancer:
-    - "It's not immune to death, so Death Sickles will eventually get there."
+    - "No death immunity, so Death Sickles will eventually get there."
   Monk:
     - "Fist criticals break through physical defense. It might take a while, but it works."
   White-Mage:
     - "Protect everyone and leave them in the back row, since Adamantoise only physically attacks."
-  Generic``:
+  Generic`:
     - "The Something Awful Forums >> Ask/Tell > [ASK] Me About Doing Adamantoise With Only Bards (aka 'Kyrosiris's Least Favorite Boss')"
