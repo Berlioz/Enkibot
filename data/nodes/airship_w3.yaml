@@ -6,11 +6,11 @@ Aviation:
     - sealed_castle
   Generic:
   - "There are a lot of interesting things to do now that you have a working Airship."
-  - "Hidden in a forest on an island to the south, you can visit the Phantom Village."
-  - "Before you go there, though, ride Boko around the world! Start from where you parked him near Ghido's Cave, then do a full circuit back."
+  - "First, let's get a stupid sidequest out of the way and ride Boko around the world! Start from where you parked him near Ghido's Cave, then do a full loop."
   - "Also take Boko all the way to the top of Istory Falls to find the Magic Lamp, which can one-shot part of the final boss."
   - "It summons a !Summon when used in battle, starting from the strongest and going in descending order until it just makes Chocobos forever."
   - "Examine the waterfall again to recharge the Lamp and restart from the top of its order if you want to use it for multiple bosses."
+  - "Hidden in a forest on an island to the south, you can visit the Phantom Village."
   White-Mage:
   - "Arise and Dispel will both come in handy in upcoming boss fights."
   Black-Mage:
@@ -25,17 +25,15 @@ Aviation:
   - "There's a free pair late in the Rift... but still buy all 4 now, rather than waiting, if you can afford them. Sell all your garbage to do so."
   - "Don't forget the Thief Knife behind the bar, which gives every party access to !Steal."
   Mime:
-  - "For some reasom, Mimes can wear the Thief Gloves from World 1 to boost the success rate of the Thief Knife !Mug proc."
+  - "For some reason, Mimes can wear the Thief Gloves from World 1 to boost the success rate of the Thief Knife !Mug proc."
   Summoner:
   - "In Faris's old hideout, you can get the Syldra summon. When boosted with the Air Knife, it's the strongest summon in the game."
   - "You can also visit Bal Castle's basement to get the Odin summon, but it's not that useful. It doesn't work like Lamp Odin does on the final boss."
   UNION Summoner Chemist:
-  - "The Elemental Power mix actually does boost Water, so Leviathan will come out on top of Syldra, but you have Chemist, so whatever."
+  - "The Elemental Power mix actually does boost Water, so Leviathan will beat Syldra in raw power, but you have Chemist, so whatever."
   Blue-Mage:
   - "Blue Mages can (and should!) learn Mighty Guard from Stingrays, a rare encounter in the water south of the huge desert."
-  - "You'll have to Confuse it with !White/!Mix/the Dancing Dagger."
-  UNION Blue-Mage Beastmaster:
-  - "You can also use !Control to learn Mighty Guard. How lucky!"
+  - "You'll have to Confuse it with !White/!Mix/!Sing/!Control/!Dance/the Dancing Dagger."
   Beastmaster:
   - "The Stingray, a rare encounter in the water south of the huge desert, drops the Dragon Whisker, the strongest whip in the game."
   - "Of course, it's a rare encounter and a rare drop, so you may want to skip it."
@@ -43,12 +41,12 @@ Aviation:
   INTERSECTION Blue-Mage Beastmaster:
   - "GBA players (NA version only) can use the Quicksave trick to find guaranteed Stingrays."
   Dancer:
-  - "Dancers (and other Equip Ribbon-havers) will appreciate the Ribbon that the girl in the Regole equipment shop gives you."
-  - "You almost certainly want to stop by Phoenix Tower to common-steal a Rainbow Dress from Parthenope (with the Thief's Knife!) so that you can Swords Dance half the time you !Dance."
-  - "The Dress means you you don't care about Lamia's Tiara or Red Slippers, which is good because Ribbons and Hermes Sandals are strictly better."
+  - "Dancers (and Equip Ribbon-havers) will appreciate the Ribbon that the girl in the middle of the Regole equipment shop gives you."
+  - "Stop by Phoenix Tower to common-steal a Rainbow Dress from Parthenope (with the Thief's Knife, obviously) so that you can Swords Dance half the time you !Dance."
+  - "The Dress means you you don't care about Lamia's Tiara or Red Slippers, which is good because Ribbons and Hermes Sandals are strictly better in those slots."
   Freelancer:
   - "Freelancers will appreciate the Ribbon that the girl in the Regole equipment shop gives you."
-  - "You can also wear the Thief Gloves from World 1 to boost the success rate of the Thief Knife !MNug proc."
+  - "You can also wear the Thief Gloves from World 1 to boost the success rate of the Thief Knife !Mug proc."
   Red-Mage:
   - "While RDM can't summon Phoenix, everything in Phoenix Tower is vulnerable to Toad, and the Magic Pots alone give enough AP to get halfway to !Dualcast."
-  - "Might be a good idea if you're specifically planning to grind for !Dualcast."
+  - "There's nowhere better if you're specifically planning to grind for !Dualcast. Which you might not want to for your sanity's sake."
