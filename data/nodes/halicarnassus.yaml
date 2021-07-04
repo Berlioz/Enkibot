@@ -12,16 +12,14 @@ Halicarnassus:
   Summoner:
   - "For whatever reason, Halicarnassus counters all offensive summons with a single-target Strong Fight for 9999 that hits through Golem."
   - "You can still just spam Carbuncle until it impales itself with Holy, though. Or use a lot of Phoenix Downs."
-  INTERSECTION Black-Mage Blue-Mage:
+  INTERSECTION Black-Mage Red-Mage:
   - "The opening Ribbit spell just toggles Frog, so come into the fight as frogs to be cured by Ribbit and waste that turn."
   Blue-Mage:
   - "Halicarnassus is vulnerable to Blind if you want to mess around with trying to land Flash. I wouldn't bother, personally."
+  - "Also, the double Old and Slow vulnerability means that, for once, Time Slip actually works in this fight. That one's worth it, maybe."
   Mystic-Knight:
   - "Halicarnassus is vulnerable to Silence, which prevents the occasional self-buff and also Holy."
   - "That said, since Silence doesn't last that long on Heavy targets, run the numbers on just Flare Sword beatdown instead."
-  Cannoneer:
-  - "Halicarnassus is vulnerable to Mini, Old, Darkness, and Slow, all of which your Cannons can set."
-  - "Mini's only benefit is doubling evade, and Halicarnassus naturally has 0, and 2*0=0, so..."
   INTERSECTION Freelancer Dancer:
   - "Halicarnassus is a human, so you can break out the shiny new Man-Eater from the room to the left immediately before this fight for lots of damage."
   Beastmaster:
@@ -34,3 +32,6 @@ Halicarnassus:
   Chemist:
   - "You can set Darkness on Halicarnassus easily, since Dark Sigh doesn't care about magic evasion or the target's level."
   - "...except on mobile, where Dark Sigh got 'fixed' to be blockable. You've been warned."
+  Cannoneer:
+  - "Halicarnassus is vulnerable to Mini, Old, Darkness, and Slow, all of which your Cannons can set."
+  - "Mini's only benefit is doubling evade, and Halicarnassus naturally has 0, and 2*0=0, so..."
