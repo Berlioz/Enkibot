@@ -9,7 +9,7 @@ Atomos:
   - "You can come in with someone dead to skip the Comets, or just leave one party member dead after them."
   - "Revive your corpse just before they move far enough to the left to get eaten and let Atomos kill someone else to buy more time. This fight is hard to lose."
   Blue-Mage:
-  - "Dark Shock -> Level 5 Death ends the fight."
+  - "Dark Spark -> Level 5 Death ends the fight."
   INTERSECTION Black-Mage Mystic-Knight Red-Mage:
   - "Atomos is weak to Sleep, and then you can kill it without waking it up."
   INTERSECTION Knight Freelancer:
