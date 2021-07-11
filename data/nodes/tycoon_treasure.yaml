@@ -7,11 +7,13 @@ Tycoon (optional):
     - "The treasures are mostly healing items, including two Elixirs and three Cottages."
     - "Two of those Cottages are hidden - walk into the castle courtyard, but before going in head over to the right wall and walk through a passage behind a tower."
   Staff:
-    - "You'll also get a Healing Staff, which casts Cura instead of attacking, and is great for most of the game."
-  Samurai:
-    - "You'll also get an Ashura katana, which is the first possible katana for samurai-havers."
-  NOT Samurai:
-    - "You'll also get an Ashura katana, which may be useful if you're in Chaos and have a Freelancer."
+    - "You'll also get a Healing Staff, which casts Cura on its attack target instead of attacking for damage."
+  INTERSECTION Samurai Freelancer:
+    - "You'll also get an Ashura, which is the first katana. It can critical hit and it's got good attack for this early."
+  Freelancer:
+    - "Freelancers also get good mileage out of the Diamond Bell, it's Back Row OK and feeds off your pretty good Magic stat."
   Summoner:
     - "This is also a good time to head to the tower behind the waterfall in Walse to get Shiva."
-    - "Most easily, crack a Fire Rod dropped in Walse Tower (you did farm an extra, right?) or buy one in Karnak and come back."
+    - "For a free kill, break two Fire Rods dropped in Walse Tower or bought slightly later in Karnak."
+  Geomancer:
+    - "For all that we make jokes about GEO, the Diamond Bell's realy good this early. It's Back Row OK and feeds off your pretty good Magic stat."

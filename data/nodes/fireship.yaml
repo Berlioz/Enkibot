@@ -1,16 +1,16 @@
-Fireship:
+Karnak/Fire-Powered Ship:
   Metadata:
     next-node: liquiflame
     previous-nodes: ['garula']
   Generic:
-    - "You'll only get one discounted item at a Karnak store, so pick a pricey one."
-    - "In the mobile version, you can buy 99 of a 75% off item, then resell them to double your cash. Mythril Hammer is the most expensive item in the store."
+    - "You'll only get one discounted item at a Karnak store, so pick a pricey one.  Mythril Hammer is the most expensive item in the store."
+    - "On mobile, you can buy up to 99 of the discounted item at once, then resell them all to double your cash."
     - "Wild Nakks outside of Karnak are the easiest way to farm cash in world 1."
   Break-Rods:
-    - "This is especially nice since Karnak is the only source of rods in the world."
-    - "Consider stocking up before going to the Fireship; rods make the Karnak 500 so much easier."
+    - "This is especially nice since Karnak is the only source of Rods in the world."
+    - "Consider stocking up before going to the Fire-Powered Ship. Rods make the Karnak 500 so much easier."
   Bard:
-    - "The third piano is also in Karnak, so make sure you play that for your Bard."
+    - "The third piano is in Karnak's Pub, so make sure to play that for your Bard."
   Black-Mage:
     - "The magic store here sells Poison and Sleep."
   White-Mage:
@@ -18,14 +18,13 @@ Fireship:
   Time-Mage:
     - "The magic store here sells Stop and Gravity."
   Generic`:
-    - "After some plot business, you'll be sent off to the next dungeon: the Fire-Powered Ship."
+    - "After some plot business, you'll be sent off to the next dungeon, the Fire-Powered Ship."
   Blue-Mage:
-    - "Wild Nakks can teach your Blue Mage the ???? spell, which is Vampire without the drain."
-    - "Crew Dusts in the Fire Ship cast Flash, which you can pick up for your Blue Mage if you didn't get it from Headstones earlier."
+    - "Wild Nakks can teach your Blue Mage the ???? spell, which is Vampire without the drain, so it basically sucks except for costing 0 MP."
+    - "Crew Dusts in the Fire Ship cast Flash, if you didn't get it from Headstones earlier."
   INTERSECTION Thief Ninja:
-    - "Thieves and Ninjas should make sure they get the Moonring Blade."
+    - "Make sure to get the Moonring Blade. It does full damage from the back row and is an attack power upgrade."
   Thief:
-    - "This dungeon is lousy with enemies that blind, so here's what you stole Silver Specs for."
-    - "Thieves should also pick up the Thief's Gloves, which boost steal rate."
+    - "Don't skip the chest with the Thief's Gloves, which boost !Steal's success rate from 40% to 80%."
     - "Once you have them, you can steal Hi-Potions from Poltergeists to your heart's content."
     - "You can also steal Ethers from Motor Traps, which only show up after you kill a Defeater when it's alone."

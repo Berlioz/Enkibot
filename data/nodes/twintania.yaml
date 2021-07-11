@@ -1,0 +1,52 @@
+---
+Twin Tania:
+  Metadata:
+    next-node: voidamesh
+    previous-nodes: [halicarnassus]
+  Generic:
+  - "Will usually counter physical attacks with Tidal Wave and magical attacks with Mega Flare."
+  - "It's not Heavy and has no status resistance when charging Giga Flare. Use the Assassin's Dagger."
+  - "Turtle up to avoid its counterattacks and use the Dagger to kill it instantly when it transitions."
+  - "If you're having trouble surviving, equip a Coral Ring and physically attack to heal off of the counter."
+  - "You can also use Reflect to turn the counterattacks against himself."
+  - "If nothing else, you can use the Magic Lamp to summon Odin."
+  Break-Rods:
+  - "The Wonder Wand from Fork Tower can be cycled through to casting Death before the fight... but you can also just use the Assassin's Dagger."
+  Mystic-Knight:
+  - "Holy Blade and Break Blade both work on the charging form."
+  Summoner:
+  - "Catoblepas and Odin both work on the charging form."
+  - "Carbuncle can be used to Reflect counterattacks."
+  Time-Mage:
+  - "Banish and Stop both work on the charging form."
+  Beastmaster:
+  - "An Executor from the Solitary Island Shrine casts Level 5 Death on !Release, which works on the charging form."
+  - "If you didn't pick one up earlier, using the Assassin's Dagger will be faster than walking out for one."
+  Blue-Mage:
+  - "Level 5 Death works on the charging form."
+  Thief:
+  - "Each form has separate steals. The first form has a rare Flame Shield, and the charging form has a common [second] Titan's Axe."
+  UNION Thief Berserker:
+  - "Despite having a Berserker, you STILL probably don't care about the second Titan's Axe."
+  - "Though it's your first if you didn't do Istory Falls, so if you have 2+ Bersekers (first one wants Rune Axe) and couldn't do Fork Tower, here's your chance."
+  Samurai:
+  - "If for some reason you still need it, the charging form can rarely drop a Murasame when killed."
+  - "!Iainuki works on the charging form."
+  INTERSECTION Ranger Freelancer:
+  - "Killer Bow works on the charging form."
+  Ranger:
+  - "Tania is always immune to Paralyze so !Animals's Flying Squirrel is innefective here."
+  Cannoneer:
+  - "Chaos Cannon works on the charging form."
+  Red-Mage:
+  - "You can put Reflect Rings on everyone, then Dualcast any offensive spell on the first form to bait out reflectable Mega Flare counters."
+  - "...Or just use the Assassin's Dagger on the charging form like everyone else."
+  White-Mage:
+  - "While White Mages can't wield the Assassin's Dagger, the non-charging form is weak to Holy and Reflect bounces the Mega Flare counters."
+  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters. Otherwise, the Dagger works."
+  Monk:
+  - "Boy, I hope you don't have four monks, because they're literally useless without someone else's skills here. Attacking triggers Tidal Wave, so wear Coral Rings."
+  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters. Otherwise, the Dagger works."
+  Oracle:
+  - "Oracle can't wield the Assassin's Dagger."
+  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters. Otherwise, the Dagger works."

@@ -1,0 +1,17 @@
+---
+Interdimensional Rift:
+  Metadata:
+    next-node: calofisteri
+    previous-nodes: [leviathan]
+    map: [world3.png]
+    coordinates: [[271,243]]
+  Generic:
+  - "On the entrance, 5 Ammona gives around 3,000 gil, 1,500 XP and 4 ABP, with easy access to outside."
+  - 'enki.bot/odin room has better ABP farm (or maybe enki.bot/phoenix_tower if you desperately need ABP)!'
+  - "Ideally, once you in deeper, you're in for good. Spend all your gil now, especially on consumables!"
+  - "There is a HP/MP/Wounded healing drink close by at stasis Mirage so you may want to farm encounters."
+  - "Get the Ribbon in the Forest and the Coral/Angel Rings in the Caves."
+  INTERSECTION Geomancer Freelancer:
+  - "You may want to pick up a rare drop Rune Chime from the Baldanders in the Ruins area. It boosts every element! Sometimes slightly useful, even if Air Knife is often just functionally equivalent."
+  Time-Mage:
+  - "From basically anywhere here onwards, you can Exit back to the Merged World... slow but safe."

@@ -12,21 +12,20 @@ Ifrit:
   Mystic-Knight:
     - "Mystic Knights should set Silence with a Spellblade before going to town with Blizzara Sword."
   Ninja:
-    - "Ifrit is weak to water in addition to ice, so here's a good place to !Throw your Water Scroll."
+    - "Ifrit is weak to water as well as ice, so here's a good place to !Throw your single Water Scroll."
   Blue-Mage:
     - "Aqua Rake is actually nonelemental damge, so it won't be super-effective here."
-    - "Ifrit is, however, vulnerable to Blind, which will help lower incoming damage when he physically attacks."
+    - "Ifrit is vulnerable to Blind, which will help lower incoming damage slightly."
   White-Mage:
-    - "It's quite possible to land Silence on Ifrit, which cuts down on incoming damage significantly."
-    - "Ifrit's also vulnerable to Confuse, which will mostly lead to self-targeted Firas for lots of healing."
+    - "Ifrit is vulnerable to Silence and Confuse, though the latter mostly means self-targeted Firas for lots of healing."
     - "Worst case scenario, you can stall out Ifrit's MP this way."
   Time-Mage:
     - "Ifrit is vulnerable to Slow."
   Geomancer:
-    - "Geomancers should note that Will-o-Wisp is fire damage, so don't use !Gaia here."
+    - "Ignus Fatuus deals fire damage, so don't use !Gaia here."
   Thief:
-    - "The Mage Masher you stole from the Karnak 500 can be used to Silence Ifrit here."
+    - "The Mage Masher(s) you stole from the Karnak 500 can proc Silence on Ifrit."
   Beastmaster:
-    - "Beastmasters can release one or more Zu from the grassland outside Karnak for a solid 750 damage each."
+    - "Beastmasters can !Release one or more Zu from the grassland outside Karnak for a solid 750 damage each."
     - "Even better, a Bandersnatch from near Walse has a 50/50 chance of inflicting instant death. Bit of a walk, though."
-    - "Ifrit is also vulnerable to Paralyze from the Whip, although 20% physical evasion makes it not a total lock singlehandedly."
+    - "Ifrit is also vulnerable to Paralyze from the Whip, although 20% physical evasion makes it not a total lock."

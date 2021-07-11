@@ -4,7 +4,11 @@ Ronka Ruins:
     previous-nodes: ['soulcannon']
   Generic:
     - "Don't hit the speed trap!"
-  INTERSECTION Knight Red-Mage Mystic Knight Gladiator:
+  Chemist:
+    - "This is your last opportunity with all 4 party members to farm Prototypes on the island west of Crescent for Dark Matter."
+    - "You will want a total of 6 if you are Death Potioning every vulnerable boss before the next source of them (the Pyramid in W3) and you already have 1 from Soul Cannon."
+    - "Prototype is vulnerable to Berserk, but you can't set Blind as well without Dragon Fangs. Mostly just kiss it to death."
+  INTERSECTION Knight Red-Mage Mystic Knight Gladiator Freelancer:
     - "The Ancient Sword in a chest here is a way to inflict Old, which can come in handy for some bosses."
   UNION Dancer Thief:
     - "Dancer + Thief parties should steal a Lamia's Tiara from Lamias here, which boosts Sword Dance's proc rate."
@@ -18,8 +22,12 @@ Ronka Ruins:
     - "You can Confuse an Enchanted Fan to learn White Wind, which you really should since it's rad."
   UNION Blue-Mage Red-Mage:
     - "You can Confuse an Enchanted Fan to learn White Wind, which you really should since it's rad."
+  UNION Blue-Mage Bard:
+    - "You can Confuse an Enchanted Fan to learn White Wind, which you really should since it's rad."
   Blue-Mage`:
     - "Frankly it's a pain in the ass, but you can hunt down the Ghidra to learn L4 Graviga at this point too."
     - "On GBA, you can quicksave to get the rare Ghidra encounter easily."
   Thief:
-    - "Enjoy the brief moment of Find Passages being a relevant ability. It won't happen again for a while."
+    - "Enjoy the brief moment of Find Passages being relevant. It won't happen again for a while."
+  UNION Thief Ranger:
+    - "Ghidra have rare steal Killer Bow, which you can't otherwise get until W2. Not mandatory, but good for Manticore if nothing else."

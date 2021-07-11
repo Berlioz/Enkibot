@@ -3,17 +3,14 @@ World 2 Intro:
   Metadata:
     next-node: bridgeamesh
     previous-nodes:
-    - chimera
+    - w1_end
   Generic:
+    - "Every Pao fight drops a Tent. If you're willing to get talked to by Lenna repeatedly and were too poor earlier, you can stock up here."
     - "You don't need to win the fight against the Abductor on the Solitary Island."
   UNION Thief Summoner:
     - "You could theoretically try for the rare steal Gaia Gear, to get it one boss fight early. Don't bother."
   Generic`:
     - "Remember that there's an infinite use Healing Spring in Exdeath's Castle, which a terminally underleveled Galuf might need."
-    - "Almost no classes have real trouble with the solo fight vs. Gilgamesh, and you can pick the best of your four."
-    - "If you got, like, bard x4 or something, check out Sullla's solo notes to see what he did."
-    - "http://www.sullla.com/FF/finalfantasy.html"
-    - "(The answer is Romeo's Ballad, by the way)"
+    - "Almost no classes have real trouble with the solo fight against Gilgamesh, and you can pick the beefiest of your four."
   Blue-Mage:
-    - "If you missed Death Claw for your Blue Mage in W1, you can get it from Treants outside Exdeath's castle."
-    - "If you missed Dark Spark for your Blue Mage in W1, you can get it from Strapparers outside Exdeath's castle."
+    - "If you missed Death Claw or Dark Spark in W1, you can get them from Treants and Strapparers respectively in the grasslands outside Exdeath's castle."

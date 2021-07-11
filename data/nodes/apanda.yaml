@@ -1,23 +1,28 @@
 ---
 Apanda:
   Metadata:
-    next-node: exdeaths_castle
-    previous-nodes:
-    - omega
+    next-node: ex_castle_void
+    previous-nodes: [omega]
   Generic:
   - "22200 HP, Byblos 2.0, counterattack routines and all."
   - "You have a few more options available to you now, though..."
   Elemental:
   - "Apanda's fire weakness makes this fight easy."
   Staff:
-  - "Apanda's vulnerable to Berserk from the Power Staff."
+  - "Apanda is vulnerable to Berserk from the Power Staff."
   White-Mage:
-  - "...so White Mages can use the old Berserk plus Blink combo."
+  - "...so White Mages can use the typical Berserk plus Blink combo."
   Summoner:
-  - "Casting specifically Ifrit makes Apanda waste two turns and disables its counterattacks."
-  - "And yes, this is repeatable. This fight is free for you."
+  - "Casting Ifrit makes Apanda waste a turn, during which its counterattacks are disabled."
+  - "...and it's infinitely repeatable. This fight is completely free for you."
   Beastmaster:
   - "!Releasing a Great Dragon from the Caves just before this fight will do 9999 to one target."
-  - "This tip is valid for the rest of the game!"
+  - "This tip is valid for the rest of the game... and you'll be seeing it a lot."
+  Time-Mage:
+  - "Apanda is vulnerable to Slow."
+  INTERSECTION Ranger Freelancer:
+  - "Apanda is vulnerable to Blind from the Dark Bow, if it survives long enough for it to matter."
+  Blue-Mage:
+  - "Apanda is also vulnerable to Blind."
   Cannoneer:
-  - "Apanda's vulnerable to Berserk, Slow, and Darkness from your Cannons."
+  - "Apanda is vulnerable to Berserk, Slow, and Blind from your Cannons."

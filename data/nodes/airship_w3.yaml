@@ -1,50 +1,55 @@
 ---
 Aviation:
   Metadata:
-    next-node: island_shrine
-    previous-nodes:
-    - sealed_castle
+    next-node: w3_questing
+    previous-nodes: [sealed_castle]
   Generic:
   - "There are a lot of interesting things to do now that you have a working Airship."
-  - "In a forest on an island to the south of the world, you can visit the Phantom Village."
+  - "Hidden in a forest on an island to the south, you can visit the Phantom Village."
   White-Mage:
   - "Arise and Dispel will both come in handy in upcoming boss fights."
   Black-Mage:
-  - "Black Mages honestly get the short end of the stick with 'only' Doom and Osmose."
+  - "Black Mages get the short end of the stick here, 'only' learning Death and Osmose."
   Time-Mage:
   - "Quick is obscene, even without Venom Rod abuse. Just bring a Gold Hairpin."
-  Generic``:
+  Bard:
+  - "The eighth and final piano is carefully hidden behind a secret passage in the basement. Sneaky."
+  - "The composer on Crescent Island will teach you Sinewy Etude if you've played seven pianos and Hero's Rime if you've played all eight."
+  Generic`:
+  - "The Accessory Shop sells Hermes Sandals for 50k each. They give permanent Haste (and thus immunity to Slow, Stop, Paralyze, and Sleep) and are easily the best accessory in the game."
+  - "There's a free pair late in the Rift... but still buy all 4 now, rather than waiting, if you can afford them."
+  - "Don't forget the Thief Knife behind the bar, which gives every party access to !Steal."
+  - "You can grab Boko back from where you parked him near Ghido's Cave."
+  - "Ride Boko all the way to the top of Istory Falls to find the Magic Lamp, which can one-shot part of the final boss."
+  - "It summons a summon when used in battle, starting from strongest to weakest before looping."
+  - "Examine the waterfall again to bring the Magic Lamp back to the beginning of its cycle if you need to use it for multiple bosses."
+  - "While you're on Boko anyway, ride him around the entire world, then talk to a NPC in Phantom Village for your free Mirage Vest."
   - "The Accessory Shop sells Hermes Sandals for 50k each."
   - "They grant Haste and Stop immunity, and are easily the best accessory in the game."
   - "There's a free one late in the Rift... but still buy 4 now, rather than waiting, if you can afford them."
-  Bard:
-  - "The last Piano is carefully hidden in the basement. Sneaky."
-  Generic```:
-  - "Lastly, don't forget the Thief's Knife behind the bar, which lets anyone steal."
-  - "You can grab Boko back from where you parked him near Ghido's Cave."
-  - "You can ride him all the way to the top of Istory Falls, to find the Magic Lamp."
-  - "The Magic Lamp allows non-Summoners to use summons and one-shots part of the final boss. It's vital."
-  - "While you're on Boko anyway, ride him around the entire world, then talk to a NPC in Phantom Village for your free Mirage Vest."
   Summoner:
-  - "Summoners get a pretty damn good prize too: in Faris' old hideout, you can get the Syldra summon."
-  - "When boosted with the Air Knife, it's the strongest summon in the game."
+  - "In Faris' old hideout, you can get the Syldra summon. When boosted with the Air Knife, it's the strongest summon in the game."
   - "You can also visit Bal Castle's basement to get the Odin summon, but it's not that useful."
   UNION Summoner Chemist:
-  - "The Elemental Power mix actually does boost Water, so Leviathan will come out on top damage-wise."
+  - "The Elemental Power mix actually does boost Water, so Leviathan will come out on top, but you have Chemist, so whatever."
   Blue-Mage:
-  - "Blue Mages can and should learn Mighty Guard from Stingrays, a rare encounter in the water south of the huge desert."
+  - "Blue Mages can (and should) learn Mighty Guard from Stingrays, a rare encounter in the water south of the huge desert."
   - "You'll have to Confuse it with !White/!Mix/the Dancing Dagger."
   UNION Blue-Mage Beastmaster:
-  - "You can use !Control to learn Mighty Guard. How lucky!"
+  - "You can also use !Control to learn Mighty Guard. How lucky!"
   Beastmaster:
-  - "The Stingray, a rare encounter in the water south of the huge desert, has the strongest whip in the game as a drop."
+  - "The Stingray, a rare encounter in the water south of the huge desert, drops the Dragon Whisker, the strongest whip in the game."
   - "Of course, it's a rare encounter and a rare drop, so you may want to skip it."
-  - "If you're on the NA version of the GBA port, you can use the Quicksave trick to get guaranteed Stingrays."
-  - "Bring a captured Zombie Dragon to poison them, then hold them down with !Control to watch them slowly bleed out. You monster."
-  Bard`:
-  - "The Minstrel in Crescent Island will teach you the Sinewy Etude if you've played seven pianos."
-  - "If you've played all eight, you'll also get Hero's Rime."
+  INTERSECTION Blue-Mage Beastmaster:
+  - "GBA players (NA version only) can use the Quicksave trick to find guaranteed Stingrays."
+  Beastmaster`:
+  - "!Release a Zombie Dragon to poison it, then hold it down with !Control and watch it slowly bleed out. You monster."
   Dancer:
-  - "Dancers (and Equip Ribbon-havers) will appreciate the Ribbon that the girl in the Regole equipment shop will give you."
+  - "Dancers (and other Equip Ribbon-havers) will appreciate the Ribbon that the girl in the Regole equipment shop gives you."
+  - "You almost certainly want to stop by Phoenix Tower to common-steal a Rainbow Dress from Parthenope (with the Thief's Knife if you don't have THF) so that you can Swords Dance half the time you !Dance."
+  - "This is why you don't care about Lamia's Tiara or Red Slippers, because Ribbons and Hermes Sandals are strictly better. But one Dress per Ribbon-wearer will serve you until endgame."
   Freelancer:
-  - "Freelancers will appreciate the Ribbon that the girl in the Regole equipment shop will give you."
+  - "Freelancers will appreciate the Ribbon that the girl in the Regole equipment shop gives you."
+  Red-Mage:
+  - "While RDM can't summon Phoenix, everything in Phoenix Tower is vulnerable to Toad, and the Magic Pots alone get you halfway to !Dualcast."
+  - "Might be a good idea if you're specifically planning to grind for !Dualcast."

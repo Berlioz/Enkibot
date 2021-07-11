@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <title>Enkibot</title>
+    <meta charset='utf8'/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="web/enkibot.css" rel="stylesheet">
+    <link rel="shortcut icon" href="web/favicon.ico">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.13.1/js-yaml.min.js" integrity="sha256-ry6nlLQ1JmRl5RUPQ4eSuaSp/rGNPvl144WHHs7BiNE=" crossorigin="anonymous"></script>
+    <script src="web/anchorme.min.js"></script>
+    <template id='jobselect'>
+      <div class='job'>
+        <input type="checkbox" id="" value="">
+        <label for=""></label>
+      </div>
+    </template>
+  </head>
+  <body>
+    <div id='sidebar'>
+      <div id='jobs' class='control'>
+        <div class='header'>Jobs <button></button></div>
+        <div class='body'></div>
+      </div>
+    </div>
+    <div id='nodeviewer'>
+      <div class='title'></div>
+      <div id='next'></div> <div id='previous'></div>
+      <ul class='body'><li>Loading...</li></ul>
+    </div>
+    <div id='map' class='control footer hidden'>
+      <div class='header'>Map <button></button></div>
+      <a target='_blank'><img></img></a>
+    </div>
+    <div id='navigation' class='control footer'>
+      <div class='header'>Navigation <button></button></div>
+      <div class='links hidden'></div>
+    </div>
+    <div id='guides' class='control footer'>
+      <div class='header'>Guides and resources <button></button></div>
+      <div class='links hidden'>
+        <a href='https://docs.google.com/spreadsheets/d/10Jg3DoaUlDqN6btLHA1NdTpu9I3af5UEXhfa3M6Z2JI' 
+          target='_blank'>Enemies, shops and equipment</a>
+        <a href='https://github.com/tukkek/Enkibot' 
+          target='_blank'>Enkibot</a>
+        <a href='https://github.com/tukkek/four-job-fiesta' 
+          target='_blank'>FJF run generator</a>
+        <a href='https://gamefaqs.gamespot.com/snes/588331-final-fantasy-v/faqs/61987' 
+          target='_blank'>Job planning</a>
+        <a href='https://gamefaqs.gamespot.com/snes/588331-final-fantasy-v/faqs/21736' 
+          target='_blank'>Single class challenge</a>
+        <a href='https://gamefaqs.gamespot.com/gba/930369-final-fantasy-v-advance/faqs/63899' 
+          target='_blank'>Walkthrough (GBA)</a>
+        <a href='https://gamefaqs.gamespot.com/ps/562810-final-fantasy-v/faqs/36650' 
+          target='_blank'>Walkthrough (PS1)</a>
+      </div>
+    </div>
+  </body>
+  <script type='module'>import './web/enkibot.js'</script>
+</html>

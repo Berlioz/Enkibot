@@ -4,26 +4,31 @@ Crayclaw:
     previous-nodes: ['bearaga']
   Generic:
     - "2000 HP, uses various single-target attacks."
-    - "Signature combo is Tail Screwing someone who's under HP Leak, which will pretty much always kill them."
-    - "High physical and magical defenses, but weak to many statuses. Remember that elemental weaknesses (lightning) ignore MDEF."
+    - "Signature combo is inflicting Sap, then using Tail Screw to reduce the target to single-digit HP."
+    - "High physical and magical defenses, but weak to many statuses. Remember that elemental weaknesses (here, lightning) ignore magic defense."
   Break-Rods:
-    - "Yes, this is another fight you can trivialize with two rods."
+    - "Yes, this is another fight you can end with two rods."
   Elemental:
     - "You can also use any other source of lightning damage."
   Beastmaster:
-    - "...or just Bearaga"
-    - "Crayclaw is vulnerable to Paralyze, so the Whip from Magissa can lock it down."
+    - "...or just Bearaga."
+    - "Crayclaw is also vulnerable to Paralyze, so the Whip from Magissa can lock it down."
+    - "On mobile, the !Calm bug is fixed, so you can also lock Crayclaw down with !Calm (because it's a Magic Beast.)"
   INTERSECTION Mystic-Knight Black-Mage:
     - "Crayclaw is also vulnerable to Sleep, if you'd like to before you get your Thundara on."
   INTERSECTION Knight Blue-Mage:
     - "You have a class which can wield the lightning-elemental Coral Swords from Jachol, if you're willing to make the detour."
+  Red-Mage:
+    - "Red Mage can wield the lightning-elemental Coral Swords from Jachol, but just cast Thundara or snap two rods."
   Ninja:
-    - "You probably have some Thunder scrolls, and if not, a common random encounter on the ocean drops them."
+    - "Thunder scrolls murder Crayclaw, and if you don't have spares a common random encounter (Thunder Anemone) on the ocean drops them."
   Time-Mage:
-    - "Crayclaw is vulnerable to Stop and Slow, so you can lock it down."
+    - "Crayclaw is vulnerable to Stop and Slow, so you can lock it down while you snap rods."
   INTERSECTION Ranger Freelancer:
-    - "The Thunder Bow purchasable in Crescent Town will make quick work of him."
+    - "The Thunder Bow from Crescent Town's shop hits Crayclaw's elemental weakness."
   Bard:
     - "Crayclaw is vulnerable to Confuse, so Alluring Air will lock it down."
   Pierce-Def:
     - "Critical hits and axes work if you have no other way through."
+  Summoner:
+    - "Once you have the airship, it becomes a lot faster to go get Ramuh, in the forest east of Istory."

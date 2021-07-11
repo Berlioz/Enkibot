@@ -1,42 +1,47 @@
 ---
-Dragon Pod/Hiryuu Plant:
+Dragon Pod:
   Metadata:
     next-node: surgate
     previous-nodes:
-    - val
+    - bal
   Generic:
-  - "12000 HP, summons 100 HP Dragon Flower that inflict various status effects."
+  - "12000 HP, summons 100 HP Dragon Flowers that inflict various status effects."
   - "Most parties will either clear Flowers repeatedly with AoE or abuse the Pod's vulnerability to instant death."
-  - "Worst case scenario: the Bone Mail shuts down almost everything this fight can do."
+  - "Worst case scenario, the Bone Mail shuts down almost everything this fight can do for one lucky wearer."
   - "Only the second Flower from the left inflicts an ailment that the Bone Mail doesn't nullify (paralyze)."
   - "The Flowers themselves have no status immunities, which is nice to know if you have to rely on the Bone Mail."
   Monk:
-  - "This battle is probably the Monk's last gasp at viability: !Kick's time to shine is repeatedly clearing 100 HP idiots."
+  - "This battle is probably the Monk's last gasp at viability. !Kick's time to shine is repeatedly clearing 100 HP idiots."
   INTERSECTION Black-Mage Summoner Ninja:
   - "Powerful target-all spells (or scrolls) will keep the Pod stuck resummoning its Flowers every turn."
+  Black-Mage:
+  - "The Flowers are also vulnerable to Sleep, though there's likely no reason to bother when you can just AoE them every turn."
   Blue-Mage:
-  - "The plant isn't Heavy, so you can just end this fight with a Death Claw."
+  - "The Dragon Pod isn't Heavy, so you can just end this fight with a Death Claw."
   Berserker:
   - "If you can clear out the Flowers to keep them on-target, your Berserker will eventually kill the Pod with a Death Sickle."
   Beastmaster:
   - "Aquathorn from the swamps around Bal casts an instant death spell when !Released. It's only single-target, so kill the flowers first."
-  - "If you don't want to walk out, you can instead !Catch a Skelesaur right here in Drakenvale."
+  - "If you don't want to walk out, you can !Catch a Bone Dragon right here, which casts Bone to take a single target down to single-digit HP."
   Mystic-Knight:
   - "Drain Sword bypasses the no-healing property of Bone Mail, allowing for an effortless Mystic Knight solo."
   Chemist:
   - "Death Potion works on the Dragon Pod."
   Bard:
-  - "Bards can Stop all the Flowers (and the central Pod!) at once with Romeo's Ballad."
+  - "Bards can Stop all the Flowers (and the central Pod) at once with Romeo's Ballad."
+  Dancer:
+  - "The Dragon Pod isn't heavy, so you can lock it down with !Flirt."
   INTERSECTION Ranger Freelancer:
   - "The Killer Bow works on the Dragon Pod."
   Samurai:
   - "!Iainuki will cut the Dragon Pod right in half, if you have it."
-  - "If not, the Wind Slash katana will clear the Flowers every time its Wind Slash ability procs."
+  - "If not, the Wind Slash katana will clear the Flowers every time its Wind Slash ability procs (12.5%)."
+  - "!Zeninage will be very expensive here, but everything has 0 defense if you're absolutely loaded with gil."
   Geomancer:
   - "!Gaia is quite likely to use Earthquake here, which will kill the Flowers."
-  UNION Red-Mage White-Mage:
-  - "In extremis, you can neuter the paralyze flower by Confusing it."
-  Time-Mage:
-  - "The Pod isn't heavy, so Gravity works. You can also snap rods to clear the Flowers."
+  INTERSECTION Red-Mage White-Mage:
+  - "You can neuter the Flowers by Confusing them."
   Red-Mage:
   - "You can also snap rods to clear the Flowers."
+  Time-Mage:
+  - "The Dragon Pod isn't heavy, so you can Gravity it repeatedly and snap one rod for the kill. Rod snapping also clears the Flowers."

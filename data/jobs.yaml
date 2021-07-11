@@ -1,99 +1,134 @@
 # Classes and meta-tags
-# - Shield: class can equip aegis shield and also other things i guess
-# - Pierce-Def: class can penetrate high physical defense without relying on high-power weaponry
-# - Elemental: class has easy access to fire/ice/lightning, may consider istory rings if no healing
+# - Shield: class can equip Aegis Shield, and technically other shields
+# - Pierce-Def: class can penetrate high physical defense, whether with defense-ignoring axes or critical hits (katanas/fists)
+# - Elemental: class has easy access to fire/ice/lightning elemental damage, may consider Istory rings if no healing
 # - Healing: class has easy access to things which are better than hi-potion spam
 # - Staff: class can equip Healing Staff/Power Staff
-# - Break-Rods: 750 blaze it
-# - Inflict-Confuse: class can confuse enemies; important to blue mages
+# - Break-Rods: 750 blaze it (class can equip, and thus break, rods)
+# - Inflict-Confuse: class can confuse enemies, important to Blue Mages
 # - Inflict-Berserk: Deprecated (redundant with Staff), but we don't know if removing it altogether will break things.
 # - Heavyscammer: class has an easy way to abuse Death/Petrify before assassin knife
 # - Crown: class guarantees a triple crown regardless of party composition
+
+#TODO could probably have "Area-damage" and "Single-damage" tags for classes that excel at those
 
 Jobs:
   Knight:
     - Shield
     - Wind
+    - Physical
   Monk:
     - Pierce-Def
     - Wind
+    - Physical
   Thief:
-    - lol
     - Wind
+    - Physical
+    - Dodger
   Black-Mage:
     - Break-Rods
     - Elemental
     - Heavyscammer
     - Wind
+    - Magical
+    - Magic-Damage
   White-Mage:
     - Healing
     - Staff
     - Inflict-Confuse
     - Wind
+    - Magical
   Blue-Mage:
     - Shield
     - Break-Rods
     - Heavyscammer
     - Healing
     - Wind
+    - Magical
+    - Magic-Damage
   Mystic-Knight:
     - Elemental
     - Shield
     - Water
+    - Physical
+    - Magic-Damage
+    - Dodger
   Time-Mage:
     - Staff
     - Break-Rods
     - Water
+    - Magical
+    - Magic-Damage
   Summoner:
     - Break-Rods
     - Elemental
     - Heavyscammer
     - Water
+    - Magical
+    - Magic-Damage
   Red-Mage:
     - Break-Rods
     - Staff
     - Inflict-Confuse
     - Healing
     - Water
+    - Magical
+    - Magic-Damage
   Berserker:
     - Shield
     - Heavyscammer
     - Pierce-Def
     - Water
+    - Physical
   Beastmaster:
     - Crown
     - Heavyscammer
     - Fire
+    - Physical
   Geomancer:
-    - lol
     - Fire
+    - Magical
+    - Magic-Damage
   Ninja:
     - Elemental
     - Fire
+    - Physical
+    - Dodger
   Bard:
     - Crown
     - Fire
+    - Magical
+    - Magic-Damage
+    - Dodger
   Ranger:
     - Pierce-Def
     - Elemental
     - Fire
+    - Physical
+    - Dodger
   Samurai:
     - Shield
     - Heavyscammer
     - Pierce-Def
     - Earth
+    - Physical
   Dragoon:
     - Shield
     - Earth
+    - Physical
   Dancer:
     - Inflict-Confuse
     - Earth
+    - Magical
+    - Magic-Damage
   Chemist:
     - Healing
     - Crown
     - Staff
     - Heavyscammer
     - Earth
+    - Magical
+    - Magic-Damage
   Freelancer:
     - Staff
     - Break-Rods
@@ -110,5 +145,6 @@ Jobs:
     - Crown
   Gladiator:
     - Shield
+    - Dodger
   Oracle:
     - Staff

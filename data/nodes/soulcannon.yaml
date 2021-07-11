@@ -1,4 +1,4 @@
-Soulcannon:
+Soul Cannon:
   Metadata:
     next-node: ronka
     previous-nodes: ['adamantoise']
@@ -6,18 +6,18 @@ Soulcannon:
     - "The turrets you fight before Soul Cannon can teach you Missile and Flamethrower."
     - "The latter is exactly as powerful as Fira, so it's a very solid damage option with a Flame Rod equipped."
   Generic:
-    - "12500 HP, weak to lightning, charges up and then casts Wave Cannon (casts get faster after the first)"
+    - "12500 HP, weak to lightning, charges up and then casts Wave Cannon, and casts get faster after the first."
     - "Wave Cannon deals 50% of the party's max HP and inflicts HP Leak."
-    - "The real danger is the Launchers: 2 of 'em, 800 effective HP, can inflict Old."
-    - "Try to kill the Launchers quickly to avoid having your whole party slowed into uselessness."
+    - "The real danger is the Launchers. Each of them has 800 effective HP and can inflict Old."
+    - "Try to kill the Launchers quickly to avoid having your whole party delevelled and slowed into uselessness."
   Blue-Mage`:
-    - "You can Level 5 Death the launchers."
+    - "You can Level 5 Death the Launchers."
   Break-Rods:
-    - "It'll take two rods (of any flavorm since they have no weakness) to kill the launchers, unless you've been grinding."
+    - "It'll take two rods (of any flavor, since they have no weakness) to kill the Launchers, unless you've been grinding."
   Summoner:
-    - "Or just cast Ramuh, whatever."
+    - "Or just cast boosted Ramuh, dealing good damage to the Cannon as well."
   Ninja:
-    - "Thunder scrolls work especially well."
+    - "Thunder scrolls work especially well on Soul Cannon itself."
   White-Mage:
     - "Parties with !White can get through this slowly by using Esuna to cure Old and healing after Wave Cannons."
     - "Note that Esuna doesn't undo the level loss caused by Old! Cure the status effect ASAP to minimize the damage."
@@ -26,14 +26,15 @@ Soulcannon:
   Geomancer:
     - "All you'll get in this fight is Wind Slash! Awesome! ...except Soul Cannon and the Launchers are immune to wind."
     - "Yes, Geomancers are completely useless here aside from knife/bell attacks."
+    - "The best Elixir grind spot is in the Ship Graveyard, inside the shipwreck after the Save Point, where the World Map was. You'll need them."
   Time-Mage:
     - "Stop from a Time Mage will work on the Launchers, if for some reason you're allergic to rod abuse."
     - "Soul Cannon itself is vulnerable to Slow."
   Bard:
-    - "This is a surprisngly funny fight for Bards, since they can Romeo's Ballad lock the Launchers and Hide from the Wave Cannons."
+    - "This is a funny fight for Bards, since they can Romeo's Ballad lock the Launchers and Hide from the Wave Cannons."
+    - That said, the best Elixir grind spot is in the Ship Graveyard, inside the shipwreck after the Save Point, where the World Map was. You still might need them."
   Beastmaster:
-    - "You may be able to rush the Soul Cannon down with four Bearagas (~9k damage) plus some chip."
-    - "Less good plan: Capture a Prototype and release it for ~1k all-target damage to deal with the Launchers as well."
-    - "Prototype is vulnerable to !Control, but actually reducing it to 1/8 hp is an exercise for the reader."
+    - "You may be able to rush the Soul Cannon down with four Bearagas (~9k damage) plus some attacks."
+    - "If you have a way to damage it, you could !Capture a Prototype and release it for ~1k all-target damage to deal with the Launchers in one shot, but that's a big if there."
   Generic`:
-    - "All damage in this fight is % based, so armor does nothing. Consider unequipping it for speed."
+    - "All damage in this fight is percentage-based, so armor does nothing. Consider unequipping it to lower your Equip Weight to 7 or below to act slightly faster."

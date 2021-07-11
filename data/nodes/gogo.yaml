@@ -1,0 +1,14 @@
+---
+Famed Mystic Gogo:
+  Metadata:
+    next-node: w3_questing
+    previous-nodes: []
+    map: [world3.png]
+    coordinates: [[296,180]] #TODO confirm
+  NOT Mime:
+    - "If you're not interested in the Mime, why are you even here...? D:"
+  Generic:
+    - 'At Final Fantasy Wiki https://finalfantasy.fandom.com/wiki/Famed_Mimic_Gogo'
+    - 'Enter the now-submerged Walse Tower with your neat little flying submarine.'
+    - "You have a limited time to find and defeat Gogo, so better run away from all fights and Dash along!"
+    - "Stand still for a while to win the battle. Clever? Good bathroom break if you're livestreaming :3"

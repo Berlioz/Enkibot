@@ -3,35 +3,36 @@ Titan:
     next-node: chimera
     previous-nodes: ['purobolos']
   Generic:
-    - "2500 HP; main threat is the Earth Shakers he casts for powerful (480-540) all-target damage."
-    - "He casts Earth Shaker on death, so you need to have a way to not wipe to that."
+    - "2500 HP. Has beefy physical attacks, but the main threat is Earth Shaker, which deals powerful (480-540) all-target damage."
+    - "Also casts Earth Shaker on death, so you need to have a way to not wipe to that. Float is the best way."
   INTERSECTION White-Mage Red-Mage:
     - "White and Red Mages can cast Confuse on Gaelicats in the North Mountain to gain Float to nullify Earth Shaker."
-    - "Don't use a Tent or Cottage after getting it, because they remove Float status."
+    - "Don't use a Tent, Cottage, Inn, or healing pot after getting it, because they remove Float status."
   Dancer:
     - "Dancers can !Dance the Tempting Tango on Gaelicats in the North Mountain to gain Float to nullify Earth Shaker."
-    - "Don't use a Tent or Cottage after getting it, because they remove Float status."
+    - "Don't use a Tent, Cottage, Inn, or healing pot after getting it, because they remove Float status."
   Bard:
-    - "Bards can !Sing Alluring Air on Gaelicats in the North Mountain to gain Float to nullify Earth Shaker"
-    - "Don't use a Tent or Cottage after getting it, because they remove Float status."
+    - "Bards can !Sing Alluring Air on Gaelicats in the North Mountain to get Float to nullify Earth Shaker."
+    - "Don't use a Tent, Cottage, Inn, or healing pot after getting it, because they remove Float status."
+    - "Stopping Titan with !Sing right before the killshot will dodge the Earth Shaker, but the timing is tight. Getting Float is better."
   Chemist:
-    - "Here's your introduction to the brokenness of !Mix: Antidote + Maiden's Kiss = Levisalve to gain float to nullify Earth Shaker."
+    - "Here's your introduction to the brokenness of !Mix. Antidote + Maiden's Kiss = Levisalve to gain Float to nullify Earth Shaker."
   UNION Thief Berserker:
     - "If you have a Thief, a Berserker, and lots of patience, Titan's rare steal is a Gaia Hammer."
     - "That's literally an endgame weapon, especially if you can back up its Earthquake procs with a magic ability to pass along a magic stat."
   Beastmaster:
-    - "On GBA, Stopping Titan with !Calm right before you kill him will dodge the Earth Shaker, but the timing is tight."
-    - "You can also paralyze him with the Whip and then have someone else immediately deal the fatal blow for the same result."
-    - "If you're not worried about Earth Shaker, you can !Release a Sand Bear to almost oneshot Titan."
+    - "On GBA, Stopping Titan with !Calm right before the killshot will dodge the Earth Shaker, but the timing is tight."
+    - "You can also do the same trick with the Whip's paralyze proc."
+    - "If you're not worried about Earth Shaker, you can !Release a Sand Bear to nearly oneshot Titan."
   Freelancer:
     - "You can paralyze Titan with the Whip and then have someone else immediately deal the fatal blow to dodge the Earth Shaker, but the timing is tight."
-  Bard:
+  Bard`:
     - "Stopping Titan with !Sing right before you kill him will dodge the Earth Shaker, but the timing is tight. Getting Float is better."
   Time-Mage:
-    - "Your Time Mage can set Slow on Titan, which helps with wearing him down before he gets too many Earth Shakers off."
-    - "If you have no alternative, you can Stop Titan right before you kill him, but the timing is tight."
+    - "Titan is vulnerable to slow, which helps with the damage race portion of the fight."
+    - "If you have no better method, you can try to land Stop right before the killshot to dodge the final Earth Shaker, but the timing is tight."
   Summoner:
-    - "Titan is vulnerable to the Remora summon's Paralysis, probably the only time in the game it's useful."
-    - "With very, very good timing, you may be able to avoid the last Earth Shaker using it."
+    - "Titan is vulnerable to the Remora summon's Paralyze. This is literally only time in the game it's useful."
+    - "With very, very good timing, you can avoid the last Earth Shaker using it right before the killshot."
   Generic`:
     - "Failing any way to scam Earth Shaker, the only real alternative is to have enough HP to survive it."

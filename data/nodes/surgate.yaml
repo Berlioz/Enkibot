@@ -6,6 +6,7 @@ Surgate:
     - dragon_pod
   Generic:
   - "You can visit Surgate Castle at this point, but most parties shouldn't bother."
+  - "There's also ~80,000 gil in the Gil Cave east of Bal's Castle, if you're up to fighting the Gil Turtle..." #TODO would you ever really want to go there? when?
   Bard:
   - "Bards, however, can learn the incredible Swift Song from a book in King Xezat's bedroom."
   Time-Mage:
@@ -13,3 +14,6 @@ Surgate:
   - "Help the librarian reshelve the books, then follow them back and ultimately open a chest for Float."
   Dragoon:
   - "The Surgate weapon shop has Heavy Lances, for when the elemental lances you already have don't work."
+  Chemist:
+  - "This is also your earliest opportunity to farm Turtle Shells again in W2."
+  - "The best spot is south of Moore, on a small strip of land immediately south of the mountains."

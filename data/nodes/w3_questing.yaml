@@ -1,0 +1,37 @@
+---
+Merged World questing:
+  Metadata:
+    next-node: rift
+    previous-nodes: [fork_tower]
+    map: [world3.png]
+  Generic: 
+  - "This late into the game, Square decides Final Fantasy V should have been an open-world RPG 🤷"
+  - "This page shows your party's options from here. All links below should eventually loop back here again. "
+  - "Once you're done questing, proceed to the next node as usual to enter the end-game."
+  - "enki.bot/mirage is the late-game hub. Make sure you take the opportunity to stock up before moving on!"
+  - "In the enki.bot/sealed_castle you can unlock 3 weapons for each of the 4 tablets."
+  - "You already have the Earth Tablet so ou can go there now and/or later with more tablets."
+  - "enki.bot/island_shrine has the Wind Tablet and leads to enki.bot/fork_tower and the submarine."
+  NOT Magic-Damage:
+  - "You can ride Boko (yellow Chocobo) to the upstream of Istory Falls for the Magic Lamp."
+  White-Mage:
+  - "Fork tower gives access to Holy, a very good, single-target offensive white spell."
+  Black-Mage:
+  - "Fork Tower gives access to Flare, which you may or not be interested in."
+  Mystic-Knight:
+  - "Fork Tower gives access to Flare, which is probably the best Spellblade!"
+  Mime:
+  - "To unlock the Mime, fight enki.bot/gogo in the submerged Walse Tower (requires submarine)."
+  Time-Mage:
+  - "enki.bot/sea_trench has the Fire Tablet and Meteor (requires submarine)."
+  Summoner:
+  - "Syldras with Magus Rod ( enki.bot/sealed_castle ) or Air Knife (Moore) is the go-to late-game Esper."
+  - "enki.bot/bahamut is your second choice, should you need it (requires Black Chocobo from Mirage)."
+  - "If you don't have healing, you may want to get Phoenix from enki.bot/phoenix_tower ."
+  - "enki.bot/odin can be of use (against Omega in particular and Twin Tania, lacking Carbuncle)."
+  - "enki.bot/istory_falls has the Water Tablet and Leviathan (requires submarine)."
+  Bard:
+  - "Mirage should be the last piano lesson, you can then unlock songs with the bard in Crescent."
+  Generic`:
+  - "enki.bot/phoenix_tower Pots trade Elixirs for ~30 ABP on average (requires Black Chocobo from Mirage)"
+  - 'enki.bot/airship_w3 covers a lot of miscellanious details.'

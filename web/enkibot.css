@@ -1,0 +1,81 @@
+#sidebar{
+  float:right;
+  margin-left:1em;
+}
+.control{
+  background-color:lightgray;
+  padding:.25em .5em;
+  border-radius:.25em;
+  text-align:center;
+  border:1px gray solid;
+  display:inline-block;
+}
+.header{
+  font-weight:bold;
+  margin:.25em 0;
+}
+.job{
+  text-align:left;
+  font-size:small;
+}
+#nodeviewer{
+  padding:1em;
+}
+#nodeviewer .title{
+  font-size:x-large;
+  font-weight:bold;
+  text-decoration:underline;
+  display:flex;
+}
+#nodeviewer .body{
+  margin-top:1em;
+  text-align:justify;
+}
+#nodeviewer #next{
+  font-weight:bold;
+  margin:.5em 0;
+  display:inline-block;
+  display:flex;
+}
+#nodeviewer #next a{
+  margin-right:.5em;
+}
+a:visited{
+  color:blue;
+}
+.footer{
+  margin:1em;
+  color:black;
+  border-radius:2em!important;
+  display:grid;
+}
+.footer .links a{
+  margin:.25em;
+  display:inline-block;
+}
+.hidden{
+  display:none;
+}
+.control button{
+  border-radius:1em;
+}
+#map img{
+  margin:0 auto;
+  max-width:100%;
+}
+@keyframes fade {
+  0%{opacity:0;}
+  100%{opacity:1;}
+}
+.marker{
+  border: yellow double .5em;
+  width:2em;
+  height:2em;
+  border-radius:2em;
+  z-index:1;
+  position:absolute;
+  animation: 1s infinite alternate ease fade;
+}
+li{
+  margin:0.25em 0em;
+}

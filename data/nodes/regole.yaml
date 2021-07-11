@@ -1,0 +1,42 @@
+---
+Regole:
+  Metadata:
+    next-node: bal
+    previous-nodes:
+    - bridgeamesh
+  Generic:
+  - "Regole can get expensive, depending on your classes and whether you need to buy weapons."
+  Geomancer:
+  - "This is an okay spot for Geomancer to farm - the swamps outside give Bottomless Bog !Gaia, which instantly kills all the enemies that appear there."
+  White-Mage:
+  - "The magic store sells Blink and Shell, both of which are great for certain bosses."
+  Black-Mage:
+  - "The magic store sells Break and Bio. You won't get rods to boost Bio for another two towns, sadly."
+  Mystic-Knight:
+  - "The magic store sells Drain, Break, and Bio, giving you two and a half great !Spellblade options."
+  Time-Mage:
+  - "The magic store sells Comet (your Time Mage's first non-rod offensive spell!) and some other trash."
+  UNION Time-Mage Thief:
+  - "You can use the Return spell to keep trying for annoying rare steals. It sucks, but it works"
+  Chemist:
+  - "This is the first chance for Chemists to stock up on Drink items."
+  - "You can use !Drink to Protect yourself, Haste yourself, and/or double your max HP for the rest of the fight."
+  - "It's no !Mix, but it's still more broken stuff than half of this game's classes get."
+  Summoner:
+  - "Summoners can buy Gaia Gear here, which boosts earth damage by 50%. Boosted Titans will be a Summoner's mainstay for a long time."
+  Bard:
+  - "The sixth piano is in the Regole pub. Play it for your Bard."
+  Beastmaster:
+  - "Beastmasters might want to consider making an early visit to the Sealed Castle."
+  - "They can !Control the Shield Dragons in there for free kills (cast Blaze five times) to farm XP and ABP."
+  - "Shield Dragons can also be easily captured for Almagest (~750 damage) by casting Blaze four times, which is fine if you're out of Bears."
+  Generic`:
+  - "The undead dinosaur in the underground passage isn't even a real boss. Just throw a Phoenix Down (or two if you miss) and move on."
+  INTERSECTION White-Mage Red-Mage:
+  - "You can also cast Raise rather than using Phoenix Downs. Saves some gil, I guess."
+  Chemist`:
+  - "The Resurrection !Mix (Phoenix Down + Potion) can't miss, unlike Phoenix Down. Spend the extra Potion to guarantee the kill - you'll feel stupid if you don't and miss."
+  Generic``:
+  - "In the Moogle Village, you can get the Dancing Dagger, which is primarily useful for giving every party access to a confuse effect."
+  Blue-Mage:
+  - "Now your Blue Mage can learn most !Control-only spells, even without a Beastmaster!"

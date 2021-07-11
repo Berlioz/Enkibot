@@ -5,31 +5,33 @@ Moore:
     previous-nodes:
     - ghidos_cave
   Generic:
-  - "Moore town, in general, has some great stuff for your casters."
-  INTERSECTION Blue-Mage Summoner:
+  - "There's a second Main Gauche in Moore, if you want it. It's in a barrel behind the pub."
+  Blue-Mage:
   - "Air Knives boost wind damage by 50%, making them immediately useful for Blue Mages."
-  - "Summoners will be able to abuse this too, but not until World 3."
+  Summoner:
+  - "Summoners should pick up Air Knives either now or in early W3, since they boost Syldra's damage to make it your strongest summon."
+  Geomancer:
+  - "Air Knives boost wind damage, useful for the guaranteed !Gaia Wind Slash on NED... and, uh, a few random other spots."
   White-Mage:
   - "Curaga, Berserk, and Reflect all allow you to cheese fights in various hilarious ways."
   Black-Mage:
   - "Firaga, Thundaga, and Blizzaga. Yep."
+  Mystic-Knight:
+  - "Firaga, Thundaga, and Blizzaga really supercharge !Spellblade."
   Time-Mage:
   - "The various spells Time Mages can learn here are nice, but the real winner is Hastega."
   Bard:
-  - "Bards will be happy to find yet another piano in Moore's pub."
+  - "Bards will be happy to find the seventh piano in Moore's pub."
   Generic`:
-  - "There's a second Main Gauche in town, if you want it. It's in a barrel behind the pub."
   - "Every single goddamn encounter in Moore Forest is fucking infuriating and you should run from them all."
   Bard`:
-  - "Exception: bards can spam Love Songs to inflict Stop; every random encounter is vulnerable to it."
+  - "Well, not for Bards. Everything here is vulnerable to Stop, so just spam Romeo's Ballad."
   Blue-Mage`:
-  - "Take a moment to learn Lilliputian Lyric from Mini Magicians here, it could enable complex evasive strategies."
+  - "You may want to learn Lilliputian Lyric from Mini Magicians here, but you'll never use it unless you have Berserker and dislike murdering your own party."
   Generic``:
   - "You'll have to make a choice here between the Aegis Shield and the Flame Shield."
   Shield:
-  - "If anyone in your party can equip shields, you want the Aegis Shield, which is infinitely better."
-  - "Exception: your party has literally no other way to beat the upcoming Seal Crystals fight..."
-  - "...and you forgot to buy the Flame Ring in World 1. A certain famous streamer pulled that one..."
+  - "Since you have literally any shield user, you want the Aegis Shield, which is infinitely better."
   NOT Shield:
   - "If nobody in your party can equip shields, you may as well pick the Flame Shield because it sells for more."
   - "Of course if you do this you probably let the Ribbon in Karnak burn too. Shameful."

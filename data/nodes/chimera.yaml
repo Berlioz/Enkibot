@@ -1,24 +1,26 @@
-Chimera:
+Manticore:
   Metadata:
-    next-node: galuf_castle
+    next-node: w1_end
     previous-nodes: ['titan']
   Generic:
-    - "3300 HP, not heavy nor immune to instant death, alternates between (Fight or Aqua Breath) and (Blaze or Aqua Breath)."
+    - "3300 HP, not Heavy nor immune to instant death, alternates between (Fight or Aqua Breath) and (Blaze or Aqua Breath)."
   Beastmaster:
     - "Bandersnatches near Walse cast Blaster on !Release, which is 50/50 to instantly kill Manticore."
-    - "Before moving onto W2, you may wish to catch a few more Sand Bears, if you're worried about Bridgeamesh."
-  Berserker:
+    - "Manticore is a Magic Beast, so !Calm will not work on GBA because it's bugged."
+  INTERSECTION Berserker Freelancer:
     - "Manticore isn't immune to instant death, so Death Sickle works."
-  INTERSECTION Ranger Freelancer:
-    - "Manticore isn't immune to instant death, so Killer Bow works."
+  UNION Ranger Thief:
+    - "Manticore isn't immune to instant death, so if you stole a Killer Bow here's its time to shine!"
   Blue-Mage:
-    - "Manticore isn't heavy, so Death Claw works."
+    - "Manticore isn't Heavy, so Death Claw works."
   Samurai:
-    - "Manticore isn't heavy, so !Iainuki technically works, but how the hell did you master Samurai already?"
+    - "Manticore isn't Heavy, so !Iainuki technically works, but how the hell did you master Samurai already?"
   Time-Mage:
     - "Between Stop and Slow, Manticore probably won't ever get a turn."
-    - "Manticore isn't heavy, so you can also use Gravity early in the fight for damage."
+    - "Manticore isn't Heavy, so you can also use Gravity."
   Bard:
     - "With multiple Romeo's Ballad singers, Manticore probably won't ever get a turn."
+  Dancer:
+    - "Manticore isn't Heavy, so !Flirt works."
   INTERSECTION White-Mage Red-Mage:
     - "If you don't have any cheesier options, you can likely just heal through the multi-target spells with Cura."

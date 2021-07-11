@@ -1,0 +1,19 @@
+---
+Phoenix Tower:
+  Metadata:
+    next-node: w3_questing
+    previous-nodes: [bahamut]
+    map: phoenixtower.gif
+  NOT Healing:
+  - "Without healing, make sure to stock up on 30-floors worth of consumables, depending on level..."
+  Generic: 
+  - 'Pretty out of the way (you can only come here after finding the Chocobo on Mirage Town).'
+  - "However XP all the way throughout is very decent, plus there's almost 100,000 gil in pots here."
+  - 'To climb without bosses, repeat a "left-left-right" pattern (except for floor 22, swap left for right).'
+  - "You can gamble a 1/3 chance of trading Elixirs for 100 Ability Points with the Magic Pot encounters." 
+  - "Elixirs are rare but can be farmed (in the area where Omega can be found later on, for example)."
+  - "If you don't have Exit on-hand, each Magic Pot you plan on meeting will take you 5 floors up and down."
+  - "The value of the Phoenix summon is debatable on most cases, considering all the effort of getting it."
+  NOT White-Mage:
+  - "Phoenix ressurects a target to full HP/MP. The 99 MP used can be a net-gain if you target a spell-caster."
+  - "You may want to use the Pots to raise a second summoner to level 5 so they can Phoenix each other."

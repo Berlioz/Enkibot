@@ -5,17 +5,19 @@ Byblos:
   Generic:
     - "3600 HP, uses a variety of debilitating spells which make prolonged engagements almost unwinnable."
     - "Also features 'fun' Drain counterattacks and self-Protect."
+    - 'Around level 20 is considered decent to beat him while playing casually'
+  NOT Magic-Damage:
     - "That combination can make this fight brutal for parties with only physical damage."
   Break-Rods:
     - "Happily, you can just snap a couple of Fire Rods and call it a day."
   INTERSECTION Black-Mage Red-Mage:
-    - "Or you can just Fira him if money is tight."
+    - "Or you can just cast Fira a few times if money is tight."
   Knight:
-    - "Knights should be relying on Two-Handed in this fight and any other fight where counterattacks are an issue."
+    - "Knights should rely on Two-Handed in this fight and any other fight where counterattacks are an issue."
   Ninja:
-    - "I hope you got that Flame Scroll from Liquid Flame if you don't have a better strategy for doing this."
+    - "I hope you got the Flame Scroll drop from Liquid Flame if you don't have a better strategy for doing this."
     - "You could also have farmed them in the Ship Graveyard all the way back."
-    - "If you want to walk all that way back, they drop from Mindflushers in the room where the World Map was."
+    - "If you're willing to retrace that many steps, they drop from Mindflushers in the room where the World Map was."
   Berserker:
     - "Berserker-heavy teams can have trouble here, because they can trigger Byblos' counters at bad times."
     - "If you have other powerful characters or a way to cheese the fight, consider coming in with your Berserker(s) dead."
@@ -30,7 +32,8 @@ Byblos:
     - "Byblos isn't heavy, so Gravity also works if you want to spare a rod by spoiling a child."
   Blue-Mage:
     - "Byblos isn't heavy or immune to paralysis, so Death Claw works to end this fight immediately."
-    - "On the other hand, you probably want to learn Magic Hammer here, which can be obnoxious as hell."
+    - "On the other hand, you might want to learn Magic Hammer here, which can be obnoxious as hell."
+    - "There's at least one fight (Bridgegamesh) that's reasonable to use Magic Hammer in before you get another chance to learn it, so it's your call."
   INTERSECTION Beastmaster Freelancer:
     - "The Whip Magissa dropped all that time ago will paralyze-lock Byblos."
   Beastmaster:

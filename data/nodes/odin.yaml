@@ -1,0 +1,23 @@
+Odin:
+  Metadata:
+    next-node: w3_questing
+    previous-nodes: []
+    map: [world3.png]
+    coordinates: [[126,307]]
+  NOT Summoner:
+  - "If you don't have or intend to have a Summoner, you'll probably want to skip this altogether."
+  Generic:
+  - 'On the Final Fantasy Wiki https://finalfantasy.fandom.com/wiki/Odin_(Final_Fantasy_V_boss)'
+  - "Optional Esper fight hidden at the end of Jachol's Cave in the third world."
+  - 'You have one minute and one chance to deal 17,000 damage to defeat Odin.'
+  - 'Make sure to save the game at the entrance and come prepared because losing the battle means walking all the way back to him again.'
+  - 'Given the very limited timeframe, configuring fastest Battle Speed and Active time may help you get one or two extra actions before the fight is over.'
+  - "If you're having trouble here, another time-save that can be significant is configuring the cursor to Memory and setting your actions beforehand on random encounters on the way to Odin."
+  - "The 5-Statue random encounter in the last room is a decent source of ABP, giving around 3,000 gil and 8 ABP (if the XP awarded wasn't negligible, this could be a viable general-purpose grinding spot)."
+  Time-Mage:
+  - "Exit doesn't seem to work anywhere on the way out from Odin's room."
+  Summoner:
+  - "Bahamut does good damage but the attack animation itself is very time-consuming here."
+  INTERSECTION Summoner Time-Mage:
+  - "Using Quick to cast Bahamut twice without having to a wait a turn may be a good combo?"
+  

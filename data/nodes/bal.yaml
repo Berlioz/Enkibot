@@ -1,0 +1,54 @@
+---
+Bal/Drakenvale:
+  Metadata:
+    next-node: dragon_pod
+    previous-nodes:
+    - regole
+  Generic:
+  - "Let's get this out of the way. Objets d'Art in the basement of Bal Castle give very little XP, but lots of gil and ABP."
+  - "They can be instantly killed by using a Gold Needle on them, are vulnerable to Death, and are also weak to lightning."
+  Blue-Mage:
+  - "Blue Mages can simply vaporize them with Level 5 Death, which makes grinding much less tedious."
+  Ninja:
+  - "Thunder Scrolls are effective enough to be faster than Gold Needles."
+  Summoner:
+  - "Boosted Ramuh is effective enough to be faster than Gold Needles."
+  Thief:
+  - "Thieves can rarely steal Twin Lances from them, which is the best weapon they'll get for a long time."
+  Samurai:
+  - "While you don't have it yet (hopefully), !Iainuki works on them. Bit of a cat-and-mouse issue given that it takes 605 ABP or whatever to get it."
+  Chemist:
+  - "Chemists are the only class that can equip the hidden Angel Robe above the item shop in Bal Castle."
+  Time-Mage:
+  - "Time Mages should get the Teleport spell in the 'hidden' chest just south of the visible chest in Bal Castle's throne room."
+  INTERSECTION Knight Mystic-Knight:
+  - "The hidden Great Sword in the moat of Bal Castle (right side dead end, bottom corner, face left and press A) is the best sword you're gonna get for quite a while, and free to boot."
+  Bard:
+  - "You can pick up Requiem in Quelb from the werewolves running in a circle in the top-right."
+  - "Requiem deals massive damage to undead monsters. Quite handy for the next area and many to come."
+  Beastmaster:
+  - "You can get the Kornago Gourd from the man in the well on the left side of Quelb in return for 10,000 gil and a !Catch'd Kornago."
+  - "It lets you !Catch monsters at half HP rather than 1/8, which ranges from very useful to completely mandatory (Crystelles in the final dungeon have 3 HP and are good for NED.)"
+  Generic`:
+  - "Drakenvale itself has some fantastic loot."
+  - "The Dragon Zombies here are tough, but can be easily defeated by Phoenix Downs or other anti-undead measures."
+  - "They always drop Dragon Fangs, which sell for 2500 gil each!"
+  Chemist`:
+  - "Dragon Fangs are also invaluable for endgame Chemist shenanigans; you'll want to grind a few of them."
+  - "If you plan on killing Omega with a solo Chemist, you'll want around 40-50."
+  - "If you don't have a better way to kill Dragon Zombies than with items, Resurrection (Phoenix Down+Potion) can't miss but Phoenix Down can."
+  Beastmaster`:
+  - "Beastmasters should make sure they get the Hypno Crown here, which doubles the success rate of !Control."
+  Summoner`:
+  - "Later in the area you'll find a random encounter with Golem being harassed by undead dragons. If you win the fight, you get Golem as a summon."
+  Generic``:
+  - "The big prize is the Bone Mail, which you can find hidden on a skeleton near the top of Drakenvale."
+  - "It's a medium armor with sky-high physical defense and immunities to death, poison, old, confuse, and berserk."
+  - "It also makes the wearer undead, so healing magic hurts them instead and instant death effects fully heal them instead."
+  - "You can also get around this with elemental absorb. Flame Rings are particularly good since Bone Mail also gives a fire weakness!"
+  Blue-Mage`:
+  - "The Blue Mage's White Wind spell still heals Bone Mail wearers, because !Blue wasn't good enough already."
+  Mystic-Knight:
+  - "Drain !Spellblade still heals Bone Mail wearers, because !Spellblade wasn't good enough already."
+  Generic```:
+  - "Bone Mail is best against random encounters, bosses that mostly attack physically, or bosses that mostly use status spells."

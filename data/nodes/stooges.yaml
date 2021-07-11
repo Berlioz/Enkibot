@@ -1,7 +1,7 @@
 ---
 Three Stooges:
   Metadata:
-    next-node: istory_falls
+    next-node: w3_questing
     previous-nodes:
     - sea_trench
   Generic:
@@ -19,6 +19,8 @@ Three Stooges:
   Berserker:
   - "If you're going to fight it out, kill your Berserker as per usual for timing-sensitive fights."
   Black-Mage:
-  - "Be careful with group-cast black magic: each stooge absorbs the element he uses."
+  - "Be careful with group-cast black magic, because each stooge absorbs the element it casts. Just Lamp."
   Mystic-Knight:
-  - "If you can volley three off at once, you can kill them instantly with Break Blade."
+  - "If you can get three off in one round, Break Blade is an instant kill. But Lamp's likely easier."
+  Beastmaster:
+  - "There isn't a !Catch faster than the Magic Lamp, so just use that."
