@@ -3,52 +3,53 @@ Version Differences:
     next-node: torna
     previous-nodes: ['class_notes']
   Generic:
-  - "There are some fairly significant differences in bugs and functionality between SNES (including the PS1 version and the Project Demi hack), GBA, and 'mobile' (iOS and Steam) versions."
+  - "There are some fairly significant differences in bugs and functionality between the four versions of FFV."
+  - "Those versions are 1) SNES [and PS1 version, and the Project Demi hack] 2) GBA 3) 'Matrix' [the developer of the port, formerly available on iOS, Android, and Steam] and 4) Pixel [iOS, Android, and Steam]."
   - "These tips show the applicable ones for your four jobs!"
   Black-Mage:
-  - "Due to unspecified formula changes, all-target magic spells deal more damage on mobile. This makes farming (especially statues) slightly easier."
+  - "Due to unspecified formula changes, all-target magic spells deal more damage on Matrix. This makes farming (especially statues) slightly easier."
   - "As a trade-off, you can no longer all-target Thundaga on your own party and reflect 3/4 of it onto Omega to bypass its counterattacks. If this is your Omega plan, play SNES or GBA."
   White-Mage:
-  - "Bridge Gilgamesh can be Silenced with Silence on SNES. This is a very small change, so likely don't let it be the tiebreaker over your personal preference."
+  - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you have Protect anyway, so don't let it be the tiebreaker over your personal preference."
   Thief:
-  - "On mobile, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, you likely want to avoid mobile."
-  - "On mobile, you can run even faster with a Thief, stacking with the existing sprinting option."
+  - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, you likely want to avoid Matrix."
+  - "On Matrix, you can run even faster with a Thief, stacking with the existing sprinting button."
   Monk:
-  - "On mobile, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
+  - "On Matrix, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   Blue-Mage:
-  - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Significantly better on GBA."
+  - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Big improvement!"
   Time-Mage:
-  - "The mobile version fixes quickleaking, so you lose a free Triple Crown with it."
+  - "The Matrix version fixes quickleaking, so you lose a free Triple Crown with it."
   - "On SNES, Meteor can hit dummy targets. This makes the final boss harder, because there are two. You want to be on GBA if Time Mage is your best offense for NED."
   Red-Mage:
-  - "Bridge Gilgamesh can be Silenced with Silence on SNES. This is a very small change, so likely don't let it be the tiebreaker over your personal preference."
+  - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you do have Protect, so likely don't let it be the tiebreaker over your personal preference."
   Berserker:
-  - "Berserkers can attack dummy targets on SNES. This makes 1-2 Berserker runs significantly better against Sandworm, Necrophobe, and NED on GBA or mobile."
-  - "Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row, on mobile. This makes 1-2 Berserker runs slightly better against NED on GBA."
-  - "That said, Berserkers also act independently and don't start battles with empty ATB on mobile. So GBA/Mobile is largely down to preference if you don't have too many Berserkers."
+  - "On SNES, Berserkers can attack dummy targets. This makes 1-2 Berserker runs significantly better against Sandworm, Necrophobe, and NED on GBA or Matrix."
+  - "Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row, on Matrix. This makes 1-2 Berserker runs slightly better against NED on GBA."
+  - "That said, Berserkers also act independently and don't start battles with empty ATB on Matrix. So GBA/Matrix is largely down to preference if you don't have too many Berserkers."
   - "Once you have 3+ Berserkers, the best damage output will be on SNES - utilizing the Thornlet magic underflow glitch makes your Gaia Hammer Berserker an all-star to help make up for your lack of control."
   Beastmaster:
-  - "!Calm is only bugged on GBA, so you lose an easy Triple Crown if you use SNES or mobile."
+  - "!Calm is only bugged on GBA, so you lose an easy Triple Crown if you use SNES or Matrix."
   Ranger:
-  - "!Rapid Fire can attack dummy targets on SNES. This makes runs with Ranger significantly better against Necrophobe and NED (and technically Sandworm (do not !Rapid Fire the Sandworm)) on GBA or mobile."
+  - "!Rapid Fire can attack dummy targets on SNES. This makes runs with Ranger significantly better against Necrophobe and NED (and technically Sandworm (do not !Rapid Fire the Sandworm)) on GBA or Matrix."
   Bard:
-  - "Songs raise numbers to a maximum of 255 on mobile, versus 99 in other verions. This doesn't matter in practice, but you can make even more hilariously large numbers."
-  - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on mobile, so the final fight is slightly safer on mobile."
+  - "Songs raise numbers to a maximum of 255 on Matrix, versus 99 in other verions. This doesn't matter in practice, but you can make even more hilariously large numbers."
+  - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on Matrix, which makes the final fight slightly safer."
   - "On the SNES and GBA versions, there's an interesting glitch where if you have a Bard sing a stat boosting song, then put it to Sleep with a spell and wake it up, the song they're singing will continue despite them being free to act."
   - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad."
   - "This is easiest with a Black or Red Mage buddy that can cast the spell Sleep. Theoretically a reflected Sleep proc from the Sleep Blade would work but... that's unlikely at best."
   UNION Bard Blue-Mage:
   - "Time Slip can trigger the glitch but it will Old your Bard, so take that into consideration. Also make sure they aren't immune to Old or Time Slip will fail entirely!"
   Ninja:
-  - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not mobile."
-  - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on mobile."
+  - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not Matrix."
+  - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix."
   Chemist:
-  - "The Death Potion !Mix is blockable on mobile, so Chemists are better on SNES or GBA."
+  - "The Death Potion !Mix is blockable on Matrix, so Chemists are better on SNES or GBA."
   Samurai:
-  - "!Mineuchi is only half power on mobile, but in return gains the ability to Paralyze. It doesn't bypass Chicken Knife procs on any version, so that shouldn't factor into your decision."
+  - "!Mineuchi is only half power on Matrix, but in return gains the ability to Paralyze. It doesn't bypass Chicken Knife procs on any version, so that shouldn't factor into your decision."
   - "You're trading off that damage (on an ability you'll never use) for the ability to paralyze random encounters, Titan, Carbuncle, the Gargoyles, Melusine, Catastrophe, and the Vacuum Wave part of NED."
-  - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a slight point in mobile's favor."
+  - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a slight point in Matrix's favor."
   INTERSECTION Cannoneer Oracle Gladiator:
-  - "On mobile, Omniscient is much harder to defeat without a 'proper' caster job (or a rod breaker), since Silence and Berserk don't work at all and Mage Masher procs are more difficult"
-  - "Depending on your jobs, this may remove mobile as a feasible option altogether when you need to unlock an Advance job."
+  - "On Matrix, Omniscient is much harder to defeat without a 'proper' caster job (or a rod breaker), since Silence and Berserk don't work at all and Mage Masher procs are more difficult"
+  - "Depending on your jobs, this may remove Matrix as a feasible option altogether when you need to unlock an Advance job."
   
