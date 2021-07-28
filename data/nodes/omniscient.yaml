@@ -10,7 +10,7 @@ Minotaur & Omniscient:
   - "Minotaur absorbs Holy, so don't attack with the Excalibur or the Holy Lance."
   - "Don't enter the pause menu between Minotaur and Omniscient, because you WILL get a game over and you WILL feel stupid. I've done it. Multiple times."
   - "Omniscient casts Reset if hit with any non-Magic (!White, !Black, !Time, !Blue, !Summon, !Dualcast) command. Being Silenced or Berserked prevents this."
-  - "SILENCE AND BERSERK DO NOT WORK IN THE MOBILE VERSION! DO NOT BLAME ME IF YOU DO NOT READ THIS!"
+  - "SILENCE AND BERSERK DO NOT WORK IN THE MATRIX VERSION! DO NOT BLAME ME IF YOU DO NOT READ THIS!"
   - "Omniscient's entire offense is neutralized by Reflect Rings, but you still need a way to successfully attack."
   White-Mage:
   - "White Mages can Berserk Omniscient, then spam Blink and trade attacks."
@@ -28,13 +28,13 @@ Minotaur & Omniscient:
   - "The Power Staff proc will Berserk Omniscient. Just prepare for a brutal slugfest."
   Break-Rods:
   - "SNAPPING RODS COUNTS AS A PHYSICAL ATTACK (somehow...)"
-  - "...except on mobile, where !Item is not forbidden, giving you a nice strategy here."
+  - "...except in the Matrix version, where !Item is not forbidden, giving you a nice strategy here."
   Beastmaster:
   - "You can !Release a Mammon and have it target a Reflected party member to bounce Berserk onto Omniscient."
   - "It's not great, but it works. Shame you can't get Mammons outside of the Rift Castle, so it's quite a hike."
-  - "Theoretically, you can also attack with the Whip, get the paralyze proc, and have 30 ticks to take other offensive actions. This is a way worse strategy and also doesn't work on mobile."
+  - "Theoretically, you can also attack with the Whip, get the paralyze proc, and have 30 ticks to take other offensive actions. This is a way worse strategy and also doesn't work in the Matrix version."
   Generic`:
-  - "The Magic Lamp provokes Return as well, so you can't do anything fancy with it. (Unless you're on mobile.)"
+  - "The Magic Lamp provokes Return as well, so you can't do anything fancy with it. (Unless you're on Matrix.)"
   - "Failing any other way to do this, there are three general strategies."
   - "1) With a Reflect Ring+Mage Masher, reflect a Silence proc onto Omniscient by attacking yourself, then quickly attack before it wears off."
   - "2) With a Reflect Ring+Bone Mail, just wait for Omniscient to commit suicide. Drain does a lot of the heavy lifting here."
@@ -42,4 +42,4 @@ Minotaur & Omniscient:
   - "3.1) If you are going to do this, you can Reflect a Mage Masher proc and use an Ether on Omniscient. This overflows the 30,000 MP down to 9,999."
   - "All of these options suck and if they are your best options, you probably don't need to do Fork Tower."
   - "...unless you need to unlock Oracle, Gladiator, or Cannoneer, in which case, you have my sympathies."
-  - "Note that none of these options work on the mobile or Steam releases, where your best option is using the Magic Lamp all the way through, combined with the Reflect Ring + Bone Mail damage strats."
+  - "Note that none of these options work in the Matrix release, where your best option is using the Magic Lamp all the way through, combined with the Reflect Ring + Bone Mail damage strats."
