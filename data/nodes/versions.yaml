@@ -6,6 +6,9 @@ Version Differences:
   - "There are some fairly significant differences in bugs and functionality between the four versions of FFV."
   - "Those versions are 1) SNES [and PS1 version, and the Project Demi hack] 2) GBA 3) 'Matrix' [the developer of the port, formerly available on iOS, Android, and Steam] and 4) Pixel [iOS, Android, and Steam]."
   - "These tips show the applicable ones for your four jobs!"
+  Equip-Rods:
+  - "The pixel remaster seriously buffs rod snapping by removing the multi-target penalty from it, making snapping rods stronger than most summon magic."
+  - "In addition, you don't have to equip a rod to snap it, allowing you to benefit from the elemental boost of having a rod on when you do snap it! Only a boosted Leviathan would be more powerful."
   Black-Mage:
   - "Due to unspecified formula changes, all-target magic spells deal more damage on Matrix. This makes farming (especially statues) slightly easier."
   - "As a trade-off, you can no longer all-target Thundaga on your own party and reflect 3/4 of it onto Omega to bypass its counterattacks. If this is your Omega plan, play SNES or GBA."
@@ -50,6 +53,6 @@ Version Differences:
   - "You're trading off that damage (on an ability you'll never use) for the ability to paralyze random encounters, Titan, Carbuncle, the Gargoyles, Melusine, Catastrophe, and the Vacuum Wave part of NED."
   - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a slight point in Matrix's favor."
   INTERSECTION Cannoneer Oracle Gladiator:
-  - "On Matrix, Omniscient is much harder to defeat without a 'proper' caster job (or a rod breaker), since Silence and Berserk don't work at all and Mage Masher procs are more difficult"
+  - "On Matrix, Omniscient is much harder to defeat without a 'proper' caster job (or a rod breaker), since Silence and Berserk don't work at all and Mage Masher procs are more difficult."
   - "Depending on your jobs, this may remove Matrix as a feasible option altogether when you need to unlock an Advance job."
   
