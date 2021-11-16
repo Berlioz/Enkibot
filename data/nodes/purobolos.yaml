@@ -3,6 +3,7 @@ Purobolos:
     next-node: titan
     previous-nodes: ['archaeoavis']
   Generic:
+    - "Quick reminder: if you're on Pixel, you HAVE TO read the note on the right table in the Catapault before going to Tycoon meteorite to talk to Cid."
     - "1500 HP, 1/3 chance to cast Self-Destruct rather than fighting every third round, each casts Arise to revive the other five when killed."
     - "The easiest way to handle this is brute force with powerful AOEs to kill them all at once."
   Break-Rods:
