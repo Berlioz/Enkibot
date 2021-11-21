@@ -32,6 +32,8 @@ Version Differences:
   - "Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row, on Matrix. This makes 1-2 Berserker runs slightly better against NED on GBA."
   - "That said, Berserkers also act independently and don't start battles with empty ATB on Matrix. So GBA/Matrix is largely down to preference if you don't have too many Berserkers."
   - "Once you have 3+ Berserkers, the best damage output will be on SNES - utilizing the Thornlet magic underflow glitch makes your Gaia Hammer Berserker an all-star to help make up for your lack of control."
+  Mystic-Knight:
+  - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult. This also doesn't really matter that much."
   Beastmaster:
   - "!Calm is only bugged on GBA, so you lose an easy Triple Crown if you use SNES or Matrix."
   Ranger:
