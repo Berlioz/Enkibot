@@ -17,29 +17,30 @@ Version Differences:
   - "In the Pixel version, Shell will not halve the damage of the final boss's Almagest attack. You have been warned!"
   Thief:
   - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, you likely want to avoid Matrix."
-  - "On Matrix, you can run even faster with a Thief, stacking with the existing sprinting button."
+  - "On Matrix and Pixel, you can run even faster with a Thief, stacking with the existing sprint button."
   Monk:
   - "On Matrix, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   Blue-Mage:
   - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Big improvement!"
   Time-Mage:
-  - "The Matrix version fixes quickleaking, so you lose a free Triple Crown with it."
+  - "The Matrix and Pixel versions fix quickleaking, so you lose your free Triple Crown."
   - "On SNES, Meteor can hit dummy targets. This makes the final boss harder, because there are two. You want to be on GBA if Time Mage is your best offense for NED."
   Red-Mage:
   - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you do have Protect, so likely don't let it be the tiebreaker over your personal preference."
   Berserker:
-  - "On SNES, Berserkers can attack dummy targets. This makes 1-2 Berserker runs significantly better against Sandworm, Necrophobe, and NED on GBA or Matrix."
-  - "Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row, on Matrix. This makes 1-2 Berserker runs slightly better against NED on GBA."
-  - "That said, Berserkers also act independently and don't start battles with empty ATB on Matrix. So GBA/Matrix is largely down to preference if you don't have too many Berserkers."
-  - "Once you have 3+ Berserkers, the best damage output will be on SNES - utilizing the Thornlet magic underflow glitch makes your Gaia Hammer Berserker an all-star to help make up for your lack of control."
+  - "On SNES, Berserkers can attack dummy targets. This makes 1-2 Berserker runs significantly better against Sandworm, Necrophobe, and NED on other versions."
+  - "On Matrix, Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row."
+  - "On Matrix and Pixel, Berserkers act independently and don't start battles with empty ATB."
+  - "Basically, GBA/Pixel is down to preference if you only have 1-2 Berserkers. Pixel makes them a little better, but they're still Berserkers, so let your other classes decide."
+  - "Once you have 3+ Berserkers, the best damage output will be on SNES - utilizing the Thornlet magic underflow glitch makes your Gaia Hammer Berserker an all-star."
   Mystic-Knight:
   - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult. This also doesn't really matter that much."
   Beastmaster:
-  - "!Calm is only bugged on GBA, so you lose an easy Triple Crown if you use SNES or Matrix."
+  - "!Calm is only bugged on GBA, so you lose your free Triple Crown if you use other versions."
   Ranger:
   - "!Rapid Fire can attack dummy targets on SNES. This makes runs with Ranger significantly better against Necrophobe and NED (and technically Sandworm (do not !Rapid Fire the Sandworm)) on GBA or Matrix."
   Bard:
-  - "Songs raise numbers to a maximum of 255 on Matrix, versus 99 in other verions. This doesn't matter in practice, but you can make even more hilariously large numbers."
+  - "Songs raise numbers to a maximum of 255 on Matrix/Pixel, versus 99 on SNES/GBA. This doesn't matter in practice, but you can make even more hilariously large numbers."
   - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on Matrix, which makes the final fight slightly safer."
   - "On the SNES and GBA versions, there's an interesting glitch where if you have a Bard sing a stat boosting song, then put it to Sleep with a spell and wake it up, the song they're singing will continue despite them being free to act."
   - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad."
@@ -47,17 +48,17 @@ Version Differences:
   UNION Bard Blue-Mage:
   - "Time Slip can trigger the glitch but it will Old your Bard, so take that into consideration. Also make sure they aren't immune to Old or Time Slip will fail entirely!"
   Ninja:
-  - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not Matrix."
-  - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix and Pixel."
+  - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not Matrix/Pixel."
+  - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix/Pixel."
   Chemist:
   - "The Death Potion !Mix is blockable on Matrix, so Chemists are better on SNES or GBA."
   Samurai:
-  - "!Mineuchi is only half power on Matrix, but in return gains the ability to Paralyze. It doesn't bypass Chicken Knife procs on any version, so that shouldn't factor into your decision."
-  - "You're trading off that damage (on an ability you'll never use) for the ability to paralyze random encounters, Titan, Carbuncle, the Gargoyles, Melusine, Catastrophe, and the Vacuum Wave part of NED."
-  - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a slight point in Matrix's favor."
+  - "!Mineuchi is correctly coded on Matrix and Pixel: only half power, but actually will Paralyze. It doesn't bypass Chicken Knife procs on any version, so that shouldn't factor into your decision."
+  - "You're trading off damage (on an ability you'll never use) for the ability to paralyze random encounters, Titan, Carbuncle, the Gargoyles, Melusine, Catastrophe, and the Vacuum Wave part of NED."
+  - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a point to consider, I guess."
   Dancer:
   - "Sword Dance does full damage from back row in Pixel. Enjoy being more defensive for free!"
   INTERSECTION Cannoneer Oracle Gladiator:
-  - "On Matrix, Omniscient is much harder to defeat without a 'proper' caster job (or a rod breaker), since Silence and Berserk don't work at all and Mage Masher procs are more difficult."
-  - "Depending on your jobs, this may remove Matrix as a feasible option altogether when you need to unlock an Advance job."
+  - "On Matrix and Pixel, Omniscient is much harder to defeat without a 'proper' caster job (or a rod breaker), since Silence and Berserk don't work at all and Mage Masher procs are more difficult."
+  - "Depending on your jobs, you may be stuck with GBA if you need to unlock an Advance job."
   
