@@ -5,10 +5,11 @@ Version Differences:
   Generic:
   - "There are some fairly significant differences in bugs and functionality between the four versions of FFV."
   - "Those versions are 1) SNES [and PS1, and the Project Demi hack] 2) GBA 3) 'Matrix' [the developer of the port, formerly available on iOS, Android, and Steam] and 4) Pixel [iOS, Android, and Steam]."
+  - "Note that Matrix is not for sale anywhere anymore, which can be a shame for a few specific team comps. In general, you probably want to use something else."
   - "These tips show the applicable ones for your four jobs!"
   Break-Rods:
   - "The pixel remaster seriously buffs rod snapping by removing the multi-target penalty from it, making snapping rods stronger than most summon magic."
-  - "In addition, you don't have to equip a rod to snap it, allowing you to benefit from the elemental boost of having a rod on when you do snap it! Only a boosted Leviathan would be more powerful."
+  - "In addition, you can snap unequipped rods in the Item menu, allowing you to benefit from the elemental boost of having a rod on when you do snap it! Only a boosted Leviathan would be more powerful."
   Black-Mage:
   - "Due to unspecified formula changes, all-target magic spells deal more damage on Matrix. This makes farming (especially statues) slightly easier."
   - "As a trade-off, you can no longer all-target Thundaga on your own party and reflect 3/4 of it onto Omega to bypass its counterattacks. If this is your Omega plan, play SNES or GBA."
@@ -17,7 +18,8 @@ Version Differences:
   - "In the Pixel version, Shell will not halve the damage of the final boss's Almagest attack. You have been warned!"
   Thief:
   - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, you likely want to avoid Matrix."
-  - "On Matrix and Pixel, you can run even faster with a Thief, stacking with the existing sprint button."
+  - "On Matrix and Pixel, you can run even faster with a Thief, stacking with the existing sprint button. Gotta go fast."
+  - "On Pixel, !Mug does not bypass the Chicken Knife's !Flee proc. If Thief is your best CK wielder, you probably want to go GBA."
   Monk:
   - "On Matrix, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   Blue-Mage:
@@ -28,21 +30,24 @@ Version Differences:
   Red-Mage:
   - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you do have Protect, so likely don't let it be the tiebreaker over your personal preference."
   Berserker:
-  - "On SNES, Berserkers can attack dummy targets. This makes 1-2 Berserker runs significantly better against Sandworm, Necrophobe, and NED on other versions."
+  - "On SNES, Berserkers can attack dummy targets. This makes 1-2 Berserker runs significantly worse against Sandworm, Necrophobe, and NED."
   - "On Matrix, Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row."
-  - "On Matrix and Pixel, Berserkers act independently and don't start battles with empty ATB."
+  - "On Matrix and Pixel, Berserkers act independently and don't start battles with empty ATB. This is good."
   - "Basically, GBA/Pixel is down to preference if you only have 1-2 Berserkers. Pixel makes them a little better, but they're still Berserkers, so let your other classes decide."
   - "Once you have 3+ Berserkers, the best damage output will be on SNES - utilizing the Thornlet magic underflow glitch makes your Gaia Hammer Berserker an all-star."
+  Geomancer:
+  - "!Gaia results are level-independent on Matrix, but not any of the three versions you'll actually play."
   Mystic-Knight:
   - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult. This also doesn't really matter that much."
   Beastmaster:
   - "!Calm is only bugged on GBA, so you lose your free Triple Crown if you use other versions."
   Ranger:
   - "!Rapid Fire can attack dummy targets on SNES. This makes runs with Ranger significantly better against Necrophobe and NED (and technically Sandworm (do not !Rapid Fire the Sandworm)) on GBA or Matrix."
+  - "!Animals results are level-independent on Matrix, but not any of the three versions you'll actually play."
   Bard:
   - "Songs raise numbers to a maximum of 255 on Matrix/Pixel, versus 99 on SNES/GBA. This doesn't matter in practice, but you can make even more hilariously large numbers."
-  - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on Matrix, which makes the final fight slightly safer."
-  - "On the SNES and GBA versions, there's an interesting glitch where if you have a Bard sing a stat boosting song, then put it to Sleep with a spell and wake it up, the song they're singing will continue despite them being free to act."
+  - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on Matrix and Pixel, which makes the final fight slightly safer."
+  - "On the SNES and GBA versions, there's an interesting glitch where if you 1) have a Bard sing a stat boosting song, then 2) put them to Sleep with a spell and 3) wake them up, the song they're singing will continue ticking upwards despite them being free to act."
   - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad."
   - "This is easiest with a Black or Red Mage buddy that can cast the spell Sleep. Theoretically a reflected Sleep proc from the Sleep Blade would work but... that's unlikely at best."
   UNION Bard Blue-Mage:
@@ -52,8 +57,9 @@ Version Differences:
   - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix/Pixel."
   Chemist:
   - "The Death Potion !Mix is blockable on Matrix, so Chemists are better on SNES or GBA."
+  - "All !Mixes are blockable on Pixel, so while you can still Berserk Omega you can't actually deal reasonable damage with just Chemist for offense. Be aware."
   Samurai:
-  - "!Mineuchi is correctly coded on Matrix and Pixel: only half power, but actually will Paralyze. It doesn't bypass Chicken Knife procs on any version, so that shouldn't factor into your decision."
+  - "!Mineuchi is correctly coded on Matrix and Pixel: only half power, but actually will Paralyze. It DOES bypass Chicken Knife procs on Pixel, but DOES NOT on SNES/GBA/Matrix."
   - "You're trading off damage (on an ability you'll never use) for the ability to paralyze random encounters, Titan, Carbuncle, the Gargoyles, Melusine, Catastrophe, and the Vacuum Wave part of NED."
   - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a point to consider, I guess."
   Dancer:
