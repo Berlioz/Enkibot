@@ -29,6 +29,9 @@ Omega:
   - "That's not literally true. You can still die to two Wave Cannons in a row without getting a turn to heal in between. But only that."
   - "See, for example, sullla's solo Chemist log at http://www.sullla.com/FF/omegashinryuu.html"
   - "Hint: !Mixing five Turtle Soups decreases Omega's defense and magic defense to 1."
+  Dancer:
+  - "On Pixel, Omega (just like everything else) is vulnerable to !Flirt. This gives Dancers a way to lock it down."
+  - "You also have the damage output to kill with Chicken Knife Swords Dance, which pierces defense."
   Pierce-Def:
   - "Piercing defense is a start - criticals and axes are okay starting ideas if there's no better plan."
   Black-Mage:
@@ -36,7 +39,7 @@ Omega:
   - "On SNES and GBA, reflecting off 3 allies and hitting the fourth (ideally someone with Diamond armor access to weaken the blow) won't trigger Omega's brutal counters."
   Blue-Mage:
   - "Blue Mages can chip Omega down with Thousand Needles."
-  - "This mostly sucks, but you've got Mighty Guard and White Wind to keep yourself in the fight, so it's still technically doable."
+  - "This is awful, but with Mighty Guard and White Wind to keep yourself in the fight it's technically doable."
   Mystic-Knight:
   - "Thundaga Sword will do a lot of damage to Omega. 4x attack, ignores the insane defense, and... still misses a lot if you don't have a way to guarantee hitting."
   Ranger:
@@ -51,7 +54,7 @@ Omega:
   - "Anyone who can use a sword can... technically damage Omega with the Coral Sword."
   - "And no, even a Gladiator doesn't want to. The Trident has exactly one more point of attack and is also lightning elemental. Still not worth it without !Jump."
   Gladiator:
-  - "Since there's no character with a Lightning-elemental !Finisher, there's no good option for GLD itself."
+  - "Since there's no character with a Lightning-elemental !Finisher, there's no actually good option for GLD to damage Omega."
   Cannoneer:
   - "You can inflict Slow on Omega with the awesome power of your cannon. (You eat a counterattack for this. It's worth it.)"
   - "...also, Vulner Cannon and Chaos Cannon don't provoke counterattacks, so you have a good damage option too."
