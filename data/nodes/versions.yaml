@@ -42,8 +42,8 @@ Version Differences:
   Beastmaster:
   - "!Calm is only bugged on GBA, so you lose your free Triple Crown if you use other versions."
   Ranger:
-  - "!Rapid Fire can attack dummy targets on SNES. This makes runs with Ranger significantly better against Necrophobe and NED (and technically Sandworm (do not !Rapid Fire the Sandworm)) on GBA or Matrix."
-  - "!Animals results are level-independent on Matrix, but not any of the three versions you'll actually play."
+  - "!Rapid Fire can attack dummy targets on SNES. This makes runs with Ranger significantly better against Necrophobe and NED (and technically Sandworm (do not !Rapid Fire the Sandworm)) in every other version."
+  - "!Animals results are level-independent on Matrix, but not any of the three versions you can actually buy."
   Bard:
   - "Songs raise numbers to a maximum of 255 on Matrix/Pixel, versus 99 on SNES/GBA. This doesn't matter in practice, but you can make even more hilariously large numbers."
   - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on Matrix and Pixel, which makes the final fight slightly safer."
@@ -64,7 +64,7 @@ Version Differences:
   - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a point to consider, I guess."
   Dancer:
   - "Sword Dance does full damage from back row in Pixel. Enjoy being more defensive for free!"
+  - "!Flirt actually works on Pixel. Like, a lot. It works on almost every boss. Wow, does it ever work."
   INTERSECTION Cannoneer Oracle Gladiator:
-  - "On Matrix and Pixel, Omniscient is much harder to defeat without a 'proper' caster job (or a rod breaker), since Silence and Berserk don't work at all and Mage Masher procs are more difficult."
-  - "Depending on your jobs, you may be stuck with GBA if you need to unlock an Advance job."
+  - "If you have an Advance job, play GBA. Duh."
   
