@@ -30,5 +30,7 @@ Titan:
   Summoner:
     - "Titan is vulnerable to the Remora summon's Paralyze. This is literally only time in the game it's useful."
     - "With very, very good timing, you can avoid the last Earth Shaker using it right before the killshot."
+  Monk:
+    - "Monks have innate Counter, and you can't counter a counter, so killing Titan with a Counter bypasses the final Earth Shaker."
   Generic`:
     - "Failing any way to scam Earth Shaker, the only real alternative is to have enough HP to survive it."
