@@ -5,7 +5,7 @@ Version Differences:
   Generic:
   - "There are some fairly significant differences in bugs and functionality between the four versions of FFV."
   - "Those versions are 1) SNES [and PS1, and the Project Demi hack] 2) GBA 3) 'Matrix' [the developer of the port, formerly available on iOS, Android, and Steam] and 4) Pixel [iOS, Android, and Steam]."
-  - "Note that Matrix is not for sale anywhere anymore, which can be a shame for a few specific team comps. In general, you probably want to use something else."
+  - "Note that Matrix is not for sale anywhere anymore, which can be a shame for a few specific team comps. In general, you probably want to use something else anyway."
   - "These tips show the applicable ones for your four jobs!"
   Break-Rods:
   - "The pixel remaster seriously buffs rod snapping by removing the multi-target penalty from it, making snapping rods stronger than most summon magic."
@@ -47,6 +47,7 @@ Version Differences:
   Bard:
   - "Songs raise numbers to a maximum of 255 on Matrix/Pixel, versus 99 on SNES/GBA. This doesn't matter in practice, but you can make even more hilariously large numbers."
   - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on Matrix and Pixel, which makes the final fight slightly safer."
+  - "Hero's Rime blocks other non-Rime level changes on Pixel. This is worse if you also have Chemist, but better against Dischord/Old."
   - "On the SNES and GBA versions, there's an interesting glitch where if you 1) have a Bard sing a stat boosting song, then 2) put them to Sleep with a spell and 3) wake them up, the song they're singing will continue ticking upwards despite them being free to act."
   - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad."
   - "This is easiest with a Black or Red Mage buddy that can cast the spell Sleep. Theoretically a reflected Sleep proc from the Sleep Blade would work but... that's unlikely at best."
@@ -64,7 +65,8 @@ Version Differences:
   - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a point to consider, I guess."
   Dancer:
   - "Sword Dance does full damage from back row in Pixel. Enjoy being more defensive for free!"
-  - "!Flirt actually works on Pixel. Like, a lot. It works on almost every boss. Wow, does it ever work."
+  - "!Flirt actually works on Pixel. Like, a lot. It works on everything. Even Omega/Shinryu."
   INTERSECTION Cannoneer Oracle Gladiator:
   - "If you have an Advance job, play GBA. Duh."
-  
+  General`:
+  - "Finally, it's worth noting that if you lose levels to Dischord/Old, and then die, and then get resurrected, those levels come back in Pixel, but not the other versions."
