@@ -10,15 +10,13 @@ Ifrit:
   INTERSECTION Black-Mage Red-Mage Summoner:
     - "So will simply blasting away with Ice-elemental attacks, if you're low on money."
   Mystic-Knight:
-    - "Mystic Knights should set Silence with a Spellblade before going to town with Blizzara Sword."
-  Ninja:
-    - "Ifrit is weak to water as well as ice, so here's a good place to !Throw your single Water Scroll."
+    - "Mystic Knights can set Silence with a !Spellblade before going to town with Blizzara Sword."
   Blue-Mage:
     - "Aqua Rake is actually nonelemental damge, so it won't be super-effective here."
     - "Ifrit is vulnerable to Blind, which will help lower incoming damage slightly."
   White-Mage:
     - "Ifrit is vulnerable to Silence and Confuse, though the latter mostly means self-targeted Firas for lots of healing."
-    - "Worst case scenario, you can stall out Ifrit's MP this way."
+    - "Worst case scenario, you can do a full MP stall-out this way."
   Time-Mage:
     - "Ifrit is vulnerable to Slow."
   Geomancer:
@@ -27,5 +25,5 @@ Ifrit:
     - "The Mage Masher(s) you stole from the Karnak 500 can proc Silence on Ifrit."
   Beastmaster:
     - "Beastmasters can !Release one or more Zu from the grassland outside Karnak for a solid 750 damage each."
-    - "Even better, a Bandersnatch from near Walse has a 50/50 chance of inflicting instant death. Bit of a walk, though."
+    - "Even better, a Bandersnatch from near Walse (or just left of Torna Canal) has a 50/50 chance of inflicting instant death. Bit of a walk, though."
     - "Ifrit is also vulnerable to Paralyze from the Whip, although 20% physical evasion makes it not a total lock."
