@@ -10,6 +10,7 @@ Atomos:
   - "Revive your corpse just before they move far enough to the left to get eaten and let Atomos kill someone else to buy more time. This fight is hard to lose."
   Blue-Mage:
   - "Dark Spark -> Level 5 Death ends the fight."
+  - "You can inflict Sleep with Time Slip on Pixel, but not on other versions because Atomos is immune to Old."
   INTERSECTION Black-Mage Mystic-Knight Red-Mage:
   - "Atomos is weak to Sleep, and then you can kill it without waking it up."
   INTERSECTION Knight Freelancer:
