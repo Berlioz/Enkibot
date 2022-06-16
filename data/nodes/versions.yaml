@@ -24,6 +24,7 @@ Version Differences:
   - "On Matrix, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   Blue-Mage:
   - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Big improvement!"
+  - "On Pixel, being immune to Old doesn't prevent Time Slip from inflicting Sleep. Better against Atomos, for one."
   Time-Mage:
   - "The Matrix and Pixel versions fix quickleaking, so you lose your free Triple Crown."
   - "On SNES, Meteor can hit dummy targets. This makes the final boss harder, because there are two. You want to be on GBA if Time Mage is your best offense for NED."
