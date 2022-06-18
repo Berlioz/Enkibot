@@ -19,7 +19,7 @@ Minotaur & Omniscient:
   - "http://i.imgur.com/JkwTg5O.png"
   Chemist:
   - "Offensive !Mixes do cause Omniscient to reset the battle."
-  - "That said, you can just inflict Berserk first, then Blind, then !Mix to your heart's content."
+  - "That said, you can just inflict Berserk (+Haste) first, then Blind, then !Mix to your heart's content."
   INTERSECTION Black-Mage Summoner Time-Mage Red-Mage:
   - "With literally any job that has real damage spells, you can just damage race and heal up with items if needed."
   Mystic-Knight:
@@ -33,13 +33,15 @@ Minotaur & Omniscient:
   - "You can !Release a Mammon and have it target a Reflected party member to bounce Berserk onto Omniscient."
   - "It's not great, but it works. Shame you can't get Mammons outside of the Rift Castle, so it's quite a hike."
   - "Theoretically, you can also attack with the Whip, get the paralyze proc, and have 30 ticks to take other offensive actions. This is a way worse strategy and also doesn't work in the Matrix version."
+  Dancer:
+  - "For some unknown reason, !Dance doesn't get countered with Return. Even if it's Swords Dance to the facehole. Have fun"
   Generic`:
-  - "The Magic Lamp provokes Return as well, so you can't do anything fancy with it. (Unless you're on Matrix.)"
+  - "The Magic Lamp provokes Return as well, so you can't do anything fancy with it. (Unless you're on Matrix. Not the three 'real' versions, though.)"
   - "Failing any other way to do this, there are three general strategies."
   - "1) With a Reflect Ring+Mage Masher, reflect a Silence proc onto Omniscient by attacking yourself, then quickly attack before it wears off."
   - "2) With a Reflect Ring+Bone Mail, just wait for Omniscient to commit suicide. Drain does a lot of the heavy lifting here."
+  - "2.1) This is RISKY on Pixel! If Drain misses you while you're wearing Bone Mail, the weird Pixel drain behavior sets your HP to 0, and thus you die."
   - "3) With a Reflect Ring, wait out all 30,000 MP. This may happen before suicide from the second strategy does."
-  - "3.1) If you are going to do this, you can Reflect a Mage Masher proc and use an Ether on Omniscient. This overflows the 30,000 MP down to 9,999."
+  - "3.1) If you are going to do this, on GBA and SNES you can Reflect a Mage Masher proc and use an Ether on Omniscient. This overflows the 30,000 MP down to 9,999."
   - "All of these options suck and if they are your best options, you probably don't need to do Fork Tower."
   - "...unless you need to unlock Oracle, Gladiator, or Cannoneer, in which case, you have my sympathies."
-  - "Note that none of these options work in the Matrix release, where your best option is using the Magic Lamp all the way through, combined with the Reflect Ring + Bone Mail damage strats."
