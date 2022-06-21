@@ -11,6 +11,8 @@ Liquid Flame:
     - "Killing Liquid Flame in Tornado Form makes it drop a Fire Bow, helpful in the next dungon and not buyable until later."
   INTERSECTION White-Mage Red-Mage:
     - "Liquid Flame can be confused, leading it to do nothing except attack itself. Doesn't stop form changes, but gives you lots of time to heal."
+  White-Mage:
+    - "Honestly, this is probably the best way for you to kill it. It doesn't form change on hitting itself, it doesn't heal up..."
   Break-Rods:
     - "Frost Rods will kill in two snaps. Don't use them when it's in hand form!"
   Time-Mage:
