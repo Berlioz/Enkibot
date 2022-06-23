@@ -52,7 +52,7 @@ Version Differences:
   - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on Matrix and Pixel, which makes the final fight slightly safer."
   - "Hero's Rime blocks other non-Rime level changes on Pixel. This is worse if you also have Chemist, but better against Dischord/Old."
   - "On the SNES and GBA versions, there's an interesting glitch where if you 1) have a Bard sing a stat boosting song, then 2) put them to Sleep with a spell and 3) wake them up, the song they're singing will continue ticking upwards despite them being free to act."
-  - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad."
+  - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad. Or !Hide. Yes, they keep singing while hidden."
   - "This is easiest with a Black or Red Mage buddy that can cast the spell Sleep. Theoretically a reflected Sleep proc from the Sleep Blade would work but... that's unlikely at best."
   - "!Hide doesn't run enemies out of MP on Pixel. They get refunds for anything cast with no targets. Mostly relevant against W2 Exdeath and Omniscient, if at all."
   UNION Bard Blue-Mage:
