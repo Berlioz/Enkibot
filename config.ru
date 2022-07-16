@@ -5,4 +5,4 @@ Bundler.require
 
 require './enkibot'
 
-run Sinatra::Application
+run Sinatra::Application.run!
