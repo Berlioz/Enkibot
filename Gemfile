@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
-ruby '3.0.2p107'
+ruby '3.0.2'
 gem 'thin'
 gem 'sinatra'
