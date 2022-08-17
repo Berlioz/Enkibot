@@ -17,7 +17,6 @@ Version Differences:
   - "As a trade-off, you can no longer all-target Thundaga on your own party and reflect 3/4 of it onto Omega to bypass its counterattacks. If this is your Omega plan, play SNES or GBA."
   White-Mage:
   - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you have Protect anyway, so don't let it be the tiebreaker over your personal preference."
-  - "In the Pixel version, Shell will not halve the damage of the final boss's Almagest attack. You have been warned!"
   Thief:
   - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, you likely want to avoid Matrix."
   - "On Matrix and Pixel, you can run even faster with a Thief, stacking with the existing sprint button. Gotta go fast."
@@ -26,7 +25,6 @@ Version Differences:
   Blue-Mage:
   - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Big improvement!"
   - "On Pixel, being immune to Old doesn't prevent Time Slip from inflicting Sleep. Better against Atomos, for one."
-  - "On Pixel, the Shell status doesn't halve Almagest's damage, so your Mighty Guard will not save you. Be warned."
   Time-Mage:
   - "The Matrix and Pixel versions fix quickleaking, so you lose your free Triple Crown."
   - "On SNES, Meteor can hit dummy targets. This makes the final boss harder, because there are two. You want to be on GBA if Time Mage is your best offense for NED."
