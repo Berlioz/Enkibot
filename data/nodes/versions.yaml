@@ -15,7 +15,6 @@ Version Differences:
   Black-Mage:
   - "Due to unspecified formula changes, all-target magic spells deal more damage on Matrix. This makes farming (especially statues) slightly easier. Uncertain about Pixel."
   - "As a trade-off, you can no longer all-target Thundaga on your own party and reflect 3/4 of it onto Omega to bypass its counterattacks. If this is your Omega plan, play SNES or GBA."
-  - "Drain is very good against undead on Pixel. It oneshots Gil Turtle and sets any other undead's HP to the value Drain deals."
   White-Mage:
   - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you have Protect anyway, so don't let it be the tiebreaker over your personal preference."
   - "In the Pixel version, Shell will not halve the damage of the final boss's Almagest attack. You have been warned!"
@@ -72,7 +71,6 @@ Version Differences:
   - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a point to consider, I guess."
   Dancer:
   - "Sword Dance does full damage from back row in Pixel. Enjoy being more defensive for free!"
-  - "Drain damage is very good against undead on Pixel. It oneshots Gil Turtle and sets any other undead's HP to the value Drain deals. This buffs !Dance."
   - "For some reason, !Dance doesn't trigger Omniscient's counters on Pixel. What."
   INTERSECTION Cannoneer Oracle Gladiator:
   - "If you have an Advance job, play GBA. Duh."
