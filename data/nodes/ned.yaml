@@ -8,7 +8,7 @@ Neo Ex Cactuar:
   - "Image guide: https://i.imgur.com/newtN7c.png"
   - "Biggest threats are: Grand Cross (random ailments), Almagest (1620-1665 holy damage + Sap status), enrage (last part living uses every part's bad stuff, plus gets two attacks per turn.)"
   - "Grand Cross can be mitigated with Hermes Sandals, Aegis Shield, and luck. Most parties will kill Grand Cross first to lower the number of dice rolls."
-  - "Almagest is a HP check. Unless you have extreme damage output and rush it first, you will need the HP, or Shell, to survive it. (Note that in the Pixel Remaster, Almagest ignores Shell!)"
+  - "Almagest is a HP check. Unless you have extreme damage output and rush it first, you will need the HP, or Shell, to survive it."
   - "You can skip enrage either by counting HP and killing the last 2 parts at the same time..."
   - "...or by saving the bottom left (non-Heavy) part for last, then killing it with Odin from the Magic Lamp."
   Break-Rods:
@@ -48,7 +48,7 @@ Neo Ex Cactuar:
   - "As long as you're under level 45, using the Dancing Dagger in the back row against a Crystelle that you have !Controlled to use Protect on itself first can do the necessary 2 damage."
   - "Alternatively, if you have an Excalipoor wielder, that's going to be way easier."
   Blue-Mage:
-  - "Mighty Guard and White Wind allow you to win stand-up brawls against NED with little fuss. Except on Pixel, where Mighty Guard doesn't halve Almagest, so you maybe have a little fuss. But still not much."
+  - "Mighty Guard and White Wind allow you to win stand-up brawls against NED with little fuss."
   - "Or you could abuse Dark Spark and L5 Death, but honestly it's not really worth the setup time and Dark Spark missing."
   UNION Blue-Mage Chemist:
   - "Unless you have !Mix AND math both on your side, which lets you set up the hilarious QUAD SKULL by taking all parts to level 255."
@@ -73,7 +73,7 @@ Neo Ex Cactuar:
   - "Unless you did a lot of grinding, your fists won't do much here. Just settle for a beefy Elixir dispenser, or use some other class's secondary."
   - "HP +30% can help other classes survive Almagest, though, and an actual Monk almost always will."
   White-Mage:
-  - "Shell makes Almagest a non-issue, except on Pixel. Blink does the same for the physicals."
+  - "Blink is good against the physicals/Vacuum Waves. Shell is great against Almagest. You know the drill."
   INTERSECTION Summoner Black-Mage:
   - "If you're having trouble killing the Almagest piece before it kills you, you can attempt (at fairly low odds) to Petrify it."
   - "At sane levels, you've got about an 8% shot per cast. It's low, but can save you a bunch of grinding in return for a bunch of RNG."
