@@ -20,7 +20,6 @@ Version Differences:
   Thief:
   - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, you likely want to avoid Matrix."
   - "On Matrix and Pixel, you can run even faster with a Thief, stacking with the existing sprint button. Gotta go fast."
-  - "On Pixel, !Mug does not bypass the Chicken Knife's !Flee proc. If Thief is your best CK wielder, you probably want to go GBA."
   Monk:
   - "On Matrix, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   Blue-Mage:
@@ -57,6 +56,8 @@ Version Differences:
   - "!Hide doesn't run enemies out of MP on Pixel. They get refunds for anything cast with no targets. Mostly relevant against W2 Exdeath and Omniscient, if at all."
   UNION Bard Blue-Mage:
   - "Time Slip can trigger the glitch but it will Old your Bard, so take that into consideration. Also make sure they aren't immune to Old or Time Slip will fail entirely!"
+  UNION Bard Ranger:
+  - "!Rapid Fire doesn't work with harps on Pixel."
   Ninja:
   - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not Matrix/Pixel."
   - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix/Pixel."
@@ -69,9 +70,8 @@ Version Differences:
   - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a point to consider, I guess."
   Dancer:
   - "Sword Dance does full damage from back row in Pixel. Enjoy being more defensive for free!"
-  - "!Flirt actually works on Pixel. Like, a lot. It works on everything. Even Omega/Shinryu."
   - "Drain damage is very good against undead on Pixel. It oneshots Gil Turtle and sets any other undead's HP to the value Drain deals. This buffs !Dance."
-  - "For some reason, !Dance doesn't trigger Omniscient's counters on Pixel.     What."
+  - "For some reason, !Dance doesn't trigger Omniscient's counters on Pixel. What."
   INTERSECTION Cannoneer Oracle Gladiator:
   - "If you have an Advance job, play GBA. Duh."
   General`:
