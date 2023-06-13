@@ -8,7 +8,7 @@ Version Differences:
   - "Note that Matrix is not for sale anywhere anymore, which can be a shame for a few specific team comps. In general, you probably want to use something else anyway."
   - "These tips show the applicable ones for your four jobs!"
   Break-Rods:
-  - "The pixel remaster seriously buffs rod snapping by removing the multi-target penalty from it, making snapping rods stronger than most summon magic."
+  - "Pixel seriously buffs rod snapping by removing the multi-target penalty from it, making snapping rods stronger than most summon magic."
   - "In addition, you can snap unequipped rods in the Item menu, allowing you to benefit from the elemental boost of having a rod on when you do snap it! Only a boosted Leviathan would be more powerful."
   Knight:
   - "On Pixel, the Brave Blade formula has been changed to slowly regenerate power over time. So you can flee once in a while. Huge buff."
@@ -18,7 +18,7 @@ Version Differences:
   White-Mage:
   - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you have Protect anyway, so don't let it be the tiebreaker over your personal preference."
   Thief:
-  - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, you likely want to avoid Matrix."
+  - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, this is atrocious for you."
   - "On Matrix and Pixel, you can run even faster with a Thief, stacking with the existing sprint button. Gotta go fast."
   Monk:
   - "On Matrix, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
@@ -26,20 +26,20 @@ Version Differences:
   - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Big improvement!"
   - "On Pixel, being immune to Old doesn't prevent Time Slip from inflicting Sleep. Better against Atomos, for one."
   Time-Mage:
-  - "The Matrix and Pixel versions fix quickleaking, so you lose your free Triple Crown."
+  - "The Matrix and Pixel versions fix 'quickleaking', the glitch where breaking a Venom Rod as your first action on Quick will cause it to tick until you take your second action, so you lose your free Triple Crown."
   - "On SNES, Meteor can hit dummy targets. This makes the final boss harder, because there are two. You want to be on GBA if Time Mage is your best offense for NED."
   Red-Mage:
   - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you do have Protect, so likely don't let it be the tiebreaker over your personal preference."
   Berserker:
   - "On SNES, Berserkers can attack dummy targets. This makes 1-2 Berserker runs significantly worse against Sandworm, Necrophobe, and NED."
-  - "On Matrix, Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row."
+  - "On Matrix, Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row. This is really bad for NED because it pushes each piece into enrage mode one by one."
   - "On Matrix and Pixel, Berserkers act independently and don't start battles with empty ATB. This is good."
   - "Basically, GBA/Pixel is down to preference if you only have 1-2 Berserkers. Pixel makes them a little better, but they're still Berserkers, so let your other classes decide."
   - "Once you have 3+ Berserkers, the best damage output will be on SNES - utilizing the Thornlet magic underflow glitch makes your Gaia Hammer Berserker an all-star."
   Geomancer:
-  - "!Gaia results are level-independent on Matrix, but not any of the three versions you'll actually play."
+  - "!Gaia results are level-independent on Matrix, but not any of the three versions you can actually buy."
   Mystic-Knight:
-  - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult. This also doesn't really matter that much."
+  - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult but also doesn't really matter that much."
   Beastmaster:
   - "!Calm is only bugged on GBA, so you lose your free Triple Crown if you use other versions."
   Ranger:
@@ -47,16 +47,16 @@ Version Differences:
   - "!Animals results are level-independent on Matrix, but not any of the three versions you can actually buy."
   Bard:
   - "Songs raise numbers to a maximum of 255 on Matrix/Pixel, versus 99 on SNES/GBA. This doesn't matter in practice, but you can make even more hilariously large numbers."
-  - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on Matrix and Pixel, which makes the final fight slightly safer."
+  - "Tree-form Exdeath's physical attacks don't break !Sing on SNES or GBA, but do on Matrix and Pixel, which makes the final fight slightly safer on Pixel."
   - "Hero's Rime blocks other non-Rime level changes on Pixel. This is worse if you also have Chemist, but better against Dischord/Old."
   - "On the SNES and GBA versions, there's an interesting glitch where if you 1) have a Bard sing a stat boosting song, then 2) put them to Sleep with a spell and 3) wake them up, the song they're singing will continue ticking upwards despite them being free to act."
   - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad. Or !Hide. Yes, they keep singing while hidden."
   - "This is easiest with a Black or Red Mage buddy that can cast the spell Sleep. Theoretically a reflected Sleep proc from the Sleep Blade would work but... that's unlikely at best."
   - "!Hide doesn't run enemies out of MP on Pixel. They get refunds for anything cast with no targets. Mostly relevant against W2 Exdeath and Omniscient, if at all."
   UNION Bard Blue-Mage:
-  - "Time Slip can trigger the glitch but it will Old your Bard, so take that into consideration. Also make sure they aren't immune to Old or Time Slip will fail entirely!"
+  - "Time Slip can trigger the singing glitch but it will Old your Bard, so take that into consideration. Also make sure they aren't immune to Old or Time Slip will fail entirely!"
   UNION Bard Ranger:
-  - "!Rapid Fire doesn't work with harps on Pixel."
+  - "!Rapid Fire doesn't work with harps on Pixel. This probably doesn't matter, but it was one of the best Shinryu offense options..."
   Ninja:
   - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not Matrix/Pixel."
   - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix/Pixel."
