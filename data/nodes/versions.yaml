@@ -75,4 +75,6 @@ Version Differences:
   INTERSECTION Cannoneer Oracle Gladiator:
   - "If you have an Advance job, play GBA. Duh."
   General`:
-  - "Finally, it's worth noting that if you lose levels to Dischord/Old, and then die, and then get resurrected, those levels come back in Pixel, but not the other versions."
+  - "Finally, a few party-agnostic notes:"
+  - "If you lose levels to Dischord/Old, and then die, and then get resurrected, those levels come back in Pixel, but not the other versions."
+  - "Magic Lamp Odin won't kill the one vulnerable part of NED on Pixel, they fixed that behavior. He now 'properly' uses Gungnir instead."
