@@ -78,4 +78,4 @@ Version Differences:
   General`:
   - "Finally, a few party-agnostic notes:"
   - "If you lose levels to Dischord/Old, and then die, and then get resurrected, those levels come back in Pixel, but not the other versions."
-  - "Magic Lamp Odin won't kill the one vulnerable part of NED on Pixel, they fixed that behavior. He now 'properly' uses Gungnir instead."
+  - "Magic Lamp Odin won't kill the one vulnerable part of NED on Pixel... except with about a 1% chance per level (minus some unknown constant in the 6-20% range) to 'improperly' use Zantetsuken anyway."
