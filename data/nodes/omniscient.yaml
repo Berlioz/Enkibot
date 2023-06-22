@@ -9,9 +9,8 @@ Minotaur & Omniscient:
   - "Don't be afraid to back off on DPS, since Minotaur counters with more physical attacks but doesn't do anything nasty if you stop to heal."
   - "Minotaur absorbs Holy, so don't attack with the Excalibur or the Holy Lance."
   - "Don't enter the pause menu between Minotaur and Omniscient, because you WILL get a game over and you WILL feel stupid. I've done it. Multiple times."
-  - "Omniscient casts Reset if hit with any non-Magic (!White, !Black, !Time, !Blue, !Summon, !Dualcast) command. Being Silenced or Berserked prevents this."
-  - "SILENCE AND BERSERK DO NOT WORK IN THE PIXEL VERSION! DO NOT BLAME ME IF YOU DO NOT READ THIS!"
-  - "Omniscient's entire offense is neutralized by Reflect Rings, but you still need a way to successfully attack."
+  - "Omniscient casts Reset if hit with any command that he does not count as magic. Specifically, you can use !White, !Black, !Time, !Blue, !Summon, or !Dualcast. Being Silenced or Berserked prevents this."
+  - "Omniscient's entire offense is neutralized by Reflect Rings, but you still need a way to deal damage."
   White-Mage:
   - "White Mages can Berserk Omniscient, then spam Blink and trade attacks."
   - "The Blink part is important. Omniscient is evidently very muscular under that rug."
@@ -32,15 +31,14 @@ Minotaur & Omniscient:
   Beastmaster:
   - "You can !Release a Mammon and have it target a Reflected party member to bounce Berserk onto Omniscient."
   - "It's not great, but it works. Shame you can't get Mammons outside of the Rift Castle, so it's quite a hike."
-  - "Theoretically, you can also attack with the Whip, get the paralyze proc, and have 30 ticks to take other offensive actions. This is a way worse strategy and also doesn't work in the Matrix version."
+  - "Theoretically, you can also attack with the Whip, get the paralyze proc, and have 30 ticks to take other offensive actions. This is a way worse strategy and also doesn't work on Matrix."
   Dancer:
-  - "For some unknown reason, !Dance doesn't get countered with Return. Even if it's Swords Dance to the facehole. Have fun"
+  - "For some unknown reason, !Dance doesn't get countered with Return. Even if it's Swords Dance to the facehole. Have fun."
   Generic`:
-  - "The Magic Lamp provokes Return as well, so you can't do anything fancy with it. (Unless you're on Matrix. Not the three 'real' versions, though.)"
-  - "Failing any other way to do this, there are three general strategies."
+  - "The Magic Lamp is used via !Item, so it provokes Return as well, so you can't do anything fancy with it. (Unless you're on Matrix.)"
+  - "Failing any other way to do this, there are three general strategies:"
   - "1) With a Reflect Ring+Mage Masher, reflect a Silence proc onto Omniscient by attacking yourself, then quickly attack before it wears off."
   - "2) With a Reflect Ring+Bone Mail, just wait for Omniscient to commit suicide. Drain does a lot of the heavy lifting here."
-  - "2.1) This is RISKY on Pixel! If Drain misses you while you're wearing Bone Mail, the weird Pixel drain behavior sets your HP to 0, and thus you die."
   - "3) With a Reflect Ring, wait out all 30,000 MP. This may happen before suicide from the second strategy does."
   - "3.1) If you are going to do this, on GBA and SNES you can Reflect a Mage Masher proc and use an Ether on Omniscient. This overflows the 30,000 MP down to 9,999."
   - "All of these options suck and if they are your best options, you probably don't need to do Fork Tower."
