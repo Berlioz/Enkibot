@@ -63,7 +63,7 @@ Version Differences:
   - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix/Pixel."
   Chemist:
   - "The Death Potion !Mix is blockable on Matrix, so Chemists are better on SNES or GBA."
-  - "All !Mixes are blockable on Pixel, so while you can still Berserk Omega you can't actually deal reasonable damage with just Chemist for offense. Be aware."
+  - "Many, but not all !Mixes are blockable on Pixel. Death Potion is. Succubus Kiss got patched back to never missing so you can still kill Omega relatively easily."
   Samurai:
   - "!Mineuchi is correctly coded on Matrix and Pixel: only half power, but actually will Paralyze. It DOES bypass Chicken Knife procs on Pixel, but DOES NOT on SNES/GBA/Matrix."
   - "You're trading off damage (on an ability you'll never use) for the ability to paralyze random encounters, Titan, Carbuncle, the Gargoyles, Melusine, Catastrophe, and the Vacuum Wave part of NED."
