@@ -7,7 +7,7 @@ Barrier Tower:
   Generic:
   - "Anyone with a caster should make sure to get the Gold Hairpin in a trapped chest on the left side of Floor 9, which halves MP consumption."
   Blue-Mage:
-  - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility since it requires targets to be vulnerable to both Sleep and Old."
+  - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility since it requires targets to be vulnerable to both Sleep and Old... unless you're on Pixel, in which case it works just fine to only inflict one."
   - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka. But also, it's basically useless, so whatever."
   Thief:
   - "Thieves can rare steal Flame Rings from the Red Dragons in the Gold Hairpin and Blood Sword chests."
@@ -16,8 +16,12 @@ Barrier Tower:
   Generic`:
   - "Almost every party should farm Reflect Knights for their Reflect Ring drops here. You'll likely need them for World 2 Exdeath."
   - "The best place to farm them is outside between floors 5 and 6, but if you need to return to the sub to heal frequently the balcony between 3 and 4 is pretty good too."
+  White-Mage:
+  - "You have access to the spell Reflect. You can skip Reflect Rings if you want. I would probably get one to make your life easier against Catastrophe, but there's no mandatory reason to."
   Blue-Mage`:
   - "You have L2 Old -> L5 Death to kill W2 Exdeath, and can safely skip Reflect Rings altogether. Maybe get one for Catastrophe."
+  Summoner:
+  - "You can pick up Carbuncle in the Meatfort, so you don't need Reflect Rings if you're feeling dangerous. That said, you might want one to make Catastrophe even more trivial."
   Beastmaster:
   - "You have !Release to kill W2 Exdeath, and can safely skip Reflect Rings altogether. Maybe get one for Catastrophe."
   Chemist:
@@ -25,7 +29,7 @@ Barrier Tower:
   Black-Mage:
   - "Drain bypasses Reflect, so you can farm your first Reflect Ring with Drain and then bounce Breaks off your own party for the rest."
   Thief`:
-  - "No point in Thieves farming Reflect Rings here. You can steal them from Carbuncle and Reflect Mages more easily before you need them."
+  - "No point in Thieves farming Reflect Rings here. You can steal one from Carbuncle and three more from Reflect Mages more easily before you need them."
   Mystic-Knight:
   - "You can kill Reflect Knights with Break Blade. Reflect Rings are easy for you!"
   Time-Mage:
