@@ -6,11 +6,16 @@ Surgate:
     - dragon_pod
   Generic:
   - "You can visit Surgate Castle at this point, but most parties shouldn't bother."
+  - "If you need shop-buyable equipment, it has the next tier up above Quelb. Great Swords beyond the one in the moat, for instance."
   Bard:
   - "Bards, however, can learn the incredible Swift Song from a book in King Xezat's bedroom."
   Time-Mage:
   - "Time Mages can find the Float spell at Surgate, just in time for Exdeath."
   - "Help the librarian reshelve the books, then follow them back and ultimately open a chest for Float."
+  Berserker:
+  - "Surgate has the first axe with more attack power than the Death Sickle. Also it doesn't have procs so you can use it to farm Reflect Rings."
+  Samurai:
+  - "You can buy a better katana here. Nothing to write home about, but more attack power."
   Dragoon:
   - "The Surgate weapon shop has Heavy Lances, for when the elemental lances you already have don't work."
   Chemist:
