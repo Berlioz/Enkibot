@@ -16,6 +16,8 @@ Dimension Castle:
   - "Somehow, because you have both Monk and Dancer, you can give the Monk a real weapon, since Equip Ribbons gives Man-Eater access and it's great."
   UNION Dragoon Dancer:
   - "Despite its sprite, the Man-Eater deals double damage with !Jump like a spear. Except on Pixel, where it doesn't... for some reason. Just be aware."
+  UNION Freelancer Dancer:
+  - "Despite its sprite, the Man-Eater deals double damage with !Jump like a spear. Except on Pixel, where it doesn't... for some reason. Just be aware."
   Generic`:
   - "Iron Giants are common in random encounters here. They're worth 10k experience each but are relatively tough."
   - "They only use physical attacks, but hit hard. They're vulnerable to Death and Petrify."
