@@ -7,6 +7,7 @@ Antlion:
   Generic:
   - "8100 HP, Bartz and Krile only."
   - "This fight can be a pain with slow offense, since it'll spam Dischord to halve your level repeatedly."
+  - "If you're on Pixel, do NOT keep Antlion asleep the entire fight! If it dies when asleep, the script that makes it run away does not activate and it heals to full instead. Repeatedly. So wake it up before you go-go."
   White-Mage:
   - "Berserk (which Antlion is vulnerable to) and Blink combine to make this fight trivial."
   INTERSECTION Black-Mage Mystic-Knight Red-Mage:
