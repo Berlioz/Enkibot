@@ -8,7 +8,8 @@ Walse/Walse Tower:
     - "The waterfall behind Walse Castle has the Shiva fight, which is critical for Summoners."
     - "...but you won't have Summoner until after the next dungeon, so Shiva can wait. Come back with Flame Rods from Ricard Mages."
   Knight:
-    - "You can buy Iron Armor in Walse, though it's not strictly necessary since you can still cheese Garula easily with your Knight."
+    - "You can buy Kenpo Gi in Walse, though it's not strictly necessary since you can still cheese Garula easily with your Knight."
+    - "Turns out they're better than Iron Armor because it's -1 Defense for +1 Strength and also it weighs substantially less (which matters more on Pixel, since it's 4 weight = -1 Agility rather than 8)."
   Thief:
     - "Please, please, please steal four Mythril Daggers from the Wyverns in Walse Tower."
     - "Also, buy or steal at least 60 Potions. Sorry, Garula just sucks as Thief."
@@ -17,7 +18,9 @@ Walse/Walse Tower:
     - "Not only does it softlock Garula, it's a nice spell to have in general."
   Thief`:
     - "Thieves have a fairly easy time getting the Elven Mantle in the basement of Walse Castle with !Flee. It's nice for your slog against Garula."
-  NOT Thief:
+  Knight`:
+    - "You can use !Guard to be totally safe from Jackanapes, then hold the run button forever and eventually get away. Therefore, you can get the Elven Mantle in the basement of Walse Castle as soon as you get there."
+  NOT Thief Knight:
     - "You probably don't want to bother with getting the Elven Mantle in the basement of Walse Castle yet, unless you're willing to abuse the Quicksave glitch in the GBA version. If you are, Quicksave every 28 steps and you won't encounter any Jackanapes."
   Break-Rods:
     - "The Ricard Mages in Walse Tower can drop Flame Rods, if you snapped the free Frost Rod on Magissa and want another Rod for Garula."
